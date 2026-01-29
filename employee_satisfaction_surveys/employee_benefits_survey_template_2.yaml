@@ -1,0 +1,99 @@
+title: "Employee Benefits Survey"
+description: "Comprehensive feedback on employee benefits packages to enhance satisfaction, retention, and overall employee well-being."
+category: "HR Surveys"
+questions:
+  - id: overall_benefits_satisfaction
+    type: single_choice
+    prompt: "Overall, how satisfied are you with the current employee benefits package?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: most_important_benefits
+    type: multiple_choice
+    prompt: "Which of the following benefits are most important to you? (Select all that apply)"
+    required: true
+    options: ["Health insurance", "Retirement plan", "Paid time off", "Flexible work options", "Professional development", "Wellness programs", "Childcare support", "Dental/Vision insurance", "Life insurance"]
+  - id: benefits_understanding
+    type: single_choice
+    prompt: "How well do you understand the benefits available to you?"
+    required: true
+    options: ["Very well", "Well", "Somewhat", "Not well", "Not at all"]
+  - id: pto_policy_satisfaction
+    type: single_choice
+    prompt: "Do you feel the current paid time off (PTO) policy meets your needs for work-life balance?"
+    required: true
+    options: ["Yes, completely", "Yes, mostly", "Sometimes", "No, not really", "No, not at all"]
+  - id: health_insurance_satisfaction
+    type: rating
+    prompt: "How satisfied are you with your health insurance coverage?"
+    required: true
+    scale: 5
+  - id: retirement_plan_satisfaction
+    type: rating
+    prompt: "How satisfied are you with the retirement plan options?"
+    required: true
+    scale: 5
+  - id: wellness_program_utilization
+    type: single_choice
+    prompt: "How often do you utilize the wellness programs offered?"
+    required: true
+    options: ["Regularly", "Occasionally", "Rarely", "Never", "Not aware of them"]
+  - id: professional_development_benefits
+    type: single_choice
+    prompt: "How valuable do you find the professional development benefits?"
+    required: true
+    options: ["Very valuable", "Somewhat valuable", "Neutral", "Somewhat valuable", "Not valuable"]
+  - id: flexible_work_options
+    type: single_choice
+    prompt: "How satisfied are you with the flexible work options available?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: benefits_communication
+    type: rating
+    prompt: "How clear and effective is the communication about available benefits?"
+    required: true
+    scale: 5
+  - id: benefits_enrollment_process
+    type: single_choice
+    prompt: "How easy was the benefits enrollment process?"
+    required: true
+    options: ["Very easy", "Easy", "Neutral", "Difficult", "Very difficult"]
+  - id: family_coverage_satisfaction
+    type: rating
+    prompt: "If you have family coverage, how satisfied are you with the family benefits?"
+    required: false
+    scale: 5
+  - id: benefits_cost_sharing
+    type: single_choice
+    prompt: "How do you feel about the cost-sharing for benefits (premiums, deductibles, etc.)?"
+    required: true
+    options: ["Very reasonable", "Reasonable", "Fair", "Somewhat high", "Too high"]
+  - id: mental_health_support
+    type: single_choice
+    prompt: "How adequate is the mental health support provided through benefits?"
+    required: true
+    options: ["Very adequate", "Adequate", "Somewhat adequate", "Inadequate", "Very inadequate"]
+  - id: benefits_impact_retention
+    type: rating
+    prompt: "How much do the benefits package influence your decision to stay with the company?"
+    required: true
+    scale: 5
+  - id: additional_benefits_needed
+    type: text
+    prompt: "What additional benefits would you find most valuable?"
+    required: false
+  - id: benefits_improvement_suggestions
+    type: long_text
+    prompt: "What specific improvements would you suggest for our benefits package?"
+    required: false
+  - id: benefits_competitor_comparison
+    type: single_choice
+    prompt: "How do our benefits compare to other companies you've worked for?"
+    required: false
+    options: ["Much better", "Better", "About the same", "Worse", "Much worse"]
+  - id: overall_benefits_comments
+    type: long_text
+    prompt: "Do you have any other comments or suggestions regarding employee benefits?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

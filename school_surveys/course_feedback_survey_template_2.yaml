@@ -1,0 +1,158 @@
+title: Course Feedback Survey
+description: Gathering comprehensive feedback on the recent course event to improve future offerings and learning experiences.
+category: Education
+questions:
+- id: overall_satisfaction
+  type: single_choice
+  prompt: How satisfied were you with the course overall?
+  required: true
+  options:
+  - Very satisfied
+  - Somewhat satisfied
+  - Neutral
+  - Somewhat dissatisfied
+  - Very dissatisfied
+- id: valuable_sessions
+  type: multiple_choice
+  prompt: Which sessions did you find most valuable? (select all that apply)
+  required: false
+  options:
+  - Introduction
+  - Core Concepts
+  - Practical Workshop
+  - Advanced Topics
+  - Q&A Panel
+- id: organization_rating
+  type: single_choice
+  prompt: Was the course event well organized?
+  required: true
+  options:
+  - Yes
+  - No
+  - Somewhat
+- id: content_quality
+  type: rating
+  prompt: How would you rate the quality of the course content?
+  required: true
+  scale: 5
+- id: instructor_effectiveness
+  type: rating
+  prompt: How effective was the instructor in delivering the material?
+  required: true
+  scale: 5
+- id: materials_usefulness
+  type: single_choice
+  prompt: How useful were the course materials and resources?
+  required: true
+  options:
+  - Very useful
+  - Somewhat useful
+  - Neutral
+  - Not very useful
+  - Not useful at all
+- id: pace_appropriateness
+  type: single_choice
+  prompt: Was the pace of the course appropriate for your learning needs?
+  required: true
+  options:
+  - Too fast
+  - Just right
+  - Too slow
+- id: objectives_met
+  type: single_choice
+  prompt: Did the course meet your learning objectives?
+  required: true
+  options:
+  - Exceeded expectations
+  - Met expectations
+  - Partially met
+  - Did not meet
+- id: practical_application
+  type: rating
+  prompt: How applicable do you find the course content to your work/practice?
+  required: true
+  scale: 5
+- id: networking_opportunities
+  type: single_choice
+  prompt: How valuable were the networking opportunities during the course?
+  required: false
+  options:
+  - Very valuable
+  - Somewhat valuable
+  - Neutral
+  - Not very valuable
+  - Not valuable
+- id: venue_facilities
+  type: rating
+  prompt: How would you rate the venue and facilities?
+  required: false
+  scale: 5
+- id: technology_used
+  type: single_choice
+  prompt: How effective was the technology used in the course delivery?
+  required: false
+  options:
+  - Very effective
+  - Somewhat effective
+  - Neutral
+  - Not very effective
+  - Not effective
+- id: pre_course_prep
+  type: single_choice
+  prompt: Was the pre-course preparation and communication adequate?
+  required: true
+  options:
+  - Yes, very adequate
+  - Somewhat adequate
+  - Neutral
+  - Not very adequate
+  - Not adequate
+- id: post_course_support
+  type: single_choice
+  prompt: How satisfied are you with post-course support and resources?
+  required: false
+  options:
+  - Very satisfied
+  - Somewhat satisfied
+  - Neutral
+  - Somewhat dissatisfied
+  - Very dissatisfied
+- id: value_for_money
+  type: rating
+  prompt: How would you rate the value for money of this course?
+  required: true
+  scale: 5
+- id: recommendation_likelihood
+  type: single_choice
+  prompt: How likely are you to recommend this course to others?
+  required: true
+  options:
+  - Very likely
+  - Somewhat likely
+  - Neutral
+  - Not likely
+  - Very unlikely
+- id: attendance_future
+  type: single_choice
+  prompt: How likely are you to attend a similar course again?
+  required: true
+  options:
+  - Very likely
+  - Somewhat likely
+  - Not likely
+  - Unsure
+- id: impactful_takeaway
+  type: text
+  prompt: What was the most impactful takeaway from the course?
+  required: false
+- id: improvement_suggestions
+  type: long_text
+  prompt: What improvements would you suggest for future courses?
+  required: false
+- id: additional_comments
+  type: long_text
+  prompt: Do you have any additional comments or feedback?
+  required: false
+validation_result:
+  status: PASS
+  errors: []

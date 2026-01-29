@@ -1,0 +1,105 @@
+title: "Training Satisfaction Survey"
+description: "Gather feedback on recent training sessions to improve future programs"
+category: "Employee Development Surveys"
+questions:
+  - id: overall_satisfaction
+    type: single_choice
+    prompt: "Overall, how satisfied were you with the training program?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: content_clarity
+    type: single_choice
+    prompt: "How would you rate the clarity and presentation of the training content?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: expectations_met
+    type: single_choice
+    prompt: "Did the training meet your expectations for learning new skills/knowledge?"
+    required: true
+    options: ["Fully met", "Mostly met", "Partially met", "Did not meet"]
+  - id: valuable_aspects
+    type: multiple_choice
+    prompt: "Which aspects of the training did you find most valuable?"
+    required: true
+    options: ["Instructor's expertise", "Hands-on exercises", "Course materials", "Peer discussions", "Relevance to job", "Interactive elements", "Visual aids"]
+  - id: application_confidence
+    type: single_choice
+    prompt: "Do you feel confident applying what you learned in your role?"
+    required: true
+    options: ["Very confident", "Moderately confident", "Slightly confident", "Not confident"]
+  - id: instructor_effectiveness
+    type: rating
+    prompt: "How effective was the instructor in delivering the training?"
+    required: true
+    scale: 5
+  - id: material_quality
+    type: single_choice
+    prompt: "How would you rate the quality of training materials provided?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: duration_appropriateness
+    type: single_choice
+    prompt: "Was the duration of the training appropriate?"
+    required: true
+    options: ["Too long", "Just right", "Too short"]
+  - id: pace_comfortable
+    type: single_choice
+    prompt: "How was the pace of the training?"
+    required: true
+    options: ["Too fast", "Just right", "Too slow"]
+  - id: technical_issues
+    type: single_choice
+    prompt: "Did you experience any technical issues during the training?"
+    required: true
+    options: ["None", "Minor issues", "Major issues that affected learning"]
+  - id: interaction_opportunities
+    type: single_choice
+    prompt: "Were there sufficient opportunities for questions and interaction?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: practical_application
+    type: single_choice
+    prompt: "How practical and applicable was the training content to your work?"
+    required: true
+    options: ["Very practical", "Somewhat practical", "Neutral", "Somewhat impractical", "Very impractical"]
+  - id: learning_objectives
+    type: single_choice
+    prompt: "Were the learning objectives clearly defined and achieved?"
+    required: true
+    options: ["Fully achieved", "Mostly achieved", "Partially achieved", "Not achieved"]
+  - id: recommendation_likelihood
+    type: rating
+    prompt: "How likely are you to recommend this training to colleagues?"
+    required: true
+    scale: 10
+  - id: overall_value
+    type: single_choice
+    prompt: "Considering the time and effort invested, was the training valuable?"
+    required: true
+    options: ["Definitely worth it", "Worth it", "Neutral", "Not worth it", "Waste of time"]
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What specific improvements could be made to future training sessions?"
+    required: false
+  - id: additional_comments
+    type: long_text
+    prompt: "Do you have any additional comments or suggestions?"
+    required: false
+  - id: follow_up_interest
+    type: single_choice
+    prompt: "Would you be interested in follow-up training on this topic?"
+    required: false
+    options: ["Yes, definitely", "Yes, maybe", "No", "Not sure"]
+  - id: skill_improvement
+    type: rating
+    prompt: "To what extent did this training improve your skills?"
+    required: true
+    scale: 5
+  - id: department
+    type: single_choice
+    prompt: "Which department do you work in?"
+    required: false
+    options: ["Sales", "Marketing", "IT", "HR", "Finance", "Operations", "Other"]
+validation_result:
+  status: "PASS"
+  errors: []

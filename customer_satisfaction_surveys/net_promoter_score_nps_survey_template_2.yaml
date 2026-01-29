@@ -1,0 +1,96 @@
+title: "Net Promoter Score (NPS) Survey"
+description: "A comprehensive survey to measure customer loyalty and satisfaction with our product/service"
+category: "Customer Experience Surveys"
+questions:
+  - id: recommendation_likelihood
+    type: rating
+    prompt: "How likely are you to recommend our product/service to a friend or colleague?"
+    required: true
+    scale: 10
+  - id: recommendation_reason
+    type: text
+    prompt: "What is the primary reason for your recommendation likelihood score?"
+    required: false
+  - id: overall_satisfaction
+    type: single_choice
+    prompt: "Overall, how satisfied are you with our product/service?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: customer_support_quality
+    type: single_choice
+    prompt: "How would you rate the quality of our customer support?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Not applicable"]
+  - id: valued_features
+    type: multiple_choice
+    prompt: "Which of the following features or aspects do you value most?"
+    required: true
+    options: ["Ease of use", "Performance", "Feature set", "Reliability", "Price/Value", "User interface"]
+  - id: product_usage_frequency
+    type: single_choice
+    prompt: "How often do you use our product/service?"
+    required: true
+    options: ["Daily", "Weekly", "Monthly", "Quarterly", "Rarely/Never"]
+  - id: feature_satisfaction
+    type: rating
+    prompt: "Rate your satisfaction with the core features"
+    required: true
+    scale: 5
+  - id: value_for_money
+    type: single_choice
+    prompt: "Do you feel our product/service provides good value for money?"
+    required: true
+    options: ["Definitely yes", "Yes", "Neutral", "No", "Definitely no"]
+  - id: competitor_comparison
+    type: single_choice
+    prompt: "How does our product/service compare to competitors?"
+    required: true
+    options: ["Much better", "Better", "About the same", "Worse", "Much worse"]
+  - id: ease_of_use
+    type: rating
+    prompt: "How easy is our product/service to use?"
+    required: true
+    scale: 5
+  - id: reliability_rating
+    type: rating
+    prompt: "Rate the reliability of our product/service"
+    required: true
+    scale: 5
+  - id: support_response_time
+    type: single_choice
+    prompt: "How satisfied are you with our support response times?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: onboarding_experience
+    type: rating
+    prompt: "Rate your onboarding/setup experience"
+    required: true
+    scale: 5
+  - id: renewal_intent
+    type: single_choice
+    prompt: "How likely are you to renew your subscription/continue using our service?"
+    required: true
+    options: ["Very likely", "Likely", "Neutral", "Unlikely", "Very unlikely"]
+  - id: feature_requests
+    type: text
+    prompt: "What new features would you like to see?"
+    required: false
+  - id: improvement_suggestion
+    type: text
+    prompt: "What is one thing we could do to improve your experience with our product/service?"
+    required: false
+  - id: customer_loyalty
+    type: single_choice
+    prompt: "How loyal do you feel to our brand?"
+    required: true
+    options: ["Very loyal", "Loyal", "Neutral", "Not very loyal", "Not loyal at all"]
+  - id: advocacy_actions
+    type: multiple_choice
+    prompt: "Which of these have you done for our product/service?"
+    required: false
+    options: ["Recommended to others", "Written a review", "Posted on social media", "None of the above"]
+  - id: additional_feedback
+    type: long_text
+    prompt: "Do you have any additional comments or suggestions?"
+    required: false
+validation_result: valid

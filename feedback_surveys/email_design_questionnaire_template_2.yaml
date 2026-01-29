@@ -1,0 +1,99 @@
+title: "Email Design Questionnaire"
+description: "Gathering comprehensive feedback on email design elements, user experience, and effectiveness to optimize our email marketing strategy."
+category: "Marketing Surveys"
+questions:
+  - id: overall_design_satisfaction
+    type: single_choice
+    prompt: "How satisfied are you with the overall design of our emails?"
+    required: true
+    options: ["Very satisfied", "Somewhat satisfied", "Neutral", "Somewhat dissatisfied", "Very dissatisfied"]
+  - id: attention_to_design
+    type: single_choice
+    prompt: "How often do you find yourself paying attention to our email designs?"
+    required: true
+    options: ["Always", "Often", "Sometimes", "Rarely", "Never"]
+  - id: design_characteristics
+    type: multiple_choice
+    prompt: "Which of the following best describes our email designs? (Select all that apply)"
+    required: true
+    options: ["Visually appealing", "Easy to read", "Clear Call-to-action", "Mobile-friendly", "Engaging", "Too busy", "Professional", "Creative"]
+  - id: important_elements
+    type: multiple_choice
+    prompt: "What elements do you find most important in an email's design?"
+    required: true
+    options: ["Images", "Headings", "CTA buttons", "Layout", "Brand colors", "Personalization", "White space", "Typography"]
+  - id: preferred_style
+    type: single_choice
+    prompt: "What style of email design do you generally prefer?"
+    required: true
+    options: ["Minimalist", "Bold and vibrant", "Classic and elegant", "Information-rich", "Image-heavy", "Modern and clean"]
+  - id: mobile_optimization
+    type: rating
+    prompt: "How well do our emails display on mobile devices?"
+    required: true
+    scale: 5
+  - id: loading_speed
+    type: single_choice
+    prompt: "How would you rate the loading speed of our emails?"
+    required: true
+    options: ["Very fast", "Fast", "Average", "Slow", "Very slow"]
+  - id: brand_consistency
+    type: rating
+    prompt: "How consistent are our emails with our brand identity?"
+    required: true
+    scale: 5
+  - id: image_quality
+    type: single_choice
+    prompt: "How would you rate the quality of images used in our emails?"
+    required: true
+    options: ["Excellent", "Good", "Average", "Poor", "Very poor"]
+  - id: readability
+    type: rating
+    prompt: "How easy are our emails to read?"
+    required: true
+    scale: 5
+  - id: call_to_action_effectiveness
+    type: single_choice
+    prompt: "How effective are the call-to-action buttons in our emails?"
+    required: true
+    options: ["Very effective", "Somewhat effective", "Neutral", "Somewhat ineffective", "Very ineffective"]
+  - id: personalization_relevance
+    type: rating
+    prompt: "How relevant do you find the personalized content in our emails?"
+    required: false
+    scale: 5
+  - id: subject_line_appeal
+    type: single_choice
+    prompt: "How appealing are our email subject lines?"
+    required: true
+    options: ["Very appealing", "Somewhat appealing", "Neutral", "Somewhat unappealing", "Very unappealing"]
+  - id: email_frequency_preference
+    type: single_choice
+    prompt: "What is your preferred email frequency from us?"
+    required: true
+    options: ["Daily", "Weekly", "Bi-weekly", "Monthly", "Only when necessary"]
+  - id: unsubscribe_process
+    type: single_choice
+    prompt: "How easy is it to unsubscribe from our emails?"
+    required: true
+    options: ["Very easy", "Easy", "Neutral", "Difficult", "Very difficult"]
+  - id: competitor_comparison
+    type: single_choice
+    prompt: "How do our email designs compare to other companies you receive emails from?"
+    required: false
+    options: ["Much better", "Better", "About the same", "Worse", "Much worse"]
+  - id: improvement_suggestions
+    type: text
+    prompt: "What specific improvements would you suggest for our email designs?"
+    required: false
+  - id: favorite_email_element
+    type: text
+    prompt: "What is your favorite element of our current email designs?"
+    required: false
+  - id: additional_feedback
+    type: long_text
+    prompt: "Do you have any additional comments or feedback regarding our email designs?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

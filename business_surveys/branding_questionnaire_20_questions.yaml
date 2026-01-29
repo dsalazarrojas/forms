@@ -1,0 +1,101 @@
+title: "Branding Questionnaire"
+description: "A survey to gather insights on brand perception and strategy"
+category: "Marketing Surveys"
+questions:
+  - id: overall_perception
+    type: single_choice
+    prompt: "How would you describe your overall perception of our brand?"
+    required: true
+    options: ["Very positive", "Positive", "Neutral", "Negative", "Very negative"]
+  - id: perception_influencers
+    type: multiple_choice
+    prompt: "Which elements most influence your perception of our brand?"
+    required: true
+    options: ["Product/Service quality", "Customer service", "Marketing/Advertising", "Company values", "Brand reputation", "Price", "Design", "Innovation"]
+  - id: brand_recommendation
+    type: boolean
+    prompt: "Would you recommend our brand to others?"
+    required: true
+  - id: brand_attributes
+    type: multiple_choice
+    prompt: "Which words best describe our brand? (Select up to 3)"
+    required: false
+    options: ["Innovative", "Trustworthy", "Modern", "Affordable", "Premium", "Friendly", "Reliable", "Dynamic", "Professional", "Fun"]
+  - id: brand_uniqueness
+    type: single_choice
+    prompt: "Compared to competitors, how unique do you perceive our brand to be?"
+    required: true
+    options: ["Very unique", "Somewhat unique", "Neutral", "Not very unique", "Not unique at all"]
+  - id: brand_values_alignment
+    type: multiple_choice
+    prompt: "Which company values do you associate with our brand?"
+    required: false
+    options: ["Integrity", "Innovation", "Sustainability", "Customer focus", "Quality", "Transparency", "Community", "Excellence"]
+  - id: brand_trust
+    type: rating
+    prompt: "How much do you trust our brand?"
+    required: true
+    scale: 5
+  - id: brand_loyalty
+    type: rating
+    prompt: "How loyal are you to our brand?"
+    required: true
+    scale: 5
+  - id: brand_differentiation
+    type: single_choice
+    prompt: "What differentiates our brand from competitors?"
+    required: false
+    options: ["Quality", "Price", "Innovation", "Service", "Reputation", "Design", "Features", "Not sure"]
+  - id: brand_consistency
+    type: rating
+    prompt: "How consistent is our brand across different channels?"
+    required: false
+    scale: 5
+  - id: brand_emotional_connection
+    type: single_choice
+    prompt: "Do you feel an emotional connection to our brand?"
+    required: false
+    options: ["Strong connection", "Some connection", "Neutral", "Little connection", "No connection"]
+  - id: brand_communication_effectiveness
+    type: rating
+    prompt: "How effective is our brand's communication?"
+    required: false
+    scale: 5
+  - id: brand_social_responsibility
+    type: single_choice
+    prompt: "How socially responsible do you perceive our brand to be?"
+    required: false
+    options: ["Very responsible", "Somewhat responsible", "Neutral", "Somewhat irresponsible", "Very irresponsible"]
+  - id: brand_future_expectations
+    type: text
+    prompt: "What do you expect from our brand in the future?"
+    required: false
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What aspects of our brand do you think could be improved or changed?"
+    required: false
+  - id: brand_strengths
+    type: text
+    prompt: "What are the greatest strengths of our brand?"
+    required: false
+  - id: brand_weaknesses
+    type: text
+    prompt: "What are the main weaknesses of our brand?"
+    required: false
+  - id: competitor_comparison
+    type: single_choice
+    prompt: "How does our brand compare to our main competitors?"
+    required: false
+    options: ["Much better", "Better", "About the same", "Worse", "Much worse"]
+  - id: brand_evolution
+    type: single_choice
+    prompt: "How has your perception of our brand changed over time?"
+    required: false
+    options: ["Much more positive", "Somewhat more positive", "Stayed the same", "Somewhat more negative", "Much more negative"]
+  - id: additional_feedback
+    type: long_text
+    prompt: "Do you have any additional comments or feedback regarding our brand?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

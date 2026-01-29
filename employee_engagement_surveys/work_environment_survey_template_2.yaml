@@ -1,0 +1,105 @@
+title: "Work Environment Survey"
+description: "Gathering feedback on the work environment to improve employee engagement and satisfaction."
+category: "Business Surveys"
+questions:
+  - id: overall_satisfaction
+    type: rating
+    prompt: "How satisfied are you with your overall work environment?"
+    required: true
+    scale: 5
+  - id: physical_workspace
+    type: single_choice
+    prompt: "How would you rate the physical workspace and facilities?"
+    required: true
+    options: ["Excellent", "Good", "Average", "Poor", "Very poor"]
+  - id: team_collaboration
+    type: rating
+    prompt: "How would you rate collaboration and teamwork in your department?"
+    required: true
+    scale: 5
+  - id: management_communication
+    type: single_choice
+    prompt: "How effective is communication from management?"
+    required: true
+    options: ["Very effective", "Effective", "Neutral", "Ineffective", "Very ineffective"]
+  - id: workload_balance
+    type: single_choice
+    prompt: "How would you describe your current workload?"
+    required: true
+    options: ["Manageable", "Challenging but fair", "Overwhelming", "Too light", "Unbalanced"]
+  - id: resource_availability
+    type: multiple_choice
+    prompt: "Which resources and tools are readily available to you?"
+    required: true
+    options: ["Software tools", "Hardware equipment", "Training materials", "Office supplies", "Technical support", "Budget for projects"]
+  - id: professional_development
+    type: rating
+    prompt: "How supported do you feel in your professional development?"
+    required: true
+    scale: 5
+  - id: recognition_appreciation
+    type: single_choice
+    prompt: "How often do you receive recognition for your work?"
+    required: true
+    options: ["Very often", "Often", "Sometimes", "Rarely", "Never"]
+  - id: company_culture
+    type: rating
+    prompt: "How would you rate the company culture?"
+    required: true
+    scale: 5
+  - id: diversity_inclusion
+    type: single_choice
+    prompt: "How inclusive and diverse do you find the workplace environment?"
+    required: true
+    options: ["Very inclusive", "Somewhat inclusive", "Neutral", "Somewhat exclusive", "Very exclusive"]
+  - id: work_life_integration
+    type: rating
+    prompt: "How well does the work environment support work-life balance?"
+    required: true
+    scale: 5
+  - id: safety_security
+    type: single_choice
+    prompt: "How safe and secure do you feel in your workplace?"
+    required: true
+    options: ["Very safe", "Safe", "Neutral", "Somewhat unsafe", "Very unsafe"]
+  - id: technology_reliability
+    type: rating
+    prompt: "How reliable are the technology systems and tools you use?"
+    required: true
+    scale: 5
+  - id: feedback_mechanisms
+    type: single_choice
+    prompt: "How effective are the feedback mechanisms in your organization?"
+    required: true
+    options: ["Very effective", "Effective", "Neutral", "Ineffective", "Very ineffective"]
+  - id: career_growth_opportunities
+    type: multiple_choice
+    prompt: "Which career growth opportunities are available to you?"
+    required: false
+    options: ["Promotions", "Skill development training", "Mentorship programs", "Cross-department transfers", "Leadership roles", "None available"]
+  - id: remote_work_flexibility
+    type: single_choice
+    prompt: "How flexible is the organization regarding remote work arrangements?"
+    required: true
+    options: ["Very flexible", "Somewhat flexible", "Neutral", "Somewhat inflexible", "Very inflexible"]
+  - id: compensation_benefits
+    type: rating
+    prompt: "How satisfied are you with your compensation and benefits package?"
+    required: true
+    scale: 5
+  - id: improvement_priorities
+    type: multiple_choice
+    prompt: "Which areas of the work environment need the most improvement?"
+    required: false
+    options: ["Physical workspace", "Team dynamics", "Management communication", "Resources/tools", "Professional development", "Company culture", "Work-life balance"]
+  - id: positive_aspects
+    type: long_text
+    prompt: "What are the most positive aspects of your current work environment?"
+    required: false
+  - id: suggestions_improvements
+    type: long_text
+    prompt: "What specific improvements would you suggest for the work environment?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

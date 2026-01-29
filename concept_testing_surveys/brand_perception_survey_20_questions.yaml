@@ -1,0 +1,103 @@
+title: "Brand Perception Survey"
+description: "A survey to gauge initial perceptions of a brand concept and gather feedback"
+category: "Marketing Surveys"
+questions:
+  - id: initial_perception
+    type: single_choice
+    prompt: "Overall, how would you describe your initial perception of this brand concept?"
+    required: true
+    options: ["Very positive", "Positive", "Neutral", "Negative", "Very negative"]
+  - id: perception_influencers
+    type: multiple_choice
+    prompt: "Which aspects most influenced your current perception of the brand concept?"
+    required: true
+    options: ["Design/Visuals", "Messaging/Values", "Potential use", "Uniqueness", "Price perception", "Reputation", "Logo", "Colors"]
+  - id: engagement_likelihood
+    type: single_choice
+    prompt: "Based on your current understanding, how likely are you to engage further with this brand concept?"
+    required: true
+    options: ["Very likely", "Somewhat likely", "Neutral", "Not very likely", "Not at all likely"]
+  - id: brand_values_alignment
+    type: multiple_choice
+    prompt: "Which values do you think this brand concept represents?"
+    required: false
+    options: ["Innovation", "Quality", "Sustainability", "Affordability", "Luxury", "Reliability", "Fun", "Trust"]
+  - id: target_audience_fit
+    type: single_choice
+    prompt: "Do you feel this brand concept is targeted toward people like you?"
+    required: false
+    options: ["Definitely yes", "Probably yes", "Not sure", "Probably not", "Definitely not"]
+  - id: uniqueness_rating
+    type: rating
+    prompt: "How unique do you find this brand concept?"
+    required: true
+    scale: 5
+  - id: memorability_rating
+    type: rating
+    prompt: "How memorable is this brand concept?"
+    required: true
+    scale: 5
+  - id: visual_appeal
+    type: single_choice
+    prompt: "How visually appealing is the brand concept?"
+    required: true
+    options: ["Very appealing", "Somewhat appealing", "Neutral", "Somewhat unappealing", "Very unappealing"]
+  - id: message_clarity
+    type: rating
+    prompt: "How clear is the brand's messaging?"
+    required: true
+    scale: 5
+  - id: price_expectation
+    type: single_choice
+    prompt: "What price range do you expect for products/services from this brand?"
+    required: false
+    options: ["Very affordable", "Affordable", "Moderate", "Expensive", "Very expensive"]
+  - id: competitor_comparison
+    type: single_choice
+    prompt: "How does this brand concept compare to existing brands in the market?"
+    required: false
+    options: ["Much better", "Better", "About the same", "Worse", "Much worse"]
+  - id: purchase_intent
+    type: rating
+    prompt: "How likely are you to purchase from this brand if it becomes available?"
+    required: true
+    scale: 10
+  - id: recommendation_likelihood
+    type: rating
+    prompt: "How likely are you to recommend this brand concept to others?"
+    required: true
+    scale: 10
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What aspects, if any, would you improve or change about this brand concept?"
+    required: false
+  - id: favorite_elements
+    type: text
+    prompt: "What are your favorite elements of this brand concept?"
+    required: false
+  - id: concerns_feedback
+    type: text
+    prompt: "What concerns or hesitations do you have about this brand concept?"
+    required: false
+  - id: brand_personality
+    type: multiple_choice
+    prompt: "Which personality traits does this brand concept evoke?"
+    required: false
+    options: ["Friendly", "Professional", "Energetic", "Calm", "Innovative", "Traditional", "Luxurious", "Approachable"]
+  - id: market_need
+    type: single_choice
+    prompt: "How well does this brand concept address a market need?"
+    required: false
+    options: ["Very well", "Somewhat well", "Neutral", "Poorly", "Very poorly"]
+  - id: long_term_potential
+    type: rating
+    prompt: "What is your assessment of this brand concept's long-term potential?"
+    required: false
+    scale: 5
+  - id: additional_comments
+    type: long_text
+    prompt: "Do you have any additional comments or feedback regarding this brand concept?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

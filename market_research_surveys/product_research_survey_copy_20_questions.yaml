@@ -1,0 +1,103 @@
+title: "Product Research Survey"
+description: "Gathering insights on user satisfaction and product perception for market research"
+category: "Business Surveys"
+questions:
+  - id: overall_satisfaction
+    type: single_choice
+    prompt: "How satisfied are you with our product overall?"
+    required: true
+    options: ["Very satisfied", "Somewhat satisfied", "Neutral", "Somewhat dissatisfied", "Very dissatisfied"]
+  - id: influencing_aspects
+    type: multiple_choice
+    prompt: "Which aspects most influenced your opinion of the product?"
+    required: true
+    options: ["Design", "Price", "Performance", "Features", "Support", "Ease of use", "Quality", "Brand reputation"]
+  - id: recommendation_likelihood
+    type: single_choice
+    prompt: "How likely are you to recommend this product to others?"
+    required: true
+    options: ["Very likely", "Likely", "Neutral", "Unlikely", "Very unlikely"]
+  - id: primary_choice_reason
+    type: single_choice
+    prompt: "What is the primary reason you chose our product?"
+    required: true
+    options: ["Features", "Price", "Brand reputation", "Recommendation", "Ease of use", "Quality", "Other"]
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What would you most improve or change about the product?"
+    required: false
+  - id: additional_feedback
+    type: long_text
+    prompt: "Do you have any additional comments or feedback regarding the product?"
+    required: false
+  - id: usage_frequency
+    type: single_choice
+    prompt: "How often do you use this product?"
+    required: true
+    options: ["Daily", "Weekly", "Monthly", "Occasionally", "Rarely"]
+  - id: feature_utilization
+    type: multiple_choice
+    prompt: "Which features do you use most?"
+    required: false
+    options: ["Core functionality", "Advanced features", "Reporting", "Integration", "Mobile app", "Customer support"]
+  - id: value_for_money
+    type: rating
+    prompt: "How would you rate the value for money?"
+    required: true
+    scale: 5
+  - id: competitor_comparison
+    type: single_choice
+    prompt: "How does our product compare to competitors?"
+    required: false
+    options: ["Much better", "Better", "About the same", "Worse", "Much worse"]
+  - id: ease_of_use_rating
+    type: rating
+    prompt: "How easy is the product to use?"
+    required: true
+    scale: 5
+  - id: customer_support_rating
+    type: rating
+    prompt: "How would you rate our customer support?"
+    required: false
+    scale: 5
+  - id: reliability_rating
+    type: rating
+    prompt: "How reliable is the product?"
+    required: true
+    scale: 5
+  - id: future_usage_intent
+    type: single_choice
+    prompt: "How likely are you to continue using this product?"
+    required: true
+    options: ["Very likely", "Likely", "Neutral", "Unlikely", "Very unlikely"]
+  - id: missing_features
+    type: text
+    prompt: "What features are missing that you would like to see?"
+    required: false
+  - id: pricing_satisfaction
+    type: single_choice
+    prompt: "How satisfied are you with the pricing?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: onboarding_experience
+    type: rating
+    prompt: "How was your onboarding experience?"
+    required: false
+    scale: 5
+  - id: product_knowledge
+    type: single_choice
+    prompt: "How well do you feel you understand all product capabilities?"
+    required: false
+    options: ["Very well", "Well", "Somewhat", "Poorly", "Very poorly"]
+  - id: training_needs
+    type: boolean
+    prompt: "Do you feel you need more training on the product?"
+    required: false
+  - id: overall_rating
+    type: rating
+    prompt: "Rate your overall experience with the product"
+    required: true
+    scale: 10
+validation_result:
+  status: "PASS"
+  errors: []

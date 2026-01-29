@@ -1,0 +1,105 @@
+title: "Lead Generation Survey"
+description: "Gathering feedback to optimize our lead generation strategy and processes"
+category: "Marketing"
+questions:
+  - id: lead_quality_satisfaction
+    type: rating
+    prompt: "How satisfied are you with the quality of leads generated?"
+    required: true
+    scale: 5
+  - id: lead_volume_assessment
+    type: single_choice
+    prompt: "Is the current volume of leads sufficient for your needs?"
+    required: true
+    options: ["Too high", "Just right", "Too low"]
+  - id: lead_characteristics
+    type: multiple_choice
+    prompt: "Which characteristics best describe the leads you receive?"
+    required: true
+    options: ["Highly qualified", "Good fit", "Engaged", "Timely", "Early stage", "Decision maker", "Budget available", "Not relevant"]
+  - id: conversion_rate_satisfaction
+    type: rating
+    prompt: "How satisfied are you with the lead conversion rates?"
+    required: true
+    scale: 5
+  - id: lead_sources_effectiveness
+    type: multiple_choice
+    prompt: "Which lead sources have been most effective for your business?"
+    required: true
+    options: ["Website forms", "Social media", "Email campaigns", "Content marketing", "Paid advertising", "Referrals", "Events", "Cold outreach"]
+  - id: lead_nurturing_quality
+    type: single_choice
+    prompt: "How effective is the lead nurturing process?"
+    required: true
+    options: ["Very effective", "Somewhat effective", "Neutral", "Somewhat ineffective", "Very ineffective"]
+  - id: lead_scoring_accuracy
+    type: rating
+    prompt: "How accurate is the lead scoring system in prioritizing prospects?"
+    required: true
+    scale: 5
+  - id: response_time_satisfaction
+    type: single_choice
+    prompt: "How satisfied are you with response times to new leads?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: data_quality_rating
+    type: rating
+    prompt: "Rate the quality and completeness of lead data provided"
+    required: true
+    scale: 5
+  - id: budget_roi_perception
+    type: single_choice
+    prompt: "How would you rate the ROI of your lead generation budget?"
+    required: true
+    options: ["Excellent ROI", "Good ROI", "Fair ROI", "Poor ROI", "Very poor ROI"]
+  - id: competitive_advantage
+    type: single_choice
+    prompt: "How does our lead generation compare to competitors?"
+    required: true
+    options: ["Much better", "Better", "About the same", "Worse", "Much worse"]
+  - id: channel_preferences
+    type: multiple_choice
+    prompt: "Which marketing channels would you like to see more focus on for lead generation?"
+    required: false
+    options: ["SEO/SEM", "Social media advertising", "Content marketing", "Email marketing", "LinkedIn outreach", "Events/webinars", "Partnerships", "Direct mail"]
+  - id: lead_qualification_process
+    type: rating
+    prompt: "How effective is the lead qualification process?"
+    required: true
+    scale: 5
+  - id: crm_integration_satisfaction
+    type: single_choice
+    prompt: "How well does the lead generation integrate with your CRM system?"
+    required: true
+    options: ["Seamlessly", "Well", "Adequately", "Poorly", "Not at all"]
+  - id: sales_team_alignment
+    type: rating
+    prompt: "How well aligned is lead generation with sales team needs?"
+    required: true
+    scale: 5
+  - id: geographic_distribution
+    type: single_choice
+    prompt: "Are leads distributed appropriately across your target geographic areas?"
+    required: true
+    options: ["Yes, perfectly", "Yes, mostly", "Somewhat", "No, not really", "No, not at all"]
+  - id: industry_focus_accuracy
+    type: rating
+    prompt: "How accurate is the industry focus of generated leads?"
+    required: true
+    scale: 5
+  - id: company_size_match
+    type: single_choice
+    prompt: "Do the leads match your target company size criteria?"
+    required: true
+    options: ["Always", "Usually", "Sometimes", "Rarely", "Never"]
+  - id: improvement_suggestions
+    type: text
+    prompt: "What specific improvements would you suggest for our lead generation process?"
+    required: false
+  - id: additional_feedback
+    type: long_text
+    prompt: "Do you have any additional comments or feedback regarding lead generation?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

@@ -1,0 +1,93 @@
+title: "Student Mental Health Check-In Survey"
+description: "A brief check-in for students to share their current mental well-being and identify areas for school support"
+category: "Education Surveys"
+questions:
+  - id: overall_wellbeing
+    type: rating
+    prompt: "How would you describe your current overall well-being?"
+    required: true
+    scale: 5
+  - id: stress_level
+    type: rating
+    prompt: "On a scale of 1-10, how stressed have you felt in the past week?"
+    required: true
+    scale: 10
+  - id: sleep_quality
+    type: single_choice
+    prompt: "How would you rate your sleep quality over the past week?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: recent_emotions
+    type: multiple_choice
+    prompt: "Which of the following emotions have you experienced frequently recently? (select all that apply)"
+    required: true
+    options: ["Happy", "Stressed", "Anxious", "Sad", "Hopeful", "Overwhelmed", "Calm", "Irritable", "Motivated", "Exhausted"]
+  - id: academic_impact
+    type: single_choice
+    prompt: "How has your mental health affected your academic performance?"
+    required: true
+    options: ["Positively", "Slightly positively", "No effect", "Slightly negatively", "Significantly negatively"]
+  - id: concentration_difficulty
+    type: rating
+    prompt: "How difficult has it been to concentrate on your studies?"
+    required: true
+    scale: 5
+  - id: social_connection
+    type: single_choice
+    prompt: "How connected do you feel to your peers and social circle?"
+    required: true
+    options: ["Very connected", "Somewhat connected", "Neutral", "Somewhat isolated", "Very isolated"]
+  - id: physical_activity
+    type: single_choice
+    prompt: "How often have you engaged in physical activity or exercise this week?"
+    required: true
+    options: ["Daily", "4-6 times", "2-3 times", "Once", "Not at all"]
+  - id: current_support_sources
+    type: multiple_choice
+    prompt: "What sources of support do you currently utilize? (select all that apply)"
+    required: true
+    options: ["Friends", "Family", "School counselor", "Teachers", "Online resources", "Mental health apps", "Religious/spiritual support", "No formal support"]
+  - id: help_seeking_comfort
+    type: rating
+    prompt: "If you needed mental health support, how comfortable would you be seeking help from school resources?"
+    required: true
+    scale: 5
+  - id: barriers_to_help
+    type: multiple_choice
+    prompt: "What barriers prevent you from seeking mental health support? (select all that apply)"
+    required: false
+    options: ["Stigma", "Time constraints", "Cost", "Privacy concerns", "Don't know where to go", "Prefer to handle alone", "No barriers"]
+  - id: coping_strategies
+    type: multiple_choice
+    prompt: "Which coping strategies have you used recently? (select all that apply)"
+    required: false
+    options: ["Exercise", "Meditation/mindfulness", "Talking to friends", "Hobbies", "Professional counseling", "Medication", "Sleep", "None"]
+  - id: campus_resources_awareness
+    type: single_choice
+    prompt: "How aware are you of mental health resources available on campus?"
+    required: true
+    options: ["Very aware", "Somewhat aware", "Neutral", "Somewhat unaware", "Very unaware"]
+  - id: most_helpful_thing
+    type: text
+    prompt: "What is one thing that has been most helpful for your mental health recently?"
+    required: false
+  - id: crisis_experience
+    type: single_choice
+    prompt: "Have you experienced a mental health crisis in the past month?"
+    required: true
+    options: ["Yes", "No", "Prefer not to say"]
+  - id: school_support_improvements
+    type: long_text
+    prompt: "What could the school do to better support student mental health?"
+    required: false
+  - id: additional_concerns
+    type: long_text
+    prompt: "Are there any other mental health concerns you'd like to share?"
+    required: false
+  - id: resource_recommendations
+    type: text
+    prompt: "What additional mental health resources would you like to see on campus?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

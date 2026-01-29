@@ -1,0 +1,89 @@
+title: "Supervisor Evaluation Survey"
+description: "Gather feedback on supervisor performance and identify areas for improvement"
+category: "HR Surveys"
+questions:
+  - id: overall_performance
+    type: rating
+    prompt: "How satisfied are you with your supervisor's overall performance?"
+    required: true
+    scale: 5
+  - id: interaction_frequency
+    type: single_choice
+    prompt: "How frequently do you interact with your supervisor?"
+    required: true
+    options: ["Daily", "Multiple times a week", "Weekly", "Monthly", "Rarely"]
+  - id: communication_clarity
+    type: rating
+    prompt: "How clear and effective is your supervisor's communication?"
+    required: true
+    scale: 5
+  - id: leadership_qualities
+    type: multiple_choice
+    prompt: "Which of the following qualities best describe your supervisor?"
+    required: true
+    options: ["Supportive", "Clear communicator", "Fair", "Organized", "Inspiring", "Approachable", "Motivating", "Knowledgeable"]
+  - id: feedback_effectiveness
+    type: single_choice
+    prompt: "How effective is the feedback you receive from your supervisor?"
+    required: true
+    options: ["Very effective", "Somewhat effective", "Neutral", "Not very effective", "Rarely receive feedback"]
+  - id: goal_setting
+    type: rating
+    prompt: "How well does your supervisor help set clear goals and expectations?"
+    required: true
+    scale: 5
+  - id: professional_development
+    type: single_choice
+    prompt: "How supportive is your supervisor of your professional development?"
+    required: true
+    options: ["Very supportive", "Somewhat supportive", "Neutral", "Not very supportive", "Not supportive at all"]
+  - id: recognition_rewards
+    type: rating
+    prompt: "How effective is your supervisor at recognizing and rewarding good performance?"
+    required: true
+    scale: 5
+  - id: conflict_resolution
+    type: single_choice
+    prompt: "How well does your supervisor handle conflicts and difficult situations?"
+    required: true
+    options: ["Very well", "Well", "Adequately", "Poorly", "Very poorly"]
+  - id: work_environment
+    type: rating
+    prompt: "How well does your supervisor contribute to a positive work environment?"
+    required: true
+    scale: 5
+  - id: resource_support
+    type: single_choice
+    prompt: "How well does your supervisor ensure you have the resources needed to do your job?"
+    required: true
+    options: ["Excellent", "Good", "Adequate", "Poor", "Very poor"]
+  - id: team_collaboration
+    type: rating
+    prompt: "How effective is your supervisor at fostering team collaboration?"
+    required: true
+    scale: 5
+  - id: decision_making
+    type: single_choice
+    prompt: "How would you rate your supervisor's decision-making skills?"
+    required: true
+    options: ["Excellent", "Good", "Average", "Poor", "Very poor"]
+  - id: likelihood_to_recommend
+    type: rating
+    prompt: "How likely are you to recommend your supervisor as a good leader?"
+    required: true
+    scale: 10
+  - id: improvement_areas
+    type: text
+    prompt: "What specific areas could your supervisor improve upon?"
+    required: false
+  - id: strengths_highlight
+    type: text
+    prompt: "What are your supervisor's greatest strengths?"
+    required: false
+  - id: additional_feedback
+    type: long_text
+    prompt: "Do you have any additional comments or feedback regarding your supervisor?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

@@ -1,0 +1,93 @@
+title: "Relationship Questionnaire"
+description: "A comprehensive survey designed to gather insights and perspectives on personal relationships."
+category: "Personal & Lifestyle Surveys"
+questions:
+  - id: relationship_satisfaction
+    type: single_choice
+    prompt: "How satisfied are you with your closest relationships?"
+    required: true
+    options: ["Very satisfied", "Somewhat satisfied", "Neutral", "Somewhat dissatisfied", "Very dissatisfied"]
+  - id: connection_frequency
+    type: single_choice
+    prompt: "How often do you intentionally connect with important people in your life?"
+    required: true
+    options: ["Daily", "Weekly", "Monthly", "Rarely", "Never"]
+  - id: relationship_qualities
+    type: multiple_choice
+    prompt: "Which qualities are most important in a healthy relationship?"
+    required: true
+    options: ["Trust", "Communication", "Support", "Honesty", "Respect", "Shared interests", "Loyalty", "Compassion", "Independence", "Fun"]
+  - id: communication_effectiveness
+    type: rating
+    prompt: "Rate the effectiveness of communication in your relationships"
+    required: true
+    scale: 5
+  - id: conflict_resolution
+    type: single_choice
+    prompt: "How well do you handle conflicts in your relationships?"
+    required: true
+    options: ["Very well", "Well", "Neutral", "Poorly", "Very poorly"]
+  - id: trust_level
+    type: rating
+    prompt: "Rate the level of trust in your closest relationships"
+    required: true
+    scale: 5
+  - id: emotional_support
+    type: single_choice
+    prompt: "How much emotional support do you receive from your relationships?"
+    required: true
+    options: ["A great deal", "A fair amount", "Some", "Not much", "Very little"]
+  - id: relationship_effort
+    type: single_choice
+    prompt: "How much effort do you feel you put into maintaining your relationships?"
+    required: true
+    options: ["A great deal", "A fair amount", "Some", "Not much", "Very little"]
+  - id: relationship_types
+    type: multiple_choice
+    prompt: "Which types of relationships are most important to you?"
+    required: true
+    options: ["Family", "Romantic partner", "Close friends", "Colleagues", "Mentors", "Community members"]
+  - id: social_circle_size
+    type: single_choice
+    prompt: "How would you describe the size of your social circle?"
+    required: true
+    options: ["Very large", "Large", "Moderate", "Small", "Very small"]
+  - id: loneliness_frequency
+    type: single_choice
+    prompt: "How often do you feel lonely?"
+    required: true
+    options: ["Never", "Rarely", "Sometimes", "Often", "Very often"]
+  - id: relationship_boundaries
+    type: rating
+    prompt: "How well do you maintain healthy boundaries in your relationships?"
+    required: true
+    scale: 5
+  - id: forgiveness_capacity
+    type: single_choice
+    prompt: "How easy is it for you to forgive others in relationships?"
+    required: true
+    options: ["Very easy", "Easy", "Neutral", "Difficult", "Very difficult"]
+  - id: relationship_goals
+    type: multiple_choice
+    prompt: "What are your relationship goals for the next year?"
+    required: false
+    options: ["Build deeper connections", "Expand social circle", "Improve communication", "Find romantic partner", "Strengthen family bonds", "Network professionally"]
+  - id: relationship_challenges
+    type: long_text
+    prompt: "What is one area you would like to improve in your current relationships?"
+    required: false
+  - id: relationship_strengths
+    type: long_text
+    prompt: "What do you consider to be the greatest strength in your relationships?"
+    required: false
+  - id: relationship_advice
+    type: long_text
+    prompt: "What advice would you give others about maintaining healthy relationships?"
+    required: false
+  - id: additional_comments
+    type: long_text
+    prompt: "Do you have any additional comments or thoughts on relationships?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

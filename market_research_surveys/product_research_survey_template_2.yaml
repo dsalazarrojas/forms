@@ -1,0 +1,107 @@
+title: "Product Research Survey"
+description: "Gathering feedback to understand perceptions and areas for improvement regarding our product"
+category: "Business Surveys"
+questions:
+  - id: overall_satisfaction
+    type: rating
+    prompt: "How satisfied are you with our product?"
+    required: true
+    scale: 5
+  - id: key_influencing_factors
+    type: multiple_choice
+    prompt: "Which aspects most influenced your opinion of our product? (Select all that apply)"
+    required: true
+    options: ["Design", "Price", "Performance", "Features", "Support", "Ease of use", "Reliability", "Brand reputation"]
+  - id: recommendation_likelihood
+    type: rating
+    prompt: "How likely are you to recommend this product to others?"
+    required: true
+    scale: 10
+  - id: product_awareness
+    type: single_choice
+    prompt: "How did you first learn about our product?"
+    required: true
+    options: ["Online search", "Social media", "Word of mouth", "Advertising", "Trade show", "Review/article", "Other"]
+  - id: usage_frequency
+    type: single_choice
+    prompt: "How often do you use our product?"
+    required: true
+    options: ["Daily", "Weekly", "Monthly", "Quarterly", "Rarely", "First time"]
+  - id: primary_use_case
+    type: text
+    prompt: "What is your primary use case for our product?"
+    required: true
+  - id: feature_satisfaction
+    type: rating
+    prompt: "How satisfied are you with the product's features?"
+    required: true
+    scale: 5
+  - id: ease_of_use_rating
+    type: rating
+    prompt: "How easy is our product to use?"
+    required: true
+    scale: 5
+  - id: performance_rating
+    type: single_choice
+    prompt: "How would you rate the product's performance?"
+    required: true
+    options: ["Excellent", "Good", "Average", "Poor", "Very poor"]
+  - id: value_for_money
+    type: rating
+    prompt: "Do you feel our product provides good value for money?"
+    required: true
+    scale: 5
+  - id: competitor_comparison
+    type: single_choice
+    prompt: "How does our product compare to competitors?"
+    required: false
+    options: ["Much better", "Better", "About the same", "Worse", "Much worse"]
+  - id: brand_perception
+    type: rating
+    prompt: "How would you rate your perception of our brand?"
+    required: true
+    scale: 5
+  - id: customer_support_experience
+    type: rating
+    prompt: "Rate your experience with our customer support"
+    required: false
+    scale: 5
+  - id: likelihood_to_continue
+    type: single_choice
+    prompt: "How likely are you to continue using our product?"
+    required: true
+    options: ["Very likely", "Likely", "Neutral", "Unlikely", "Very unlikely"]
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What would you improve or change about our product?"
+    required: false
+  - id: desired_features
+    type: long_text
+    prompt: "Are there any specific features you'd like to see added or enhanced?"
+    required: false
+  - id: overall_value
+    type: rating
+    prompt: "Overall, how valuable is this product to you?"
+    required: true
+    scale: 5
+  - id: pricing_perception
+    type: single_choice
+    prompt: "How do you feel about our current pricing?"
+    required: true
+    options: ["Too expensive", "Reasonably priced", "Good value", "Very affordable", "Too cheap (concerns quality)"]
+  - id: future_needs
+    type: text
+    prompt: "What future needs do you anticipate that our product should address?"
+    required: false
+  - id: demographic_segment
+    type: single_choice
+    prompt: "Which of the following best describes your role?"
+    required: false
+    options: ["Individual user", "Small business owner", "Manager", "Executive", "IT professional", "Student", "Other"]
+  - id: additional_feedback
+    type: long_text
+    prompt: "Do you have any additional comments or feedback?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

@@ -1,0 +1,100 @@
+title: "Resident Satisfaction Survey"
+description: "Comprehensive survey to understand and improve resident satisfaction in our community."
+category: "Housing & Community Surveys"
+questions:
+  - id: overall_satisfaction
+    type: single_choice
+    prompt: "Overall, how satisfied are you with living in this community?"
+    required: true
+    options: ["Very satisfied", "Somewhat satisfied", "Neutral", "Somewhat dissatisfied", "Very dissatisfied"]
+  - id: management_communication
+    type: single_choice
+    prompt: "How would you rate communication from community management?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Not applicable"]
+  - id: common_areas_upkeep
+    type: single_choice
+    prompt: "How would you rate the upkeep and cleanliness of common areas?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor"]
+  - id: amenities_usage
+    type: multiple_choice
+    prompt: "Which community amenities do you use regularly?"
+    required: true
+    options: ["Gym", "Pool", "Community Room", "Laundry Facilities", "Pet Park", "Parking", "Playground", "Business Center", "None of the above"]
+  - id: community_sense
+    type: single_choice
+    prompt: "Do you feel a sense of community where you live?"
+    required: true
+    options: ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]
+  - id: unit_condition
+    type: rating
+    prompt: "Rate the condition and maintenance of your unit"
+    required: true
+    scale: 5
+  - id: noise_level
+    type: single_choice
+    prompt: "How would you rate the noise level in the community?"
+    required: true
+    options: ["Very quiet", "Quiet", "Moderate", "Noisy", "Very noisy"]
+  - id: safety_feeling
+    type: rating
+    prompt: "How safe do you feel in the community?"
+    required: true
+    scale: 5
+  - id: parking_satisfaction
+    type: single_choice
+    prompt: "How satisfied are you with parking availability and conditions?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: maintenance_response_time
+    type: single_choice
+    prompt: "How quickly are maintenance requests typically addressed?"
+    required: true
+    options: ["Within 24 hours", "1-3 days", "3-7 days", "1-2 weeks", "More than 2 weeks"]
+  - id: rent_value
+    type: rating
+    prompt: "Do you feel you're getting good value for your rent?"
+    required: true
+    scale: 5
+  - id: neighbor_interactions
+    type: single_choice
+    prompt: "How would you describe interactions with your neighbors?"
+    required: true
+    options: ["Very friendly", "Friendly", "Neutral", "Unfriendly", "Very unfriendly"]
+  - id: location_convenience
+    type: rating
+    prompt: "Rate the convenience of the community's location"
+    required: true
+    scale: 5
+  - id: internet_quality
+    type: single_choice
+    prompt: "How would you rate the internet service quality?"
+    required: false
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: pet_friendly_rating
+    type: rating
+    prompt: "If you have pets, how pet-friendly is the community?"
+    required: false
+    scale: 5
+  - id: lease_renewal_likelihood
+    type: rating
+    prompt: "How likely are you to renew your lease?"
+    required: true
+    scale: 10
+  - id: recommendation_likelihood
+    type: rating
+    prompt: "How likely are you to recommend this community to others?"
+    required: true
+    scale: 10
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What improvements would most enhance your living experience here?"
+    required: false
+  - id: additional_comments
+    type: long_text
+    prompt: "Do you have any additional comments or suggestions?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

@@ -1,0 +1,105 @@
+title: "Work-Life Balance Survey"
+description: "Understanding current perceptions and experiences regarding work-life balance within the organization."
+category: "Business Surveys"
+questions:
+  - id: overall_balance_satisfaction
+    type: rating
+    prompt: "How satisfied are you with your current work-life balance?"
+    required: true
+    scale: 5
+  - id: work_hours_per_week
+    type: single_choice
+    prompt: "How many hours per week do you typically work?"
+    required: true
+    options: ["Less than 35", "35-40", "41-45", "46-50", "51-60", "More than 60"]
+  - id: after_hours_work
+    type: single_choice
+    prompt: "How often do you work after normal business hours?"
+    required: true
+    options: ["Never", "Rarely", "Sometimes", "Often", "Always"]
+  - id: weekend_work_frequency
+    type: single_choice
+    prompt: "How often do you work on weekends?"
+    required: true
+    options: ["Never", "Rarely", "Sometimes", "Often", "Always"]
+  - id: personal_time_availability
+    type: rating
+    prompt: "How much personal time do you have outside of work?"
+    required: true
+    scale: 5
+  - id: stress_levels
+    type: single_choice
+    prompt: "How would you rate your current stress levels related to work?"
+    required: true
+    options: ["Very low", "Low", "Moderate", "High", "Very high"]
+  - id: family_time_quality
+    type: rating
+    prompt: "How much quality time do you spend with family and friends?"
+    required: true
+    scale: 5
+  - id: boundary_setting
+    type: single_choice
+    prompt: "How easy is it for you to set boundaries between work and personal life?"
+    required: true
+    options: ["Very easy", "Easy", "Neutral", "Difficult", "Very difficult"]
+  - id: flexible_schedule_usage
+    type: multiple_choice
+    prompt: "Which flexible work arrangements do you currently use?"
+    required: false
+    options: ["Flexible start/end times", "Compressed workweek", "Part-time schedule", "Job sharing", "Remote work", "None"]
+  - id: pto_usage
+    type: single_choice
+    prompt: "How often do you take paid time off when needed?"
+    required: true
+    options: ["Always", "Often", "Sometimes", "Rarely", "Never"]
+  - id: manager_support
+    type: rating
+    prompt: "How supportive is your manager of your work-life balance needs?"
+    required: true
+    scale: 5
+  - id: company_policies_effectiveness
+    type: single_choice
+    prompt: "How effective are the company's work-life balance policies?"
+    required: true
+    options: ["Very effective", "Effective", "Neutral", "Ineffective", "Very ineffective"]
+  - id: wellness_programs
+    type: multiple_choice
+    prompt: "Which wellness programs or benefits do you utilize?"
+    required: false
+    options: ["Health insurance", "Mental health support", "Fitness programs", "Stress management workshops", "Employee assistance program", "None"]
+  - id: commute_impact
+    type: single_choice
+    prompt: "How does your commute affect your work-life balance?"
+    required: true
+    options: ["No impact", "Minor impact", "Moderate impact", "Major impact", "Severe impact"]
+  - id: energy_levels
+    type: rating
+    prompt: "How would you rate your energy levels throughout the workday?"
+    required: true
+    scale: 5
+  - id: sleep_quality
+    type: single_choice
+    prompt: "How has your work schedule affected your sleep quality?"
+    required: true
+    options: ["Very positively", "Somewhat positively", "No effect", "Somewhat negatively", "Very negatively"]
+  - id: balance_importance
+    type: rating
+    prompt: "How important is work-life balance to your overall job satisfaction?"
+    required: true
+    scale: 5
+  - id: desired_changes
+    type: multiple_choice
+    prompt: "What changes would most improve your work-life balance?"
+    required: false
+    options: ["Reduced workload", "Flexible hours", "More PTO", "Remote work options", "Better manager support", "Wellness programs", "Shorter workweek"]
+  - id: balance_impact_health
+    type: long_text
+    prompt: "How has your work-life balance affected your physical or mental health?"
+    required: false
+  - id: suggestions_improvements
+    type: long_text
+    prompt: "What specific suggestions do you have for improving work-life balance organization-wide?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

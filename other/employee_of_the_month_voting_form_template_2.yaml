@@ -1,0 +1,94 @@
+title: "Employee of the Month Voting Form"
+description: "Nominate a colleague who has demonstrated outstanding performance and contributions this month."
+category: "HR Surveys"
+questions:
+  - id: nominee_name
+    type: text
+    prompt: "Which colleague are you nominating for Employee of the Month?"
+    required: true
+  - id: nomination_reasons
+    type: multiple_choice
+    prompt: "Why are you nominating this individual? (Select all that apply)"
+    required: true
+    options: ["Exceeded expectations", "Demonstrated teamwork", "Showed leadership", "Improved processes", "Helped colleagues", "Positive attitude", "Innovation", "Customer focus", "Mentorship", "Work ethic"]
+  - id: specific_contributions
+    type: long_text
+    prompt: "In what specific ways did they contribute outstandingly this month?"
+    required: true
+  - id: impact_rating
+    type: rating
+    prompt: "How would you rate their overall impact this month?"
+    required: true
+    scale: 5
+  - id: company_values_alignment
+    type: single_choice
+    prompt: "Do you believe they embody our company values?"
+    required: true
+    options: ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]
+  - id: teamwork_evidence
+    type: single_choice
+    prompt: "How well did they collaborate with their team?"
+    required: true
+    options: ["Exceptionally well", "Very well", "Adequately", "Poorly", "Not applicable"]
+  - id: leadership_demonstration
+    type: single_choice
+    prompt: "Did they demonstrate leadership qualities this month?"
+    required: true
+    options: ["Yes, significantly", "Yes, moderately", "Somewhat", "No", "Not applicable"]
+  - id: innovation_contribution
+    type: single_choice
+    prompt: "Did they contribute innovative ideas or solutions?"
+    required: true
+    options: ["Yes, breakthrough ideas", "Yes, good ideas", "Some suggestions", "No", "Not applicable"]
+  - id: customer_impact
+    type: single_choice
+    prompt: "How did their work impact customers or stakeholders?"
+    required: true
+    options: ["Very positive impact", "Positive impact", "Neutral", "Negative impact", "No direct impact"]
+  - id: consistency_performance
+    type: single_choice
+    prompt: "How consistent has their performance been this month?"
+    required: true
+    options: ["Exceptionally consistent", "Very consistent", "Generally consistent", "Inconsistent", "Poor consistency"]
+  - id: mentorship_activities
+    type: single_choice
+    prompt: "Did they help mentor or train others?"
+    required: true
+    options: ["Yes, extensively", "Yes, moderately", "Somewhat", "No", "Not applicable"]
+  - id: work_ethic_rating
+    type: rating
+    prompt: "Rate their work ethic and dedication"
+    required: true
+    scale: 5
+  - id: communication_skills
+    type: single_choice
+    prompt: "How effective were their communication skills?"
+    required: true
+    options: ["Excellent", "Very good", "Good", "Fair", "Poor"]
+  - id: problem_solving_ability
+    type: single_choice
+    prompt: "How well did they handle challenges and solve problems?"
+    required: true
+    options: ["Exceptionally well", "Very well", "Adequately", "Poorly", "Not applicable"]
+  - id: department_contribution
+    type: single_choice
+    prompt: "How did they contribute to department goals?"
+    required: true
+    options: ["Significantly exceeded", "Met and exceeded", "Met expectations", "Partially met", "Did not meet"]
+  - id: peer_recognition
+    type: single_choice
+    prompt: "How well-regarded are they among peers?"
+    required: true
+    options: ["Highly respected", "Well-respected", "Generally respected", "Somewhat respected", "Not well-regarded"]
+  - id: future_potential
+    type: single_choice
+    prompt: "What is their potential for future leadership roles?"
+    required: true
+    options: ["High potential", "Good potential", "Moderate potential", "Limited potential", "Not applicable"]
+  - id: additional_comments
+    type: long_text
+    prompt: "Any additional comments to support your nomination?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

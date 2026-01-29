@@ -1,0 +1,105 @@
+title: "Organizational Culture Survey"
+description: "Gathering insights on our organizational culture and employee engagement to foster a positive work environment"
+category: "HR Surveys"
+questions:
+  - id: role_satisfaction
+    type: rating
+    prompt: "Overall, how satisfied are you with your role at the organization?"
+    required: true
+    scale: 5
+  - id: management_communication
+    type: single_choice
+    prompt: "How would you rate communication from management?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: professional_development_support
+    type: single_choice
+    prompt: "Do you feel supported in your professional development?"
+    required: true
+    options: ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]
+  - id: valued_culture_aspects
+    type: multiple_choice
+    prompt: "Which aspects of our organizational culture do you value most? (Select all that apply)"
+    required: true
+    options: ["Collaboration", "Innovation", "Work-life balance", "Recognition", "Transparency", "Professional growth"]
+  - id: workplace_inclusion
+    type: rating
+    prompt: "How inclusive do you feel our workplace culture is?"
+    required: true
+    scale: 5
+  - id: leadership_effectiveness
+    type: single_choice
+    prompt: "How effective is our leadership in driving organizational goals?"
+    required: true
+    options: ["Very effective", "Effective", "Neutral", "Ineffective", "Very ineffective"]
+  - id: team_collaboration
+    type: rating
+    prompt: "Rate the level of collaboration within your team"
+    required: true
+    scale: 5
+  - id: innovation_encouragement
+    type: single_choice
+    prompt: "How well does the organization encourage innovation and new ideas?"
+    required: true
+    options: ["Very well", "Well", "Moderately", "Poorly", "Very poorly"]
+  - id: work_life_balance
+    type: rating
+    prompt: "How well does the organization support work-life balance?"
+    required: true
+    scale: 5
+  - id: recognition_appreciation
+    type: single_choice
+    prompt: "How often do you feel recognized and appreciated for your work?"
+    required: true
+    options: ["Very often", "Often", "Sometimes", "Rarely", "Never"]
+  - id: decision_making_transparency
+    type: rating
+    prompt: "Rate the transparency in organizational decision-making"
+    required: true
+    scale: 5
+  - id: diversity_representation
+    type: single_choice
+    prompt: "How well does the organization promote diversity and representation?"
+    required: true
+    options: ["Very well", "Well", "Moderately", "Poorly", "Very poorly"]
+  - id: employee_engagement_level
+    type: rating
+    prompt: "Rate your overall level of engagement with the organization"
+    required: true
+    scale: 10
+  - id: company_values_alignment
+    type: single_choice
+    prompt: "How well do you feel your personal values align with company values?"
+    required: true
+    options: ["Very well", "Well", "Moderately", "Poorly", "Very poorly"]
+  - id: career_growth_opportunities
+    type: rating
+    prompt: "Rate the career growth opportunities available in the organization"
+    required: true
+    scale: 5
+  - id: feedback_culture
+    type: single_choice
+    prompt: "How open is the organization to receiving and acting on employee feedback?"
+    required: true
+    options: ["Very open", "Open", "Neutral", "Closed", "Very closed"]
+  - id: workplace_relationships
+    type: rating
+    prompt: "Rate the quality of relationships and interactions in the workplace"
+    required: true
+    scale: 5
+  - id: organizational_pride
+    type: single_choice
+    prompt: "How proud are you to work for this organization?"
+    required: true
+    options: ["Very proud", "Proud", "Neutral", "Not very proud", "Not proud at all"]
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What could improve your experience at work?"
+    required: false
+  - id: additional_comments
+    type: long_text
+    prompt: "Do you have any additional comments or suggestions?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

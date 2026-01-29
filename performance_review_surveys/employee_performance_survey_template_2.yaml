@@ -1,0 +1,95 @@
+title: "Employee Performance Survey"
+description: "Gathering feedback on employee performance, satisfaction, and development."
+category: "HR Surveys"
+questions:
+  - id: overall_satisfaction
+    type: single_choice
+    prompt: "Overall, how satisfied are you with your role at the organization?"
+    required: true
+    options: ["Very satisfied", "Somewhat satisfied", "Neutral", "Somewhat dissatisfied", "Very dissatisfied"]
+  - id: management_communication
+    type: rating
+    prompt: "How would you rate communication from management?"
+    required: true
+    scale: 5
+  - id: professional_development_support
+    type: single_choice
+    prompt: "Do you feel supported in your professional development?"
+    required: true
+    options: ["Yes, strongly", "Yes", "Somewhat", "No", "Not at all"]
+  - id: engaging_aspects
+    type: multiple_choice
+    prompt: "Which aspects of your role do you find most engaging? (Select all that apply)"
+    required: true
+    options: ["Project work", "Team collaboration", "Learning new skills", "Client interaction", "Problem-solving", "Creative tasks", "Leadership opportunities", "Independent work", "Mentoring others", "Process improvement"]
+  - id: recognition_feeling
+    type: single_choice
+    prompt: "Do you feel recognized for your contributions?"
+    required: true
+    options: ["Always", "Often", "Sometimes", "Rarely", "Never"]
+  - id: workload_balance
+    type: single_choice
+    prompt: "How would you rate your current workload balance?"
+    required: true
+    options: ["Perfect balance", "Good balance", "Manageable but busy", "Overwhelming", "Too light"]
+  - id: resource_availability
+    type: single_choice
+    prompt: "Do you have the resources and tools needed to perform your job effectively?"
+    required: true
+    options: ["Yes, all needed", "Most needed", "Some needed", "Few needed", "None needed"]
+  - id: goal_clarity
+    type: single_choice
+    prompt: "How clear are your performance goals and expectations?"
+    required: true
+    options: ["Very clear", "Clear", "Somewhat clear", "Unclear", "Very unclear"]
+  - id: feedback_frequency
+    type: single_choice
+    prompt: "How often do you receive constructive feedback on your performance?"
+    required: true
+    options: ["Very frequently", "Frequently", "Occasionally", "Rarely", "Never"]
+  - id: career_growth_opportunities
+    type: single_choice
+    prompt: "How satisfied are you with career growth opportunities?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: team_collaboration
+    type: rating
+    prompt: "Rate the quality of collaboration within your team"
+    required: true
+    scale: 5
+  - id: work_life_balance
+    type: single_choice
+    prompt: "How well does your role support work-life balance?"
+    required: true
+    options: ["Excellent support", "Good support", "Fair support", "Poor support", "No support"]
+  - id: compensation_satisfaction
+    type: single_choice
+    prompt: "How satisfied are you with your compensation and benefits?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: company_culture_fit
+    type: single_choice
+    prompt: "How well do you feel you fit with the company culture?"
+    required: true
+    options: ["Perfect fit", "Good fit", "Decent fit", "Poor fit", "Very poor fit"]
+  - id: motivation_level
+    type: rating
+    prompt: "On a scale of 1-10, how motivated are you in your current role?"
+    required: true
+    scale: 10
+  - id: performance_confidence
+    type: single_choice
+    prompt: "How confident do you feel about meeting your performance targets?"
+    required: true
+    options: ["Very confident", "Confident", "Somewhat confident", "Not very confident", "Not confident at all"]
+  - id: improvement_areas
+    type: long_text
+    prompt: "What could improve your overall experience at work?"
+    required: false
+  - id: additional_comments
+    type: long_text
+    prompt: "Do you have any additional comments or suggestions?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

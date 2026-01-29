@@ -1,0 +1,125 @@
+title: Salary and Compensation Survey
+description: A comprehensive survey to gather feedback on employee satisfaction with salary, benefits, and overall compensation to improve engagement and retention.
+category: HR Surveys
+questions:
+- id: role_satisfaction
+  type: rating
+  prompt: Overall, how satisfied are you with your role at the organization?
+  required: true
+  scale: 5
+- id: salary_satisfaction
+  type: rating
+  prompt: How satisfied are you with your current salary?
+  required: true
+  scale: 5
+- id: compensation_fairness
+  type: single_choice
+  prompt: Do you believe your compensation is fair for your role and responsibilities?
+  required: true
+  options:
+  - Strongly agree
+  - Agree
+  - Neutral
+  - Disagree
+  - Strongly disagree
+- id: market_competitiveness
+  type: single_choice
+  prompt: How competitive do you feel your salary is compared to similar roles in the market?
+  required: true
+  options:
+  - Much higher than market
+  - Higher than market
+  - At market rate
+  - Lower than market
+  - Much lower than market
+- id: important_benefits
+  type: multiple_choice
+  prompt: Which benefits are most important to you?
+  required: true
+  options:
+  - Health insurance
+  - Retirement plans (401k/pension)
+  - Paid time off (vacation/sick)
+  - Professional development
+  - Performance bonuses
+  - Remote work options
+  - Flexible hours
+  - Stock options
+  - Gym/health club membership
+  - Commuter benefits
+- id: benefits_satisfaction
+  type: rating
+  prompt: How satisfied are you with your current benefits package?
+  required: true
+  scale: 5
+- id: development_support
+  type: single_choice
+  prompt: Do you feel your current compensation supports your professional development goals?
+  required: true
+  options:
+  - Strongly agree
+  - Agree
+  - Neutral
+  - Disagree
+  - Strongly disagree
+- id: bonus_structure
+  type: single_choice
+  prompt: How satisfied are you with the performance bonus structure?
+  required: false
+  options:
+  - Very satisfied
+  - Satisfied
+  - Neutral
+  - Dissatisfied
+  - Very dissatisfied
+- id: raise_frequency
+  type: single_choice
+  prompt: How often do you receive salary reviews or raises?
+  required: true
+  options:
+  - Annually
+  - Every 6 months
+  - Every 2 years
+  - Less frequently
+  - Never
+- id: transparency_level
+  type: rating
+  prompt: How transparent do you feel the organization is about compensation policies?
+  required: true
+  scale: 5
+- id: work_life_balance
+  type: single_choice
+  prompt: How well does your compensation package support work-life balance?
+  required: true
+  options:
+  - Extremely well
+  - Very well
+  - Moderately well
+  - Slightly well
+  - Not well at all
+- id: retention_likelihood
+  type: single_choice
+  prompt: How likely are you to stay with the organization for the next 2 years?
+  required: true
+  options:
+  - Very likely
+  - Likely
+  - Neutral
+  - Unlikely
+  - Very unlikely
+- id: compensation_motivation
+  type: rating
+  prompt: How motivated are you by your current compensation structure?
+  required: true
+  scale: 5
+- id: improvement_suggestions
+  type: long_text
+  prompt: What specific changes could improve your compensation or benefits package?
+  required: false
+- id: additional_comments
+  type: long_text
+  prompt: Do you have any additional comments regarding salary or compensation?
+  required: false
+validation_result:
+  status: PASS
+  errors: []

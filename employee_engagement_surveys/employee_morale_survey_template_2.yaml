@@ -1,0 +1,97 @@
+title: "Employee Morale Survey"
+description: "Comprehensive assessment of employee morale, motivation, and workplace satisfaction to identify factors affecting engagement and well-being."
+category: "HR Surveys"
+questions:
+  - id: overall_role_satisfaction
+    type: single_choice
+    prompt: "Overall, how satisfied are you with your role at the organization?"
+    required: true
+    options: ["Very satisfied", "Somewhat satisfied", "Neutral", "Somewhat dissatisfied", "Very dissatisfied"]
+  - id: management_communication_rating
+    type: single_choice
+    prompt: "How would you rate communication from management?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: professional_development_feeling
+    type: single_choice
+    prompt: "Do you feel supported in your professional development?"
+    required: true
+    options: ["Yes, strongly", "Yes, somewhat", "Somewhat", "No, not really", "No, not at all"]
+  - id: team_collaboration_description
+    type: multiple_choice
+    prompt: "Which of the following best describe your team's collaboration? (Select all that apply)"
+    required: true
+    options: ["Strong", "Productive", "Inclusive", "Open", "Challenging", "Supportive", "Efficient"]
+  - id: daily_experience_improvements
+    type: text
+    prompt: "What could most improve your day-to-day experience at work?"
+    required: false
+  - id: recognition_feeling
+    type: single_choice
+    prompt: "Do you feel recognized for your contributions?"
+    required: true
+    options: ["Always", "Often", "Sometimes", "Rarely", "Never"]
+  - id: belonging_sense
+    type: single_choice
+    prompt: "Do you feel a sense of belonging at our organization?"
+    required: true
+    options: ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]
+  - id: workplace_energy
+    type: rating
+    prompt: "How would you describe your overall energy level at work?"
+    required: true
+    scale: 5
+  - id: motivation_level
+    type: single_choice
+    prompt: "How motivated do you feel to perform at your best?"
+    required: true
+    options: ["Very motivated", "Motivated", "Neutral", "Somewhat unmotivated", "Very unmotivated"]
+  - id: stress_level
+    type: rating
+    prompt: "How would you rate your current stress level at work?"
+    required: true
+    scale: 5
+  - id: work_enjoyment
+    type: single_choice
+    prompt: "How much do you enjoy your work?"
+    required: true
+    options: ["Love it", "Like it", "It's okay", "Dislike it", "Hate it"]
+  - id: colleague_relationships
+    type: rating
+    prompt: "How positive are your relationships with colleagues?"
+    required: true
+    scale: 5
+  - id: supervisor_support
+    type: rating
+    prompt: "How supportive is your direct supervisor?"
+    required: true
+    scale: 5
+  - id: work_life_impact
+    type: single_choice
+    prompt: "How does your work affect your personal life?"
+    required: true
+    options: ["Very positively", "Somewhat positively", "Neutral", "Somewhat negatively", "Very negatively"]
+  - id: future_commitment
+    type: single_choice
+    prompt: "How committed do you feel to staying with the organization long-term?"
+    required: true
+    options: ["Very committed", "Committed", "Neutral", "Somewhat uncommitted", "Very uncommitted"]
+  - id: workplace_positives
+    type: long_text
+    prompt: "What aspects of your work environment make you happiest?"
+    required: false
+  - id: morale_challenges
+    type: long_text
+    prompt: "What factors most negatively impact your morale at work?"
+    required: false
+  - id: morale_improvement_suggestions
+    type: long_text
+    prompt: "What specific actions could the organization take to improve employee morale?"
+    required: false
+  - id: additional_morale_comments
+    type: long_text
+    prompt: "Any additional comments or suggestions?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

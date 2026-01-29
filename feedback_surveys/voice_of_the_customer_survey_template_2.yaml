@@ -1,0 +1,100 @@
+title: "Voice of the Customer Survey"
+description: "Help us improve how we listen and respond to your valuable feedback"
+category: "Customer Experience Surveys"
+questions:
+  - id: participation_satisfaction
+    type: single_choice
+    prompt: "How satisfied are you with your experience participating in our Voice of the Customer initiatives?"
+    required: true
+    options: ["Very satisfied", "Somewhat satisfied", "Neutral", "Somewhat dissatisfied", "Very dissatisfied"]
+  - id: engagement_frequency
+    type: single_choice
+    prompt: "How often do you typically engage with Voice of the Customer activities (e.g., surveys, feedback forms)?"
+    required: true
+    options: ["Daily", "Weekly", "Monthly", "Quarterly", "Rarely", "Never"]
+  - id: feedback_process_perception
+    type: multiple_choice
+    prompt: "Which of the following best describes your perception of our Voice of the Customer feedback process?"
+    required: true
+    options: ["Easy to use", "Fast", "Reliable", "Actionable", "Transparent", "Confusing", "Time-consuming", "Comprehensive"]
+  - id: feedback_motivation
+    type: single_choice
+    prompt: "What motivated you to provide feedback today?"
+    required: true
+    options: ["Positive experience", "Negative experience", "Specific issue", "General improvement", "Requested feedback", "Share ideas"]
+  - id: feedback_effectiveness
+    type: single_choice
+    prompt: "Do you feel your feedback is heard and acted upon effectively?"
+    required: true
+    options: ["Always", "Often", "Sometimes", "Rarely", "Never"]
+  - id: communication_clarity
+    type: rating
+    prompt: "How clear is our communication about how we use customer feedback?"
+    required: true
+    scale: 5
+  - id: response_timeliness
+    type: single_choice
+    prompt: "How timely are our responses to customer feedback?"
+    required: true
+    options: ["Very timely", "Somewhat timely", "Neutral", "Somewhat untimely", "Very untimely"]
+  - id: feedback_impact
+    type: single_choice
+    prompt: "Have you seen changes implemented based on customer feedback?"
+    required: true
+    options: ["Yes, many changes", "Yes, some changes", "Unsure", "No changes noticed", "Changes made things worse"]
+  - id: survey_length_appropriateness
+    type: single_choice
+    prompt: "How appropriate is the length of our surveys and feedback forms?"
+    required: true
+    options: ["Too long", "Just right", "Too short"]
+  - id: channel_preference
+    type: multiple_choice
+    prompt: "Which feedback channels do you prefer to use?"
+    required: true
+    options: ["Online surveys", "Email feedback", "Phone support", "In-app feedback", "Social media", "Live chat", "In-person"]
+  - id: anonymity_importance
+    type: single_choice
+    prompt: "How important is anonymity when providing feedback?"
+    required: true
+    options: ["Very important", "Somewhat important", "Neutral", "Not very important", "Not important at all"]
+  - id: follow_up_communication
+    type: single_choice
+    prompt: "How effective is our follow-up communication after you provide feedback?"
+    required: true
+    options: ["Very effective", "Somewhat effective", "Neutral", "Somewhat ineffective", "Very ineffective"]
+  - id: trust_level
+    type: rating
+    prompt: "How much do you trust that we genuinely care about customer feedback?"
+    required: true
+    scale: 5
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What improvements or changes would you suggest for our Voice of the Customer feedback mechanisms?"
+    required: false
+  - id: additional_comments
+    type: long_text
+    prompt: "Any additional comments or suggestions related to our Voice of the Customer program?"
+    required: false
+  - id: loyalty_impact
+    type: single_choice
+    prompt: "How does our response to customer feedback affect your loyalty to our brand?"
+    required: true
+    options: ["Increases loyalty significantly", "Increases loyalty somewhat", "No impact", "Decreases loyalty somewhat", "Decreases loyalty significantly"]
+  - id: recommendation_likelihood
+    type: rating
+    prompt: "How likely are you to recommend our company based on our feedback handling?"
+    required: true
+    scale: 10
+  - id: customer_segment
+    type: single_choice
+    prompt: "Which customer segment do you belong to?"
+    required: false
+    options: ["New customer", "Regular customer", "Premium customer", "Enterprise customer", "Former customer"]
+  - id: feedback_topics
+    type: multiple_choice
+    prompt: "What topics do you most frequently provide feedback on?"
+    required: false
+    options: ["Product quality", "Customer service", "Pricing", "Features", "User experience", "Company policies", "Other"]
+validation_result:
+  status: "PASS"
+  errors: []

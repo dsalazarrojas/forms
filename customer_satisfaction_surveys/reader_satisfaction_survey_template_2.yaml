@@ -1,0 +1,94 @@
+title: "Reader Satisfaction Survey"
+description: "Share your feedback to help us improve the quality and relevance of our content."
+category: "Content & Media Surveys"
+questions:
+  - id: overall_content_satisfaction
+    type: single_choice
+    prompt: "Overall, how satisfied are you with the content you read?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: reading_frequency
+    type: single_choice
+    prompt: "How often do you read our content?"
+    required: true
+    options: ["Daily", "Weekly", "Monthly", "Occasionally", "Rarely"]
+  - id: content_format_preferences
+    type: multiple_choice
+    prompt: "Which content formats do you prefer?"
+    required: true
+    options: ["Articles", "Blog posts", "Newsletters", "Videos", "Infographics", "Podcasts", "Webinars", "E-books"]
+  - id: content_relevance
+    type: single_choice
+    prompt: "Do you find our content relevant to your interests?"
+    required: true
+    options: ["Always", "Often", "Sometimes", "Rarely", "Never"]
+  - id: content_quality_rating
+    type: rating
+    prompt: "Rate the overall quality of our content"
+    required: true
+    scale: 5
+  - id: content_depth_satisfaction
+    type: single_choice
+    prompt: "How would you rate the depth and detail of our content?"
+    required: true
+    options: ["Too detailed", "Just right", "Not detailed enough", "Inconsistent"]
+  - id: content_freshness
+    type: single_choice
+    prompt: "How fresh and up-to-date do you find our content?"
+    required: true
+    options: ["Very fresh", "Somewhat fresh", "Neutral", "Somewhat outdated", "Very outdated"]
+  - id: content_discoverability
+    type: rating
+    prompt: "How easy is it to discover new content you're interested in?"
+    required: true
+    scale: 5
+  - id: author_expertise
+    type: single_choice
+    prompt: "How knowledgeable do you find our authors and contributors?"
+    required: true
+    options: ["Very knowledgeable", "Knowledgeable", "Neutral", "Somewhat knowledgeable", "Not knowledgeable"]
+  - id: content_length_preference
+    type: single_choice
+    prompt: "What is your preferred content length?"
+    required: true
+    options: ["Short (under 5 min read)", "Medium (5-15 min read)", "Long (over 15 min read)", "Varies by topic"]
+  - id: visual_appeal
+    type: rating
+    prompt: "Rate the visual appeal and formatting of our content"
+    required: true
+    scale: 5
+  - id: mobile_reading_experience
+    type: single_choice
+    prompt: "How is your reading experience on mobile devices?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: sharing_likelihood
+    type: rating
+    prompt: "How likely are you to share our content with others?"
+    required: true
+    scale: 5
+  - id: subscription_consideration
+    type: single_choice
+    prompt: "Would you consider subscribing to our premium content?"
+    required: false
+    options: ["Yes, definitely", "Maybe", "No", "Already subscribed"]
+  - id: competitor_comparison
+    type: single_choice
+    prompt: "How does our content compare to similar sources you read?"
+    required: false
+    options: ["Much better", "Better", "About the same", "Worse", "Much worse"]
+  - id: desired_topics
+    type: long_text
+    prompt: "What topics would you like us to cover more?"
+    required: false
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What could improve your overall reading experience?"
+    required: false
+  - id: favorite_content_type
+    type: text
+    prompt: "What is your favorite piece of content we've published and why?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

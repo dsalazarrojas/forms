@@ -1,0 +1,107 @@
+title: "Student Demographics Survey"
+description: "A survey to gather essential demographic information from students to better understand our student body"
+category: "Education Surveys"
+questions:
+  - id: age_group
+    type: single_choice
+    prompt: "What is your current age group?"
+    required: true
+    options: ["Under 18", "18-20", "21-24", "25-30", "31-35", "36-40", "Over 40"]
+  - id: gender_identity
+    type: single_choice
+    prompt: "How do you primarily identify your gender?"
+    required: true
+    options: ["Female", "Male", "Non-binary", "Prefer to self-describe", "Prefer not to say"]
+  - id: gender_self_describe
+    type: text
+    prompt: "If you selected 'Prefer to self-describe', please specify:"
+    required: false
+  - id: academic_level
+    type: single_choice
+    prompt: "What is your current academic level?"
+    required: true
+    options: ["High School", "Undergraduate", "Graduate", "Doctoral", "Professional", "Other"]
+  - id: field_of_study
+    type: text
+    prompt: "What is your primary field of study or major?"
+    required: true
+  - id: year_of_study
+    type: single_choice
+    prompt: "What year of study are you currently in?"
+    required: true
+    options: ["1st Year", "2nd Year", "3rd Year", "4th Year", "5th Year+", "Graduate Year 1", "Graduate Year 2+", "Not applicable"]
+  - id: enrollment_status
+    type: single_choice
+    prompt: "What is your current enrollment status?"
+    required: true
+    options: ["Full-time", "Part-time", "Online only", "Hybrid", "Study abroad"]
+  - id: ethnicity_race
+    type: multiple_choice
+    prompt: "Which of the following best describes your ethnicity/racial background? (Select all that apply)"
+    required: true
+    options: ["Asian", "Black", "Hispanic/Latinx", "White", "Indigenous", "Middle Eastern", "Pacific Islander", "Multiracial", "Other"]
+  - id: ethnicity_other
+    type: text
+    prompt: "If you selected 'Other' for ethnicity/race, please specify:"
+    required: false
+  - id: nationality
+    type: text
+    prompt: "What is your nationality or country of origin?"
+    required: false
+  - id: first_generation
+    type: single_choice
+    prompt: "Are you a first-generation college student? (Neither parent completed a bachelor's degree)"
+    required: true
+    options: ["Yes", "No", "Not sure"]
+  - id: living_situation
+    type: single_choice
+    prompt: "What is your current living situation?"
+    required: true
+    options: ["On-campus housing", "Off-campus (with family)", "Off-campus (independent)", "Off-campus (with roommates)", "Other"]
+  - id: distance_from_campus
+    type: single_choice
+    prompt: "How far do you live from campus?"
+    required: false
+    options: ["On campus", "Less than 10 miles", "10-25 miles", "25-50 miles", "50-100 miles", "More than 100 miles"]
+  - id: employment_status
+    type: single_choice
+    prompt: "Do you currently work while studying?"
+    required: true
+    options: ["Yes, full-time", "Yes, part-time", "No", "Work-study program"]
+  - id: weekly_work_hours
+    type: single_choice
+    prompt: "If working, approximately how many hours per week?"
+    required: false
+    options: ["1-10 hours", "11-20 hours", "21-30 hours", "31-40 hours", "More than 40 hours"]
+  - id: financial_aid
+    type: single_choice
+    prompt: "Do you receive financial aid?"
+    required: true
+    options: ["Yes, grants/scholarships", "Yes, loans", "Yes, work-study", "Yes, multiple sources", "No"]
+  - id: household_income
+    type: single_choice
+    prompt: "What is your household's approximate annual income range?"
+    required: false
+    options: ["Under $25,000", "$25,000-$49,999", "$50,000-$74,999", "$75,000-$99,999", "$100,000-$149,999", "$150,000-$199,999", "$200,000+"]
+  - id: disability_status
+    type: single_choice
+    prompt: "Do you have any disabilities or require accommodations?"
+    required: true
+    options: ["Yes", "No", "Prefer not to say"]
+  - id: veteran_status
+    type: single_choice
+    prompt: "Are you a veteran or active member of the military?"
+    required: true
+    options: ["Yes, veteran", "Yes, active duty", "No"]
+  - id: international_student
+    type: single_choice
+    prompt: "Are you an international student?"
+    required: true
+    options: ["Yes", "No"]
+  - id: additional_background
+    type: long_text
+    prompt: "Is there anything else you'd like to share about your background or experiences at our school?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

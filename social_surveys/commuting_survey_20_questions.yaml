@@ -1,0 +1,105 @@
+title: "Commuting Survey"
+description: "A social survey to understand people's daily commuting habits and experiences."
+category: "Social Surveys"
+questions:
+  - id: commute_satisfaction
+    type: rating
+    prompt: "How satisfied are you with your current daily commute?"
+    required: true
+    scale: 5
+  - id: primary_transport_mode
+    type: single_choice
+    prompt: "What is your primary mode of transportation for commuting?"
+    required: true
+    options: ["Car (driver)", "Car (passenger)", "Public transport", "Cycling", "Walking", "Motorcycle", "Rideshare/Taxi", "Other"]
+  - id: commute_duration
+    type: single_choice
+    prompt: "How long does your typical one-way commute take?"
+    required: true
+    options: ["Under 15 minutes", "15-30 minutes", "31-45 minutes", "46-60 minutes", "Over 60 minutes"]
+  - id: commute_frequency
+    type: single_choice
+    prompt: "How many days per week do you commute?"
+    required: true
+    options: ["1 day", "2-3 days", "4-5 days", "6-7 days", "Varies"]
+  - id: commute_cost_monthly
+    type: single_choice
+    prompt: "What is your approximate monthly commuting cost?"
+    required: false
+    options: ["Under $50", "$50-100", "$100-200", "$200-500", "Over $500"]
+  - id: commute_challenges
+    type: multiple_choice
+    prompt: "What are the biggest challenges you face during your commute? (select all that apply)"
+    required: true
+    options: ["Traffic congestion", "Crowded transport", "High costs", "Long delays", "Safety concerns", "Weather exposure", "Lack of convenient options", "Parking issues"]
+  - id: commute_stress_level
+    type: rating
+    prompt: "Rate your stress level during the commute"
+    required: true
+    scale: 5
+  - id: productivity_during_commute
+    type: single_choice
+    prompt: "How productive can you be during your commute?"
+    required: false
+    options: ["Very productive", "Somewhat productive", "Neutral", "Somewhat unproductive", "Very unproductive"]
+  - id: alternative_transport_consideration
+    type: multiple_choice
+    prompt: "Which alternative transport options have you considered? (select all that apply)"
+    required: false
+    options: ["Carpooling", "Public transport", "Cycling", "Electric scooter", "Walking", "Telecommuting", "None"]
+  - id: environmental_impact_concern
+    type: single_choice
+    prompt: "How concerned are you about the environmental impact of your commute?"
+    required: false
+    options: ["Very concerned", "Somewhat concerned", "Neutral", "Not very concerned", "Not concerned at all"]
+  - id: commute_health_impact
+    type: single_choice
+    prompt: "How does your commute affect your physical health?"
+    required: false
+    options: ["Very positively", "Somewhat positively", "Neutral", "Somewhat negatively", "Very negatively"]
+  - id: work_life_balance_effect
+    type: rating
+    prompt: "How does your commute affect your work-life balance?"
+    required: true
+    scale: 5
+  - id: flexible_hours_importance
+    type: single_choice
+    prompt: "How important are flexible work hours to reduce commuting?"
+    required: true
+    options: ["Very important", "Important", "Somewhat important", "Not very important", "Not important"]
+  - id: remote_work_frequency
+    type: single_choice
+    prompt: "How often do you work remotely to avoid commuting?"
+    required: false
+    options: ["Never", "Rarely", "Sometimes", "Often", "Always"]
+  - id: public_transport_quality
+    type: single_choice
+    prompt: "If you use public transport, rate its overall quality"
+    required: false
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: traffic_congestion_experience
+    type: rating
+    prompt: "Rate your experience with traffic congestion"
+    required: false
+    scale: 5
+  - id: safety_rating
+    type: single_choice
+    prompt: "How safe do you feel during your commute?"
+    required: true
+    options: ["Very safe", "Safe", "Neutral", "Unsafe", "Very unsafe"]
+  - id: social_interaction_during_commute
+    type: single_choice
+    prompt: "How much social interaction do you have during your commute?"
+    required: false
+    options: ["A lot", "Some", "Minimal", "None", "Prefer no interaction"]
+  - id: improvement_suggestion
+    type: long_text
+    prompt: "What one change would most improve your daily commuting experience?"
+    required: false
+  - id: additional_comments
+    type: long_text
+    prompt: "Do you have any additional comments regarding commuting?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

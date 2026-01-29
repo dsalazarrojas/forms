@@ -1,0 +1,101 @@
+title: "Office Feedback Survey"
+description: "A comprehensive survey to gather feedback on the current office environment and facilities"
+category: "Workplace Surveys"
+questions:
+  - id: overall_environment_satisfaction
+    type: single_choice
+    prompt: "How satisfied are you with your overall office environment?"
+    required: true
+    options: ["Very satisfied", "Somewhat satisfied", "Neutral", "Somewhat dissatisfied", "Very dissatisfied"]
+  - id: office_frequency
+    type: single_choice
+    prompt: "How often do you typically work from the office?"
+    required: true
+    options: ["Daily", "3-4 times a week", "1-2 times a week", "Rarely", "Never"]
+  - id: office_experience_descriptors
+    type: multiple_choice
+    prompt: "Which of the following best describe your current office experience?"
+    required: true
+    options: ["Productive", "Collaborative", "Comfortable", "Distracting", "Lacking amenities", "Well-equipped"]
+  - id: cleanliness_rating
+    type: single_choice
+    prompt: "How would you rate the cleanliness of the office space?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: commute_mode
+    type: single_choice
+    prompt: "What is your primary mode of commute to the office?"
+    required: true
+    options: ["Car", "Public transport", "Walk", "Cycle", "Other"]
+  - id: workspace_comfort
+    type: rating
+    prompt: "Rate the comfort of your workspace"
+    required: true
+    scale: 5
+  - id: amenities_satisfaction
+    type: single_choice
+    prompt: "How satisfied are you with office amenities?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: technology_access
+    type: rating
+    prompt: "Rate the quality and availability of technology in the office"
+    required: true
+    scale: 5
+  - id: meeting_spaces
+    type: single_choice
+    prompt: "How adequate are the meeting spaces?"
+    required: true
+    options: ["Very adequate", "Adequate", "Neutral", "Inadequate", "Very inadequate"]
+  - id: lighting_quality
+    type: rating
+    prompt: "Rate the lighting in your workspace"
+    required: true
+    scale: 5
+  - id: noise_level
+    type: single_choice
+    prompt: "How would you describe the noise level in the office?"
+    required: true
+    options: ["Too quiet", "Appropriate", "Somewhat noisy", "Very noisy", "Unbearably noisy"]
+  - id: temperature_comfort
+    type: rating
+    prompt: "Rate the temperature comfort in the office"
+    required: true
+    scale: 5
+  - id: parking_availability
+    type: single_choice
+    prompt: "How satisfied are you with parking availability?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: food_options
+    type: single_choice
+    prompt: "Rate the quality of nearby food options"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: safety_feeling
+    type: rating
+    prompt: "How safe do you feel in the office environment?"
+    required: true
+    scale: 5
+  - id: social_interaction
+    type: single_choice
+    prompt: "How well does the office facilitate social interaction?"
+    required: true
+    options: ["Very well", "Well", "Neutral", "Poorly", "Very poorly"]
+  - id: remote_work_flexibility
+    type: boolean
+    prompt: "Do you have flexibility to work remotely when needed?"
+    required: true
+  - id: top_improvement
+    type: text
+    prompt: "What one thing would you most improve about the office environment?"
+    required: false
+  - id: favorite_aspect
+    type: text
+    prompt: "What is your favorite aspect of the office?"
+    required: false
+  - id: additional_suggestions
+    type: long_text
+    prompt: "Do you have any additional comments or suggestions for the office?"
+    required: false
+validation_result: valid

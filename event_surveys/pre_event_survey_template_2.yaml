@@ -1,0 +1,103 @@
+title: "Pre-Event Survey"
+description: "To gather attendee expectations and feedback on pre-event information and registration."
+category: "Event Surveys"
+questions:
+  - id: pre_event_info_satisfaction
+    type: single_choice
+    prompt: "How satisfied are you with the information provided before the event?"
+    required: true
+    options: ["Very satisfied", "Somewhat satisfied", "Neutral", "Somewhat dissatisfied", "Very dissatisfied"]
+  - id: anticipated_sessions
+    type: multiple_choice
+    prompt: "Which sessions or topics are you most looking forward to? (select all that apply)"
+    required: true
+    options: ["Keynote speeches", "Interactive workshops", "Networking sessions", "Panel discussions", "Product demos", "Breakout sessions", "Exhibitor showcases"]
+  - id: registration_ease
+    type: single_choice
+    prompt: "How easy was the event registration process?"
+    required: true
+    options: ["Very easy", "Easy", "Neutral", "Difficult", "Very difficult"]
+  - id: primary_attendance_goal
+    type: single_choice
+    prompt: "What is your primary goal for attending this event?"
+    required: true
+    options: ["Networking", "Learning new skills", "Gaining industry insights", "Discovering new products", "Career development", "Company/team building"]
+  - id: pre_event_questions
+    type: text
+    prompt: "Do you have any specific questions or concerns before the event begins?"
+    required: false
+  - id: additional_info_needed
+    type: long_text
+    prompt: "What additional information would be helpful for you prior to the event?"
+    required: false
+  - id: event_discovery_method
+    type: single_choice
+    prompt: "How did you first learn about this event?"
+    required: true
+    options: ["Email invitation", "Social media", "Website", "Colleague recommendation", "Industry publication", "Search engine", "Other"]
+  - id: attendance_frequency
+    type: single_choice
+    prompt: "How often do you attend similar events?"
+    required: true
+    options: ["This is my first", "Once a year", "Several times a year", "Monthly", "Weekly or more"]
+  - id: dietary_restrictions
+    type: single_choice
+    prompt: "Do you have any dietary restrictions we should be aware of?"
+    required: false
+    options: ["Vegetarian", "Vegan", "Gluten-free", "Dairy-free", "Nut allergy", "Other", "None"]
+  - id: accessibility_needs
+    type: single_choice
+    prompt: "Do you have any accessibility requirements for the event?"
+    required: false
+    options: ["Mobility assistance", "Sign language interpreter", "Large print materials", "Hearing assistance", "Other", "None"]
+  - id: networking_interests
+    type: multiple_choice
+    prompt: "What types of people are you most interested in networking with?"
+    required: false
+    options: ["Industry leaders", "Potential clients", "Peers in my field", "Vendors/suppliers", "Students", "Open to anyone"]
+  - id: session_preferences
+    type: single_choice
+    prompt: "Do you have a preference for session formats?"
+    required: false
+    options: ["Lectures/presentations", "Interactive workshops", "Panel discussions", "Roundtable discussions", "Networking breaks", "No preference"]
+  - id: time_commitment
+    type: single_choice
+    prompt: "How much time are you planning to spend at the event?"
+    required: true
+    options: ["Full day", "Half day", "Just keynote/morning", "Just afternoon sessions", "Just networking"]
+  - id: travel_arrangements
+    type: single_choice
+    prompt: "Will you be traveling to attend this event?"
+    required: true
+    options: ["Yes, from out of town", "Yes, from within the region", "No, local attendance"]
+  - id: company_size
+    type: single_choice
+    prompt: "What is the size of your organization?"
+    required: false
+    options: ["1-10 employees", "11-50 employees", "51-200 employees", "201-1000 employees", "1000+ employees", "Self-employed", "Student"]
+  - id: industry_sector
+    type: text
+    prompt: "What industry or sector do you work in?"
+    required: false
+  - id: experience_level
+    type: single_choice
+    prompt: "What is your level of experience in your field?"
+    required: false
+    options: ["Entry level (0-2 years)", "Mid level (3-5 years)", "Senior level (6-10 years)", "Executive level (10+ years)", "Student"]
+  - id: expectations_rating
+    type: rating
+    prompt: "On a scale of 1-10, how high are your expectations for this event?"
+    required: true
+    scale: 10
+  - id: specific_topics_interest
+    type: long_text
+    prompt: "Are there any specific topics or speakers you're particularly excited about?"
+    required: false
+  - id: preparation_level
+    type: single_choice
+    prompt: "How prepared do you feel for the event content?"
+    required: true
+    options: ["Very prepared", "Somewhat prepared", "Neutral", "Somewhat unprepared", "Very unprepared"]
+validation_result:
+  status: "PASS"
+  errors: []

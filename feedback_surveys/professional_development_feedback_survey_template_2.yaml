@@ -1,0 +1,104 @@
+title: "Professional Development Feedback Survey"
+description: "Gather feedback on professional development experiences to enhance future programs"
+category: "Business Surveys"
+questions:
+  - id: overall_satisfaction
+    type: rating
+    prompt: "How satisfied are you with the professional development opportunities provided?"
+    required: true
+    scale: 5
+  - id: participation_frequency
+    type: single_choice
+    prompt: "How often do you participate in professional development activities?"
+    required: true
+    options: ["Regularly", "Often", "Occasionally", "Rarely", "Never"]
+  - id: development_benefits
+    type: multiple_choice
+    prompt: "Which of the following benefits have you gained from professional development? (select all that apply)"
+    required: true
+    options: ["Improved skills", "Enhanced knowledge", "Career advancement", "Networking", "Increased motivation", "Higher performance", "No significant benefit"]
+  - id: preferred_formats
+    type: multiple_choice
+    prompt: "What formats for professional development do you prefer? (select all that apply)"
+    required: true
+    options: ["Workshops", "Online courses", "Mentorship", "Conferences", "Self-study", "Webinars", "Certifications", "On-the-job training"]
+  - id: participation_barriers
+    type: multiple_choice
+    prompt: "What are the main barriers preventing your participation in professional development? (select all that apply)"
+    required: true
+    options: ["Lack of time", "Cost", "Relevance", "Awareness", "Management support", "Workload", "Personal commitments"]
+  - id: skill_gap_identification
+    type: rating
+    prompt: "How well does the organization identify your skill gaps?"
+    required: true
+    scale: 5
+  - id: career_goals_alignment
+    type: single_choice
+    prompt: "How well do professional development opportunities align with your career goals?"
+    required: true
+    options: ["Very well", "Somewhat well", "Neutral", "Somewhat poorly", "Very poorly"]
+  - id: program_quality
+    type: rating
+    prompt: "Rate the overall quality of professional development programs"
+    required: true
+    scale: 5
+  - id: content_relevance
+    type: rating
+    prompt: "How relevant is the content of professional development programs to your work?"
+    required: true
+    scale: 5
+  - id: delivery_effectiveness
+    type: single_choice
+    prompt: "How effective are the delivery methods used in professional development?"
+    required: true
+    options: ["Very effective", "Somewhat effective", "Neutral", "Somewhat ineffective", "Very ineffective"]
+  - id: organizational_support
+    type: rating
+    prompt: "How supportive is the organization of professional development?"
+    required: true
+    scale: 5
+  - id: budget_adequacy
+    type: single_choice
+    prompt: "Is the budget allocated for professional development adequate?"
+    required: true
+    options: ["More than adequate", "Adequate", "Somewhat adequate", "Inadequate", "Very inadequate"]
+  - id: impact_on_performance
+    type: rating
+    prompt: "How much has professional development impacted your job performance?"
+    required: true
+    scale: 5
+  - id: learning_style_preference
+    type: single_choice
+    prompt: "What is your preferred learning style?"
+    required: false
+    options: ["Visual", "Auditory", "Reading/Writing", "Kinesthetic", "Mixed"]
+  - id: future_development_interests
+    type: long_text
+    prompt: "What professional development topics are you most interested in pursuing?"
+    required: false
+  - id: mentorship_access
+    type: rating
+    prompt: "How accessible is mentorship within the organization?"
+    required: true
+    scale: 5
+  - id: technology_tools_satisfaction
+    type: single_choice
+    prompt: "How satisfied are you with the technology/tools used for professional development?"
+    required: false
+    options: ["Very satisfied", "Somewhat satisfied", "Neutral", "Somewhat dissatisfied", "Very dissatisfied"]
+  - id: roi_perception
+    type: rating
+    prompt: "Do you feel professional development provides good return on investment?"
+    required: true
+    scale: 5
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What specific improvements would you suggest for future professional development programs?"
+    required: false
+  - id: additional_feedback
+    type: long_text
+    prompt: "Do you have any additional comments or suggestions regarding professional development?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

@@ -1,0 +1,105 @@
+title: "Client Satisfaction Survey"
+description: "Gathering feedback to enhance our client services and satisfaction."
+category: "Business Surveys"
+questions:
+  - id: overall_service_satisfaction
+    type: rating
+    prompt: "How satisfied are you with our overall services?"
+    required: true
+    scale: 5
+  - id: communication_quality
+    type: single_choice
+    prompt: "How would you rate the communication you received from us?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: needs_met_effectiveness
+    type: single_choice
+    prompt: "How effectively did our services meet your needs?"
+    required: true
+    options: ["Completely met", "Mostly met", "Partially met", "Minimally met", "Did not meet"]
+  - id: services_utilized
+    type: multiple_choice
+    prompt: "Which of our services did you utilize? (select all that apply)"
+    required: true
+    options: ["Consulting", "Project Management", "Training", "Technical Support", "Strategy Development", "Implementation", "Maintenance"]
+  - id: response_time_satisfaction
+    type: single_choice
+    prompt: "How satisfied were you with our response times?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: project_delivery_quality
+    type: rating
+    prompt: "Rate the quality of project delivery"
+    required: false
+    scale: 5
+  - id: value_for_money
+    type: single_choice
+    prompt: "How would you rate the value for money?"
+    required: true
+    options: ["Excellent value", "Good value", "Fair value", "Poor value", "Very poor value"]
+  - id: account_management
+    type: rating
+    prompt: "Rate the effectiveness of your account management"
+    required: false
+    scale: 5
+  - id: technical_expertise
+    type: single_choice
+    prompt: "How would you rate our technical expertise?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: contract_clarity
+    type: single_choice
+    prompt: "How clear were our contracts and agreements?"
+    required: true
+    options: ["Very clear", "Clear", "Somewhat clear", "Unclear", "Very unclear"]
+  - id: onboarding_experience
+    type: rating
+    prompt: "Rate your onboarding experience with our services"
+    required: false
+    scale: 5
+  - id: issue_resolution
+    type: single_choice
+    prompt: "How effectively were issues or concerns resolved?"
+    required: false
+    options: ["Very effectively", "Effectively", "Somewhat effectively", "Ineffectively", "Very ineffectively"]
+  - id: recommendation_likelihood
+    type: rating
+    prompt: "How likely are you to recommend our services?"
+    required: true
+    scale: 10
+  - id: competitor_comparison
+    type: single_choice
+    prompt: "How do our services compare to competitors?"
+    required: false
+    options: ["Much better", "Better", "About the same", "Worse", "Much worse"]
+  - id: future_engagement
+    type: single_choice
+    prompt: "How likely are you to engage with us for future projects?"
+    required: true
+    options: ["Very likely", "Likely", "Neutral", "Unlikely", "Very unlikely"]
+  - id: pricing_transparency
+    type: rating
+    prompt: "Rate the transparency of our pricing"
+    required: true
+    scale: 5
+  - id: innovation_level
+    type: single_choice
+    prompt: "How innovative do you find our solutions?"
+    required: false
+    options: ["Very innovative", "Somewhat innovative", "Neutral", "Somewhat traditional", "Very traditional"]
+  - id: relationship_strength
+    type: rating
+    prompt: "Rate the strength of our business relationship"
+    required: true
+    scale: 5
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What could improve your overall experience with our services?"
+    required: false
+  - id: additional_feedback
+    type: long_text
+    prompt: "Do you have any additional comments or suggestions?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

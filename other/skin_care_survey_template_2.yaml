@@ -1,0 +1,149 @@
+title: Skin Care Survey
+description: Comprehensive survey gathering insights into daily skin care habits, preferences, and product usage patterns.
+category: Consumer Surveys
+questions:
+- id: routine_satisfaction
+  type: rating
+  prompt: How satisfied are you with your current skin care routine?
+  required: true
+  scale: 5
+- id: routine_frequency
+  type: single_choice
+  prompt: How often do you perform a dedicated skin care routine?
+  required: true
+  options:
+  - Daily (morning & night)
+  - Daily (once a day)
+  - A few times a week
+  - Weekly
+  - Rarely/Never
+- id: routine_duration
+  type: single_choice
+  prompt: How much time do you typically spend on your skin care routine?
+  required: true
+  options:
+  - Less than 5 minutes
+  - 5-10 minutes
+  - 10-15 minutes
+  - 15-30 minutes
+  - More than 30 minutes
+- id: product_types
+  type: multiple_choice
+  prompt: Which types of skin care products do you regularly use?
+  required: true
+  options:
+  - Cleanser
+  - Toner
+  - Serum
+  - Moisturizer
+  - Sunscreen
+  - Exfoliant
+  - Face Mask
+  - Eye cream
+  - Lip balm
+  - Treatment products
+- id: skin_type
+  type: single_choice
+  prompt: What is your skin type?
+  required: true
+  options:
+  - Dry
+  - Oily
+  - Combination
+  - Normal
+  - Sensitive
+- id: primary_concerns
+  type: multiple_choice
+  prompt: What are your primary skin concerns?
+  required: true
+  options:
+  - Acne/Breakouts
+  - Dryness
+  - Oiliness
+  - Sensitivity
+  - Anti-aging
+  - Uneven tone
+  - Redness
+  - Wrinkles
+  - Dark spots
+  - Pores
+- id: budget_range
+  type: single_choice
+  prompt: What is your monthly skin care budget?
+  required: true
+  options:
+  - Under $25
+  - $25-$50
+  - $50-$100
+  - $100-$200
+  - Over $200
+- id: brand_preference
+  type: multiple_choice
+  prompt: Which skin care brands do you prefer or regularly use?
+  required: false
+  options:
+  - Drugstore brands
+  - Department store brands
+  - Luxury brands
+  - Natural/organic brands
+  - Korean brands
+  - Generic/store brands
+- id: information_sources
+  type: multiple_choice
+  prompt: Where do you typically get your skin care information or product recommendations?
+  required: true
+  options:
+  - Dermatologist
+  - Social media
+  - Friends/Family
+  - Beauty blogs
+  - Retail staff
+  - Magazines/TV
+  - Online reviews
+  - Beauty influencers
+- id: purchase_channels
+  type: multiple_choice
+  prompt: Where do you typically purchase skin care products?
+  required: true
+  options:
+  - Drugstore/pharmacy
+  - Department store
+  - Online retailers
+  - Specialty beauty stores
+  - Direct from brand
+  - Discount stores
+- id: ingredient_importance
+  type: rating
+  prompt: How important are natural/organic ingredients to you?
+  required: true
+  scale: 5
+- id: product_effectiveness
+  type: rating
+  prompt: How effective have your current skin care products been?
+  required: true
+  scale: 5
+- id: routine_consistency
+  type: single_choice
+  prompt: How consistent are you with your skin care routine?
+  required: true
+  options:
+  - Very consistent
+  - Mostly consistent
+  - Sometimes consistent
+  - Rarely consistent
+  - Not consistent at all
+- id: improvement_goals
+  type: long_text
+  prompt: What is one thing you would like to improve about your skin or skin care routine?
+  required: false
+- id: product_recommendations
+  type: long_text
+  prompt: What skin care products or routines would you recommend to others?
+  required: false
+- id: additional_comments
+  type: long_text
+  prompt: Do you have any other comments or suggestions regarding skin care?
+  required: false
+validation_result:
+  status: PASS
+  errors: []

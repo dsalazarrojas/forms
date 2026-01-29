@@ -1,0 +1,89 @@
+title: "Focus Group Survey"
+description: "A survey to gather feedback from a focus group on a new concept"
+category: "Market Research Surveys"
+questions:
+  - id: overall_reaction
+    type: rating
+    prompt: "Overall, how satisfied are you with the concept presented?"
+    required: true
+    scale: 5
+  - id: concept_understanding
+    type: single_choice
+    prompt: "How well did you understand the concept after the presentation?"
+    required: true
+    options: ["Very well", "Well", "Somewhat", "Poorly", "Not at all"]
+  - id: concept_appeal
+    type: rating
+    prompt: "How appealing do you find this concept?"
+    required: true
+    scale: 5
+  - id: concept_relevance
+    type: single_choice
+    prompt: "How relevant is this concept to your needs or interests?"
+    required: true
+    options: ["Very relevant", "Somewhat relevant", "Neutral", "Somewhat irrelevant", "Not relevant"]
+  - id: influencing_aspects
+    type: multiple_choice
+    prompt: "Which aspects of the concept most influenced your opinion?"
+    required: true
+    options: ["Overall idea", "Potential benefits", "Ease of use", "Design aesthetics", "Innovativeness", "Perceived value", "Feasibility"]
+  - id: strengths_identified
+    type: multiple_choice
+    prompt: "What do you see as the main strengths of this concept?"
+    required: true
+    options: ["Unique approach", "Practical application", "Cost effectiveness", "User-friendliness", "Scalability", "Market potential"]
+  - id: weaknesses_identified
+    type: multiple_choice
+    prompt: "What do you see as the main weaknesses of this concept?"
+    required: false
+    options: ["Complexity", "Cost concerns", "Implementation challenges", "Limited appeal", "Technical issues", "Market saturation"]
+  - id: likelihood_to_use
+    type: rating
+    prompt: "How likely would you be to use this concept if it were available?"
+    required: true
+    scale: 10
+  - id: recommendation_intent
+    type: single_choice
+    prompt: "Would you recommend this concept to others?"
+    required: true
+    options: ["Definitely yes", "Probably yes", "Maybe", "Probably not", "Definitely not"]
+  - id: competitor_comparison
+    type: single_choice
+    prompt: "How does this concept compare to existing alternatives?"
+    required: false
+    options: ["Much better", "Better", "About the same", "Worse", "Much worse"]
+  - id: pricing_expectations
+    type: single_choice
+    prompt: "What price range would you expect for this concept?"
+    required: false
+    options: ["Free", "Low cost", "Moderate cost", "High cost", "Premium cost"]
+  - id: target_audience_fit
+    type: single_choice
+    prompt: "Who do you think would be the ideal target audience for this concept?"
+    required: false
+    options: ["General public", "Specific demographic", "Business professionals", "Students", "Specialized group"]
+  - id: implementation_timeline
+    type: single_choice
+    prompt: "How urgent do you think it is to implement this concept?"
+    required: false
+    options: ["Very urgent", "Somewhat urgent", "Neutral", "Not very urgent", "Not urgent at all"]
+  - id: potential_impact
+    type: rating
+    prompt: "What potential impact do you think this concept could have?"
+    required: false
+    scale: 5
+  - id: concerns_raised
+    type: long_text
+    prompt: "What concerns or reservations do you have about this concept?"
+    required: false
+  - id: suggested_improvements
+    type: long_text
+    prompt: "What would you improve or change about the concept?"
+    required: false
+  - id: additional_feedback
+    type: long_text
+    prompt: "Do you have any additional comments or feedback?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

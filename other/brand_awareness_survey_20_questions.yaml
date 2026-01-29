@@ -1,0 +1,109 @@
+title: "Brand Awareness Survey"
+description: "A survey to understand public perception and recognition of our brand"
+category: "Marketing Surveys"
+questions:
+  - id: brand_familiarity
+    type: single_choice
+    prompt: "How familiar are you with our brand?"
+    required: true
+    options: ["Very familiar", "Somewhat familiar", "Heard of it", "Not familiar at all"]
+  - id: brand_discovery_channels
+    type: multiple_choice
+    prompt: "Where have you seen or heard about our brand?"
+    required: true
+    options: ["Social media", "News/articles", "Advertising", "Word-of-mouth", "Website", "Events", "Search engines", "TV/radio"]
+  - id: brand_associations
+    type: text
+    prompt: "What comes to mind when you think of our brand?"
+    required: false
+  - id: overall_impression
+    type: single_choice
+    prompt: "What is your overall impression of our brand?"
+    required: true
+    options: ["Very positive", "Positive", "Neutral", "Negative", "Very negative"]
+  - id: brand_values_perception
+    type: multiple_choice
+    prompt: "Which values do you associate with our brand?"
+    required: false
+    options: ["Innovation", "Quality", "Reliability", "Sustainability", "Customer-focused", "Affordable", "Luxury"]
+  - id: brand_vs_competitors
+    type: single_choice
+    prompt: "How does our brand compare to our competitors?"
+    required: false
+    options: ["Much better", "Better", "About the same", "Worse", "Much worse"]
+  - id: brand_loyalty
+    type: rating
+    prompt: "How loyal are you to our brand?"
+    required: true
+    scale: 5
+  - id: purchase_intent
+    type: single_choice
+    prompt: "How likely are you to purchase from our brand?"
+    required: true
+    options: ["Very likely", "Somewhat likely", "Neutral", "Somewhat unlikely", "Very unlikely"]
+  - id: brand_recommendation
+    type: rating
+    prompt: "How likely are you to recommend our brand to others?"
+    required: true
+    scale: 10
+  - id: brand_trust
+    type: rating
+    prompt: "How much do you trust our brand?"
+    required: true
+    scale: 5
+  - id: brand_social_presence
+    type: single_choice
+    prompt: "How active do you think our brand is on social media?"
+    required: false
+    options: ["Very active", "Somewhat active", "Neutral", "Somewhat inactive", "Very inactive"]
+  - id: brand_innovation
+    type: single_choice
+    prompt: "How innovative do you perceive our brand to be?"
+    required: false
+    options: ["Very innovative", "Somewhat innovative", "Neutral", "Somewhat traditional", "Very traditional"]
+  - id: brand_price_perception
+    type: single_choice
+    prompt: "How would you describe our brand's pricing?"
+    required: false
+    options: ["Very affordable", "Affordable", "Fair", "Expensive", "Very expensive"]
+  - id: brand_target_audience
+    type: single_choice
+    prompt: "Do you feel our brand targets people like you?"
+    required: false
+    options: ["Definitely yes", "Probably yes", "Not sure", "Probably not", "Definitely not"]
+  - id: brand_memorability
+    type: rating
+    prompt: "How memorable is our brand?"
+    required: true
+    scale: 5
+  - id: brand_emotional_connection
+    type: single_choice
+    prompt: "Do you feel an emotional connection to our brand?"
+    required: false
+    options: ["Strong connection", "Some connection", "Neutral", "Little connection", "No connection"]
+  - id: brand_communication
+    type: single_choice
+    prompt: "How effective is our brand's communication?"
+    required: false
+    options: ["Very effective", "Somewhat effective", "Neutral", "Somewhat ineffective", "Very ineffective"]
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What could we do to improve awareness or perception of our brand?"
+    required: false
+  - id: brand_future_expectations
+    type: text
+    prompt: "What do you expect from our brand in the future?"
+    required: false
+  - id: demographic_age
+    type: single_choice
+    prompt: "What is your age group?"
+    required: false
+    options: ["18-24", "25-34", "35-44", "45-54", "55-64", "65+"]
+  - id: demographic_gender
+    type: single_choice
+    prompt: "What is your gender?"
+    required: false
+    options: ["Male", "Female", "Non-binary", "Prefer not to say"]
+validation_result:
+  status: "PASS"
+  errors: []

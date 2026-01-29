@@ -1,0 +1,102 @@
+title: "Post-Graduation Career Outcome Survey"
+description: "Gathering insights on graduates' career paths and experiences to inform future academic programs and student support."
+category: "Education Surveys"
+questions:
+  - id: primary_activity
+    type: single_choice
+    prompt: "What is your primary activity after graduation?"
+    required: true
+    options: ["Full-time employment", "Part-time employment", "Graduate studies", "Entrepreneurship", "Unemployed/seeking", "Other"]
+  - id: employment_relevance
+    type: single_choice
+    prompt: "How relevant is your current employment to your academic major?"
+    required: false
+    options: ["Directly related", "Somewhat related", "Not related", "N/A (not employed)"]
+  - id: career_satisfaction
+    type: single_choice
+    prompt: "How satisfied are you with your post-graduation career path and current situation?"
+    required: true
+    options: ["Very satisfied", "Somewhat satisfied", "Neutral", "Somewhat dissatisfied", "Very dissatisfied"]
+  - id: useful_skills
+    type: multiple_choice
+    prompt: "Which of the following skills from your academic program have been most useful in your career or studies? (Select all that apply)"
+    required: true
+    options: ["Critical thinking", "Problem-solving", "Communication", "Teamwork", "Technical skills", "Research skills", "Leadership", "Time management", "Adaptability"]
+  - id: program_preparation
+    type: single_choice
+    prompt: "How well did your academic program prepare you for your post-graduation endeavors?"
+    required: true
+    options: ["Very well", "Well", "Adequately", "Not very well", "Not at all"]
+  - id: transition_challenges
+    type: text
+    prompt: "What were the biggest challenges you faced in your post-graduation transition?"
+    required: false
+  - id: student_advice
+    type: long_text
+    prompt: "What advice would you give current students preparing for graduation and their careers?"
+    required: false
+  - id: starting_salary_range
+    type: single_choice
+    prompt: "What was your starting salary range after graduation?"
+    required: false
+    options: ["Under $30,000", "$30,000-$49,999", "$50,000-$69,999", "$70,000-$89,999", "$90,000-$109,999", "$110,000+", "Prefer not to say"]
+  - id: job_search_duration
+    type: single_choice
+    prompt: "How long did it take you to find your first job after graduation?"
+    required: false
+    options: ["Less than 1 month", "1-3 months", "3-6 months", "6-12 months", "More than 12 months", "Still searching"]
+  - id: networking_importance
+    type: rating
+    prompt: "How important was networking (alumni connections, career fairs, etc.) in finding your current position?"
+    required: false
+    scale: 5
+  - id: internship_experience
+    type: single_choice
+    prompt: "Did you have internship experience during your studies?"
+    required: true
+    options: ["Yes, multiple internships", "Yes, one internship", "No internships", "Not applicable to my field"]
+  - id: skill_gap_experience
+    type: single_choice
+    prompt: "Did you experience any skill gaps when starting your career?"
+    required: true
+    options: ["Major skill gaps", "Some skill gaps", "Minor skill gaps", "No skill gaps"]
+  - id: continuing_education
+    type: single_choice
+    prompt: "Are you currently pursuing any continuing education or certifications?"
+    required: true
+    options: ["Yes, pursuing advanced degree", "Yes, certifications/training", "No, but planning to", "No, not planning to"]
+  - id: work_life_balance
+    type: rating
+    prompt: "Rate your current work-life balance satisfaction"
+    required: false
+    scale: 5
+  - id: career_progression
+    type: single_choice
+    prompt: "How has your career progressed since graduation?"
+    required: true
+    options: ["Exceeded expectations", "Met expectations", "Below expectations", "Still early in career"]
+  - id: alumni_engagement
+    type: single_choice
+    prompt: "How engaged are you with your alma mater's alumni network?"
+    required: true
+    options: ["Very engaged", "Somewhat engaged", "Not very engaged", "Not at all engaged"]
+  - id: program_recommendation
+    type: rating
+    prompt: "Would you recommend your academic program to others?"
+    required: true
+    scale: 10
+  - id: biggest_achievement
+    type: text
+    prompt: "What is your biggest professional achievement since graduation?"
+    required: false
+  - id: future_goals
+    type: long_text
+    prompt: "What are your professional goals for the next 3-5 years?"
+    required: false
+  - id: program_improvements
+    type: long_text
+    prompt: "What improvements would you suggest for the academic program to better prepare future graduates?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

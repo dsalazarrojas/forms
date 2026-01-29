@@ -1,0 +1,110 @@
+title: "Candidate Experience Survey"
+description: "Help us improve our hiring process and overall candidate journey."
+category: "Business Surveys"
+questions:
+  - id: overall_satisfaction
+    type: rating
+    prompt: "How satisfied are you with your overall candidate experience?"
+    required: true
+    scale: 5
+  - id: job_description_clarity
+    type: single_choice
+    prompt: "How clear was the job description and requirements?"
+    required: true
+    options: ["Very clear", "Clear", "Somewhat clear", "Unclear", "Very unclear"]
+  - id: communication_quality
+    type: rating
+    prompt: "Rate the quality of communication throughout the hiring process"
+    required: true
+    scale: 5
+  - id: application_process_ease
+    type: single_choice
+    prompt: "How easy was the application process?"
+    required: true
+    options: ["Very easy", "Easy", "Neutral", "Difficult", "Very difficult"]
+  - id: response_time_satisfaction
+    type: single_choice
+    prompt: "How satisfied were you with the response time at each stage?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: interview_experience
+    type: rating
+    prompt: "Rate your overall interview experience"
+    required: true
+    scale: 5
+  - id: interviewer_professionalism
+    type: single_choice
+    prompt: "How professional were the interviewers?"
+    required: true
+    options: ["Very professional", "Professional", "Neutral", "Unprofessional", "Very unprofessional"]
+  - id: interview_format_preference
+    type: multiple_choice
+    prompt: "Which interview formats did you participate in? (select all that apply)"
+    required: false
+    options: ["Phone screening", "Video interview", "In-person interview", "Panel interview", "Technical assessment", "Case study"]
+  - id: company_research_opportunity
+    type: single_choice
+    prompt: "Did you have adequate opportunity to research the company?"
+    required: true
+    options: ["Yes, plenty", "Somewhat", "Limited", "Very limited", "No opportunity"]
+  - id: diversity_inclusion_feeling
+    type: single_choice
+    prompt: "How inclusive did the hiring process feel?"
+    required: false
+    options: ["Very inclusive", "Somewhat inclusive", "Neutral", "Somewhat exclusive", "Very exclusive"]
+  - id: offer_process_satisfaction
+    type: single_choice
+    prompt: "If you received an offer, how satisfied were you with the offer process?"
+    required: false
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: salary_transparency
+    type: single_choice
+    prompt: "How transparent was the discussion about compensation?"
+    required: false
+    options: ["Very transparent", "Somewhat transparent", "Neutral", "Somewhat opaque", "Very opaque"]
+  - id: company_values_alignment
+    type: rating
+    prompt: "How well did the company values align with your expectations?"
+    required: true
+    scale: 5
+  - id: referral_process
+    type: single_choice
+    prompt: "If you were referred by someone, how was that process?"
+    required: false
+    options: ["Very smooth", "Smooth", "Neutral", "Difficult", "Very difficult"]
+  - id: technology_used
+    type: multiple_choice
+    prompt: "Which technologies/platforms were used in the process? (select all that apply)"
+    required: false
+    options: ["Applicant tracking system", "Video interviewing platform", "Assessment tools", "Email communication", "Phone calls", "In-person meetings"]
+  - id: decision_timeline
+    type: single_choice
+    prompt: "How reasonable was the timeline for hiring decisions?"
+    required: true
+    options: ["Very reasonable", "Reasonable", "Neutral", "Unreasonable", "Very unreasonable"]
+  - id: candidate_portal_usability
+    type: rating
+    prompt: "If you used a candidate portal, rate its usability"
+    required: false
+    scale: 5
+  - id: feedback_quality
+    type: single_choice
+    prompt: "How helpful was the feedback you received (if any)?"
+    required: false
+    options: ["Very helpful", "Somewhat helpful", "Neutral", "Somewhat unhelpful", "Very unhelpful"]
+  - id: recommendation_likelihood
+    type: rating
+    prompt: "How likely are you to recommend our company as a place to work?"
+    required: true
+    scale: 10
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What specific changes would improve our candidate experience?"
+    required: false
+  - id: additional_feedback
+    type: long_text
+    prompt: "Do you have any other feedback or comments about your experience?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

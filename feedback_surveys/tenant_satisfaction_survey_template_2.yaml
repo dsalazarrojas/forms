@@ -1,0 +1,100 @@
+title: "Tenant Satisfaction Survey"
+description: "Gathering feedback to improve tenant living experience"
+category: "Housing Surveys"
+questions:
+  - id: overall_satisfaction
+    type: rating
+    prompt: "Overall, how satisfied are you with your living experience as a tenant?"
+    required: true
+    scale: 5
+  - id: property_condition
+    type: single_choice
+    prompt: "How would you rate the overall condition of the property?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: maintenance_responsiveness
+    type: single_choice
+    prompt: "How satisfied are you with the responsiveness to maintenance requests?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied", "Not applicable"]
+  - id: management_communication
+    type: single_choice
+    prompt: "How would you rate communication from property management/landlord?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: cleanliness_rating
+    type: rating
+    prompt: "How clean and well-maintained are common areas?"
+    required: true
+    scale: 5
+  - id: safety_feeling
+    type: single_choice
+    prompt: "How safe do you feel in your living environment?"
+    required: true
+    options: ["Very safe", "Safe", "Neutral", "Unsafe", "Very unsafe"]
+  - id: noise_levels
+    type: rating
+    prompt: "How would you rate the noise levels in and around the property?"
+    required: true
+    scale: 5
+  - id: amenities_satisfaction
+    type: single_choice
+    prompt: "How satisfied are you with the available amenities?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied", "No amenities available"]
+  - id: location_convenience
+    type: rating
+    prompt: "How convenient is the location for your needs?"
+    required: true
+    scale: 5
+  - id: parking_situation
+    type: single_choice
+    prompt: "How adequate is the parking situation?"
+    required: true
+    options: ["Excellent", "Good", "Adequate", "Poor", "Very poor"]
+  - id: value_for_rent
+    type: rating
+    prompt: "How would you rate the value for money considering your rent?"
+    required: true
+    scale: 5
+  - id: community_atmosphere
+    type: single_choice
+    prompt: "How would you describe the community atmosphere?"
+    required: true
+    options: ["Very welcoming", "Welcoming", "Neutral", "Unwelcoming", "Very unwelcoming"]
+  - id: neighbor_relations
+    type: rating
+    prompt: "How positive are your relationships with neighbors?"
+    required: true
+    scale: 5
+  - id: lease_terms_satisfaction
+    type: single_choice
+    prompt: "How satisfied are you with the lease terms and conditions?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: move_in_experience
+    type: rating
+    prompt: "How smooth was your move-in experience?"
+    required: true
+    scale: 5
+  - id: important_aspects
+    type: multiple_choice
+    prompt: "Which aspects of the property or community are most important to you?"
+    required: true
+    options: ["Cleanliness", "Safety", "Quietness", "Amenities (gym, pool)", "Parking", "Location", "Neighborliness", "Property management"]
+  - id: likelihood_to_recommend
+    type: rating
+    prompt: "How likely are you to recommend this property to a friend or colleague?"
+    required: true
+    scale: 10
+  - id: improvement_suggestions
+    type: text
+    prompt: "What could significantly improve your living experience here?"
+    required: false
+  - id: additional_feedback
+    type: long_text
+    prompt: "Do you have any additional comments or suggestions?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

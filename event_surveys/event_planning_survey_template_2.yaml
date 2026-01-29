@@ -1,0 +1,99 @@
+title: "Event Planning Survey"
+description: "Gathering comprehensive feedback on our recent event to improve future nonprofit activities and community engagement."
+category: "Event Surveys"
+questions:
+  - id: overall_satisfaction
+    type: rating
+    prompt: "How satisfied were you with the overall event experience?"
+    required: true
+    scale: 5
+  - id: event_objectives
+    type: single_choice
+    prompt: "Did the event meet its stated objectives?"
+    required: true
+    options: ["Completely met", "Mostly met", "Partially met", "Minimally met", "Did not meet"]
+  - id: valuable_sessions
+    type: multiple_choice
+    prompt: "Which aspects or sessions did you find most valuable?"
+    required: true
+    options: ["Keynote speaker", "Workshop sessions", "Networking opportunities", "Panel discussions", "Informational booths", "Volunteer activities", "Community outreach", "Educational content", "Interactive activities", "Social impact focus"]
+  - id: content_relevance
+    type: rating
+    prompt: "How relevant was the event content to your interests?"
+    required: true
+    scale: 5
+  - id: organization_quality
+    type: single_choice
+    prompt: "Was the event well-organized and easy to navigate?"
+    required: true
+    options: ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]
+  - id: volunteer_coordination
+    type: single_choice
+    prompt: "If you volunteered, how well was volunteer coordination handled?"
+    required: false
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: accessibility
+    type: single_choice
+    prompt: "How accessible was the event for all participants?"
+    required: true
+    options: ["Very accessible", "Accessible", "Somewhat accessible", "Not very accessible", "Not accessible"]
+  - id: community_impact
+    type: rating
+    prompt: "Rate the event's positive impact on the community"
+    required: true
+    scale: 5
+  - id: partnership_quality
+    type: single_choice
+    prompt: "How effective were the partnerships and collaborations showcased?"
+    required: true
+    options: ["Very effective", "Effective", "Neutral", "Ineffective", "Very ineffective"]
+  - id: resource_utilization
+    type: single_choice
+    prompt: "Were event resources (materials, handouts, etc.) useful?"
+    required: true
+    options: ["Very useful", "Useful", "Somewhat useful", "Not very useful", "Not useful"]
+  - id: attendance_motivation
+    type: single_choice
+    prompt: "What was your primary motivation for attending this event?"
+    required: true
+    options: ["Support the cause", "Learn something new", "Network with others", "Socialize", "Specific speaker/topic", "Professional development", "Community involvement", "Volunteer opportunity"]
+  - id: demographic_reach
+    type: single_choice
+    prompt: "Did the event successfully reach diverse community demographics?"
+    required: true
+    options: ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]
+  - id: future_engagement
+    type: single_choice
+    prompt: "How likely are you to attend a similar event organized by us in the future?"
+    required: true
+    options: ["Very likely", "Likely", "Neutral", "Unlikely", "Very unlikely"]
+  - id: volunteer_interest
+    type: single_choice
+    prompt: "Would you be interested in volunteering for future events?"
+    required: true
+    options: ["Very interested", "Interested", "Neutral", "Not interested", "Not at all interested"]
+  - id: partnership_opportunities
+    type: text
+    prompt: "Do you know of any organizations that would make good partners for future events?"
+    required: false
+  - id: program_suggestions
+    type: long_text
+    prompt: "What new programs or activities would you like to see at future events?"
+    required: false
+  - id: improvement_priorities
+    type: multiple_choice
+    prompt: "Which areas should be prioritized for improvement in future events?"
+    required: false
+    options: ["Content quality", "Organization", "Accessibility", "Community outreach", "Volunteer coordination", "Partnerships", "Resource quality", "Demographic diversity"]
+  - id: success_metrics
+    type: single_choice
+    prompt: "What would make future events more successful for you?"
+    required: false
+    options: ["More educational content", "Better networking", "Increased community impact", "More volunteer opportunities", "Improved accessibility", "Better organization", "More diverse programming"]
+  - id: additional_feedback
+    type: long_text
+    prompt: "Do you have any additional comments or suggestions for future events?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

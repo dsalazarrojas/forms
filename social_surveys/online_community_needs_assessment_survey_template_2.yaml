@@ -1,0 +1,104 @@
+title: "Online Community Needs Assessment Survey"
+description: "Gathering insights to improve our online community experience and support our members"
+category: "Community Surveys"
+questions:
+  - id: overall_satisfaction
+    type: rating
+    prompt: "How satisfied are you with our online community platform?"
+    required: true
+    scale: 5
+  - id: engagement_frequency
+    type: single_choice
+    prompt: "How often do you engage with our online community?"
+    required: true
+    options: ["Daily", "Weekly", "Monthly", "Rarely", "Never"]
+  - id: primary_uses
+    type: multiple_choice
+    prompt: "What do you primarily use our online community for? (select all that apply)"
+    required: true
+    options: ["Networking", "Information sharing", "Support/Advice", "Event announcements", "General discussion", "Resource discovery"]
+  - id: community_size_perception
+    type: single_choice
+    prompt: "How would you describe the size of our online community?"
+    required: true
+    options: ["Too small", "Just right", "Too large", "Not sure"]
+  - id: content_quality
+    type: rating
+    prompt: "Rate the quality of content shared in our community"
+    required: true
+    scale: 5
+  - id: moderation_effectiveness
+    type: single_choice
+    prompt: "How effective is the community moderation?"
+    required: true
+    options: ["Very effective", "Somewhat effective", "Neutral", "Somewhat ineffective", "Very ineffective"]
+  - id: platform_usability
+    type: rating
+    prompt: "How easy is it to navigate and use our community platform?"
+    required: true
+    scale: 5
+  - id: mobile_experience
+    type: single_choice
+    prompt: "How is your experience using the community on mobile devices?"
+    required: true
+    options: ["Excellent", "Good", "Average", "Poor", "Very poor"]
+  - id: notification_preferences
+    type: multiple_choice
+    prompt: "Which types of notifications would you like to receive? (select all that apply)"
+    required: false
+    options: ["New posts in followed topics", "Direct messages", "Event announcements", "Weekly digests", "Member updates"]
+  - id: networking_opportunities
+    type: rating
+    prompt: "Rate the networking opportunities available in our community"
+    required: true
+    scale: 5
+  - id: resource_accessibility
+    type: single_choice
+    prompt: "How easy is it to find and access community resources?"
+    required: true
+    options: ["Very easy", "Easy", "Moderate", "Difficult", "Very difficult"]
+  - id: community_events_participation
+    type: single_choice
+    prompt: "How often do you participate in community events or discussions?"
+    required: true
+    options: ["Very frequently", "Frequently", "Occasionally", "Rarely", "Never"]
+  - id: diversity_inclusion
+    type: rating
+    prompt: "How well does the community promote diversity and inclusion?"
+    required: true
+    scale: 5
+  - id: member_support_quality
+    type: single_choice
+    prompt: "Rate the quality of support you receive from other community members"
+    required: true
+    options: ["Excellent", "Good", "Average", "Poor", "Very poor"]
+  - id: platform_features_usage
+    type: multiple_choice
+    prompt: "Which platform features do you use regularly? (select all that apply)"
+    required: false
+    options: ["Discussion forums", "Private messaging", "File sharing", "Polls and surveys", "Live events", "Resource library"]
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What improvements would you suggest for our online community?"
+    required: false
+  - id: feature_requests
+    type: text
+    prompt: "What new features would you like to see added to the community?"
+    required: false
+  - id: community_value
+    type: rating
+    prompt: "Overall, how valuable do you find our online community?"
+    required: true
+    scale: 10
+  - id: likelihood_to_recommend
+    type: rating
+    prompt: "How likely are you to recommend our community to others?"
+    required: true
+    scale: 10
+  - id: additional_feedback
+    type: long_text
+    prompt: "Is there anything else you'd like to share about our online community?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

@@ -1,0 +1,164 @@
+title: Customer Satisfaction Survey
+description: Help us improve by sharing your comprehensive feedback on our product or service and your overall satisfaction.
+category: Customer Satisfaction
+questions:
+- id: overall_satisfaction
+  type: single_choice
+  prompt: Overall, how satisfied are you with our product or service?
+  required: true
+  options:
+  - Very satisfied
+  - Somewhat satisfied
+  - Neutral
+  - Somewhat dissatisfied
+  - Very dissatisfied
+- id: support_quality_rating
+  type: single_choice
+  prompt: How would you rate the quality of our customer support?
+  required: true
+  options:
+  - Excellent
+  - Good
+  - Fair
+  - Poor
+  - Not applicable
+- id: important_features
+  type: multiple_choice
+  prompt: Which of the following features are most important to you? (Select all that apply)
+  required: false
+  options:
+  - Ease of use
+  - Performance
+  - Reliability
+  - Feature set
+  - Integrations
+  - Price
+  - Customer support
+  - Documentation
+- id: expectations_met
+  type: single_choice
+  prompt: Did our product or service meet your expectations?
+  required: true
+  options:
+  - Exceeded expectations
+  - Met expectations
+  - Partially met
+  - Did not meet
+- id: satisfaction_trend
+  type: single_choice
+  prompt: Compared to your initial experience, how has your satisfaction changed?
+  required: false
+  options:
+  - Much more satisfied now
+  - Somewhat more satisfied
+  - About the same
+  - Somewhat less satisfied
+  - Much less satisfied
+- id: product_usability
+  type: rating
+  prompt: How would you rate the usability of our product/service?
+  required: true
+  scale: 5
+- id: performance_satisfaction
+  type: rating
+  prompt: How satisfied are you with the performance of our product/service?
+  required: true
+  scale: 5
+- id: reliability_satisfaction
+  type: rating
+  prompt: How satisfied are you with the reliability of our product/service?
+  required: true
+  scale: 5
+- id: value_satisfaction
+  type: rating
+  prompt: How satisfied are you with the value for money of our product/service?
+  required: true
+  scale: 5
+- id: communication_satisfaction
+  type: single_choice
+  prompt: How satisfied are you with our communication and updates?
+  required: true
+  options:
+  - Very satisfied
+  - Somewhat satisfied
+  - Neutral
+  - Somewhat dissatisfied
+  - Very dissatisfied
+- id: onboarding_experience
+  type: single_choice
+  prompt: How would you rate your onboarding experience?
+  required: false
+  options:
+  - Excellent
+  - Good
+  - Fair
+  - Poor
+  - Did not use onboarding
+- id: feature_utilization
+  type: multiple_choice
+  prompt: Which features do you use most frequently? (Select all that apply)
+  required: false
+  options:
+  - Core functionality
+  - Advanced features
+  - Reporting/analytics
+  - Integrations
+  - Mobile access
+  - Collaboration tools
+- id: competitor_comparison
+  type: single_choice
+  prompt: How does our product/service compare to competitors you've used?
+  required: false
+  options:
+  - Much better
+  - Somewhat better
+  - About the same
+  - Somewhat worse
+  - Much worse
+- id: loyalty_indicators
+  type: single_choice
+  prompt: How committed are you to continuing with our product/service?
+  required: true
+  options:
+  - Very committed
+  - Somewhat committed
+  - Neutral
+  - Not very committed
+  - Not committed at all
+- id: nps_score
+  type: rating
+  prompt: On a scale of 0-10, how likely are you to recommend us to others?
+  required: true
+  scale: 10
+- id: repurchase_intent
+  type: single_choice
+  prompt: How likely are you to purchase from us again?
+  required: true
+  options:
+  - Very likely
+  - Likely
+  - Neutral
+  - Unlikely
+  - Very unlikely
+- id: improvement_areas
+  type: multiple_choice
+  prompt: Which areas need the most improvement? (Select all that apply)
+  required: false
+  options:
+  - Product features
+  - Customer support
+  - Pricing
+  - Performance
+  - Usability
+  - Documentation
+- id: experience_improvement
+  type: text
+  prompt: What could we do to improve your experience with us?
+  required: false
+- id: additional_feedback
+  type: long_text
+  prompt: Do you have any additional feedback or suggestions?
+  required: false
+validation_result:
+  status: PASS
+  errors: []

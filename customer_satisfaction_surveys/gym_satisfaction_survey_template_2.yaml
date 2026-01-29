@@ -1,0 +1,100 @@
+title: "Gym Satisfaction Survey"
+description: "Quick survey to gauge member satisfaction and gather feedback for improvements"
+category: "Customer Experience Surveys"
+questions:
+  - id: overall_satisfaction
+    type: rating
+    prompt: "Overall, how satisfied are you with your gym experience?"
+    required: true
+    scale: 5
+  - id: facilities_cleanliness
+    type: single_choice
+    prompt: "How would you rate the cleanliness and maintenance of the gym facilities?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very Poor"]
+  - id: equipment_quality
+    type: single_choice
+    prompt: "How would you rate the availability and quality of exercise equipment?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very Poor"]
+  - id: equipment_condition
+    type: rating
+    prompt: "How would you rate the condition and maintenance of equipment?"
+    required: true
+    scale: 5
+  - id: services_used
+    type: multiple_choice
+    prompt: "Which of the following gym services or areas do you use?"
+    required: true
+    options: ["Weight room", "Cardio area", "Group classes", "Swimming pool", "Personal training", "Sauna/Spa", "Locker rooms", "Café"]
+  - id: visit_frequency
+    type: single_choice
+    prompt: "How often do you typically visit the gym each week?"
+    required: true
+    options: ["5+ times", "3-4 times", "1-2 times", "Less than once"]
+  - id: staff_friendliness
+    type: rating
+    prompt: "How would you rate the friendliness and helpfulness of staff?"
+    required: true
+    scale: 5
+  - id: staff_knowledge
+    type: single_choice
+    prompt: "How knowledgeable are the staff about fitness and equipment?"
+    required: true
+    options: ["Very knowledgeable", "Knowledgeable", "Somewhat knowledgeable", "Not very knowledgeable", "Unknowledgeable"]
+  - id: class_quality
+    type: rating
+    prompt: "How would you rate the quality of group fitness classes?"
+    required: false
+    scale: 5
+  - id: class_variety
+    type: single_choice
+    prompt: "How satisfied are you with the variety of classes offered?"
+    required: false
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: personal_training
+    type: rating
+    prompt: "If you've used personal training, how would you rate the experience?"
+    required: false
+    scale: 5
+  - id: membership_value
+    type: single_choice
+    prompt: "Do you feel you're getting good value for your membership fee?"
+    required: true
+    options: ["Excellent value", "Good value", "Fair value", "Poor value", "Very poor value"]
+  - id: hours_convenience
+    type: single_choice
+    prompt: "How convenient are the gym's operating hours for you?"
+    required: true
+    options: ["Very convenient", "Convenient", "Somewhat convenient", "Inconvenient", "Very inconvenient"]
+  - id: amenities_quality
+    type: rating
+    prompt: "How would you rate the quality of additional amenities (showers, lockers, etc.)?"
+    required: false
+    scale: 5
+  - id: technology_apps
+    type: single_choice
+    prompt: "How user-friendly is the gym's mobile app or check-in system?"
+    required: false
+    options: ["Very user-friendly", "User-friendly", "Neutral", "Not very user-friendly", "Difficult to use"]
+  - id: community_atmosphere
+    type: rating
+    prompt: "How would you rate the overall atmosphere and community feel?"
+    required: true
+    scale: 5
+  - id: recommendation_likelihood
+    type: rating
+    prompt: "How likely are you to recommend this gym to others?"
+    required: true
+    scale: 10
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What specific improvements would you suggest for our gym?"
+    required: false
+  - id: additional_feedback
+    type: long_text
+    prompt: "Do you have any additional comments or feedback?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

@@ -1,0 +1,102 @@
+title: "Consumer Preference Survey"
+description: "Gather insights on consumer preferences for a new concept"
+category: "Marketing Surveys"
+questions:
+  - id: concept_satisfaction
+    type: single_choice
+    prompt: "How satisfied are you with this concept?"
+    required: true
+    options: ["Very satisfied", "Somewhat satisfied", "Neutral", "Somewhat dissatisfied", "Very dissatisfied"]
+  - id: influencing_aspects
+    type: multiple_choice
+    prompt: "Which aspects influenced your opinion of this concept?"
+    required: true
+    options: ["Design", "Price", "Performance", "Features", "Support", "Usability", "Brand", "Innovation"]
+  - id: adoption_likelihood
+    type: single_choice
+    prompt: "How likely are you to adopt or use this concept?"
+    required: true
+    options: ["Very likely", "Somewhat likely", "Neutral", "Not very likely", "Not at all likely"]
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What would you improve or change about this concept?"
+    required: false
+  - id: additional_feedback
+    type: long_text
+    prompt: "Do you have any additional comments or feedback?"
+    required: false
+  - id: price_sensitivity
+    type: single_choice
+    prompt: "What price range would you expect for this concept?"
+    required: false
+    options: ["Under $10", "$10-50", "$50-100", "$100-500", "Over $500"]
+  - id: competitor_comparison
+    type: single_choice
+    prompt: "How does this concept compare to existing alternatives?"
+    required: false
+    options: ["Much better", "Better", "About the same", "Worse", "Much worse"]
+  - id: target_audience_fit
+    type: boolean
+    prompt: "Do you feel this concept is targeted toward people like you?"
+    required: false
+  - id: feature_priorities
+    type: multiple_choice
+    prompt: "Which features are most important to you?"
+    required: false
+    options: ["Ease of use", "Performance", "Cost", "Features", "Support", "Design", "Reliability"]
+  - id: purchase_intent
+    type: rating
+    prompt: "Rate your interest in purchasing this concept"
+    required: true
+    scale: 5
+  - id: recommendation_likelihood
+    type: rating
+    prompt: "How likely are you to recommend this concept to others?"
+    required: true
+    scale: 10
+  - id: brand_perception
+    type: single_choice
+    prompt: "What is your overall perception of the brand behind this concept?"
+    required: false
+    options: ["Very positive", "Positive", "Neutral", "Negative", "Very negative"]
+  - id: timing_importance
+    type: single_choice
+    prompt: "How important is the timing of this concept's launch?"
+    required: false
+    options: ["Very important", "Somewhat important", "Neutral", "Somewhat unimportant", "Very unimportant"]
+  - id: market_need
+    type: rating
+    prompt: "How well does this concept address a market need?"
+    required: true
+    scale: 5
+  - id: unique_selling_points
+    type: text
+    prompt: "What makes this concept unique compared to others?"
+    required: false
+  - id: concerns_feedback
+    type: text
+    prompt: "What concerns or hesitations do you have about this concept?"
+    required: false
+  - id: demographic_age
+    type: single_choice
+    prompt: "What is your age group?"
+    required: false
+    options: ["18-24", "25-34", "35-44", "45-54", "55-64", "65+"]
+  - id: demographic_gender
+    type: single_choice
+    prompt: "What is your gender?"
+    required: false
+    options: ["Male", "Female", "Non-binary", "Prefer not to say"]
+  - id: usage_context
+    type: single_choice
+    prompt: "In what context would you most likely use this concept?"
+    required: false
+    options: ["Personal use", "Professional use", "Both", "Neither"]
+  - id: overall_rating
+    type: rating
+    prompt: "Rate your overall impression of this concept"
+    required: true
+    scale: 5
+validation_result:
+  status: "PASS"
+  errors: []

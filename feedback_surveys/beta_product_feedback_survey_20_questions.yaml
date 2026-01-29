@@ -1,0 +1,107 @@
+title: "Beta Product Feedback Survey"
+description: "Gathering insights from beta users to improve our product"
+category: "Business Surveys"
+questions:
+  - id: overall_satisfaction
+    type: rating
+    prompt: "How satisfied are you with the overall beta product experience?"
+    required: true
+    scale: 5
+  - id: primary_features_used
+    type: multiple_choice
+    prompt: "Which features did you use most during the beta testing?"
+    required: true
+    options: ["Core functionality", "User interface", "Performance", "Integration", "Reporting", "Security", "Mobile app"]
+  - id: ease_of_onboarding
+    type: single_choice
+    prompt: "How easy was it to get started with the beta product?"
+    required: true
+    options: ["Very easy", "Easy", "Neutral", "Difficult", "Very difficult"]
+  - id: performance_rating
+    type: rating
+    prompt: "Rate the performance and speed of the product"
+    required: true
+    scale: 5
+  - id: stability_issues
+    type: single_choice
+    prompt: "Did you experience any crashes or stability issues?"
+    required: true
+    options: ["No issues", "Minor issues", "Moderate issues", "Major issues", "Constant issues"]
+  - id: user_interface_design
+    type: rating
+    prompt: "How would you rate the user interface design?"
+    required: true
+    scale: 5
+  - id: feature_completeness
+    type: single_choice
+    prompt: "How complete do you feel the feature set is?"
+    required: true
+    options: ["Very complete", "Mostly complete", "Somewhat complete", "Incomplete", "Very incomplete"]
+  - id: integration_experience
+    type: multiple_choice
+    prompt: "Which integrations did you test and how did they perform?"
+    required: false
+    options: ["API integration", "Third-party tools", "Data import/export", "Cloud services", "None tested"]
+  - id: customer_support_quality
+    type: rating
+    prompt: "Rate the quality of customer support during beta testing"
+    required: false
+    scale: 5
+  - id: documentation_quality
+    type: single_choice
+    prompt: "How helpful was the product documentation?"
+    required: true
+    options: ["Very helpful", "Somewhat helpful", "Neutral", "Somewhat unhelpful", "Very unhelpful"]
+  - id: beta_duration
+    type: single_choice
+    prompt: "How long have you been using the beta product?"
+    required: true
+    options: ["Less than 1 week", "1-2 weeks", "2-4 weeks", "1-3 months", "More than 3 months"]
+  - id: key_benefits
+    type: long_text
+    prompt: "What are the key benefits you've experienced from using this beta product?"
+    required: false
+  - id: major_pain_points
+    type: long_text
+    prompt: "What are the major pain points or frustrations you've encountered?"
+    required: false
+  - id: missing_features
+    type: text
+    prompt: "What important features are missing from the current beta?"
+    required: false
+  - id: pricing_expectations
+    type: single_choice
+    prompt: "What price range would you expect for this product?"
+    required: false
+    options: ["Free", "Under $10/month", "$10-50/month", "$50-100/month", "$100+/month"]
+  - id: competitor_comparison
+    type: single_choice
+    prompt: "How does this beta product compare to similar products you've used?"
+    required: false
+    options: ["Much better", "Better", "About the same", "Worse", "Much worse"]
+  - id: likelihood_to_continue
+    type: rating
+    prompt: "How likely are you to continue using this product after beta?"
+    required: true
+    scale: 10
+  - id: recommendation_score
+    type: rating
+    prompt: "How likely are you to recommend this beta product to others?"
+    required: true
+    scale: 10
+  - id: most_valuable_feature
+    type: text
+    prompt: "What is the most valuable feature you've discovered?"
+    required: false
+  - id: improvement_priorities
+    type: multiple_choice
+    prompt: "Which areas should be prioritized for improvement?"
+    required: false
+    options: ["Performance", "Usability", "Features", "Documentation", "Support", "Security"]
+  - id: additional_feedback
+    type: long_text
+    prompt: "Any additional comments or suggestions for the development team?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

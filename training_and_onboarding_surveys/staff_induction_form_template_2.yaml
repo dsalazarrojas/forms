@@ -1,0 +1,104 @@
+title: "Staff Induction Form"
+description: "Feedback on your induction and initial experience within the organization"
+category: "HR Surveys"
+questions:
+  - id: overall_satisfaction
+    type: rating
+    prompt: "Overall, how satisfied are you with your role at the organization?"
+    required: true
+    scale: 5
+  - id: induction_process_rating
+    type: rating
+    prompt: "How would you rate the induction process overall?"
+    required: true
+    scale: 5
+  - id: onboarding_duration
+    type: single_choice
+    prompt: "How long did the induction process take to complete?"
+    required: true
+    options: ["Too long", "About right", "Too short", "Not sure"]
+  - id: role_clarity
+    type: rating
+    prompt: "How clear were your role expectations and responsibilities after induction?"
+    required: true
+    scale: 5
+  - id: team_introduction_quality
+    type: rating
+    prompt: "How effective were the team introductions and meetings?"
+    required: true
+    scale: 5
+  - id: company_culture_understanding
+    type: single_choice
+    prompt: "How well do you understand the company culture and values?"
+    required: true
+    options: ["Very well", "Well", "Somewhat", "Poorly", "Not at all"]
+  - id: it_systems_training
+    type: rating
+    prompt: "How adequate was the training on IT systems and tools?"
+    required: true
+    scale: 5
+  - id: hr_policies_clarity
+    type: single_choice
+    prompt: "How clear were the explanations of HR policies and procedures?"
+    required: true
+    options: ["Very clear", "Clear", "Somewhat clear", "Unclear", "Very unclear"]
+  - id: workspace_setup
+    type: rating
+    prompt: "How well was your workspace and equipment set up?"
+    required: true
+    scale: 5
+  - id: management_communication
+    type: rating
+    prompt: "How would you rate the communication from management?"
+    required: true
+    scale: 5
+  - id: mentor_buddy_system
+    type: single_choice
+    prompt: "Did you have access to a mentor or buddy system during induction?"
+    required: true
+    options: ["Yes, very helpful", "Yes, somewhat helpful", "Yes, but not helpful", "No, but would have liked one", "No, and didn't need one"]
+  - id: professional_development_support
+    type: single_choice
+    prompt: "Do you feel supported in your professional development?"
+    required: true
+    options: ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]
+  - id: workload_expectations
+    type: rating
+    prompt: "How realistic were your initial workload expectations?"
+    required: true
+    scale: 5
+  - id: company_resources_access
+    type: multiple_choice
+    prompt: "Which company resources have you been able to access successfully? (select all that apply)"
+    required: true
+    options: ["Email system", "Internal intranet", "HR portal", "Project management tools", "Company database", "Meeting rooms", "Other software tools"]
+  - id: first_week_experience
+    type: single_choice
+    prompt: "How would you describe your experience in the first week?"
+    required: true
+    options: ["Overwhelming", "Challenging but manageable", "Smooth transition", "Exciting", "Disappointing"]
+  - id: induction_most_helpful
+    type: multiple_choice
+    prompt: "Which aspects of the induction process were most helpful? (select all that apply)"
+    required: true
+    options: ["Company culture introduction", "IT systems training", "HR policies explanation", "Team introductions", "Role clarity sessions", "Workspace setup", "Management meetings"]
+  - id: induction_improvements
+    type: long_text
+    prompt: "What could be improved about the induction process?"
+    required: false
+  - id: additional_support_needed
+    type: text
+    prompt: "What additional support do you need in your first month?"
+    required: false
+  - id: overall_recommendation
+    type: rating
+    prompt: "Would you recommend our induction process to others?"
+    required: true
+    scale: 10
+  - id: additional_comments
+    type: long_text
+    prompt: "Do you have any additional comments or suggestions?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

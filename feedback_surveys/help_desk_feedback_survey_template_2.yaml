@@ -1,0 +1,95 @@
+title: "Help Desk Feedback Survey"
+description: "Gather insights to improve our help desk service and user experience"
+category: "Customer Service Surveys"
+questions:
+  - id: overall_satisfaction
+    type: rating
+    prompt: "Overall, how satisfied were you with your recent help desk experience?"
+    required: true
+    scale: 5
+  - id: initial_response_time
+    type: single_choice
+    prompt: "How quickly did you receive an initial response?"
+    required: true
+    options: ["Immediately", "Within minutes", "Within hours", "Within 1 day", "More than 1 day"]
+  - id: resolution_time
+    type: single_choice
+    prompt: "How quickly was your issue resolved?"
+    required: true
+    options: ["Immediately", "Within hours", "Within 1-2 days", "More than 2 days", "Not yet resolved"]
+  - id: agent_knowledge
+    type: rating
+    prompt: "How knowledgeable was the help desk agent?"
+    required: true
+    scale: 5
+  - id: agent_friendliness
+    type: rating
+    prompt: "How friendly and courteous was the help desk agent?"
+    required: true
+    scale: 5
+  - id: agent_efficiency
+    type: rating
+    prompt: "How efficient was the help desk agent in handling your issue?"
+    required: true
+    scale: 5
+  - id: communication_clarity
+    type: single_choice
+    prompt: "How clear and helpful was the communication throughout the process?"
+    required: true
+    options: ["Very clear and helpful", "Clear", "Somewhat clear", "Unclear", "Not helpful"]
+  - id: resolution_effectiveness
+    type: single_choice
+    prompt: "How effective was the final resolution to your issue?"
+    required: true
+    options: ["Completely resolved", "Mostly resolved", "Partially resolved", "Not resolved", "Made worse"]
+  - id: empathy_understanding
+    type: rating
+    prompt: "How well did the agent understand and empathize with your situation?"
+    required: true
+    scale: 5
+  - id: process_ease
+    type: single_choice
+    prompt: "How easy was the overall help desk process?"
+    required: true
+    options: ["Very easy", "Easy", "Neutral", "Difficult", "Very difficult"]
+  - id: self_service_options
+    type: single_choice
+    prompt: "How helpful were the self-service options (knowledge base, FAQs, etc.)?"
+    required: false
+    options: ["Very helpful", "Helpful", "Neutral", "Not helpful", "Didn't use"]
+  - id: follow_up_quality
+    type: rating
+    prompt: "How would you rate any follow-up communication?"
+    required: false
+    scale: 5
+  - id: technology_tools
+    type: single_choice
+    prompt: "How user-friendly were the technology and tools used?"
+    required: true
+    options: ["Very user-friendly", "User-friendly", "Neutral", "Not user-friendly", "Very difficult"]
+  - id: escalation_process
+    type: single_choice
+    prompt: "If your issue was escalated, how smooth was that process?"
+    required: false
+    options: ["Very smooth", "Smooth", "Neutral", "Somewhat difficult", "Very difficult"]
+  - id: contact_method_satisfaction
+    type: single_choice
+    prompt: "How satisfied were you with the contact method you used?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: recommendation_likelihood
+    type: rating
+    prompt: "How likely are you to recommend our help desk service?"
+    required: true
+    scale: 10
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What specific aspects of our help desk service could be improved?"
+    required: false
+  - id: additional_comments
+    type: long_text
+    prompt: "Do you have any additional comments or suggestions?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

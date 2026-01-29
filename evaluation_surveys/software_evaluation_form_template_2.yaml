@@ -1,0 +1,136 @@
+title: Software Evaluation Form
+description: Comprehensive feedback collection on your recent experience with the software to guide future improvements.
+category: Software
+questions:
+- id: overall_satisfaction
+  type: rating
+  prompt: Overall, how satisfied are you with the software?
+  required: true
+  scale: 5
+- id: usage_frequency
+  type: single_choice
+  prompt: How often do you typically use this software?
+  required: true
+  options:
+  - Daily (multiple times)
+  - Daily (once)
+  - Several times a week
+  - Weekly
+  - Monthly
+  - Rarely
+  - Never
+- id: primary_use_case
+  type: text
+  prompt: What is your primary use case for this software?
+  required: true
+- id: ease_of_use
+  type: rating
+  prompt: How easy is the software to use?
+  required: true
+  scale: 5
+- id: learning_curve
+  type: single_choice
+  prompt: How would you describe the learning curve for this software?
+  required: true
+  options:
+  - Very easy to learn
+  - Easy to learn
+  - Moderate learning curve
+  - Difficult to learn
+  - Very difficult to learn
+- id: performance_rating
+  type: rating
+  prompt: How would you rate the software's performance and speed?
+  required: true
+  scale: 5
+- id: reliability_rating
+  type: rating
+  prompt: How reliable has the software been during your use?
+  required: true
+  scale: 5
+- id: feature_completeness
+  type: rating
+  prompt: How complete are the software's features for your needs?
+  required: true
+  scale: 5
+- id: positive_aspects
+  type: multiple_choice
+  prompt: Which positive aspects describe your experience? (select all that apply)
+  required: false
+  options:
+  - Easy to use
+  - Intuitive interface
+  - Fast performance
+  - Reliable operation
+  - Good documentation
+  - Excellent support
+  - Feature-rich
+  - Good value
+- id: negative_aspects
+  type: multiple_choice
+  prompt: Which negative aspects describe your experience? (select all that apply)
+  required: false
+  options:
+  - Confusing interface
+  - Slow performance
+  - Unreliable operation
+  - Missing features
+  - Poor documentation
+  - Inadequate support
+  - Too expensive
+  - Steep learning curve
+- id: stability_issues
+  type: single_choice
+  prompt: Have you experienced any stability issues (crashes, bugs, data loss)?
+  required: true
+  options:
+  - No issues
+  - Minor issues occasionally
+  - Significant issues occasionally
+  - Frequent minor issues
+  - Frequent significant issues
+- id: compatibility_rating
+  type: rating
+  prompt: How well does the software work with your other tools/systems?
+  required: false
+  scale: 5
+- id: mobile_experience
+  type: rating
+  prompt: If applicable, how is the mobile experience?
+  required: false
+  scale: 5
+- id: security_concerns
+  type: single_choice
+  prompt: Do you have any security or privacy concerns with the software?
+  required: false
+  options:
+  - No concerns
+  - Minor concerns
+  - Moderate concerns
+  - Major concerns
+  - Will not use due to concerns
+- id: value_assessment
+  type: rating
+  prompt: How would you rate the overall value for money?
+  required: true
+  scale: 5
+- id: recommendation_likelihood
+  type: rating
+  prompt: How likely are you to recommend this software to others? (0-10)
+  required: true
+  scale: 10
+- id: improvement_priorities
+  type: long_text
+  prompt: What features or aspects would you most like to see improved or changed?
+  required: false
+- id: best_features
+  type: text
+  prompt: What are the software's best features in your opinion?
+  required: false
+- id: additional_suggestions
+  type: long_text
+  prompt: Do you have any additional comments or suggestions?
+  required: false
+validation_result:
+  status: PASS
+  errors: []

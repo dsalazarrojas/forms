@@ -1,0 +1,100 @@
+title: "Training Evaluation Survey"
+description: "Help us improve future training programs by providing your valuable feedback"
+category: "Education Surveys"
+questions:
+  - id: overall_satisfaction
+    type: rating
+    prompt: "Overall, how satisfied were you with this training program?"
+    required: true
+    scale: 5
+  - id: content_quality
+    type: single_choice
+    prompt: "How would you rate the quality of the training content?"
+    required: true
+    options: ["Excellent", "Good", "Average", "Poor", "Very poor"]
+  - id: instructor_effectiveness
+    type: rating
+    prompt: "How effective was the instructor/trainer?"
+    required: true
+    scale: 5
+  - id: materials_quality
+    type: single_choice
+    prompt: "How helpful were the training materials and resources?"
+    required: true
+    options: ["Very helpful", "Helpful", "Somewhat helpful", "Not very helpful", "Not helpful at all"]
+  - id: content_relevance
+    type: single_choice
+    prompt: "How relevant was the training content to your professional goals?"
+    required: true
+    options: ["Extremely relevant", "Very relevant", "Moderately relevant", "Slightly relevant", "Not relevant"]
+  - id: learning_objectives
+    type: rating
+    prompt: "How well did the training meet its stated learning objectives?"
+    required: true
+    scale: 5
+  - id: delivery_format
+    type: single_choice
+    prompt: "How effective was the delivery format (in-person, virtual, hybrid)?"
+    required: true
+    options: ["Very effective", "Effective", "Neutral", "Ineffective", "Very ineffective"]
+  - id: duration_appropriateness
+    type: rating
+    prompt: "Was the duration of the training appropriate?"
+    required: true
+    scale: 5
+  - id: organization_structure
+    type: single_choice
+    prompt: "Was the training event well-organized and structured?"
+    required: true
+    options: ["Yes, completely", "Yes, mostly", "Partially", "No, poorly organized", "No, very poorly organized"]
+  - id: technical_issues
+    type: single_choice
+    prompt: "Did you experience any technical issues during the training?"
+    required: true
+    options: ["No issues", "Minor issues", "Moderate issues", "Major issues", "Constant issues"]
+  - id: valuable_sessions
+    type: multiple_choice
+    prompt: "Which sessions or topics did you find most valuable?"
+    required: true
+    options: ["Module 1: Core Concepts", "Module 2: Advanced Techniques", "Hands-on Workshop", "Q&A Panel", "Networking Opportunities", "Case Studies", "Group Activities"]
+  - id: practical_application
+    type: rating
+    prompt: "How applicable is the training content to your daily work?"
+    required: true
+    scale: 5
+  - id: networking_opportunities
+    type: single_choice
+    prompt: "How valuable were the networking opportunities?"
+    required: false
+    options: ["Very valuable", "Valuable", "Somewhat valuable", "Not very valuable", "Not valuable"]
+  - id: follow_up_support
+    type: rating
+    prompt: "How adequate was the follow-up support after the training?"
+    required: true
+    scale: 5
+  - id: skill_improvement
+    type: single_choice
+    prompt: "To what extent did this training improve your skills?"
+    required: true
+    options: ["Significantly improved", "Moderately improved", "Slightly improved", "No improvement", "Skills worsened"]
+  - id: likelihood_to_recommend
+    type: rating
+    prompt: "How likely are you to recommend this training to a colleague?"
+    required: true
+    scale: 10
+  - id: future_training_interest
+    type: multiple_choice
+    prompt: "What types of future training would you be interested in?"
+    required: false
+    options: ["Advanced topics in this area", "Related skills training", "Leadership development", "Technical certifications", "Soft skills training"]
+  - id: improvement_suggestions
+    type: text
+    prompt: "What suggestions do you have for improving future training programs?"
+    required: false
+  - id: additional_feedback
+    type: long_text
+    prompt: "Do you have any additional comments or feedback about this training?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

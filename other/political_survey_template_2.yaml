@@ -1,0 +1,105 @@
+title: "Political Survey"
+description: "A comprehensive survey to gauge opinions on current political topics, engagement, and policy preferences"
+category: "Social Surveys"
+questions:
+  - id: overall_satisfaction
+    type: single_choice
+    prompt: "How would you describe your overall satisfaction with the current political direction of the country?"
+    required: true
+    options: ["Very satisfied", "Somewhat satisfied", "Neither satisfied nor dissatisfied", "Somewhat dissatisfied", "Very dissatisfied"]
+  - id: news_following_frequency
+    type: single_choice
+    prompt: "How often do you actively follow political news or current events?"
+    required: true
+    options: ["Daily", "Several times a week", "Weekly", "Less often", "Never"]
+  - id: most_important_issues
+    type: multiple_choice
+    prompt: "Which of the following issues do you consider most important for the government to address? (Select up to three)"
+    required: true
+    options: ["Economy", "Healthcare", "Environment", "Education", "Immigration", "National security", "Social justice", "Infrastructure", "Foreign policy", "Gun control"]
+  - id: representation_feeling
+    type: single_choice
+    prompt: "Do you feel your political views are adequately represented by current elected officials?"
+    required: true
+    options: ["Completely represented", "Mostly represented", "Partially represented", "Not at all represented"]
+  - id: desired_policy_change
+    type: text
+    prompt: "What is one specific change you would like to see in the political system or government policy?"
+    required: false
+  - id: voting_intention
+    type: single_choice
+    prompt: "Do you plan to vote in the next general election?"
+    required: true
+    options: ["Definitely yes", "Probably yes", "Undecided", "Probably no", "Definitely no"]
+  - id: political_party_affiliation
+    type: single_choice
+    prompt: "Which political party do you most closely identify with?"
+    required: false
+    options: ["Democratic Party", "Republican Party", "Independent", "Other", "Prefer not to say"]
+  - id: trust_in_government
+    type: rating
+    prompt: "On a scale of 1-10, how much do you trust the federal government to do what is right?"
+    required: true
+    scale: 10
+  - id: political_discussions
+    type: single_choice
+    prompt: "How often do you discuss politics with friends or family?"
+    required: true
+    options: ["Daily", "Several times a week", "Weekly", "Monthly", "Rarely", "Never"]
+  - id: social_media_politics
+    type: single_choice
+    prompt: "How often do you engage with political content on social media?"
+    required: true
+    options: ["Multiple times daily", "Daily", "Several times a week", "Weekly", "Monthly", "Rarely", "Never"]
+  - id: local_vs_national_focus
+    type: single_choice
+    prompt: "Which level of government do you think has the most impact on your daily life?"
+    required: true
+    options: ["Local government", "State government", "Federal government", "All equally"]
+  - id: economic_policy_preference
+    type: single_choice
+    prompt: "Which economic policy approach do you prefer?"
+    required: false
+    options: ["More government regulation and social programs", "Free market with minimal government intervention", "Balanced approach", "Not sure"]
+  - id: climate_change_priority
+    type: rating
+    prompt: "On a scale of 1-5, how much of a priority should addressing climate change be for the government?"
+    required: true
+    scale: 5
+  - id: healthcare_system_opinion
+    type: single_choice
+    prompt: "What is your opinion on the current healthcare system?"
+    required: true
+    options: ["Needs major reform", "Needs minor changes", "Works well as is", "Not sure"]
+  - id: immigration_policy_stance
+    type: single_choice
+    prompt: "What should be the government's primary approach to immigration policy?"
+    required: false
+    options: ["More restrictive policies", "Current policies are fine", "More open and welcoming policies", "Not sure"]
+  - id: gun_control_opinion
+    type: single_choice
+    prompt: "What is your stance on gun control legislation?"
+    required: false
+    options: ["Support stricter gun laws", "Keep current laws", "Loosen gun restrictions", "Not sure"]
+  - id: foreign_policy_approach
+    type: single_choice
+    prompt: "Which foreign policy approach do you prefer?"
+    required: false
+    options: ["More isolationist", "Current level of involvement", "More international engagement", "Not sure"]
+  - id: political_engagement_level
+    type: rating
+    prompt: "On a scale of 1-10, how engaged do you feel in the political process?"
+    required: true
+    scale: 10
+  - id: most_concerning_issue
+    type: text
+    prompt: "What is the single most concerning political issue facing the country today?"
+    required: false
+  - id: optimism_about_future
+    type: single_choice
+    prompt: "How optimistic are you about the political future of the country?"
+    required: true
+    options: ["Very optimistic", "Somewhat optimistic", "Neutral", "Somewhat pessimistic", "Very pessimistic"]
+validation_result:
+  status: "PASS"
+  errors: []

@@ -1,0 +1,100 @@
+title: "Employee Wellness Survey"
+description: "This comprehensive survey aims to gather feedback on employee wellness and engagement, covering physical health, mental health, work-life balance, and organizational support."
+category: "HR Surveys"
+questions:
+  - id: overall_wellness
+    type: rating
+    prompt: "On a scale of 1-10, how would you rate your overall wellness at work?"
+    required: true
+    scale: 10
+  - id: work_life_balance
+    type: single_choice
+    prompt: "How well do you maintain work-life balance?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: stress_levels
+    type: rating
+    prompt: "Rate your current stress levels related to work"
+    required: true
+    scale: 5
+  - id: mental_health_support
+    type: single_choice
+    prompt: "Do you feel the organization adequately supports mental health?"
+    required: true
+    options: ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]
+  - id: physical_health_resources
+    type: single_choice
+    prompt: "Are physical health and wellness resources readily available?"
+    required: true
+    options: ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]
+  - id: sleep_quality
+    type: single_choice
+    prompt: "How has your sleep quality been affected by work demands?"
+    required: true
+    options: ["Much improved", "Somewhat improved", "No change", "Somewhat worse", "Much worse"]
+  - id: energy_levels
+    type: rating
+    prompt: "Rate your daily energy levels at work"
+    required: true
+    scale: 5
+  - id: social_connections
+    type: single_choice
+    prompt: "Do you feel socially connected with your colleagues?"
+    required: true
+    options: ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]
+  - id: flexible_work_options
+    type: single_choice
+    prompt: "How satisfied are you with flexible work arrangements?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: wellness_program_participation
+    type: single_choice
+    prompt: "Have you participated in any company wellness programs?"
+    required: true
+    options: ["Regularly", "Occasionally", "Once", "Never", "Didn't know they existed"]
+  - id: financial_wellness
+    type: rating
+    prompt: "How secure do you feel about your financial wellness?"
+    required: true
+    scale: 5
+  - id: ergonomic_setup
+    type: single_choice
+    prompt: "Is your workspace ergonomically comfortable?"
+    required: true
+    options: ["Very comfortable", "Comfortable", "Neutral", "Uncomfortable", "Very uncomfortable"]
+  - id: nutrition_support
+    type: single_choice
+    prompt: "Does the organization support healthy eating habits?"
+    required: true
+    options: ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]
+  - id: professional_development_support
+    type: single_choice
+    prompt: "Do you feel supported in your professional development?"
+    required: true
+    options: ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]
+  - id: belonging_sense
+    type: single_choice
+    prompt: "Do you feel a sense of belonging within the organization?"
+    required: true
+    options: ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]
+  - id: wellness_initiatives_needed
+    type: multiple_choice
+    prompt: "What wellness initiatives or resources would most improve your experience?"
+    required: true
+    options: ["Mental health support", "Physical fitness programs", "Flexible work options", "Stress management workshops", "Financial wellness guidance", "Social activities", "Nutrition programs", "Sleep health resources", "Meditation/mindfulness", "Ergonomic assessments"]
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What could improve your day-to-day wellness experience at work?"
+    required: false
+  - id: wellness_program_rating
+    type: rating
+    prompt: "If applicable, rate the effectiveness of current wellness programs"
+    required: false
+    scale: 5
+  - id: additional_wellness_comments
+    type: long_text
+    prompt: "Any additional comments or suggestions regarding employee wellness?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

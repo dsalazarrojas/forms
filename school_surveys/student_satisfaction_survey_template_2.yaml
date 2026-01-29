@@ -1,0 +1,105 @@
+title: "Student Satisfaction Survey"
+description: "Gather feedback to understand student satisfaction with various aspects of their academic experience and identify areas for improvement"
+category: "Education Surveys"
+questions:
+  - id: overall_academic_satisfaction
+    type: rating
+    prompt: "Overall, how satisfied are you with your academic experience at this institution?"
+    required: true
+    scale: 5
+  - id: course_quality
+    type: rating
+    prompt: "How would you rate the overall quality of courses offered?"
+    required: true
+    scale: 5
+  - id: teaching_quality
+    type: rating
+    prompt: "How would you rate the quality of teaching and instruction?"
+    required: true
+    scale: 5
+  - id: faculty_accessibility
+    type: single_choice
+    prompt: "How accessible are faculty members outside of class time?"
+    required: true
+    options: ["Very accessible", "Somewhat accessible", "Neutral", "Somewhat inaccessible", "Very inaccessible"]
+  - id: course_challenge_level
+    type: single_choice
+    prompt: "How would you describe the academic challenge level of your courses?"
+    required: true
+    options: ["Too challenging", "Appropriately challenging", "Not challenging enough", "Inconsistent"]
+  - id: campus_facilities
+    type: rating
+    prompt: "How satisfied are you with campus facilities (libraries, labs, classrooms, etc.)?"
+    required: true
+    scale: 5
+  - id: technology_resources
+    type: rating
+    prompt: "How adequate are the technology resources and support?"
+    required: true
+    scale: 5
+  - id: student_support_services
+    type: rating
+    prompt: "How effective are student support services (advising, tutoring, etc.)?"
+    required: true
+    scale: 5
+  - id: financial_aid_satisfaction
+    type: single_choice
+    prompt: "How satisfied are you with the financial aid and billing processes?"
+    required: false
+    options: ["Very satisfied", "Somewhat satisfied", "Neutral", "Somewhat dissatisfied", "Very dissatisfied"]
+  - id: career_services
+    type: rating
+    prompt: "How helpful are career services and job placement assistance?"
+    required: true
+    scale: 5
+  - id: campus_life
+    type: rating
+    prompt: "How would you rate the overall campus life and social opportunities?"
+    required: true
+    scale: 5
+  - id: diversity_inclusion
+    type: single_choice
+    prompt: "How well does the institution support diversity and inclusion?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: communication_clarity
+    type: rating
+    prompt: "How would you rate the clarity and timeliness of communication from the institution?"
+    required: true
+    scale: 5
+  - id: academic_advising
+    type: rating
+    prompt: "How satisfied are you with academic advising and guidance?"
+    required: true
+    scale: 5
+  - id: development_support
+    type: single_choice
+    prompt: "Do you feel adequately supported in your academic and career development?"
+    required: true
+    options: ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]
+  - id: satisfaction_contributors
+    type: multiple_choice
+    prompt: "Which aspects contribute most to your satisfaction? (select all that apply)"
+    required: true
+    options: ["Quality of teaching", "Course content", "Campus facilities", "Student support services", "Social opportunities", "Career services", "Faculty interaction", "Technology resources"]
+  - id: most_significant_improvement
+    type: text
+    prompt: "What is the most significant area you believe could improve your student experience?"
+    required: false
+  - id: likelihood_to_recommend
+    type: rating
+    prompt: "How likely are you to recommend this institution to others?"
+    required: true
+    scale: 10
+  - id: overall_value
+    type: single_choice
+    prompt: "Considering the cost, how would you rate the overall value of your education?"
+    required: true
+    options: ["Excellent value", "Good value", "Fair value", "Poor value", "Very poor value"]
+  - id: additional_comments
+    type: long_text
+    prompt: "Do you have any additional comments or suggestions?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

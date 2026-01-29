@@ -1,0 +1,153 @@
+title: Customer Effort Score (CES) Survey
+description: A comprehensive survey to measure the effort customers expend when interacting with our service and achieving their goals.
+category: Customer Experience
+questions:
+- id: ease_of_use_agreement
+  type: single_choice
+  prompt: 'To what extent do you agree or disagree with the following statement: ''Our service made it easy for me to handle my issue/complete my task.'''
+  required: true
+  options:
+  - Strongly disagree
+  - Disagree
+  - Neutral
+  - Agree
+  - Strongly agree
+- id: personal_effort_level
+  type: single_choice
+  prompt: How much effort did you personally have to put forth to handle your request?
+  required: true
+  options:
+  - Very low effort
+  - Low effort
+  - Moderate effort
+  - High effort
+  - Very high effort
+- id: issue_resolution_status
+  type: single_choice
+  prompt: Was your issue resolved or task completed?
+  required: true
+  options:
+  - Yes, fully resolved
+  - No, not resolved
+  - Partially resolved
+- id: difficulty_factors
+  type: multiple_choice
+  prompt: What made your experience difficult? (Select all that apply)
+  required: false
+  options:
+  - Unclear instructions
+  - Long wait times
+  - Technical issues
+  - Multiple contacts needed
+  - Agent knowledge gaps
+  - System complexity
+  - Other
+- id: time_spent_resolution
+  type: single_choice
+  prompt: How long did it take to resolve your issue?
+  required: true
+  options:
+  - Less than 5 minutes
+  - 5-15 minutes
+  - 15-30 minutes
+  - 30-60 minutes
+  - More than 1 hour
+- id: contact_attempts
+  type: number
+  prompt: How many times did you need to contact us to resolve your issue?
+  required: true
+  min: 1
+  max: 10
+- id: channel_used
+  type: single_choice
+  prompt: Which channel did you primarily use to contact us?
+  required: true
+  options:
+  - Phone
+  - Email
+  - Chat/Live support
+  - Self-service portal
+  - Social media
+  - In-person
+- id: self_service_effectiveness
+  type: rating
+  prompt: If you used self-service options, how effective were they?
+  required: false
+  scale: 5
+- id: agent_helpfulness
+  type: rating
+  prompt: If you spoke with an agent, how helpful were they?
+  required: false
+  scale: 5
+- id: process_clarity
+  type: single_choice
+  prompt: How clear were the instructions and processes you followed?
+  required: true
+  options:
+  - Very clear
+  - Somewhat clear
+  - Neutral
+  - Somewhat unclear
+  - Very unclear
+- id: frustration_level
+  type: rating
+  prompt: On a scale of 1-5, how frustrated did you feel during this process?
+  required: true
+  scale: 5
+- id: comparison_competitors
+  type: single_choice
+  prompt: Compared to similar services from competitors, how would you rate our ease of use?
+  required: false
+  options:
+  - Much easier
+  - Somewhat easier
+  - About the same
+  - Somewhat harder
+  - Much harder
+- id: first_time_experience
+  type: boolean
+  prompt: Was this your first time using our service for this type of issue?
+  required: true
+- id: loyalty_impact
+  type: single_choice
+  prompt: How has this experience affected your loyalty to our company?
+  required: true
+  options:
+  - Increased loyalty
+  - No change
+  - Decreased loyalty
+- id: recommendation_likelihood
+  type: rating
+  prompt: How likely are you to recommend our service to others?
+  required: true
+  scale: 5
+- id: future_avoidance
+  type: single_choice
+  prompt: Would you avoid using our service again if you could?
+  required: true
+  options:
+  - Yes, definitely
+  - Maybe
+  - No
+- id: improvement_priorities
+  type: multiple_choice
+  prompt: Which areas should we prioritize for improvement? (Select all that apply)
+  required: false
+  options:
+  - Faster response times
+  - Better self-service options
+  - More knowledgeable agents
+  - Simpler processes
+  - Better communication
+  - More convenient channels
+- id: easier_experience_ideas
+  type: text
+  prompt: What could have made your experience easier?
+  required: false
+- id: additional_comments
+  type: long_text
+  prompt: Do you have any additional comments or suggestions?
+  required: false
+validation_result:
+  status: PASS
+  errors: []

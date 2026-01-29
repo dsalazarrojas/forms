@@ -1,0 +1,99 @@
+title: "Event Feedback Form"
+description: "Please share your valuable feedback to help us improve future events and create better experiences for all attendees."
+category: "Event Surveys"
+questions:
+  - id: overall_satisfaction
+    type: rating
+    prompt: "How satisfied were you with the overall event experience?"
+    required: true
+    scale: 5
+  - id: event_expectations
+    type: single_choice
+    prompt: "Did the event meet your expectations?"
+    required: true
+    options: ["Exceeded expectations", "Met expectations", "Below expectations", "Significantly below expectations"]
+  - id: valuable_aspects
+    type: multiple_choice
+    prompt: "Which aspects of the event did you find most valuable?"
+    required: true
+    options: ["Keynote speeches", "Interactive workshops", "Networking opportunities", "Panel discussions", "Product demos/exhibits", "Social activities", "Food and beverages", "Entertainment", "Swag/giveaways", "Educational content"]
+  - id: content_quality
+    type: rating
+    prompt: "Rate the quality of the event content and presentations"
+    required: true
+    scale: 5
+  - id: organization_navigation
+    type: single_choice
+    prompt: "Was the event well-organized and easy to navigate?"
+    required: true
+    options: ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]
+  - id: registration_process
+    type: single_choice
+    prompt: "How was your experience with the registration process?"
+    required: true
+    options: ["Very smooth", "Smooth", "Average", "Difficult", "Very difficult"]
+  - id: venue_facilities
+    type: single_choice
+    prompt: "How would you rate the event venue and facilities?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: timing_schedule
+    type: single_choice
+    prompt: "Was the event schedule well-paced and appropriate?"
+    required: true
+    options: ["Perfect timing", "Good timing", "Some sessions too long/short", "Poor timing", "Very poor timing"]
+  - id: networking_opportunities
+    type: rating
+    prompt: "Rate the quality of networking opportunities provided"
+    required: true
+    scale: 5
+  - id: technology_av
+    type: single_choice
+    prompt: "How would you rate the audio-visual and technical aspects?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: catering_food
+    type: single_choice
+    prompt: "If applicable, how was the food and beverage quality?"
+    required: false
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: speaker_quality
+    type: rating
+    prompt: "Rate the quality and expertise of the speakers"
+    required: true
+    scale: 5
+  - id: value_for_money
+    type: single_choice
+    prompt: "Did you feel the event provided good value for the cost?"
+    required: true
+    options: ["Excellent value", "Good value", "Fair value", "Poor value", "Very poor value"]
+  - id: diversity_inclusion
+    type: single_choice
+    prompt: "How inclusive and diverse did you find the event?"
+    required: true
+    options: ["Very inclusive", "Somewhat inclusive", "Neutral", "Somewhat exclusive", "Very exclusive"]
+  - id: future_attendance
+    type: single_choice
+    prompt: "How likely are you to attend a similar event in the future?"
+    required: true
+    options: ["Very likely", "Likely", "Neutral", "Unlikely", "Very unlikely"]
+  - id: recommendation_likelihood
+    type: rating
+    prompt: "How likely are you to recommend this event to a colleague or friend?"
+    required: true
+    scale: 10
+  - id: most_enjoyable_part
+    type: text
+    prompt: "What was the most enjoyable part of the event?"
+    required: false
+  - id: improvement_areas
+    type: long_text
+    prompt: "What aspects of the event could be improved?"
+    required: false
+  - id: additional_comments
+    type: long_text
+    prompt: "Please share any additional comments or suggestions for improvement."
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

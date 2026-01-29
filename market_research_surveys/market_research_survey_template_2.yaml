@@ -1,0 +1,99 @@
+title: "Market Research Survey"
+description: "Gathering insights to understand market perception and inform strategic planning"
+category: "Business Surveys"
+questions:
+  - id: brand_awareness
+    type: single_choice
+    prompt: "How familiar are you with our brand/company?"
+    required: true
+    options: ["Very familiar", "Somewhat familiar", "Neutral", "Somewhat unfamiliar", "Not familiar at all"]
+  - id: overall_impression
+    type: rating
+    prompt: "How would you rate your overall impression of our organization?"
+    required: true
+    scale: 5
+  - id: product_service_awareness
+    type: multiple_choice
+    prompt: "Which of our products or services are you aware of?"
+    required: true
+    options: ["Product A", "Product B", "Service X", "Service Y", "None of the above"]
+  - id: purchase_intent
+    type: single_choice
+    prompt: "How likely are you to purchase our products/services in the next 6 months?"
+    required: true
+    options: ["Very likely", "Likely", "Neutral", "Unlikely", "Very unlikely"]
+  - id: competitor_comparison
+    type: rating
+    prompt: "How does our brand compare to our main competitors?"
+    required: true
+    scale: 5
+  - id: price_perception
+    type: single_choice
+    prompt: "How would you describe our pricing?"
+    required: true
+    options: ["Too expensive", "Reasonably priced", "Good value", "Bargain", "Too cheap"]
+  - id: quality_perception
+    type: rating
+    prompt: "Rate your perception of our product/service quality"
+    required: true
+    scale: 5
+  - id: customer_service_experience
+    type: single_choice
+    prompt: "Have you had any direct experience with our customer service?"
+    required: true
+    options: ["Yes, very positive", "Yes, positive", "Yes, neutral", "Yes, negative", "No experience"]
+  - id: brand_values_alignment
+    type: multiple_choice
+    prompt: "Which of our brand values resonate most with you?"
+    required: false
+    options: ["Innovation", "Quality", "Sustainability", "Customer focus", "Community involvement", "Transparency", "Reliability"]
+  - id: information_sources
+    type: multiple_choice
+    prompt: "Where do you typically learn about products/services like ours?"
+    required: true
+    options: ["Social media", "Search engines", "Friends/family", "TV/radio", "Print media", "Online reviews", "Email newsletters", "Events"]
+  - id: demographic_age
+    type: single_choice
+    prompt: "Which age group do you belong to?"
+    required: true
+    options: ["18-24", "25-34", "35-44", "45-54", "55-64", "65+"]
+  - id: demographic_income
+    type: single_choice
+    prompt: "What is your approximate annual household income?"
+    required: false
+    options: ["Under $25,000", "$25,000-$49,999", "$50,000-$74,999", "$75,000-$99,999", "$100,000-$149,999", "$150,000+"]
+  - id: purchase_frequency
+    type: single_choice
+    prompt: "How often do you purchase products/services in our category?"
+    required: true
+    options: ["Daily", "Weekly", "Monthly", "Quarterly", "Annually", "Rarely", "Never"]
+  - id: decision_factors
+    type: multiple_choice
+    prompt: "What factors most influence your purchasing decisions?"
+    required: true
+    options: ["Price", "Quality", "Brand reputation", "Reviews", "Features", "Customer service", "Sustainability", "Convenience"]
+  - id: recommendation_likelihood
+    type: rating
+    prompt: "How likely are you to recommend our brand to others?"
+    required: true
+    scale: 10
+  - id: improvement_suggestions
+    type: text
+    prompt: "What specific improvements would you suggest for our products/services?"
+    required: false
+  - id: unmet_needs
+    type: long_text
+    prompt: "What needs or problems are not being addressed by current market offerings?"
+    required: false
+  - id: feature_priorities
+    type: multiple_choice
+    prompt: "Which features would be most valuable to you?"
+    required: false
+    options: ["Advanced features", "Better user interface", "Mobile optimization", "Integration capabilities", "Cost reduction", "Enhanced support"]
+  - id: additional_feedback
+    type: long_text
+    prompt: "Do you have any additional comments or feedback?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

@@ -1,0 +1,164 @@
+title: Customer Feedback Form
+description: Help us improve our products and services by sharing your valuable feedback on various aspects of your experience.
+category: Customer Feedback
+questions:
+- id: overall_satisfaction
+  type: single_choice
+  prompt: Overall, how satisfied are you with our product/service?
+  required: true
+  options:
+  - Very satisfied
+  - Satisfied
+  - Neutral
+  - Dissatisfied
+  - Very dissatisfied
+- id: support_experience_rating
+  type: single_choice
+  prompt: How would you rate your experience with our customer support?
+  required: true
+  options:
+  - Excellent
+  - Good
+  - Fair
+  - Poor
+  - Not applicable
+- id: needs_meeting
+  type: single_choice
+  prompt: Does our product/service meet your current needs?
+  required: true
+  options:
+  - Yes, fully
+  - Yes, mostly
+  - Somewhat
+  - No, not really
+  - No, not at all
+- id: valuable_aspects
+  type: multiple_choice
+  prompt: Which aspects of our product/service are most valuable to you? (Select all that apply)
+  required: false
+  options:
+  - Ease of use
+  - Performance
+  - Feature set
+  - Reliability
+  - Customer support
+  - Pricing
+  - Design
+  - Integration capabilities
+- id: product_quality_rating
+  type: rating
+  prompt: How would you rate the overall quality of our product/service?
+  required: true
+  scale: 5
+- id: ease_of_use_rating
+  type: rating
+  prompt: How easy is our product/service to use?
+  required: true
+  scale: 5
+- id: performance_rating
+  type: rating
+  prompt: How would you rate the performance of our product/service?
+  required: true
+  scale: 5
+- id: reliability_rating
+  type: rating
+  prompt: How reliable has our product/service been?
+  required: true
+  scale: 5
+- id: value_for_money
+  type: single_choice
+  prompt: Do you feel our product/service provides good value for money?
+  required: true
+  options:
+  - Yes, excellent value
+  - Yes, good value
+  - Fair value
+  - Poor value
+  - Very poor value
+- id: feature_completeness
+  type: single_choice
+  prompt: Does our product/service have all the features you need?
+  required: true
+  options:
+  - Yes, more than enough
+  - Yes, exactly what I need
+  - Mostly, but missing some
+  - No, missing key features
+- id: comparison_competitors
+  type: single_choice
+  prompt: Compared to competitors, how does our product/service perform?
+  required: false
+  options:
+  - Much better
+  - Somewhat better
+  - About the same
+  - Somewhat worse
+  - Much worse
+- id: likelihood_continue
+  type: single_choice
+  prompt: How likely are you to continue using our product/service?
+  required: true
+  options:
+  - Very likely
+  - Likely
+  - Neutral
+  - Unlikely
+  - Very unlikely
+- id: recommendation_likelihood
+  type: rating
+  prompt: How likely are you to recommend our product/service to others?
+  required: true
+  scale: 5
+- id: customer_loyalty
+  type: single_choice
+  prompt: How loyal do you feel toward our brand?
+  required: false
+  options:
+  - Very loyal
+  - Somewhat loyal
+  - Neutral
+  - Not very loyal
+  - Not loyal at all
+- id: purchase_frequency
+  type: single_choice
+  prompt: How often do you use our product/service?
+  required: true
+  options:
+  - Daily
+  - Weekly
+  - Monthly
+  - Quarterly
+  - Rarely/Never
+- id: recent_changes_impact
+  type: single_choice
+  prompt: Have recent changes or updates improved your experience?
+  required: false
+  options:
+  - Yes, significantly
+  - Yes, somewhat
+  - No change
+  - Made it worse
+  - Much worse
+- id: missing_features
+  type: multiple_choice
+  prompt: Which features would you like to see added? (Select all that apply)
+  required: false
+  options:
+  - Mobile app
+  - API integrations
+  - Advanced analytics
+  - Customization options
+  - Better reporting
+  - Training resources
+  - Other
+- id: improvement_suggestions
+  type: text
+  prompt: What improvements would you suggest for our product/service?
+  required: false
+- id: additional_comments
+  type: long_text
+  prompt: Do you have any additional comments or suggestions?
+  required: false
+validation_result:
+  status: PASS
+  errors: []

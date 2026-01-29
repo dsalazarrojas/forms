@@ -1,0 +1,99 @@
+title: "Event Questionnaire"
+description: "A comprehensive survey to gather detailed feedback on the recent event and help us improve future experiences for all participants."
+category: "Event Surveys"
+questions:
+  - id: overall_satisfaction
+    type: rating
+    prompt: "How satisfied were you with the event overall?"
+    required: true
+    scale: 5
+  - id: expectations_met
+    type: single_choice
+    prompt: "Did the event meet or exceed your expectations?"
+    required: true
+    options: ["Far exceeded", "Exceeded", "Met", "Below", "Far below"]
+  - id: valuable_aspects
+    type: multiple_choice
+    prompt: "Which event aspects or sessions did you find most valuable?"
+    required: true
+    options: ["Keynote speeches", "Breakout sessions", "Networking opportunities", "Workshops", "Exhibitor booths", "Q&A panels", "Social events", "Educational content", "Interactive activities", "Entertainment"]
+  - id: content_quality
+    type: rating
+    prompt: "Rate the overall quality of the event content"
+    required: true
+    scale: 5
+  - id: organization_management
+    type: single_choice
+    prompt: "Was the event well organized and managed?"
+    required: true
+    options: ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]
+  - id: timing_appropriateness
+    type: single_choice
+    prompt: "Was the event timing and duration appropriate?"
+    required: true
+    options: ["Perfect", "Good", "Acceptable", "Too long", "Too short"]
+  - id: venue_suitability
+    type: rating
+    prompt: "Rate the suitability of the venue for this event"
+    required: true
+    scale: 5
+  - id: registration_experience
+    type: single_choice
+    prompt: "How smooth was the registration and check-in process?"
+    required: true
+    options: ["Very smooth", "Smooth", "Average", "Difficult", "Very difficult"]
+  - id: networking_quality
+    type: rating
+    prompt: "Rate the quality of networking opportunities"
+    required: true
+    scale: 5
+  - id: speaker_presentations
+    type: single_choice
+    prompt: "How would you rate the quality of speaker presentations?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: technology_support
+    type: single_choice
+    prompt: "Were technology and AV support adequate?"
+    required: true
+    options: ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]
+  - id: catering_quality
+    type: single_choice
+    prompt: "If applicable, how was the food and beverage quality?"
+    required: false
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: cost_value
+    type: single_choice
+    prompt: "Did the event provide good value for the cost?"
+    required: true
+    options: ["Excellent value", "Good value", "Fair value", "Poor value", "Overpriced"]
+  - id: diversity_representation
+    type: rating
+    prompt: "Rate the diversity and inclusivity of the event"
+    required: true
+    scale: 5
+  - id: future_attendance
+    type: single_choice
+    prompt: "How likely are you to attend a similar event in the future?"
+    required: true
+    options: ["Very likely", "Likely", "Neutral", "Unlikely", "Very unlikely"]
+  - id: recommendation_score
+    type: rating
+    prompt: "How likely are you to recommend this event to others?"
+    required: true
+    scale: 10
+  - id: highlight_moment
+    type: text
+    prompt: "What was your favorite or most memorable moment from the event?"
+    required: false
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What specific improvements would you suggest for future events?"
+    required: false
+  - id: additional_comments
+    type: long_text
+    prompt: "Do you have any additional comments or suggestions for improvement?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

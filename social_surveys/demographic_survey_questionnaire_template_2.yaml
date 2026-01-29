@@ -1,0 +1,100 @@
+title: "Demographic Survey Questionnaire"
+description: "A comprehensive survey to collect detailed demographic information for program planning, reporting, and audience analysis."
+category: "Demographic Surveys"
+questions:
+  - id: age_group
+    type: single_choice
+    prompt: "What is your age group?"
+    required: true
+    options: ["Under 18", "18-24", "25-34", "35-44", "45-54", "55-64", "65+"]
+  - id: gender_identity
+    type: single_choice
+    prompt: "How do you describe your gender identity?"
+    required: true
+    options: ["Woman", "Man", "Non-binary", "Prefer to self-describe", "Prefer not to say"]
+  - id: racial_ethnic_background
+    type: multiple_choice
+    prompt: "Which of the following best describes your racial or ethnic background? (Select all that apply)"
+    required: true
+    options: ["Asian", "Black/African American", "Hispanic/Latinx", "Indigenous/Native American", "Middle Eastern/North African", "White/Caucasian", "Other", "Prefer not to say"]
+  - id: education_level
+    type: single_choice
+    prompt: "What is the highest level of education you have completed?"
+    required: true
+    options: ["High School", "Some College", "Associate's Degree", "Bachelor's Degree", "Master's Degree", "Doctoral Degree", "Other"]
+  - id: employment_status
+    type: single_choice
+    prompt: "What is your current employment status?"
+    required: true
+    options: ["Employed Full-time", "Employed Part-time", "Self-employed", "Unemployed", "Student", "Retired", "Homemaker", "Other"]
+  - id: household_income
+    type: single_choice
+    prompt: "What is your approximate annual household income before taxes?"
+    required: false
+    options: ["Under $25,000", "$25,000 - $49,999", "$50,000 - $74,999", "$75,000 - $99,999", "$100,000 - $149,999", "$150,000+"]
+  - id: residence_location
+    type: text
+    prompt: "In which city or region do you primarily reside?"
+    required: true
+  - id: marital_status
+    type: single_choice
+    prompt: "What is your marital status?"
+    required: true
+    options: ["Single, never married", "Married or domestic partnership", "Widowed", "Divorced", "Separated", "Prefer not to say"]
+  - id: household_size
+    type: single_choice
+    prompt: "How many people live in your household?"
+    required: true
+    options: ["1", "2", "3", "4", "5 or more"]
+  - id: primary_language
+    type: single_choice
+    prompt: "What is your primary language?"
+    required: true
+    options: ["English", "Spanish", "French", "Chinese", "Arabic", "Other"]
+  - id: disability_status
+    type: single_choice
+    prompt: "Do you have any disabilities or long-term health conditions?"
+    required: false
+    options: ["Yes", "No", "Prefer not to say"]
+  - id: veteran_status
+    type: single_choice
+    prompt: "Are you a veteran of the armed forces?"
+    required: false
+    options: ["Yes", "No", "Prefer not to say"]
+  - id: home_ownership
+    type: single_choice
+    prompt: "Do you own or rent your home?"
+    required: true
+    options: ["Own", "Rent", "Live with family/friends", "Other"]
+  - id: transportation_primary
+    type: single_choice
+    prompt: "What is your primary mode of transportation?"
+    required: true
+    options: ["Personal vehicle", "Public transportation", "Bicycle", "Walking", "Ride-sharing services", "Other"]
+  - id: internet_access
+    type: single_choice
+    prompt: "How do you primarily access the internet?"
+    required: true
+    options: ["Home broadband", "Mobile data", "Public Wi-Fi", "Work/school", "No regular access"]
+  - id: technology_comfort
+    type: rating
+    prompt: "How comfortable are you with using technology and digital devices?"
+    required: true
+    scale: 5
+  - id: community_involvement
+    type: multiple_choice
+    prompt: "Which community activities are you involved in? (Select all that apply)"
+    required: false
+    options: ["Religious organizations", "Sports/recreation", "Arts/culture", "Environmental groups", "Political organizations", "Volunteer work", "Parent/teacher associations", "None"]
+  - id: news_sources
+    type: multiple_choice
+    prompt: "Where do you get your news from? (Select all that apply)"
+    required: false
+    options: ["Television", "Newspapers", "Online news sites", "Social media", "Radio", "Word of mouth", "Other"]
+  - id: hobbies_interests
+    type: long_text
+    prompt: "What are your main hobbies and interests?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

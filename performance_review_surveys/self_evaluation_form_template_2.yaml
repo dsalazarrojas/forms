@@ -1,0 +1,122 @@
+title: Self Evaluation Form
+description: Comprehensive self-assessment tool for performance review, goal setting, and professional development planning.
+category: HR Surveys
+questions:
+- id: performance_satisfaction
+  type: rating
+  prompt: How satisfied are you with your overall performance this review period?
+  required: true
+  scale: 5
+- id: goal_contribution
+  type: single_choice
+  prompt: How would you rate your contribution to team or company goals?
+  required: true
+  options:
+  - Exceeded expectations
+  - Met all expectations
+  - Met most expectations
+  - Partially met expectations
+  - Did not meet expectations
+- id: key_achievements
+  type: multiple_choice
+  prompt: Which of the following areas represent your key achievements this period?
+  required: true
+  options:
+  - Project completion
+  - Process improvement
+  - Skill development
+  - Team collaboration
+  - Problem solving
+  - Client satisfaction
+  - Leadership
+  - Innovation
+  - Quality improvement
+  - Cost savings
+- id: goal_achievement
+  type: rating
+  prompt: How well did you achieve your established goals for this period?
+  required: true
+  scale: 5
+- id: skill_improvement
+  type: multiple_choice
+  prompt: Which skills have you improved or developed this period?
+  required: true
+  options:
+  - Technical skills
+  - Communication skills
+  - Leadership skills
+  - Project management
+  - Problem-solving
+  - Team collaboration
+  - Time management
+  - Customer service
+- id: collaboration_effectiveness
+  type: rating
+  prompt: How effective have you been in collaborating with colleagues and stakeholders?
+  required: true
+  scale: 5
+- id: initiative_level
+  type: single_choice
+  prompt: How often have you taken initiative on projects or tasks?
+  required: true
+  options:
+  - Very frequently
+  - Frequently
+  - Occasionally
+  - Rarely
+  - Never
+- id: feedback_reception
+  type: rating
+  prompt: How well have you received and acted on feedback from others?
+  required: true
+  scale: 5
+- id: work_quality
+  type: single_choice
+  prompt: How would you rate the quality of your work output?
+  required: true
+  options:
+  - Exceptional
+  - Above average
+  - Average
+  - Below average
+  - Poor
+- id: time_management
+  type: rating
+  prompt: How effectively have you managed your time and priorities?
+  required: true
+  scale: 5
+- id: challenges_faced
+  type: long_text
+  prompt: What challenges did you face, and how did you address them?
+  required: false
+- id: support_needed
+  type: long_text
+  prompt: What additional support or resources would have helped you perform better?
+  required: false
+- id: development_goals
+  type: long_text
+  prompt: What are your primary development goals for the next period?
+  required: true
+- id: training_needs
+  type: multiple_choice
+  prompt: What training or development opportunities would you like?
+  required: false
+  options:
+  - Technical training
+  - Leadership development
+  - Communication skills
+  - Industry certification
+  - Mentoring program
+  - Conference attendance
+  - Online courses
+- id: career_aspirations
+  type: long_text
+  prompt: What are your career aspirations for the next 1-2 years?
+  required: false
+- id: additional_feedback
+  type: long_text
+  prompt: Do you have any additional comments or feedback regarding your self-evaluation?
+  required: false
+validation_result:
+  status: PASS
+  errors: []

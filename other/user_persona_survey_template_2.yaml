@@ -1,0 +1,103 @@
+title: "User Persona Survey"
+description: "Gathering insights to understand our users' roles, goals, and needs to build comprehensive user personas"
+category: "User Research Surveys"
+questions:
+  - id: primary_role
+    type: single_choice
+    prompt: "What is your primary role or occupation?"
+    required: true
+    options: ["Student", "Professional", "Manager", "Entrepreneur", "Freelancer", "Retired", "Other"]
+  - id: industry
+    type: single_choice
+    prompt: "Which industry do you primarily work in?"
+    required: true
+    options: ["Technology", "Healthcare", "Education", "Finance", "Retail", "Manufacturing", "Consulting", "Other"]
+  - id: experience_level
+    type: single_choice
+    prompt: "What is your level of experience in your field?"
+    required: true
+    options: ["Entry level (0-2 years)", "Mid level (3-5 years)", "Senior level (6-10 years)", "Expert level (10+ years)"]
+  - id: primary_motivation
+    type: single_choice
+    prompt: "What is your primary motivation for engaging with digital tools or services in your field?"
+    required: true
+    options: ["Improve efficiency", "Learn new skills", "Connect with others", "Solve specific problems", "Stay informed", "Automate tasks", "Track progress"]
+  - id: usage_frequency
+    type: single_choice
+    prompt: "How often do you interact with digital tools or services related to your primary work/study?"
+    required: true
+    options: ["Multiple times daily", "Daily", "Weekly", "Monthly", "Rarely", "Never"]
+  - id: device_preference
+    type: multiple_choice
+    prompt: "Which devices do you primarily use for work/study?"
+    required: true
+    options: ["Desktop computer", "Laptop", "Tablet", "Smartphone", "Smartwatch", "Other"]
+  - id: software_familiarity
+    type: rating
+    prompt: "How familiar are you with various software tools?"
+    required: true
+    scale: 5
+  - id: challenges_encountered
+    type: multiple_choice
+    prompt: "Which of the following challenges do you frequently encounter when trying to achieve your goals?"
+    required: true
+    options: ["Lack of time", "Complex software", "Insufficient resources", "Finding relevant information", "Technical difficulties", "Cost barriers", "Lack of training"]
+  - id: important_features
+    type: multiple_choice
+    prompt: "What features are most important to you in a digital product or service?"
+    required: true
+    options: ["Ease of use", "Robust functionality", "Integrations", "Strong customer support", "Customization", "Mobile accessibility", "Data security", "Cost-effectiveness"]
+  - id: decision_factors
+    type: multiple_choice
+    prompt: "What factors influence your decision to adopt new tools or services?"
+    required: true
+    options: ["Cost", "Reviews/ratings", "Brand reputation", "Features", "Ease of integration", "Trial availability", "Peer recommendations"]
+  - id: current_tools
+    type: text
+    prompt: "What tools or software do you currently use most frequently?"
+    required: false
+  - id: pain_points
+    type: long_text
+    prompt: "What are your biggest pain points in your current workflow?"
+    required: false
+  - id: desired_improvements
+    type: long_text
+    prompt: "What is one significant improvement or change that would help you achieve your goals more effectively?"
+    required: false
+  - id: budget_willingness
+    type: single_choice
+    prompt: "How much are you willing to pay monthly for tools that significantly improve your productivity?"
+    required: false
+    options: ["$0-10", "$11-50", "$51-100", "$101-200", "$200+"]
+  - id: learning_style
+    type: single_choice
+    prompt: "What is your preferred way of learning new tools?"
+    required: false
+    options: ["Video tutorials", "Written documentation", "Hands-on practice", "Live training", "Peer learning", "Self-exploration"]
+  - id: collaboration_importance
+    type: rating
+    prompt: "How important is collaboration functionality in your tools?"
+    required: true
+    scale: 5
+  - id: data_privacy_concerns
+    type: single_choice
+    prompt: "How concerned are you about data privacy in digital tools?"
+    required: true
+    options: ["Very concerned", "Somewhat concerned", "Neutral", "Not very concerned", "Not concerned at all"]
+  - id: remote_work_frequency
+    type: single_choice
+    prompt: "How often do you work remotely?"
+    required: false
+    options: ["Always", "Frequently", "Sometimes", "Rarely", "Never"]
+  - id: age_group
+    type: single_choice
+    prompt: "What is your age group?"
+    required: false
+    options: ["18-24", "25-34", "35-44", "45-54", "55-64", "65+"]
+  - id: additional_insights
+    type: long_text
+    prompt: "Is there anything else you'd like to share about your needs, workflows, or expectations?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

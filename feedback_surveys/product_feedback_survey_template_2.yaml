@@ -1,0 +1,97 @@
+title: "Product Feedback Survey"
+description: "Gathering feedback on our product to enhance user experience and inform future development"
+category: "Business Surveys"
+questions:
+  - id: overall_satisfaction
+    type: rating
+    prompt: "How satisfied are you with our product overall?"
+    required: true
+    scale: 5
+  - id: key_influencing_factors
+    type: multiple_choice
+    prompt: "Which features or aspects most influenced your opinion of the product? (Select all that apply)"
+    required: true
+    options: ["Design", "Price", "Performance", "Core Features", "Ease of Use", "Customer Support", "Reliability", "Integration"]
+  - id: recommendation_likelihood
+    type: rating
+    prompt: "How likely are you to recommend this product to others?"
+    required: true
+    scale: 10
+  - id: primary_problem_solved
+    type: text
+    prompt: "What is the primary problem our product helps you solve?"
+    required: true
+  - id: ease_of_use_rating
+    type: rating
+    prompt: "How easy is the product to use?"
+    required: true
+    scale: 5
+  - id: performance_satisfaction
+    type: single_choice
+    prompt: "How satisfied are you with the product's performance?"
+    required: true
+    options: ["Very satisfied", "Somewhat satisfied", "Neutral", "Somewhat dissatisfied", "Very dissatisfied"]
+  - id: reliability_rating
+    type: rating
+    prompt: "How reliable has the product been?"
+    required: true
+    scale: 5
+  - id: value_for_money
+    type: single_choice
+    prompt: "Do you feel the product provides good value for money?"
+    required: true
+    options: ["Excellent value", "Good value", "Fair value", "Poor value", "Very poor value"]
+  - id: feature_completeness
+    type: rating
+    prompt: "How complete do you find the feature set?"
+    required: true
+    scale: 5
+  - id: customer_support_quality
+    type: rating
+    prompt: "Rate the quality of customer support you've received"
+    required: false
+    scale: 5
+  - id: documentation_helpfulness
+    type: single_choice
+    prompt: "How helpful is the product documentation?"
+    required: true
+    options: ["Very helpful", "Somewhat helpful", "Neutral", "Somewhat unhelpful", "Very unhelpful"]
+  - id: learning_curve
+    type: single_choice
+    prompt: "How would you describe the learning curve for this product?"
+    required: true
+    options: ["Very easy", "Easy", "Moderate", "Difficult", "Very difficult"]
+  - id: integration_experience
+    type: rating
+    prompt: "How well does the product integrate with other tools you use?"
+    required: false
+    scale: 5
+  - id: competitor_comparison
+    type: single_choice
+    prompt: "How does this product compare to similar products you've used?"
+    required: false
+    options: ["Much better", "Better", "About the same", "Worse", "Much worse"]
+  - id: future_usage_intent
+    type: single_choice
+    prompt: "How likely are you to continue using this product?"
+    required: true
+    options: ["Very likely", "Likely", "Neutral", "Unlikely", "Very unlikely"]
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What would you improve or change about the product?"
+    required: false
+  - id: missing_features
+    type: text
+    prompt: "What important features are missing from the product?"
+    required: false
+  - id: most_valuable_feature
+    type: text
+    prompt: "What is the most valuable feature of the product to you?"
+    required: false
+  - id: additional_feedback
+    type: long_text
+    prompt: "Do you have any additional comments or feedback for us?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

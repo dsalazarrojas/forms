@@ -1,0 +1,95 @@
+title: "Employee On-Boarding Survey"
+description: "Gathering feedback on the new employee on-boarding experience to make improvements."
+category: "HR Surveys"
+questions:
+  - id: overall_experience
+    type: single_choice
+    prompt: "How would you describe your overall on-boarding experience?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: information_resources
+    type: single_choice
+    prompt: "Did you receive adequate information and resources to get started in your role?"
+    required: true
+    options: ["Yes, completely", "Mostly", "Partially", "No", "Not at all"]
+  - id: manager_support
+    type: rating
+    prompt: "How would you rate the support you received from your manager during on-boarding?"
+    required: true
+    scale: 5
+  - id: helpful_aspects
+    type: multiple_choice
+    prompt: "Which of the following aspects of your on-boarding were most helpful? (select all that apply)"
+    required: true
+    options: ["HR paperwork", "System access", "Role clarity", "Team introductions", "Initial training", "Company culture overview", "Mentorship program", "Resource guides", "Buddy system", "Welcome package"]
+  - id: team_integration
+    type: single_choice
+    prompt: "Do you feel integrated into your team and the company culture?"
+    required: true
+    options: ["Completely", "Mostly", "Somewhat", "Not yet", "Not at all"]
+  - id: first_day_experience
+    type: single_choice
+    prompt: "How would you rate your first day experience?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: paperwork_process
+    type: single_choice
+    prompt: "How smooth was the HR paperwork and administrative process?"
+    required: true
+    options: ["Very smooth", "Smooth", "Average", "Difficult", "Very difficult"]
+  - id: system_access_setup
+    type: single_choice
+    prompt: "How quickly and easily were your system accesses and accounts set up?"
+    required: true
+    options: ["Very quickly and easily", "Quickly and easily", "Average", "Slowly with issues", "Very slowly with major issues"]
+  - id: role_expectations
+    type: single_choice
+    prompt: "How clear were your role expectations and responsibilities from day one?"
+    required: true
+    options: ["Very clear", "Clear", "Somewhat clear", "Unclear", "Very unclear"]
+  - id: training_completeness
+    type: single_choice
+    prompt: "How complete and comprehensive was your initial training?"
+    required: true
+    options: ["Very complete", "Mostly complete", "Somewhat complete", "Incomplete", "Very incomplete"]
+  - id: company_overview
+    type: single_choice
+    prompt: "How effective was the company overview and culture presentation?"
+    required: true
+    options: ["Very effective", "Effective", "Somewhat effective", "Ineffective", "Very ineffective"]
+  - id: mentorship_quality
+    type: single_choice
+    prompt: "If you had a mentor or buddy, how helpful were they?"
+    required: false
+    options: ["Extremely helpful", "Very helpful", "Somewhat helpful", "Not very helpful", "Not applicable"]
+  - id: resource_availability
+    type: single_choice
+    prompt: "How accessible and useful were the on-boarding resources provided?"
+    required: true
+    options: ["Very accessible and useful", "Accessible and useful", "Somewhat accessible", "Hard to find", "Not useful"]
+  - id: timeline_appropriateness
+    type: single_choice
+    prompt: "Was the on-boarding timeline appropriate for your learning needs?"
+    required: true
+    options: ["Perfect timing", "Good timing", "A bit rushed", "Too slow", "Way off"]
+  - id: confidence_level
+    type: rating
+    prompt: "On a scale of 1-10, how confident do you feel about your role after on-boarding?"
+    required: true
+    scale: 10
+  - id: team_relationships
+    type: single_choice
+    prompt: "How well did you get to know your team members during on-boarding?"
+    required: true
+    options: ["Very well", "Well", "Adequately", "Poorly", "Not at all"]
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What could be improved in the on-boarding process for future employees?"
+    required: false
+  - id: additional_comments
+    type: long_text
+    prompt: "Do you have any additional comments or suggestions regarding your on-boarding?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

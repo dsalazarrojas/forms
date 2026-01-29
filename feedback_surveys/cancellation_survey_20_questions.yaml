@@ -1,0 +1,101 @@
+title: "Cancellation Survey"
+description: "Gathering feedback on why you're canceling your subscription or service"
+category: "Customer Service Surveys"
+questions:
+  - id: satisfaction_before_cancellation
+    type: single_choice
+    prompt: "How satisfied were you with the service/product before deciding to cancel?"
+    required: true
+    options: ["Very satisfied", "Somewhat satisfied", "Neutral", "Somewhat dissatisfied", "Very dissatisfied"]
+  - id: usage_frequency
+    type: single_choice
+    prompt: "How often did you use the service/product?"
+    required: true
+    options: ["Daily", "Weekly", "Monthly", "Rarely", "Never"]
+  - id: primary_cancellation_reason
+    type: multiple_choice
+    prompt: "Which of the following best describes your primary reason for canceling?"
+    required: true
+    options: ["Cost too high", "Missing features", "Poor service/support", "Found an alternative", "Not needed anymore", "Technical issues", "Account issues"]
+  - id: likelihood_to_return
+    type: single_choice
+    prompt: "How likely are you to return to our service in the future?"
+    required: true
+    options: ["Very likely", "Somewhat likely", "Neutral", "Somewhat unlikely", "Very unlikely"]
+  - id: competitor_choice
+    type: text
+    prompt: "If you found an alternative, which service/product are you switching to?"
+    required: false
+  - id: price_sensitivity
+    type: single_choice
+    prompt: "If we offered a discounted rate, would you consider staying?"
+    required: false
+    options: ["Yes, definitely", "Maybe", "No", "Not sure"]
+  - id: feature_requests
+    type: long_text
+    prompt: "What features would convince you to stay or return?"
+    required: false
+  - id: service_quality_rating
+    type: rating
+    prompt: "Rate the overall quality of our service"
+    required: true
+    scale: 5
+  - id: support_experience
+    type: single_choice
+    prompt: "How would you rate your experience with our customer support?"
+    required: false
+    options: ["Excellent", "Good", "Average", "Poor", "Very poor"]
+  - id: onboarding_experience
+    type: rating
+    prompt: "How was your onboarding experience?"
+    required: false
+    scale: 5
+  - id: value_for_money
+    type: single_choice
+    prompt: "Did you feel you received good value for money?"
+    required: true
+    options: ["Yes, definitely", "Somewhat", "Neutral", "Not really", "No, not at all"]
+  - id: recommendation_before_cancellation
+    type: rating
+    prompt: "Before canceling, how likely were you to recommend our service?"
+    required: false
+    scale: 10
+  - id: cancellation_timing
+    type: single_choice
+    prompt: "How long have you been a customer before canceling?"
+    required: true
+    options: ["Less than 1 month", "1-3 months", "3-6 months", "6-12 months", "More than 12 months"]
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What could we improve about the service/product?"
+    required: false
+  - id: positive_aspects
+    type: text
+    prompt: "What did you like most about our service?"
+    required: false
+  - id: final_feedback
+    type: long_text
+    prompt: "Do you have any final comments or suggestions for us?"
+    required: false
+  - id: referral_source
+    type: single_choice
+    prompt: "How did you originally hear about our service?"
+    required: false
+    options: ["Search engine", "Social media", "Friend/family", "Advertisement", "Other website", "Email", "Other"]
+  - id: account_type
+    type: single_choice
+    prompt: "What type of account did you have?"
+    required: false
+    options: ["Free", "Basic", "Premium", "Enterprise", "Other"]
+  - id: cancellation_process
+    type: single_choice
+    prompt: "How easy was the cancellation process?"
+    required: true
+    options: ["Very easy", "Easy", "Neutral", "Difficult", "Very difficult"]
+  - id: contact_preference
+    type: boolean
+    prompt: "Would you like us to contact you about improvements?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

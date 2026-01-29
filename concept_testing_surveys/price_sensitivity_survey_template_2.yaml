@@ -1,0 +1,105 @@
+title: "Price Sensitivity Survey"
+description: "Understanding user willingness to pay and perceived value for a new concept or product."
+category: "Marketing Surveys"
+questions:
+  - id: overall_value_rating
+    type: single_choice
+    prompt: "How would you rate the overall value for money of this concept?"
+    required: true
+    options: ["Excellent value", "Good value", "Fair value", "Poor value", "Very poor value"]
+  - id: appealing_price_range
+    type: single_choice
+    prompt: "What price range would you consider most appealing for this concept?"
+    required: true
+    options: ["Below $25", "$25 - $50", "$51 - $75", "$76 - $100", "Over $100"]
+  - id: value_influencing_factors
+    type: multiple_choice
+    prompt: "Which factors most influence your perception of this concept's value? (select all that apply)"
+    required: true
+    options: ["Quality", "Features", "Brand reputation", "Design", "Performance", "Customer support", "Warranty", "Reviews"]
+  - id: purchase_likelihood_40
+    type: single_choice
+    prompt: "If this product were priced at $40, how likely would you be to purchase it?"
+    required: true
+    options: ["Very likely", "Likely", "Neutral", "Unlikely", "Very unlikely"]
+  - id: value_improvement_suggestions
+    type: text
+    prompt: "What would make this concept feel like a better value to you?"
+    required: false
+  - id: additional_pricing_thoughts
+    type: long_text
+    prompt: "Do you have any additional thoughts on the pricing or value of this concept?"
+    required: false
+  - id: maximum_willingness_to_pay
+    type: single_choice
+    prompt: "What is the maximum price you would be willing to pay for this concept?"
+    required: true
+    options: ["Under $20", "$20-$39", "$40-$59", "$60-$79", "$80-$99", "$100-$149", "$150+"]
+  - id: competitor_price_awareness
+    type: single_choice
+    prompt: "How do you perceive this concept's price compared to similar products?"
+    required: true
+    options: ["Much cheaper", "Somewhat cheaper", "About the same", "Somewhat more expensive", "Much more expensive"]
+  - id: price_vs_quality_tradeoff
+    type: rating
+    prompt: "On a scale of 1-5, how important is price versus quality to you when making purchasing decisions?"
+    required: true
+    scale: 5
+  - id: discount_sensitivity
+    type: single_choice
+    prompt: "How much of a discount would make you more likely to purchase?"
+    required: false
+    options: ["5-10% off", "11-20% off", "21-30% off", "31-50% off", "More than 50% off", "No discount needed"]
+  - id: purchase_frequency
+    type: single_choice
+    prompt: "How often would you expect to purchase this type of product?"
+    required: true
+    options: ["One-time purchase", "Every few months", "Every 6 months", "Annually", "Multiple times per year"]
+  - id: budget_allocation
+    type: single_choice
+    prompt: "What category of your budget would this purchase fall into?"
+    required: false
+    options: ["Essential/necessity", "Important but not essential", "Nice to have", "Luxury item", "Wouldn't purchase"]
+  - id: alternative_considerations
+    type: multiple_choice
+    prompt: "What alternatives would you consider if this product was too expensive?"
+    required: false
+    options: ["Cheaper version of same product", "Different brand", "DIY solution", "Do without", "Wait for price drop"]
+  - id: perceived_quality_vs_price
+    type: single_choice
+    prompt: "Based on what you've seen, does the quality justify the price?"
+    required: true
+    options: ["Definitely yes", "Probably yes", "Not sure", "Probably no", "Definitely no"]
+  - id: price_elasticity_test_30
+    type: single_choice
+    prompt: "If the price were reduced to $30, would that change your likelihood to purchase?"
+    required: false
+    options: ["Much more likely", "Somewhat more likely", "No change", "Somewhat less likely", "Wouldn't purchase anyway"]
+  - id: price_elasticity_test_60
+    type: single_choice
+    prompt: "If the price were increased to $60, would that change your likelihood to purchase?"
+    required: false
+    options: ["Would still purchase", "Less likely but might", "Would not purchase", "No change in decision"]
+  - id: value_proposition_strength
+    type: rating
+    prompt: "On a scale of 1-10, how strong is the value proposition of this concept?"
+    required: true
+    scale: 10
+  - id: recommendation_based_on_price
+    type: single_choice
+    prompt: "Would you recommend this concept to others at its current proposed price?"
+    required: true
+    options: ["Definitely yes", "Probably yes", "Not sure", "Probably no", "Definitely no"]
+  - id: market_segment_fit
+    type: single_choice
+    prompt: "Which price segment do you think this concept fits best in?"
+    required: false
+    options: ["Budget/low-cost", "Mid-range", "Premium", "Luxury", "Not sure"]
+  - id: final_purchase_intent
+    type: rating
+    prompt: "On a scale of 1-10, what is your final purchase intent for this concept?"
+    required: true
+    scale: 10
+validation_result:
+  status: "PASS"
+  errors: []

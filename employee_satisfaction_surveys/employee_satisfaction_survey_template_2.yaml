@@ -1,0 +1,95 @@
+title: "Employee Satisfaction Survey"
+description: "A comprehensive survey to gather feedback on employee satisfaction and identify areas for improvement within the organization."
+category: "HR Surveys"
+questions:
+  - id: overall_satisfaction
+    type: single_choice
+    prompt: "Overall, how satisfied are you with your role at the organization?"
+    required: true
+    options: ["Very satisfied", "Somewhat satisfied", "Neutral", "Somewhat dissatisfied", "Very dissatisfied"]
+  - id: management_communication
+    type: single_choice
+    prompt: "How would you rate communication from management?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: professional_development_support
+    type: single_choice
+    prompt: "Do you feel supported in your professional development?"
+    required: true
+    options: ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]
+  - id: work_life_balance
+    type: rating
+    prompt: "How would you rate your work-life balance?"
+    required: true
+    scale: 5
+  - id: compensation_satisfaction
+    type: single_choice
+    prompt: "How satisfied are you with your compensation and benefits?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: career_growth_opportunities
+    type: single_choice
+    prompt: "Do you see clear opportunities for career growth within the organization?"
+    required: true
+    options: ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]
+  - id: team_collaboration
+    type: rating
+    prompt: "Rate the quality of collaboration within your team"
+    required: true
+    scale: 5
+  - id: workplace_environment
+    type: single_choice
+    prompt: "How would you describe the workplace environment?"
+    required: true
+    options: ["Very positive", "Positive", "Neutral", "Negative", "Very negative"]
+  - id: recognition_appreciation
+    type: single_choice
+    prompt: "Do you feel adequately recognized and appreciated for your contributions?"
+    required: true
+    options: ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]
+  - id: job_security
+    type: rating
+    prompt: "How secure do you feel in your current position?"
+    required: true
+    scale: 5
+  - id: company_culture
+    type: single_choice
+    prompt: "How well do the company's values align with your personal values?"
+    required: true
+    options: ["Very well", "Well", "Somewhat", "Poorly", "Very poorly"]
+  - id: important_benefits
+    type: multiple_choice
+    prompt: "Which of the following benefits are most important to you?"
+    required: true
+    options: ["Health Insurance", "Paid Time Off", "Retirement Plan", "Flexible Work", "Professional Development", "Wellness Programs", "Dental/Vision Insurance", "Parental Leave", "Gym Membership", "Commuter Benefits"]
+  - id: technology_tools
+    type: single_choice
+    prompt: "Are you satisfied with the technology and tools provided for your work?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: diversity_inclusion
+    type: rating
+    prompt: "How inclusive and diverse do you find the workplace culture?"
+    required: true
+    scale: 5
+  - id: leadership_effectiveness
+    type: single_choice
+    prompt: "How effective is your direct supervisor in supporting your work?"
+    required: true
+    options: ["Very effective", "Effective", "Neutral", "Ineffective", "Very ineffective"]
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What could improve your experience at work?"
+    required: false
+  - id: likelihood_to_recommend
+    type: rating
+    prompt: "How likely are you to recommend this organization as a great place to work?"
+    required: true
+    scale: 10
+  - id: additional_comments
+    type: long_text
+    prompt: "Do you have any additional comments or suggestions?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

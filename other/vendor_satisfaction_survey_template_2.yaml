@@ -1,0 +1,105 @@
+title: "Vendor Satisfaction Survey"
+description: "Gather feedback to improve our services and client satisfaction"
+category: "Vendor Management Surveys"
+questions:
+  - id: overall_satisfaction
+    type: single_choice
+    prompt: "Overall, how satisfied are you with our services as a vendor?"
+    required: true
+    options: ["Very satisfied", "Somewhat satisfied", "Neutral", "Somewhat dissatisfied", "Very dissatisfied"]
+  - id: communication_quality
+    type: single_choice
+    prompt: "How would you rate our communication regarding services and support?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: responsiveness
+    type: rating
+    prompt: "How responsive have we been to your inquiries and requests?"
+    required: true
+    scale: 5
+  - id: service_quality
+    type: single_choice
+    prompt: "How would you rate the overall quality of our services?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: value_proposition
+    type: single_choice
+    prompt: "How would you rate the value for money of our services?"
+    required: true
+    options: ["Excellent value", "Good value", "Fair value", "Poor value", "Very poor value"]
+  - id: valued_aspects
+    type: multiple_choice
+    prompt: "Which aspects of our service do you value most?"
+    required: true
+    options: ["Service quality", "Responsiveness", "Cost-effectiveness", "Timeliness", "Account management", "Technical support", "Product knowledge", "Reliability"]
+  - id: contract_clarity
+    type: single_choice
+    prompt: "How clear and understandable were our contracts and agreements?"
+    required: true
+    options: ["Very clear", "Clear", "Somewhat clear", "Unclear", "Very unclear"]
+  - id: onboarding_experience
+    type: single_choice
+    prompt: "How would you rate your onboarding experience with us?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: technical_competence
+    type: rating
+    prompt: "How technically competent is our team?"
+    required: true
+    scale: 5
+  - id: problem_resolution
+    type: single_choice
+    prompt: "How effective are we at resolving issues and problems?"
+    required: true
+    options: ["Very effective", "Somewhat effective", "Neutral", "Somewhat ineffective", "Very ineffective"]
+  - id: relationship_management
+    type: single_choice
+    prompt: "How well do we manage our business relationship with you?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: innovation_level
+    type: single_choice
+    prompt: "How innovative do you find our solutions and approaches?"
+    required: true
+    options: ["Very innovative", "Somewhat innovative", "Neutral", "Somewhat traditional", "Very traditional"]
+  - id: recommendation_likelihood
+    type: rating
+    prompt: "How likely are you to recommend us as a vendor to others?"
+    required: true
+    scale: 10
+  - id: competitor_comparison
+    type: single_choice
+    prompt: "How do we compare to other vendors you've worked with?"
+    required: false
+    options: ["Much better", "Better", "About the same", "Worse", "Much worse"]
+  - id: loyalty_level
+    type: single_choice
+    prompt: "How loyal are you to our services?"
+    required: true
+    options: ["Very loyal", "Somewhat loyal", "Neutral", "Somewhat disloyal", "Very disloyal"]
+  - id: future_business_intent
+    type: single_choice
+    prompt: "How likely are you to continue doing business with us?"
+    required: true
+    options: ["Very likely", "Somewhat likely", "Neutral", "Somewhat unlikely", "Very unlikely"]
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What could we improve to better meet your needs as a client?"
+    required: false
+  - id: additional_comments
+    type: long_text
+    prompt: "Do you have any additional comments or suggestions?"
+    required: false
+  - id: company_size
+    type: single_choice
+    prompt: "What is the size of your company?"
+    required: false
+    options: ["1-10 employees", "11-50 employees", "51-200 employees", "201-1000 employees", "1000+ employees"]
+  - id: industry
+    type: single_choice
+    prompt: "What industry is your company in?"
+    required: false
+    options: ["Technology", "Healthcare", "Finance", "Manufacturing", "Retail", "Consulting", "Education", "Other"]
+validation_result:
+  status: "PASS"
+  errors: []

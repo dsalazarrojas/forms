@@ -1,0 +1,105 @@
+title: "Career Development Survey"
+description: "Gathering feedback on career development and overall satisfaction to improve employee experience and growth opportunities."
+category: "Business Surveys"
+questions:
+  - id: overall_role_satisfaction
+    type: rating
+    prompt: "How satisfied are you with your current role?"
+    required: true
+    scale: 5
+  - id: development_support_feeling
+    type: single_choice
+    prompt: "Do you feel supported in your professional development?"
+    required: true
+    options: ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]
+  - id: career_path_clarity
+    type: single_choice
+    prompt: "How clear are the career paths within the organization?"
+    required: true
+    options: ["Very clear", "Clear", "Somewhat clear", "Unclear", "Very unclear"]
+  - id: mentorship_access
+    type: single_choice
+    prompt: "How accessible is mentorship within your organization?"
+    required: true
+    options: ["Very accessible", "Accessible", "Somewhat accessible", "Limited access", "No access"]
+  - id: training_opportunities
+    type: multiple_choice
+    prompt: "Which training opportunities have you utilized? (select all that apply)"
+    required: false
+    options: ["Internal workshops", "External conferences", "Online courses", "Certification programs", "Cross-training", "Leadership development"]
+  - id: skill_gap_identification
+    type: single_choice
+    prompt: "How well does the organization help identify skill gaps?"
+    required: true
+    options: ["Very well", "Well", "Somewhat", "Poorly", "Not at all"]
+  - id: performance_feedback_quality
+    type: rating
+    prompt: "Rate the quality of performance feedback you receive"
+    required: true
+    scale: 5
+  - id: promotion_opportunities
+    type: single_choice
+    prompt: "How satisfied are you with promotion opportunities?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: work_life_balance
+    type: rating
+    prompt: "How well does your role support work-life balance?"
+    required: true
+    scale: 5
+  - id: compensation_satisfaction
+    type: single_choice
+    prompt: "How satisfied are you with your compensation and benefits?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: learning_culture
+    type: single_choice
+    prompt: "How strong is the learning culture in your organization?"
+    required: true
+    options: ["Very strong", "Strong", "Moderate", "Weak", "Very weak"]
+  - id: technology_resources
+    type: multiple_choice
+    prompt: "What technology resources support your development? (select all that apply)"
+    required: false
+    options: ["Learning management system", "Online learning platforms", "Development tools", "Collaboration software", "Performance tracking tools"]
+  - id: manager_coaching
+    type: rating
+    prompt: "How effective is your manager at coaching your development?"
+    required: true
+    scale: 5
+  - id: cross_functional_opportunities
+    type: single_choice
+    prompt: "How often do you have cross-functional project opportunities?"
+    required: true
+    options: ["Very often", "Often", "Sometimes", "Rarely", "Never"]
+  - id: recognition_programs
+    type: single_choice
+    prompt: "How effective are the recognition programs?"
+    required: false
+    options: ["Very effective", "Effective", "Somewhat effective", "Ineffective", "Very ineffective"]
+  - id: future_goals_alignment
+    type: single_choice
+    prompt: "How well do your current opportunities align with your career goals?"
+    required: true
+    options: ["Very well", "Well", "Somewhat", "Poorly", "Not at all"]
+  - id: diversity_inclusion
+    type: rating
+    prompt: "How inclusive is the organization regarding career development?"
+    required: false
+    scale: 5
+  - id: remote_work_flexibility
+    type: single_choice
+    prompt: "How flexible are remote work arrangements for your development?"
+    required: false
+    options: ["Very flexible", "Flexible", "Somewhat flexible", "Rigid", "Very rigid"]
+  - id: improvement_priorities
+    type: long_text
+    prompt: "What initiatives or resources could most improve your career development?"
+    required: false
+  - id: additional_comments
+    type: long_text
+    prompt: "Do you have any additional comments regarding career development?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

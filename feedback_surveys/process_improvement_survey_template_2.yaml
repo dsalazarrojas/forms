@@ -1,0 +1,100 @@
+title: "Process Improvement Survey"
+description: "Gather feedback on current processes to identify areas for improvement"
+category: "Business Surveys"
+questions:
+  - id: overall_efficiency_satisfaction
+    type: rating
+    prompt: "How satisfied are you with the efficiency of current processes?"
+    required: true
+    scale: 5
+  - id: process_interaction_frequency
+    type: single_choice
+    prompt: "How often do you interact with the processes being evaluated?"
+    required: true
+    options: ["Daily", "Weekly", "Monthly", "Rarely", "Never"]
+  - id: process_characteristics
+    type: multiple_choice
+    prompt: "Which of the following best describe your experience with these processes? (select all that apply)"
+    required: true
+    options: ["Efficient", "Clear", "Streamlined", "Time-consuming", "Complex", "Ambiguous"]
+  - id: main_bottleneck
+    type: single_choice
+    prompt: "What is the most significant bottleneck or challenge you face with current processes?"
+    required: true
+    options: ["Lack of clarity", "Manual steps", "Outdated tools", "Insufficient communication", "Training gaps", "Resource constraints"]
+  - id: automation_potential
+    type: rating
+    prompt: "How much potential do you see for automating parts of these processes?"
+    required: true
+    scale: 5
+  - id: communication_effectiveness
+    type: single_choice
+    prompt: "How effective is the communication about process changes and updates?"
+    required: true
+    options: ["Very effective", "Somewhat effective", "Neutral", "Somewhat ineffective", "Very ineffective"]
+  - id: training_adequacy
+    type: rating
+    prompt: "How adequate is the training provided for these processes?"
+    required: true
+    scale: 5
+  - id: tool_satisfaction
+    type: single_choice
+    prompt: "How satisfied are you with the tools and technology used in these processes?"
+    required: true
+    options: ["Very satisfied", "Somewhat satisfied", "Neutral", "Somewhat dissatisfied", "Very dissatisfied"]
+  - id: stakeholder_involvement
+    type: rating
+    prompt: "How well are stakeholders involved in process decisions?"
+    required: true
+    scale: 5
+  - id: error_frequency
+    type: single_choice
+    prompt: "How often do errors occur in these processes?"
+    required: true
+    options: ["Never", "Rarely", "Sometimes", "Often", "Very frequently"]
+  - id: time_spent_percentage
+    type: single_choice
+    prompt: "What percentage of your work time is spent on these processes?"
+    required: true
+    options: ["Less than 10%", "10-25%", "25-50%", "50-75%", "More than 75%"]
+  - id: success_metrics_clarity
+    type: rating
+    prompt: "How clear are the success metrics for these processes?"
+    required: true
+    scale: 5
+  - id: improvement_urgency
+    type: single_choice
+    prompt: "How urgent is it to improve these processes?"
+    required: true
+    options: ["Not urgent", "Somewhat urgent", "Moderately urgent", "Very urgent", "Critically urgent"]
+  - id: suggested_improvements
+    type: long_text
+    prompt: "What specific changes or improvements would you suggest for these processes?"
+    required: false
+  - id: resource_needs
+    type: multiple_choice
+    prompt: "What additional resources would help improve these processes? (select all that apply)"
+    required: false
+    options: ["More staff", "Better tools", "Additional training", "Consultants", "Budget increase", "Technology upgrades"]
+  - id: timeline_expectations
+    type: single_choice
+    prompt: "What is your expected timeline for seeing process improvements?"
+    required: false
+    options: ["Within 1 month", "Within 3 months", "Within 6 months", "Within 1 year", "More than 1 year"]
+  - id: impact_assessment
+    type: rating
+    prompt: "How significant would process improvements be to your work effectiveness?"
+    required: true
+    scale: 5
+  - id: change_resistance
+    type: single_choice
+    prompt: "How resistant do you think the team would be to process changes?"
+    required: false
+    options: ["Not resistant", "Somewhat resistant", "Moderately resistant", "Very resistant", "Extremely resistant"]
+  - id: additional_feedback
+    type: long_text
+    prompt: "Do you have any additional comments or feedback regarding process improvement?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

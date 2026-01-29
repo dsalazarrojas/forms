@@ -1,0 +1,104 @@
+title: "Restaurant Customer Satisfaction Survey"
+description: "Comprehensive feedback survey to improve your dining experience at our restaurant."
+category: "Hospitality & Service Surveys"
+questions:
+  - id: overall_experience_satisfaction
+    type: single_choice
+    prompt: "Overall, how satisfied were you with your dining experience?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: food_quality_rating
+    type: single_choice
+    prompt: "How would you rate the quality of the food?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor"]
+  - id: service_quality_rating
+    type: single_choice
+    prompt: "How would you rate the service provided by our staff?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor"]
+  - id: visit_reason
+    type: multiple_choice
+    prompt: "What was the main reason for your visit today?"
+    required: true
+    options: ["Special occasion", "Casual meal", "Business", "Try new place", "Social gathering", "Takeout/Delivery", "Quick bite"]
+  - id: recommendation_likelihood
+    type: single_choice
+    prompt: "How likely are you to recommend our restaurant to a friend or colleague?"
+    required: true
+    options: ["Very likely", "Likely", "Neutral", "Unlikely", "Very unlikely"]
+  - id: food_temperature
+    type: rating
+    prompt: "Rate the temperature of your food when it arrived"
+    required: true
+    scale: 5
+  - id: menu_variety
+    type: single_choice
+    prompt: "How would you rate the variety on our menu?"
+    required: true
+    options: ["Excellent variety", "Good variety", "Adequate", "Limited", "Very limited"]
+  - id: value_for_money
+    type: rating
+    prompt: "Rate the value for money of your meal"
+    required: true
+    scale: 5
+  - id: ambiance_rating
+    type: single_choice
+    prompt: "How would you rate the ambiance and atmosphere?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: cleanliness_rating
+    type: rating
+    prompt: "Rate the cleanliness of the restaurant"
+    required: true
+    scale: 5
+  - id: wait_time_satisfaction
+    type: single_choice
+    prompt: "How satisfied were you with the wait time for your table?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: staff_friendliness
+    type: rating
+    prompt: "Rate the friendliness and attentiveness of our staff"
+    required: true
+    scale: 5
+  - id: dietary_accommodations
+    type: single_choice
+    prompt: "How well did we accommodate any dietary restrictions or preferences?"
+    required: false
+    options: ["Perfectly", "Well", "Adequately", "Poorly", "Did not accommodate"]
+  - id: beverage_quality
+    type: rating
+    prompt: "Rate the quality of beverages served"
+    required: false
+    scale: 5
+  - id: music_volume
+    type: single_choice
+    prompt: "How was the music volume in the restaurant?"
+    required: true
+    options: ["Too loud", "A bit loud", "Just right", "A bit quiet", "Too quiet"]
+  - id: parking_convenience
+    type: single_choice
+    prompt: "How convenient was parking?"
+    required: false
+    options: ["Very convenient", "Convenient", "Neutral", "Inconvenient", "Very inconvenient"]
+  - id: return_likelihood
+    type: rating
+    prompt: "How likely are you to return to our restaurant?"
+    required: true
+    scale: 10
+  - id: favorite_dish
+    type: text
+    prompt: "What was your favorite dish and why?"
+    required: false
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What could we do to improve your next visit?"
+    required: false
+  - id: additional_comments
+    type: long_text
+    prompt: "Do you have any additional comments or suggestions?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

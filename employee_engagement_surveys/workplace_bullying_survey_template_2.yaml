@@ -1,0 +1,105 @@
+title: "Workplace Bullying Survey"
+description: "Understanding experiences of bullying and harassment to improve workplace safety and culture."
+category: "Business Surveys"
+questions:
+  - id: personal_experience
+    type: single_choice
+    prompt: "Have you personally experienced workplace bullying or harassment at this organization?"
+    required: true
+    options: ["Yes", "No", "Prefer not to say"]
+  - id: witnessed_incidents
+    type: single_choice
+    prompt: "Have you witnessed bullying or harassment of others at this organization?"
+    required: true
+    options: ["Yes", "No", "Unsure"]
+  - id: bullying_frequency
+    type: single_choice
+    prompt: "If you've experienced or witnessed bullying, how often does it occur?"
+    required: false
+    options: ["Daily", "Weekly", "Monthly", "Occasionally", "Rarely", "One-time incident"]
+  - id: bullying_types
+    type: multiple_choice
+    prompt: "What forms of bullying or harassment have you experienced or witnessed?"
+    required: false
+    options: ["Verbal abuse or insults", "Exclusion from activities", "Intimidation or threats", "Spreading rumors or gossip", "Sabotage of work", "Unfair treatment", "Physical harassment", "Cyberbullying", "Sexual harassment", "Discrimination"]
+  - id: perpetrator_relationship
+    type: single_choice
+    prompt: "If applicable, what was your relationship to the person who bullied or harassed you?"
+    required: false
+    options: ["Supervisor/manager", "Colleague", "Subordinate", "Client/customer", "Multiple people", "Unknown"]
+  - id: reporting_decision
+    type: single_choice
+    prompt: "Did you report the incident(s) of bullying or harassment?"
+    required: false
+    options: ["Yes, reported internally", "Yes, reported externally", "No, but considered it", "No, didn't consider it"]
+  - id: reporting_barriers
+    type: multiple_choice
+    prompt: "If you didn't report it, what were the main barriers?"
+    required: false
+    options: ["Fear of retaliation", "Didn't think it would help", "Lack of confidence in process", "Concern about confidentiality", "Didn't know how to report", "Incident seemed minor"]
+  - id: reporting_satisfaction
+    type: rating
+    prompt: "If you reported it, how satisfied were you with the response and resolution?"
+    required: false
+    scale: 5
+  - id: investigation_timeliness
+    type: single_choice
+    prompt: "How timely was the investigation and response to your report?"
+    required: false
+    options: ["Very timely", "Somewhat timely", "Neutral", "Somewhat delayed", "Very delayed"]
+  - id: support_received
+    type: multiple_choice
+    prompt: "What support did you receive after reporting?"
+    required: false
+    options: ["Counseling services", "Time off work", "Policy changes", "Protection from retaliation", "Mediation", "Legal support", "No support received"]
+  - id: professional_impact
+    type: single_choice
+    prompt: "How has the bullying or harassment affected your work performance?"
+    required: false
+    options: ["No impact", "Minor impact", "Moderate impact", "Major impact", "Severe impact"]
+  - id: health_impact
+    type: rating
+    prompt: "How has the bullying or harassment affected your mental or physical health?"
+    required: false
+    scale: 5
+  - id: workplace_safety
+    type: rating
+    prompt: "How safe do you feel from bullying and harassment in your workplace?"
+    required: true
+    scale: 5
+  - id: policy_awareness
+    type: single_choice
+    prompt: "How aware are you of the company's policies on bullying and harassment?"
+    required: true
+    options: ["Very aware", "Somewhat aware", "Neutral", "Somewhat unaware", "Very unaware"]
+  - id: training_received
+    type: multiple_choice
+    prompt: "What anti-bullying training have you received?"
+    required: false
+    options: ["Formal training sessions", "Online modules", "Workshops", "Policy reviews", "No training", "Unsure"]
+  - id: prevention_measures
+    type: multiple_choice
+    prompt: "Which measures would help prevent bullying and harassment?"
+    required: false
+    options: ["More training programs", "Clearer policies", "Anonymous reporting system", "Regular culture surveys", "Better management oversight", "Support hotlines", "Diversity initiatives"]
+  - id: cultural_factors
+    type: single_choice
+    prompt: "How would you describe the organizational culture regarding bullying?"
+    required: true
+    options: ["Very positive and intolerant of bullying", "Somewhat positive", "Neutral", "Somewhat tolerant of bullying", "Very tolerant or accepting of bullying"]
+  - id: bystander_intervention
+    type: single_choice
+    prompt: "If you witnessed bullying, did you intervene or report it?"
+    required: false
+    options: ["Yes, intervened directly", "Yes, reported it", "No, but wanted to", "No, felt unsafe", "No, not my responsibility"]
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What specific measures do you think the organization could take to prevent and address bullying and harassment?"
+    required: false
+  - id: additional_comments
+    type: long_text
+    prompt: "Any additional comments about your experiences or suggestions for improvement?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

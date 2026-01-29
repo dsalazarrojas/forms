@@ -1,0 +1,99 @@
+title: "Employee Engagement Survey"
+description: "Confidential survey to gather comprehensive feedback on work experience, organizational culture, and identify opportunities for enhancing employee engagement and satisfaction."
+category: "HR Surveys"
+questions:
+  - id: role_satisfaction
+    type: single_choice
+    prompt: "Overall, how satisfied are you with your role at the organization?"
+    required: true
+    options: ["Very satisfied", "Somewhat satisfied", "Neutral", "Somewhat dissatisfied", "Very dissatisfied"]
+  - id: management_communication
+    type: single_choice
+    prompt: "How would you rate communication from management?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: professional_development_support
+    type: single_choice
+    prompt: "Do you feel supported in your professional development?"
+    required: true
+    options: ["Yes, strongly", "Yes, somewhat", "Somewhat", "No, not really", "No, not at all"]
+  - id: company_culture_values
+    type: multiple_choice
+    prompt: "What aspects of our company culture do you value most? (Select all that apply)"
+    required: true
+    options: ["Collaboration", "Support", "Respect", "Open communication", "Innovation", "Work-life balance", "Diversity & inclusion", "Recognition"]
+  - id: work_life_balance
+    type: rating
+    prompt: "How well does the organization support work-life balance?"
+    required: true
+    scale: 5
+  - id: career_growth_opportunities
+    type: rating
+    prompt: "How satisfied are you with career growth opportunities?"
+    required: true
+    scale: 5
+  - id: recognition_appreciation
+    type: single_choice
+    prompt: "How often do you feel recognized and appreciated for your work?"
+    required: true
+    options: ["Always", "Often", "Sometimes", "Rarely", "Never"]
+  - id: team_collaboration
+    type: rating
+    prompt: "How would you rate collaboration within your team?"
+    required: true
+    scale: 5
+  - id: organizational_alignment
+    type: single_choice
+    prompt: "How well do you understand the organization's mission and goals?"
+    required: true
+    options: ["Very well", "Well", "Somewhat", "Not well", "Not at all"]
+  - id: decision_making_involvement
+    type: single_choice
+    prompt: "How involved do you feel in decision-making processes that affect your work?"
+    required: true
+    options: ["Very involved", "Somewhat involved", "Neutral", "Somewhat uninvolved", "Very uninvolved"]
+  - id: workplace_relationships
+    type: rating
+    prompt: "How positive are your relationships with colleagues and supervisors?"
+    required: true
+    scale: 5
+  - id: resource_availability
+    type: single_choice
+    prompt: "Do you have the resources and tools needed to perform your job effectively?"
+    required: true
+    options: ["Yes, completely", "Yes, mostly", "Somewhat", "No, not really", "No, not at all"]
+  - id: change_management
+    type: rating
+    prompt: "How well does the organization handle change and transitions?"
+    required: true
+    scale: 5
+  - id: feedback_culture
+    type: single_choice
+    prompt: "How comfortable do you feel giving and receiving feedback?"
+    required: true
+    options: ["Very comfortable", "Comfortable", "Neutral", "Uncomfortable", "Very uncomfortable"]
+  - id: organizational_pride
+    type: rating
+    prompt: "How proud are you to work for this organization?"
+    required: true
+    scale: 5
+  - id: likelihood_to_recommend
+    type: rating
+    prompt: "How likely are you to recommend this organization as a great place to work?"
+    required: true
+    scale: 10
+  - id: improvement_areas
+    type: text
+    prompt: "What could most improve your experience at work?"
+    required: false
+  - id: positive_aspects
+    type: long_text
+    prompt: "What do you most enjoy about working here?"
+    required: false
+  - id: additional_comments
+    type: long_text
+    prompt: "Do you have any additional comments or suggestions?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

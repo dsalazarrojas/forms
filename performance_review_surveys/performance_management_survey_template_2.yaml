@@ -1,0 +1,109 @@
+title: "Performance Management Survey"
+description: "Gathering feedback on the current performance management process and tools to identify areas for improvement"
+category: "HR Surveys"
+questions:
+  - id: overall_satisfaction
+    type: rating
+    prompt: "How satisfied are you with the current performance management process overall?"
+    required: true
+    scale: 5
+  - id: discussion_frequency
+    type: single_choice
+    prompt: "How often do you engage in formal performance discussions or reviews with your manager/team lead?"
+    required: true
+    options: ["Weekly", "Bi-weekly", "Monthly", "Quarterly", "Annually", "Rarely"]
+  - id: goals_clarity
+    type: single_choice
+    prompt: "Which of the following best describes the clarity of performance goals and expectations?"
+    required: true
+    options: ["Very clear", "Mostly clear", "Moderately clear", "Somewhat unclear", "Very unclear"]
+  - id: effective_aspects
+    type: multiple_choice
+    prompt: "What aspects of the performance review process do you find most effective? (select all that apply)"
+    required: true
+    options: ["Goal setting", "Feedback delivery", "Development planning", "Recognition of achievements", "Two-way discussion", "Documentation"]
+  - id: growth_contribution
+    type: single_choice
+    prompt: "Do you feel the performance management process contributes to your professional growth and development?"
+    required: true
+    options: ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]
+  - id: tools_effectiveness
+    type: rating
+    prompt: "Rate the effectiveness of the performance management tools and systems"
+    required: true
+    scale: 5
+  - id: continuous_feedback
+    type: single_choice
+    prompt: "How effective is the continuous feedback process throughout the year?"
+    required: true
+    options: ["Very effective", "Effective", "Neutral", "Ineffective", "Very ineffective"]
+  - id: manager_coaching
+    type: rating
+    prompt: "Rate the quality of coaching and guidance from your manager"
+    required: true
+    scale: 5
+  - id: goal_alignment
+    type: single_choice
+    prompt: "How well do your individual goals align with team and organizational objectives?"
+    required: true
+    options: ["Very well", "Well", "Moderately", "Poorly", "Very poorly"]
+  - id: progress_tracking
+    type: rating
+    prompt: "How effective is the system for tracking progress toward goals?"
+    required: true
+    scale: 5
+  - id: development_resources
+    type: single_choice
+    prompt: "Are adequate resources provided for professional development?"
+    required: true
+    options: ["More than adequate", "Adequate", "Somewhat adequate", "Inadequate", "Very inadequate"]
+  - id: recognition_frequency
+    type: single_choice
+    prompt: "How often do you receive recognition for your achievements?"
+    required: true
+    options: ["Very frequently", "Frequently", "Occasionally", "Rarely", "Never"]
+  - id: performance_data_accuracy
+    type: rating
+    prompt: "Rate the accuracy and fairness of performance data used in evaluations"
+    required: true
+    scale: 5
+  - id: improvement_planning
+    type: single_choice
+    prompt: "How effective is the process for identifying and planning performance improvements?"
+    required: true
+    options: ["Very effective", "Effective", "Neutral", "Ineffective", "Very ineffective"]
+  - id: communication_transparency
+    type: rating
+    prompt: "Rate the transparency and communication in the performance management process"
+    required: true
+    scale: 5
+  - id: workload_balance
+    type: single_choice
+    prompt: "Does the performance management process consider workload balance?"
+    required: true
+    options: ["Always", "Often", "Sometimes", "Rarely", "Never"]
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What specific improvements would you suggest for our performance management process or tools?"
+    required: false
+  - id: best_practices
+    type: text
+    prompt: "What performance management practices from other organizations have you found effective?"
+    required: false
+  - id: overall_rating
+    type: rating
+    prompt: "Rate the overall performance management system"
+    required: true
+    scale: 10
+  - id: recommendation_score
+    type: rating
+    prompt: "How likely are you to recommend our performance management approach?"
+    required: true
+    scale: 10
+  - id: additional_feedback
+    type: long_text
+    prompt: "Please share any additional comments or feedback regarding performance management"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

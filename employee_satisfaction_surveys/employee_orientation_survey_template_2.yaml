@@ -1,0 +1,90 @@
+title: "Employee Orientation Survey"
+description: "Gathering feedback on the initial employee orientation and onboarding experience."
+category: "HR Surveys"
+questions:
+  - id: overall_satisfaction
+    type: single_choice
+    prompt: "How satisfied were you with the overall employee orientation program?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: information_usefulness
+    type: rating
+    prompt: "How would you rate the usefulness of the information provided during orientation?"
+    required: true
+    scale: 5
+  - id: topics_effectiveness
+    type: multiple_choice
+    prompt: "Which of the following topics were covered effectively during orientation? (select all that apply)"
+    required: true
+    options: ["Company culture", "Job responsibilities", "Benefits & HR", "IT setup", "Safety procedures", "Team introductions", "Performance expectations", "Communication tools", "Office/facility tour", "Code of conduct"]
+  - id: post_orientation_support
+    type: single_choice
+    prompt: "Do you feel adequately supported as a new employee after orientation?"
+    required: true
+    options: ["Yes, completely", "Mostly", "Somewhat", "Not yet", "No"]
+  - id: program_duration
+    type: single_choice
+    prompt: "Was the orientation program duration appropriate?"
+    required: true
+    options: ["Too long", "Just right", "Too short", "Much too short", "Much too long"]
+  - id: presenter_quality
+    type: single_choice
+    prompt: "How effective were the orientation presenters and facilitators?"
+    required: true
+    options: ["Very effective", "Effective", "Somewhat effective", "Ineffective", "Very ineffective"]
+  - id: materials_quality
+    type: single_choice
+    prompt: "How would you rate the quality of orientation materials and resources?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: engagement_level
+    type: single_choice
+    prompt: "How engaging was the orientation program?"
+    required: true
+    options: ["Very engaging", "Engaging", "Somewhat engaging", "Not engaging", "Boring"]
+  - id: culture_transmission
+    type: single_choice
+    prompt: "How well did orientation help you understand the company culture?"
+    required: true
+    options: ["Very well", "Well", "Adequately", "Poorly", "Not at all"]
+  - id: role_clarity
+    type: single_choice
+    prompt: "How clear did orientation make your role and expectations?"
+    required: true
+    options: ["Very clear", "Clear", "Somewhat clear", "Unclear", "Very unclear"]
+  - id: networking_opportunities
+    type: single_choice
+    prompt: "Did orientation provide good opportunities to meet colleagues?"
+    required: true
+    options: ["Excellent opportunities", "Good opportunities", "Some opportunities", "Few opportunities", "No opportunities"]
+  - id: practical_setup
+    type: single_choice
+    prompt: "How well did orientation cover practical setup (IT, access, facilities)?"
+    required: true
+    options: ["Very well", "Well", "Adequately", "Poorly", "Not at all"]
+  - id: confidence_level
+    type: rating
+    prompt: "On a scale of 1-10, how confident do you feel about your role after orientation?"
+    required: true
+    scale: 10
+  - id: welcome_experience
+    type: single_choice
+    prompt: "How welcoming did you find the orientation experience?"
+    required: true
+    options: ["Very welcoming", "Welcoming", "Neutral", "Unwelcoming", "Very unwelcoming"]
+  - id: follow_up_process
+    type: single_choice
+    prompt: "How effective was the follow-up process after orientation?"
+    required: true
+    options: ["Very effective", "Effective", "Somewhat effective", "Ineffective", "No follow-up"]
+  - id: improvement_suggestion
+    type: long_text
+    prompt: "What one thing could significantly improve the employee orientation experience?"
+    required: false
+  - id: additional_comments
+    type: long_text
+    prompt: "Do you have any additional comments or suggestions regarding your onboarding?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

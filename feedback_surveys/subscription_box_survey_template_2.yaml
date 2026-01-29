@@ -1,0 +1,89 @@
+title: "Subscription Box Survey"
+description: "Gathering your valuable feedback on your subscription box experience"
+category: "Consumer Surveys"
+questions:
+  - id: overall_satisfaction
+    type: rating
+    prompt: "How satisfied are you with your overall subscription box experience?"
+    required: true
+    scale: 5
+  - id: subscription_duration
+    type: single_choice
+    prompt: "How long have you been subscribed to this box?"
+    required: true
+    options: ["Less than 3 months", "3-6 months", "6-12 months", "1-2 years", "More than 2 years"]
+  - id: product_quality
+    type: rating
+    prompt: "How would you rate the quality of products in your subscription box?"
+    required: true
+    scale: 5
+  - id: product_variety
+    type: rating
+    prompt: "How satisfied are you with the variety of products offered?"
+    required: true
+    scale: 5
+  - id: curation_relevance
+    type: single_choice
+    prompt: "How well do the products match your interests and preferences?"
+    required: true
+    options: ["Perfectly matched", "Well matched", "Somewhat matched", "Poorly matched", "Not matched at all"]
+  - id: value_for_money
+    type: rating
+    prompt: "How would you rate the value for money of your subscription?"
+    required: true
+    scale: 5
+  - id: packaging_quality
+    type: single_choice
+    prompt: "How would you rate the quality of packaging and presentation?"
+    required: true
+    options: ["Excellent", "Good", "Average", "Poor", "Very poor"]
+  - id: delivery_reliability
+    type: rating
+    prompt: "How reliable has the delivery been?"
+    required: true
+    scale: 5
+  - id: delivery_speed
+    type: single_choice
+    prompt: "How satisfied are you with the delivery speed?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: customer_service
+    type: rating
+    prompt: "How would you rate the customer service experience?"
+    required: false
+    scale: 5
+  - id: subscription_management
+    type: single_choice
+    prompt: "How easy is it to manage your subscription (pause, cancel, modify)?"
+    required: true
+    options: ["Very easy", "Easy", "Neutral", "Difficult", "Very difficult"]
+  - id: key_benefits
+    type: multiple_choice
+    prompt: "Which of the following best describe your experience with the box?"
+    required: true
+    options: ["Good product value", "Exciting curation", "Great packaging", "Timely delivery", "Discover new brands", "Lacking variety", "Not worth the cost", "Slow delivery"]
+  - id: likelihood_to_continue
+    type: rating
+    prompt: "How likely are you to continue your subscription?"
+    required: true
+    scale: 10
+  - id: recommendation_score
+    type: rating
+    prompt: "How likely are you to recommend this subscription box to others?"
+    required: true
+    scale: 10
+  - id: desired_themes
+    type: text
+    prompt: "What types of products or themes would you like to see more of?"
+    required: false
+  - id: improvement_suggestions
+    type: text
+    prompt: "What is one thing you would improve about your subscription box?"
+    required: false
+  - id: additional_feedback
+    type: long_text
+    prompt: "Do you have any additional comments or suggestions?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

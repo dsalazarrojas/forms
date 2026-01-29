@@ -1,0 +1,105 @@
+title: "System Usability Survey"
+description: "Understand user experience and identify areas for improvement in the system"
+category: "Technology Surveys"
+questions:
+  - id: overall_usability
+    type: rating
+    prompt: "How satisfied are you with the system's overall usability?"
+    required: true
+    scale: 5
+  - id: usage_frequency
+    type: single_choice
+    prompt: "How often do you interact with the system?"
+    required: true
+    options: ["Daily", "Several times a week", "Weekly", "Monthly", "Rarely", "Never"]
+  - id: ease_of_learning
+    type: single_choice
+    prompt: "How easy was it to learn to use the system?"
+    required: true
+    options: ["Very easy", "Somewhat easy", "Neutral", "Somewhat difficult", "Very difficult"]
+  - id: interface_intuitiveness
+    type: rating
+    prompt: "How intuitive is the user interface?"
+    required: true
+    scale: 5
+  - id: navigation_ease
+    type: single_choice
+    prompt: "How easy is it to navigate through the system?"
+    required: true
+    options: ["Very easy", "Easy", "Moderate", "Difficult", "Very difficult"]
+  - id: performance_speed
+    type: rating
+    prompt: "How would you rate the system's performance and speed?"
+    required: true
+    scale: 5
+  - id: system_reliability
+    type: single_choice
+    prompt: "How reliable has the system been?"
+    required: true
+    options: ["Very reliable", "Reliable", "Sometimes unreliable", "Often unreliable", "Very unreliable"]
+  - id: error_handling
+    type: rating
+    prompt: "How well does the system handle errors and provide helpful messages?"
+    required: true
+    scale: 5
+  - id: feature_completeness
+    type: single_choice
+    prompt: "How complete is the feature set for your needs?"
+    required: true
+    options: ["Very complete", "Mostly complete", "Somewhat complete", "Incomplete", "Very incomplete"]
+  - id: documentation_quality
+    type: rating
+    prompt: "How helpful is the available documentation and help resources?"
+    required: false
+    scale: 5
+  - id: mobile_responsiveness
+    type: single_choice
+    prompt: "How well does the system work on mobile devices?"
+    required: false
+    options: ["Excellent", "Good", "Average", "Poor", "Very poor"]
+  - id: accessibility
+    type: rating
+    prompt: "How accessible is the system for users with disabilities?"
+    required: false
+    scale: 5
+  - id: customization_options
+    type: single_choice
+    prompt: "How satisfied are you with the customization options available?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: integration_ease
+    type: rating
+    prompt: "How easy is it to integrate this system with other tools you use?"
+    required: false
+    scale: 5
+  - id: security_confidence
+    type: single_choice
+    prompt: "How confident are you in the system's security measures?"
+    required: true
+    options: ["Very confident", "Confident", "Neutral", "Not very confident", "Not confident at all"]
+  - id: key_experience_aspects
+    type: multiple_choice
+    prompt: "Which of the following best describes your experience with the system?"
+    required: true
+    options: ["Easy to use", "Intuitive", "Fast performance", "Reliable", "Lacks features", "Confusing interface", "Good design", "Poor design"]
+  - id: likelihood_to_continue
+    type: rating
+    prompt: "How likely are you to continue using this system?"
+    required: true
+    scale: 10
+  - id: recommendation_score
+    type: rating
+    prompt: "How likely are you to recommend this system to others?"
+    required: true
+    scale: 10
+  - id: improvement_suggestions
+    type: text
+    prompt: "What specific aspects would you improve or change about the system?"
+    required: false
+  - id: additional_feedback
+    type: long_text
+    prompt: "Do you have any additional comments or feedback?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

@@ -1,0 +1,99 @@
+title: "Event Satisfaction Survey"
+description: "Gathering feedback on your recent event experience to help us improve future events"
+category: "Event Surveys"
+questions:
+  - id: overall_satisfaction
+    type: rating
+    prompt: "Overall, how satisfied were you with the event?"
+    required: true
+    scale: 5
+  - id: event_organization
+    type: single_choice
+    prompt: "How would you rate the event's organization and communication?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very Poor"]
+  - id: content_quality
+    type: single_choice
+    prompt: "Did the event content meet your expectations?"
+    required: true
+    options: ["Exceeded expectations", "Met expectations", "Somewhat met expectations", "Did not meet expectations", "Far below expectations"]
+  - id: activities_participated
+    type: multiple_choice
+    prompt: "Which of the following activities did you participate in?"
+    required: true
+    options: ["Keynote sessions", "Breakout sessions", "Networking events", "Workshops", "Exhibition hall", "Panel discussions", "Social events"]
+  - id: venue_facilities
+    type: rating
+    prompt: "How would you rate the venue and facilities?"
+    required: true
+    scale: 5
+  - id: speaker_quality
+    type: single_choice
+    prompt: "How would you rate the quality of speakers and presenters?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very Poor"]
+  - id: networking_opportunities
+    type: rating
+    prompt: "How valuable were the networking opportunities?"
+    required: true
+    scale: 5
+  - id: technology_av
+    type: single_choice
+    prompt: "How effective was the technology and AV support?"
+    required: true
+    options: ["Very effective", "Effective", "Neutral", "Ineffective", "Very ineffective"]
+  - id: catering_food
+    type: rating
+    prompt: "How would you rate the catering and food service?"
+    required: false
+    scale: 5
+  - id: registration_process
+    type: single_choice
+    prompt: "How smooth was the registration process?"
+    required: true
+    options: ["Very smooth", "Smooth", "Neutral", "Somewhat difficult", "Very difficult"]
+  - id: marketing_promotion
+    type: single_choice
+    prompt: "How effective was the event marketing and promotion?"
+    required: true
+    options: ["Very effective", "Effective", "Neutral", "Ineffective", "Very ineffective"]
+  - id: value_for_money
+    type: single_choice
+    prompt: "Was the event good value for money?"
+    required: true
+    options: ["Excellent value", "Good value", "Fair value", "Poor value", "Very poor value"]
+  - id: event_duration
+    type: single_choice
+    prompt: "How was the event duration?"
+    required: true
+    options: ["Too long", "Just right", "Too short"]
+  - id: accessibility_inclusion
+    type: rating
+    prompt: "How would you rate the event's accessibility and inclusivity?"
+    required: false
+    scale: 5
+  - id: recommendation_likelihood
+    type: rating
+    prompt: "How likely are you to recommend this event to a colleague or friend?"
+    required: true
+    scale: 10
+  - id: attendance_frequency
+    type: single_choice
+    prompt: "How often do you attend similar events?"
+    required: false
+    options: ["This was my first", "Occasionally", "Regularly", "Very frequently"]
+  - id: key_takeaways
+    type: text
+    prompt: "What were your key takeaways from the event?"
+    required: false
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What aspects of the event could be improved for future editions?"
+    required: false
+  - id: additional_comments
+    type: long_text
+    prompt: "Do you have any additional comments or suggestions?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

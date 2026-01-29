@@ -1,0 +1,100 @@
+title: "Manager Effectiveness Survey"
+description: "A survey to gather feedback on manager effectiveness and leadership skills"
+category: "HR & Employee Surveys"
+questions:
+  - id: overall_effectiveness_satisfaction
+    type: rating
+    prompt: "How satisfied are you with your manager's overall effectiveness?"
+    required: true
+    scale: 5
+  - id: goal_setting_clarity
+    type: rating
+    prompt: "How clear are the goals and objectives set by your manager?"
+    required: true
+    scale: 5
+  - id: performance_feedback_frequency
+    type: single_choice
+    prompt: "How often does your manager provide feedback on your performance?"
+    required: true
+    options: ["Daily", "Weekly", "Bi-weekly", "Monthly", "Quarterly", "Rarely", "Never"]
+  - id: leadership_qualities_demonstrated
+    type: multiple_choice
+    prompt: "Which of the following leadership qualities does your manager consistently demonstrate?"
+    required: true
+    options: ["Clear communication", "Supports growth", "Empowers team", "Decisive", "Approachable", "Strategic thinking", "Problem-solving", "Emotional intelligence", "Integrity", "Innovation"]
+  - id: team_development_focus
+    type: rating
+    prompt: "How much focus does your manager place on team development and growth?"
+    required: true
+    scale: 5
+  - id: resource_management
+    type: single_choice
+    prompt: "How effectively does your manager manage team resources and workload?"
+    required: true
+    options: ["Very effectively", "Somewhat effectively", "Neutral", "Somewhat ineffectively", "Very ineffectively"]
+  - id: conflict_resolution_skills
+    type: rating
+    prompt: "Rate your manager's ability to resolve conflicts within the team"
+    required: true
+    scale: 5
+  - id: decision_making_speed
+    type: single_choice
+    prompt: "How would you rate your manager's decision-making speed?"
+    required: true
+    options: ["Too slow", "Appropriate pace", "Too fast", "Inconsistent"]
+  - id: change_leadership
+    type: rating
+    prompt: "How effective is your manager at leading through organizational changes?"
+    required: true
+    scale: 5
+  - id: recognition_culture
+    type: single_choice
+    prompt: "How well does your manager foster a culture of recognition and appreciation?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: communication_transparency
+    type: rating
+    prompt: "How transparent is your manager's communication about company decisions?"
+    required: true
+    scale: 5
+  - id: mentoring_coaching_ability
+    type: single_choice
+    prompt: "How effective is your manager as a mentor and coach?"
+    required: true
+    options: ["Very effective", "Somewhat effective", "Neutral", "Somewhat ineffective", "Very ineffective"]
+  - id: work_environment_fostering
+    type: rating
+    prompt: "How well does your manager foster a positive work environment?"
+    required: true
+    scale: 5
+  - id: accountability_setting
+    type: single_choice
+    prompt: "How clear is your manager about accountability and responsibility?"
+    required: true
+    options: ["Very clear", "Somewhat clear", "Neutral", "Somewhat unclear", "Very unclear"]
+  - id: innovation_encouragement
+    type: rating
+    prompt: "How much does your manager encourage innovation and creative thinking?"
+    required: true
+    scale: 5
+  - id: stakeholder_management
+    type: single_choice
+    prompt: "How well does your manager manage relationships with stakeholders?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: time_management_priorities
+    type: rating
+    prompt: "How well does your manager prioritize tasks and manage time?"
+    required: true
+    scale: 5
+  - id: improvement_areas_specific
+    type: text
+    prompt: "What specific areas could your manager improve upon?"
+    required: false
+  - id: additional_suggestions
+    type: long_text
+    prompt: "Do you have any other comments or suggestions regarding manager effectiveness?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

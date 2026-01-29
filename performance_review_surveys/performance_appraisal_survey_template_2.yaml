@@ -1,0 +1,104 @@
+title: "Performance Appraisal Survey"
+description: "Collect feedback to improve the performance appraisal process and its effectiveness"
+category: "HR Surveys"
+questions:
+  - id: overall_satisfaction
+    type: rating
+    prompt: "How satisfied are you with the overall performance appraisal process?"
+    required: true
+    scale: 5
+  - id: expectations_clarity
+    type: single_choice
+    prompt: "How clear were the performance expectations set for you?"
+    required: true
+    options: ["Very clear", "Mostly clear", "Somewhat clear", "Unclear", "Very unclear"]
+  - id: feedback_helpfulness
+    type: single_choice
+    prompt: "How helpful was the feedback you received during your appraisal?"
+    required: true
+    options: ["Very helpful", "Moderately helpful", "Slightly helpful", "Not helpful", "Not helpful at all"]
+  - id: appraisal_experience
+    type: multiple_choice
+    prompt: "Which of the following applied to your experience with the appraisal? (select all that apply)"
+    required: true
+    options: ["Fair and unbiased", "Encouraged discussion", "Clear next steps", "Timely", "Felt rushed", "Unfair"]
+  - id: performance_accuracy
+    type: single_choice
+    prompt: "Do you feel the appraisal accurately reflected your performance?"
+    required: true
+    options: ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]
+  - id: goal_setting_process
+    type: rating
+    prompt: "Rate the effectiveness of the goal-setting process in your appraisal"
+    required: true
+    scale: 5
+  - id: manager_preparation
+    type: single_choice
+    prompt: "How well-prepared did your manager seem for the appraisal discussion?"
+    required: true
+    options: ["Very well-prepared", "Well-prepared", "Somewhat prepared", "Poorly prepared", "Unprepared"]
+  - id: self_assessment_opportunity
+    type: single_choice
+    prompt: "Did you have adequate opportunity to provide self-assessment?"
+    required: true
+    options: ["Yes, plenty", "Yes, adequate", "Somewhat", "Limited", "No opportunity"]
+  - id: development_plan_clarity
+    type: rating
+    prompt: "How clear was the development plan outlined in your appraisal?"
+    required: true
+    scale: 5
+  - id: appraisal_timing
+    type: single_choice
+    prompt: "Was the timing of your performance appraisal appropriate?"
+    required: true
+    options: ["Very appropriate", "Appropriate", "Neutral", "Inappropriate", "Very inappropriate"]
+  - id: appraisal_format
+    type: single_choice
+    prompt: "What was your preferred format for the performance appraisal?"
+    required: true
+    options: ["Face-to-face", "Video call", "Written feedback only", "Mixed format", "No preference"]
+  - id: follow_up_process
+    type: rating
+    prompt: "Rate the effectiveness of follow-up after the appraisal"
+    required: true
+    scale: 5
+  - id: skill_gap_identification
+    type: single_choice
+    prompt: "How well did the appraisal identify your skill gaps and development needs?"
+    required: true
+    options: ["Very well", "Well", "Adequately", "Poorly", "Very poorly"]
+  - id: motivation_impact
+    type: single_choice
+    prompt: "Did the appraisal process increase your motivation?"
+    required: true
+    options: ["Significantly increased", "Somewhat increased", "No change", "Somewhat decreased", "Significantly decreased"]
+  - id: compensation_alignment
+    type: rating
+    prompt: "How well did the appraisal align with compensation and rewards?"
+    required: true
+    scale: 5
+  - id: future_improvements
+    type: long_text
+    prompt: "What aspects of the appraisal process would you suggest improving?"
+    required: false
+  - id: positive_aspects
+    type: text
+    prompt: "What worked well in your appraisal process?"
+    required: false
+  - id: overall_effectiveness
+    type: rating
+    prompt: "Rate the overall effectiveness of the performance appraisal process"
+    required: true
+    scale: 10
+  - id: recommendation_likelihood
+    type: single_choice
+    prompt: "Would you recommend our appraisal process to other organizations?"
+    required: true
+    options: ["Definitely yes", "Probably yes", "Maybe", "Probably not", "Definitely not"]
+  - id: additional_feedback
+    type: long_text
+    prompt: "Any additional comments about the performance appraisal process?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

@@ -1,0 +1,124 @@
+title: SaaS Onboarding Survey
+description: A comprehensive survey to gather detailed feedback on your recent SaaS onboarding experience and training process.
+category: Business Surveys
+questions:
+- id: overall_satisfaction
+  type: rating
+  prompt: How satisfied were you with the overall SaaS onboarding experience?
+  required: true
+  scale: 5
+- id: valuable_aspects
+  type: multiple_choice
+  prompt: Which aspects of the onboarding process did you find most valuable?
+  required: true
+  options:
+  - Initial account setup
+  - Core feature walkthroughs
+  - Integrations setup
+  - Accessing support resources
+  - Best practices and tips
+  - Data import/migration
+  - Video tutorials
+  - Live training sessions
+- id: process_structure
+  type: single_choice
+  prompt: Was the onboarding process well-structured and easy to follow?
+  required: true
+  options:
+  - Very well-structured
+  - Well-structured
+  - Somewhat structured
+  - Not well-structured
+  - Very poorly structured
+- id: confidence_level
+  type: single_choice
+  prompt: How confident do you feel using the software independently after onboarding?
+  required: true
+  options:
+  - Very confident
+  - Moderately confident
+  - Slightly confident
+  - Not confident at all
+- id: documentation_quality
+  type: rating
+  prompt: How would you rate the quality of the onboarding documentation?
+  required: true
+  scale: 5
+- id: training_duration
+  type: single_choice
+  prompt: Was the onboarding training the right length?
+  required: true
+  options:
+  - Too long
+  - Just right
+  - Too short
+- id: support_accessibility
+  type: rating
+  prompt: How accessible was support during the onboarding process?
+  required: true
+  scale: 5
+- id: feature_discovery
+  type: single_choice
+  prompt: How well did onboarding help you discover key features?
+  required: true
+  options:
+  - Extremely well
+  - Very well
+  - Moderately well
+  - Slightly well
+  - Not well at all
+- id: integration_setup
+  type: single_choice
+  prompt: How easy was it to set up integrations during onboarding?
+  required: true
+  options:
+  - Very easy
+  - Easy
+  - Moderate
+  - Difficult
+  - Very difficult
+- id: data_migration
+  type: rating
+  prompt: If applicable, how smooth was the data migration process?
+  required: false
+  scale: 5
+- id: time_to_value
+  type: single_choice
+  prompt: How long did it take to achieve your first value from the software?
+  required: true
+  options:
+  - Less than 1 hour
+  - 1-4 hours
+  - 1 day
+  - 2-3 days
+  - More than 3 days
+- id: training_format
+  type: multiple_choice
+  prompt: Which training formats did you find most helpful?
+  required: true
+  options:
+  - Video tutorials
+  - Live webinars
+  - Written guides
+  - Interactive walkthroughs
+  - One-on-one sessions
+  - Self-paced modules
+- id: improvement_suggestions
+  type: long_text
+  prompt: What specific improvements would you suggest for our SaaS onboarding program?
+  required: false
+- id: biggest_challenge
+  type: text
+  prompt: What was the biggest challenge you faced during onboarding?
+  required: false
+- id: recommend_process
+  type: boolean
+  prompt: Would you recommend our onboarding process to other users?
+  required: true
+- id: additional_feedback
+  type: long_text
+  prompt: Do you have any additional feedback about the onboarding experience?
+  required: false
+validation_result:
+  status: PASS
+  errors: []

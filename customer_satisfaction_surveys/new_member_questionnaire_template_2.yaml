@@ -1,0 +1,99 @@
+title: "New Member Questionnaire"
+description: "Gathering feedback from new members to understand their initial experience and satisfaction"
+category: "Employee Surveys"
+questions:
+  - id: overall_satisfaction
+    type: single_choice
+    prompt: "Overall, how satisfied are you with your role at the organization?"
+    required: true
+    options: ["Very satisfied", "Somewhat satisfied", "Neutral", "Somewhat dissatisfied", "Very dissatisfied"]
+  - id: management_communication
+    type: single_choice
+    prompt: "How would you rate communication from management?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor"]
+  - id: professional_development_support
+    type: boolean
+    prompt: "Do you feel supported in your professional development?"
+    required: true
+  - id: onboarding_helpful_aspects
+    type: multiple_choice
+    prompt: "Which aspects of your onboarding experience were most helpful?"
+    required: true
+    options: ["Orientation sessions", "Mentorship program", "Welcome kit", "Access to resources", "Team introductions"]
+  - id: onboarding_duration
+    type: single_choice
+    prompt: "How long did your onboarding process take?"
+    required: true
+    options: ["Less than 1 week", "1-2 weeks", "2-4 weeks", "1-2 months", "More than 2 months"]
+  - id: role_clarity
+    type: rating
+    prompt: "How clear were your job responsibilities from the start?"
+    required: true
+    scale: 5
+  - id: expectation_alignment
+    type: single_choice
+    prompt: "Did your actual experience match your expectations?"
+    required: true
+    options: ["Exceeded expectations", "Met expectations", "Below expectations", "Significantly below expectations"]
+  - id: team_integration
+    type: rating
+    prompt: "How well have you integrated with your team?"
+    required: true
+    scale: 5
+  - id: resource_access
+    type: single_choice
+    prompt: "How easy was it to access necessary tools and resources?"
+    required: true
+    options: ["Very easy", "Easy", "Neutral", "Difficult", "Very difficult"]
+  - id: training_sufficiency
+    type: single_choice
+    prompt: "Was the training provided sufficient for your role?"
+    required: true
+    options: ["More than sufficient", "Sufficient", "Somewhat sufficient", "Insufficient", "Very insufficient"]
+  - id: mentorship_experience
+    type: single_choice
+    prompt: "How would you rate your mentorship experience?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "No mentorship provided"]
+  - id: workplace_culture_fit
+    type: rating
+    prompt: "How well do you feel you fit with the company culture?"
+    required: true
+    scale: 5
+  - id: first_week_experience
+    type: text
+    prompt: "Describe your experience during your first week"
+    required: false
+  - id: initial_challenges
+    type: text
+    prompt: "What were your biggest challenges during the first month?"
+    required: false
+  - id: positive_surprises
+    type: text
+    prompt: "What positively surprised you about the organization?"
+    required: false
+  - id: improvement_suggestions
+    type: text
+    prompt: "What could be improved about your initial experience at work?"
+    required: false
+  - id: retention_prediction
+    type: single_choice
+    prompt: "Based on your first month, how long do you see yourself staying?"
+    required: true
+    options: ["Less than 6 months", "6-12 months", "1-2 years", "2-5 years", "5+ years"]
+  - id: colleague_support
+    type: rating
+    prompt: "Rate the supportiveness of your colleagues"
+    required: true
+    scale: 5
+  - id: overall_impression
+    type: single_choice
+    prompt: "What's your overall impression of the organization so far?"
+    required: true
+    options: ["Very positive", "Positive", "Neutral", "Negative", "Very negative"]
+  - id: additional_comments
+    type: long_text
+    prompt: "Do you have any additional comments or suggestions?"
+    required: false
+validation_result: valid

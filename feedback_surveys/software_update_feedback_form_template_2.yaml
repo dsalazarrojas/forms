@@ -1,0 +1,157 @@
+title: Software Update Feedback Form
+description: Comprehensive survey to collect feedback and insights on the recent software update experience.
+category: Software
+questions:
+- id: update_satisfaction
+  type: rating
+  prompt: How satisfied are you with the recent software update?
+  required: true
+  scale: 5
+- id: update_awareness
+  type: single_choice
+  prompt: How did you learn about this software update?
+  required: true
+  options:
+  - In-app notification
+  - Email notification
+  - Website announcement
+  - Social media
+  - Colleague/friend
+  - Release notes
+  - Other
+- id: installation_difficulty
+  type: rating
+  prompt: How easy was it to install and get started with the new update?
+  required: true
+  scale: 5
+- id: installation_time
+  type: single_choice
+  prompt: How long did the installation process take?
+  required: true
+  options:
+  - Less than 5 minutes
+  - 5-15 minutes
+  - 15-30 minutes
+  - 30-60 minutes
+  - More than 60 minutes
+- id: noticed_improvements
+  type: multiple_choice
+  prompt: Which of the following improvements did you notice? (select all that apply)
+  required: false
+  options:
+  - Improved performance
+  - New features
+  - Bug fixes
+  - Enhanced security
+  - Better stability
+  - UI/UX improvements
+  - Better mobile experience
+  - Faster loading times
+  - Reduced crashes
+- id: new_features_used
+  type: multiple_choice
+  prompt: Which new features have you tried? (select all that apply)
+  required: false
+  options:
+  - New user interface elements
+  - Enhanced functionality
+  - Integration improvements
+  - Security enhancements
+  - Performance optimizations
+  - Accessibility improvements
+  - None yet
+- id: encountered_issues
+  type: multiple_choice
+  prompt: Did you encounter any issues or problems after the update? (select all that apply)
+  required: false
+  options:
+  - Performance slowdowns
+  - Software bugs/errors
+  - UI glitches
+  - Compatibility issues
+  - Installation problems
+  - Data migration issues
+  - Login/authentication problems
+  - Feature not working as expected
+  - No issues encountered
+- id: issue_severity
+  type: single_choice
+  prompt: If you encountered issues, how severe were they?
+  required: false
+  options:
+  - Minor inconvenience
+  - Moderate impact on work
+  - Significant disruption
+  - Critical - couldn't use software
+  - N/A - no issues
+- id: rollback_consideration
+  type: single_choice
+  prompt: Did you consider rolling back to the previous version?
+  required: false
+  options:
+  - Yes, and did rollback
+  - Yes, but didn't rollback
+  - No, issues were manageable
+  - No issues to warrant rollback
+- id: performance_change
+  type: single_choice
+  prompt: How has the software's performance changed after the update?
+  required: true
+  options:
+  - Significantly improved
+  - Slightly improved
+  - No noticeable change
+  - Slightly worse
+  - Significantly worse
+- id: stability_change
+  type: single_choice
+  prompt: How has the software's stability changed after the update?
+  required: true
+  options:
+  - Significantly improved
+  - Slightly improved
+  - No noticeable change
+  - Slightly worse
+  - Significantly worse
+- id: favorite_feature
+  type: text
+  prompt: What was your favorite new feature or improvement in this update?
+  required: false
+- id: most_valuable_change
+  type: single_choice
+  prompt: What change in this update has been most valuable to you?
+  required: false
+  options:
+  - Performance improvements
+  - New functionality
+  - Bug fixes
+  - Security enhancements
+  - UI/UX improvements
+  - Better compatibility
+  - Other
+- id: update_frequency_preference
+  type: single_choice
+  prompt: How often would you prefer to receive software updates?
+  required: false
+  options:
+  - More frequently (weekly/monthly)
+  - Current frequency is good
+  - Less frequently (quarterly)
+  - Only major updates
+  - Only when I choose
+- id: future_improvements
+  type: long_text
+  prompt: What would you improve or change in future software updates?
+  required: false
+- id: overall_update_rating
+  type: rating
+  prompt: Overall, how would you rate this software update?
+  required: true
+  scale: 5
+- id: additional_feedback
+  type: long_text
+  prompt: Do you have any additional comments or feedback about this update?
+  required: false
+validation_result:
+  status: PASS
+  errors: []

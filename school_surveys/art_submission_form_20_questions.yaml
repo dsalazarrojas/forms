@@ -1,0 +1,103 @@
+title: "Art Submission Form Feedback Survey"
+description: "Feedback on the school's art submission process"
+category: "Education Surveys"
+questions:
+  - id: satisfaction_overall
+    type: rating
+    prompt: "How satisfied are you with the overall art submission process?"
+    required: true
+    scale: 5
+  - id: ease_of_use
+    type: single_choice
+    prompt: "How easy was it to submit your artwork?"
+    required: true
+    options: ["Very easy", "Easy", "Neutral", "Difficult", "Very difficult"]
+  - id: submission_frequency
+    type: single_choice
+    prompt: "How often do you submit artwork through this process?"
+    required: true
+    options: ["First time", "Rarely", "Occasionally", "Frequently", "Very frequently"]
+  - id: technical_issues
+    type: multiple_choice
+    prompt: "Did you experience any technical issues during submission?"
+    required: false
+    options: ["Upload problems", "File size limits", "Format restrictions", "Slow loading", "Error messages", "None"]
+  - id: instructions_clarity
+    type: rating
+    prompt: "How clear were the submission instructions?"
+    required: true
+    scale: 5
+  - id: time_taken
+    type: single_choice
+    prompt: "How long did it take you to complete the submission?"
+    required: true
+    options: ["Less than 5 minutes", "5-15 minutes", "15-30 minutes", "30-60 minutes", "More than 60 minutes"]
+  - id: file_formats
+    type: multiple_choice
+    prompt: "Which file formats did you use for your submission?"
+    required: false
+    options: ["JPEG", "PNG", "PDF", "TIFF", "Other"]
+  - id: artwork_type
+    type: single_choice
+    prompt: "What type of artwork did you submit?"
+    required: true
+    options: ["Painting", "Drawing", "Photography", "Digital art", "Sculpture", "Mixed media", "Other"]
+  - id: feedback_timeliness
+    type: single_choice
+    prompt: "How timely was the feedback on your submission?"
+    required: false
+    options: ["Very timely", "Somewhat timely", "Neutral", "Somewhat delayed", "Very delayed"]
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What improvements would you suggest for the art submission process?"
+    required: false
+  - id: additional_features
+    type: multiple_choice
+    prompt: "Which additional features would you like to see?"
+    required: false
+    options: ["Preview before submit", "Save draft", "Multiple file upload", "Progress indicator", "Help chat", "None needed"]
+  - id: mobile_friendly
+    type: boolean
+    prompt: "Was the submission process mobile-friendly?"
+    required: true
+  - id: accessibility
+    type: single_choice
+    prompt: "How accessible was the submission form for users with disabilities?"
+    required: false
+    options: ["Very accessible", "Somewhat accessible", "Neutral", "Somewhat inaccessible", "Very inaccessible"]
+  - id: comparison_previous
+    type: single_choice
+    prompt: "Compared to previous submission processes, how was this one?"
+    required: false
+    options: ["Much better", "Better", "Same", "Worse", "Much worse"]
+  - id: recommend_process
+    type: rating
+    prompt: "How likely are you to recommend this submission process to others?"
+    required: true
+    scale: 10
+  - id: favorite_aspect
+    type: text
+    prompt: "What was your favorite aspect of the submission process?"
+    required: false
+  - id: biggest_challenge
+    type: text
+    prompt: "What was the biggest challenge you faced during submission?"
+    required: false
+  - id: artwork_details
+    type: multiple_choice
+    prompt: "What details about your artwork were you able to include?"
+    required: false
+    options: ["Title", "Description", "Medium", "Dimensions", "Creation date", "Artist statement"]
+  - id: notification_system
+    type: single_choice
+    prompt: "How effective was the notification system for submission status?"
+    required: false
+    options: ["Very effective", "Somewhat effective", "Neutral", "Somewhat ineffective", "Very ineffective"]
+  - id: overall_rating
+    type: rating
+    prompt: "Rate your overall experience with the art submission process"
+    required: true
+    scale: 5
+validation_result:
+  status: "PASS"
+  errors: []

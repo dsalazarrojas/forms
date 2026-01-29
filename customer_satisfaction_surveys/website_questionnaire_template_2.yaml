@@ -1,0 +1,105 @@
+title: "Website Questionnaire"
+description: "Gathering feedback on overall website satisfaction and user experience"
+category: "Website Analytics Surveys"
+questions:
+  - id: overall_satisfaction
+    type: single_choice
+    prompt: "Overall, how satisfied are you with our website?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: navigation_ease
+    type: single_choice
+    prompt: "How easy was it to navigate through our website?"
+    required: true
+    options: ["Very easy", "Easy", "Neutral", "Difficult", "Very difficult"]
+  - id: information_findability
+    type: single_choice
+    prompt: "How easy was it to find the information you were looking for?"
+    required: true
+    options: ["Very easy", "Easy", "Neutral", "Difficult", "Very difficult"]
+  - id: visit_purpose
+    type: multiple_choice
+    prompt: "What was the primary reason for your visit today?"
+    required: true
+    options: ["Find information", "Make a purchase", "Contact support", "Browse products/services", "Sign up for account", "Read blog/articles", "Other"]
+  - id: visual_design
+    type: single_choice
+    prompt: "How would you rate the visual design and aesthetics of the website?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: loading_speed
+    type: single_choice
+    prompt: "How would you rate the loading speed of our website?"
+    required: true
+    options: ["Very fast", "Fast", "Average", "Slow", "Very slow"]
+  - id: mobile_responsiveness
+    type: single_choice
+    prompt: "How well does our website work on mobile devices?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: content_quality
+    type: rating
+    prompt: "How would you rate the quality and helpfulness of our content?"
+    required: true
+    scale: 5
+  - id: search_functionality
+    type: single_choice
+    prompt: "How effective is our website search functionality?"
+    required: true
+    options: ["Very effective", "Somewhat effective", "Neutral", "Somewhat ineffective", "Very ineffective"]
+  - id: issues_encountered
+    type: single_choice
+    prompt: "Did you encounter any issues or difficulties during your visit?"
+    required: true
+    options: ["No issues", "Minor issues", "Major issues", "Couldn't complete my task"]
+  - id: checkout_process
+    type: single_choice
+    prompt: "If you attempted to make a purchase, how was the checkout process?"
+    required: false
+    options: ["Very smooth", "Somewhat smooth", "Neutral", "Somewhat difficult", "Very difficult"]
+  - id: trust_indicators
+    type: single_choice
+    prompt: "How trustworthy does our website appear?"
+    required: true
+    options: ["Very trustworthy", "Somewhat trustworthy", "Neutral", "Somewhat untrustworthy", "Very untrustworthy"]
+  - id: call_to_action_clarity
+    type: rating
+    prompt: "How clear are our calls-to-action (buttons, links, etc.)?"
+    required: true
+    scale: 5
+  - id: recommendation_likelihood
+    type: rating
+    prompt: "How likely are you to recommend our website to others?"
+    required: true
+    scale: 10
+  - id: return_visit_intent
+    type: single_choice
+    prompt: "How likely are you to visit our website again?"
+    required: true
+    options: ["Very likely", "Somewhat likely", "Neutral", "Somewhat unlikely", "Very unlikely"]
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What specific improvements would you suggest for our website?"
+    required: false
+  - id: additional_comments
+    type: long_text
+    prompt: "Do you have any additional comments or suggestions?"
+    required: false
+  - id: browser_used
+    type: single_choice
+    prompt: "Which browser did you use to visit our website?"
+    required: false
+    options: ["Chrome", "Firefox", "Safari", "Edge", "Other"]
+  - id: device_used
+    type: single_choice
+    prompt: "What type of device did you use to visit our website?"
+    required: false
+    options: ["Desktop computer", "Laptop", "Tablet", "Smartphone"]
+  - id: age_group
+    type: single_choice
+    prompt: "What is your age group?"
+    required: false
+    options: ["18-24", "25-34", "35-44", "45-54", "55-64", "65+"]
+validation_result:
+  status: "PASS"
+  errors: []

@@ -1,0 +1,104 @@
+title: "Product Onboarding Form"
+description: "A survey to gather feedback on the product onboarding experience and training process"
+category: "Business Surveys"
+questions:
+  - id: overall_onboarding_satisfaction
+    type: rating
+    prompt: "How satisfied are you with your overall product onboarding experience?"
+    required: true
+    scale: 5
+  - id: initial_setup_difficulty
+    type: single_choice
+    prompt: "How difficult was the initial setup and account creation process?"
+    required: true
+    options: ["Very easy", "Easy", "Neutral", "Difficult", "Very difficult"]
+  - id: training_materials_clarity
+    type: rating
+    prompt: "How easy was it to understand and apply the training materials provided during onboarding?"
+    required: true
+    scale: 5
+  - id: helpful_onboarding_elements
+    type: multiple_choice
+    prompt: "Which aspects of the onboarding were most helpful to you? (select all that apply)"
+    required: true
+    options: ["Guided product tour", "Documentation/guides", "Video tutorials", "Live training sessions", "Support team assistance", "Interactive walkthroughs", "Sample data/projects"]
+  - id: onboarding_duration_adequacy
+    type: single_choice
+    prompt: "How adequate was the duration of the onboarding process?"
+    required: true
+    options: ["Too short", "Just right", "Too long", "Didn't complete"]
+  - id: support_response_time
+    type: rating
+    prompt: "How satisfied were you with the response time from support during onboarding?"
+    required: false
+    scale: 5
+  - id: documentation_quality
+    type: single_choice
+    prompt: "How would you rate the quality of the onboarding documentation?"
+    required: true
+    options: ["Excellent", "Good", "Average", "Poor", "Very poor"]
+  - id: confidence_level
+    type: rating
+    prompt: "Do you feel confident using the product independently after completing the onboarding?"
+    required: true
+    scale: 5
+  - id: time_to_proficiency
+    type: single_choice
+    prompt: "How long did it take you to feel proficient with the product?"
+    required: true
+    options: ["Less than 1 day", "1-3 days", "1 week", "2-4 weeks", "More than 4 weeks", "Still learning"]
+  - id: onboarding_pain_points
+    type: long_text
+    prompt: "What were the biggest challenges or pain points you encountered during onboarding?"
+    required: false
+  - id: onboarding_format_preference
+    type: multiple_choice
+    prompt: "Which onboarding formats would you prefer more of? (select all that apply)"
+    required: false
+    options: ["Self-paced online tutorials", "Live webinars", "One-on-one sessions", "Written documentation", "Video content", "Interactive demos"]
+  - id: onboarding_customization
+    type: rating
+    prompt: "How well was the onboarding tailored to your specific needs and role?"
+    required: true
+    scale: 5
+  - id: follow_up_support
+    type: single_choice
+    prompt: "How adequate was the follow-up support after onboarding completion?"
+    required: true
+    options: ["Very adequate", "Somewhat adequate", "Neutral", "Somewhat inadequate", "Very inadequate"]
+  - id: onboarding_completion_rate
+    type: single_choice
+    prompt: "Did you complete the full onboarding process?"
+    required: true
+    options: ["Yes, fully completed", "Mostly completed", "Partially completed", "Did not complete"]
+  - id: product_understanding
+    type: rating
+    prompt: "How well do you understand the product's core features after onboarding?"
+    required: true
+    scale: 5
+  - id: onboarding_vs_expectations
+    type: single_choice
+    prompt: "How did the actual onboarding experience compare to your expectations?"
+    required: true
+    options: ["Much better than expected", "Better than expected", "Met expectations", "Worse than expected", "Much worse than expected"]
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What specific improvements would you suggest for the product onboarding process?"
+    required: false
+  - id: additional_resources_needed
+    type: multiple_choice
+    prompt: "What additional resources would have helped your onboarding? (select all that apply)"
+    required: false
+    options: ["More detailed guides", "Advanced training modules", "User community access", "Mentorship program", "Regular check-ins", "Troubleshooting resources"]
+  - id: overall_onboarding_rating
+    type: rating
+    prompt: "On a scale of 1-10, how would you rate the overall onboarding experience?"
+    required: true
+    scale: 10
+  - id: additional_feedback
+    type: long_text
+    prompt: "Do you have any additional comments or feedback regarding your onboarding?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

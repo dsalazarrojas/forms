@@ -1,0 +1,96 @@
+title: "Member Satisfaction Survey"
+description: "Gathering feedback to understand and improve overall member satisfaction"
+category: "Employee Surveys"
+questions:
+  - id: overall_satisfaction
+    type: single_choice
+    prompt: "Overall, how satisfied are you with your role at the organization?"
+    required: true
+    options: ["Very satisfied", "Somewhat satisfied", "Neutral", "Somewhat dissatisfied", "Very dissatisfied"]
+  - id: management_communication
+    type: single_choice
+    prompt: "How would you rate communication from management?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor"]
+  - id: professional_development_support
+    type: boolean
+    prompt: "Do you feel supported in your professional development?"
+    required: true
+  - id: work_life_balance
+    type: rating
+    prompt: "Rate your work-life balance satisfaction"
+    required: true
+    scale: 5
+  - id: compensation_satisfaction
+    type: single_choice
+    prompt: "How satisfied are you with your compensation and benefits?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: team_collaboration
+    type: rating
+    prompt: "How would you rate collaboration within your team?"
+    required: true
+    scale: 5
+  - id: career_growth_opportunities
+    type: single_choice
+    prompt: "How satisfied are you with career growth opportunities?"
+    required: true
+    options: ["Very satisfied", "Somewhat satisfied", "Neutral", "Somewhat dissatisfied", "Very dissatisfied"]
+  - id: workplace_environment
+    type: single_choice
+    prompt: "How would you describe the workplace environment?"
+    required: true
+    options: ["Very positive", "Positive", "Neutral", "Negative", "Very negative"]
+  - id: recognition_frequency
+    type: single_choice
+    prompt: "How often do you receive recognition for your work?"
+    required: true
+    options: ["Very frequently", "Frequently", "Sometimes", "Rarely", "Never"]
+  - id: leadership_effectiveness
+    type: rating
+    prompt: "Rate the effectiveness of your direct supervisor/leader"
+    required: true
+    scale: 5
+  - id: resource_availability
+    type: single_choice
+    prompt: "Do you have access to the resources needed to perform your job effectively?"
+    required: true
+    options: ["Always", "Most of the time", "Sometimes", "Rarely", "Never"]
+  - id: company_values_alignment
+    type: rating
+    prompt: "How well do your personal values align with company values?"
+    required: true
+    scale: 5
+  - id: stress_level
+    type: single_choice
+    prompt: "How would you describe your current stress level at work?"
+    required: true
+    options: ["Very low", "Low", "Moderate", "High", "Very high"]
+  - id: engagement_level
+    type: rating
+    prompt: "Rate your level of engagement with your work"
+    required: true
+    scale: 5
+  - id: retention_likelihood
+    type: single_choice
+    prompt: "How likely are you to still be with this organization in 2 years?"
+    required: true
+    options: ["Very likely", "Likely", "Neutral", "Unlikely", "Very unlikely"]
+  - id: improvement_areas
+    type: text
+    prompt: "What aspects of your experience at work could be improved?"
+    required: false
+  - id: experience_words
+    type: text
+    prompt: "What three words best describe your experience as a member?"
+    required: false
+  - id: recommendation_likelihood
+    type: single_choice
+    prompt: "How likely are you to recommend this organization as a great place to work?"
+    required: true
+    options: ["Very likely", "Likely", "Neutral", "Unlikely", "Very unlikely"]
+  - id: additional_comments
+    type: long_text
+    prompt: "Do you have any additional comments or suggestions?"
+    required: false
+validation_result: valid

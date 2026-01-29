@@ -1,0 +1,118 @@
+title: Software Customer Satisfaction Survey
+description: Gathering comprehensive feedback on your experience to improve our software products and services.
+category: Software
+questions:
+- id: overall_satisfaction
+  type: rating
+  prompt: How satisfied are you with our software overall?
+  required: true
+  scale: 5
+- id: ease_of_use
+  type: rating
+  prompt: How would you rate the software's ease of use?
+  required: true
+  scale: 5
+- id: feature_reliability
+  type: rating
+  prompt: How reliable have the core features been?
+  required: true
+  scale: 5
+- id: performance_speed
+  type: rating
+  prompt: How would you rate the software's performance and speed?
+  required: true
+  scale: 5
+- id: user_interface
+  type: rating
+  prompt: How intuitive and user-friendly is the interface?
+  required: true
+  scale: 5
+- id: valuable_features
+  type: multiple_choice
+  prompt: Which features do you find most valuable? (Select all that apply)
+  required: true
+  options:
+  - Core functions
+  - Reporting/Analytics
+  - Integrations
+  - Customization options
+  - Support resources
+  - Mobile accessibility
+  - Automation features
+  - Security features
+- id: missing_features
+  type: multiple_choice
+  prompt: Which features do you wish were available? (Select all that apply)
+  required: false
+  options:
+  - Advanced reporting
+  - More integrations
+  - Better customization
+  - Enhanced security
+  - Improved mobile app
+  - API access
+  - Offline functionality
+- id: customer_support
+  type: rating
+  prompt: How would you rate the responsiveness of our customer support?
+  required: true
+  scale: 5
+- id: documentation_quality
+  type: rating
+  prompt: How helpful is our documentation and help resources?
+  required: false
+  scale: 5
+- id: onboarding_experience
+  type: rating
+  prompt: How smooth was your onboarding and initial setup experience?
+  required: true
+  scale: 5
+- id: value_for_money
+  type: rating
+  prompt: How would you rate the value for money of our software?
+  required: true
+  scale: 5
+- id: competitor_comparison
+  type: single_choice
+  prompt: Compared to similar software you've used, how does ours compare?
+  required: false
+  options:
+  - Much better
+  - Somewhat better
+  - About the same
+  - Somewhat worse
+  - Much worse
+- id: likelihood_to_continue
+  type: single_choice
+  prompt: How likely are you to continue using our software in the next year?
+  required: true
+  options:
+  - Very likely
+  - Likely
+  - Neutral
+  - Unlikely
+  - Very unlikely
+- id: nps_score
+  type: rating
+  prompt: How likely are you to recommend our software to others? (0-10)
+  required: true
+  scale: 10
+- id: improvement_suggestions
+  type: long_text
+  prompt: What specific improvements would you suggest for the software?
+  required: false
+- id: biggest_challenge
+  type: text
+  prompt: What has been your biggest challenge or frustration with the software?
+  required: false
+- id: success_story
+  type: long_text
+  prompt: Can you share a success story or positive experience with our software?
+  required: false
+- id: additional_feedback
+  type: long_text
+  prompt: Do you have any additional comments or feedback?
+  required: false
+validation_result:
+  status: PASS
+  errors: []

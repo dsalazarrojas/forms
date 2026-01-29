@@ -1,0 +1,100 @@
+title: "IT Satisfaction Survey"
+description: "Gathering feedback on IT services and support to improve employee experience"
+category: "IT & Technology"
+questions:
+  - id: overall_satisfaction
+    type: rating
+    prompt: "Overall, how satisfied are you with the IT services and support provided?"
+    required: true
+    scale: 5
+  - id: helpdesk_responsiveness
+    type: single_choice
+    prompt: "How would you rate the responsiveness of IT support when you request assistance?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Not applicable"]
+  - id: system_reliability
+    type: single_choice
+    prompt: "How reliable are the IT systems and tools you use daily?"
+    required: true
+    options: ["Always reliable", "Mostly reliable", "Sometimes unreliable", "Often unreliable", "Completely unreliable"]
+  - id: hardware_satisfaction
+    type: rating
+    prompt: "How satisfied are you with the quality and performance of your work computer/laptop?"
+    required: true
+    scale: 5
+  - id: software_access
+    type: single_choice
+    prompt: "How easy is it to access the software applications you need for your work?"
+    required: true
+    options: ["Very easy", "Easy", "Neutral", "Difficult", "Very difficult"]
+  - id: network_performance
+    type: rating
+    prompt: "Rate the performance and reliability of the office network/WiFi"
+    required: true
+    scale: 5
+  - id: cybersecurity_awareness
+    type: single_choice
+    prompt: "How confident do you feel about the organization's cybersecurity measures?"
+    required: true
+    options: ["Very confident", "Somewhat confident", "Neutral", "Somewhat concerned", "Very concerned"]
+  - id: training_effectiveness
+    type: multiple_choice
+    prompt: "What kind of IT support or training would be most beneficial for new technologies?"
+    required: false
+    options: ["Workshops", "Online tutorials", "One-on-one sessions", "Documentation", "Peer support", "Video guides"]
+  - id: remote_work_support
+    type: single_choice
+    prompt: "How well does IT support remote work and virtual collaboration tools?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Not applicable"]
+  - id: ticket_resolution_time
+    type: single_choice
+    prompt: "How satisfied are you with the time it takes to resolve IT support tickets?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: communication_clarity
+    type: rating
+    prompt: "How clear and helpful are IT communications about system updates and changes?"
+    required: true
+    scale: 5
+  - id: mobile_device_support
+    type: single_choice
+    prompt: "How well does IT support mobile devices and BYOD policies?"
+    required: false
+    options: ["Excellent", "Good", "Fair", "Poor", "Not applicable"]
+  - id: data_backup_satisfaction
+    type: rating
+    prompt: "How satisfied are you with data backup and recovery processes?"
+    required: true
+    scale: 5
+  - id: innovation_perception
+    type: single_choice
+    prompt: "How innovative do you find the IT department in adopting new technologies?"
+    required: true
+    options: ["Very innovative", "Somewhat innovative", "Neutral", "Somewhat traditional", "Very traditional"]
+  - id: improvement_suggestions
+    type: text
+    prompt: "What specific IT services, tools, or processes could be improved?"
+    required: false
+  - id: training_frequency
+    type: single_choice
+    prompt: "How often do you receive IT training or updates on new tools?"
+    required: true
+    options: ["Frequently", "Occasionally", "Rarely", "Never", "When needed"]
+  - id: vendor_support_quality
+    type: rating
+    prompt: "Rate the quality of support from external IT vendors/partners"
+    required: false
+    scale: 5
+  - id: budget_allocation_perception
+    type: single_choice
+    prompt: "Do you feel IT budget is allocated effectively for employee needs?"
+    required: true
+    options: ["Yes, definitely", "Yes, somewhat", "Neutral", "No, somewhat", "No, definitely not"]
+  - id: additional_comments
+    type: long_text
+    prompt: "Do you have any additional comments or suggestions regarding IT?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

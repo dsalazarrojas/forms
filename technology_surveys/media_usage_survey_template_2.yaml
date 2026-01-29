@@ -1,0 +1,102 @@
+title: "Media Usage Survey"
+description: "A comprehensive survey to understand current digital media consumption habits and preferences"
+category: "Media & Entertainment Surveys"
+questions:
+  - id: media_consumption_frequency
+    type: single_choice
+    prompt: "How often do you consume digital media content?"
+    required: true
+    options: ["Multiple times daily", "Daily", "A few times a week", "Weekly", "Rarely"]
+  - id: news_sources
+    type: multiple_choice
+    prompt: "What are your primary sources for news and information?"
+    required: true
+    options: ["Social media", "News websites/apps", "TV/Radio", "Podcasts", "Print media", "Friends/Family"]
+  - id: primary_devices
+    type: multiple_choice
+    prompt: "Which devices do you primarily use to consume media?"
+    required: true
+    options: ["Smartphone", "Laptop/PC", "Tablet", "Smart TV", "Gaming Console", "Smart Speaker"]
+  - id: content_types
+    type: multiple_choice
+    prompt: "What types of digital content do you engage with most?"
+    required: true
+    options: ["Video", "Articles/Blogs", "Music", "Podcasts", "Social media posts", "E-books"]
+  - id: daily_screen_time
+    type: single_choice
+    prompt: "Approximately how much time do you spend consuming media daily?"
+    required: true
+    options: ["Less than 1 hour", "1-2 hours", "2-4 hours", "4-6 hours", "More than 6 hours"]
+  - id: social_media_platforms
+    type: multiple_choice
+    prompt: "Which social media platforms do you use most frequently?"
+    required: false
+    options: ["Facebook", "Instagram", "Twitter/X", "TikTok", "LinkedIn", "YouTube", "Snapchat", "Other"]
+  - id: streaming_services
+    type: multiple_choice
+    prompt: "Which streaming services do you subscribe to?"
+    required: false
+    options: ["Netflix", "Amazon Prime", "Disney+", "Hulu", "YouTube Premium", "Spotify", "Apple Music", "None"]
+  - id: news_consumption_time
+    type: single_choice
+    prompt: "When do you typically consume news content?"
+    required: true
+    options: ["Morning", "Afternoon", "Evening", "Throughout the day", "Weekends only"]
+  - id: content_discovery
+    type: multiple_choice
+    prompt: "How do you typically discover new content?"
+    required: true
+    options: ["Social media recommendations", "Search engines", "Friends/family suggestions", "News aggregators", "Algorithm recommendations", "Traditional media"]
+  - id: ad_blocker_usage
+    type: boolean
+    prompt: "Do you use ad blockers when consuming online media?"
+    required: true
+  - id: paid_content_willingness
+    type: single_choice
+    prompt: "How willing are you to pay for premium content?"
+    required: true
+    options: ["Very willing", "Somewhat willing", "Neutral", "Somewhat unwilling", "Very unwilling"]
+  - id: media_literacy_confidence
+    type: rating
+    prompt: "How confident are you in identifying reliable vs. unreliable media sources?"
+    required: true
+    scale: 5
+  - id: privacy_concerns
+    type: rating
+    prompt: "How concerned are you about privacy when using media platforms?"
+    required: true
+    scale: 5
+  - id: content_quality_satisfaction
+    type: rating
+    prompt: "Rate your satisfaction with the quality of content available"
+    required: true
+    scale: 5
+  - id: emerging_tech_interest
+    type: multiple_choice
+    prompt: "Which emerging media technologies interest you?"
+    required: false
+    options: ["Virtual Reality", "Augmented Reality", "AI-generated content", "Blockchain-based media", "Live streaming", "Interactive content"]
+  - id: media_impact_life
+    type: single_choice
+    prompt: "How has digital media impacted your daily life?"
+    required: true
+    options: ["Very positively", "Somewhat positively", "Neutral", "Somewhat negatively", "Very negatively"]
+  - id: biggest_challenge
+    type: text
+    prompt: "What is your biggest challenge or frustration with current media consumption?"
+    required: false
+  - id: preferred_content_format
+    type: single_choice
+    prompt: "What content format do you prefer for long-form content?"
+    required: true
+    options: ["Written articles", "Video", "Audio podcasts", "Infographics", "Interactive content"]
+  - id: demographic_age
+    type: single_choice
+    prompt: "What is your age group?"
+    required: true
+    options: ["18-24", "25-34", "35-44", "45-54", "55-64", "65+"]
+  - id: additional_feedback
+    type: long_text
+    prompt: "Do you have any additional comments or feedback about your media usage?"
+    required: false
+validation_result: valid

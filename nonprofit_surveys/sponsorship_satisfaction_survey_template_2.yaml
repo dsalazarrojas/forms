@@ -1,0 +1,94 @@
+title: "Sponsorship Satisfaction Survey"
+description: "Gather feedback from our valuable sponsors to improve their experience and strengthen our partnerships"
+category: "Business Surveys"
+questions:
+  - id: overall_satisfaction
+    type: rating
+    prompt: "Overall, how satisfied are you with your experience as a sponsor of our organization?"
+    required: true
+    scale: 5
+  - id: communication_clarity
+    type: rating
+    prompt: "How would you rate the clarity and frequency of communication from our organization?"
+    required: true
+    scale: 5
+  - id: roi_perception
+    type: single_choice
+    prompt: "How would you rate the return on investment from your sponsorship?"
+    required: true
+    options: ["Excellent ROI", "Good ROI", "Fair ROI", "Poor ROI", "Very poor ROI"]
+  - id: brand_exposure_quality
+    type: rating
+    prompt: "How effective has the sponsorship been in increasing your brand visibility?"
+    required: true
+    scale: 5
+  - id: event_execution
+    type: single_choice
+    prompt: "How well were the sponsored events organized and executed?"
+    required: true
+    options: ["Exceptionally well", "Very well", "Adequately", "Poorly", "Very poorly"]
+  - id: networking_opportunities
+    type: rating
+    prompt: "How valuable were the networking opportunities provided through sponsorship?"
+    required: true
+    scale: 5
+  - id: partnership_alignment
+    type: single_choice
+    prompt: "How well does our organization align with your company's values and mission?"
+    required: true
+    options: ["Perfectly aligned", "Well aligned", "Somewhat aligned", "Poorly aligned", "Not aligned"]
+  - id: sponsor_benefits_received
+    type: multiple_choice
+    prompt: "Which sponsorship benefits have you utilized? (select all that apply)"
+    required: true
+    options: ["Logo placement", "Speaking opportunities", "Booth/exhibit space", "Social media mentions", "Email promotions", "VIP access", "Exclusive content"]
+  - id: staff_interaction_quality
+    type: rating
+    prompt: "Rate the quality of interactions with our staff and volunteers"
+    required: true
+    scale: 5
+  - id: marketing_materials_support
+    type: single_choice
+    prompt: "How helpful were our marketing materials and support for your sponsorship promotion?"
+    required: true
+    options: ["Very helpful", "Somewhat helpful", "Neutral", "Somewhat unhelpful", "Very unhelpful"]
+  - id: audience_engagement
+    type: rating
+    prompt: "How engaged was the target audience with your sponsored content/activities?"
+    required: true
+    scale: 5
+  - id: data_reporting_quality
+    type: single_choice
+    prompt: "How would you rate the quality and usefulness of post-event data and reporting?"
+    required: false
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: sponsorship_duration
+    type: single_choice
+    prompt: "How long have you been sponsoring our organization?"
+    required: true
+    options: ["First time", "1-2 years", "3-5 years", "6-10 years", "More than 10 years"]
+  - id: renewal_likelihood
+    type: rating
+    prompt: "How likely are you to renew your sponsorship with us in the future?"
+    required: true
+    scale: 10
+  - id: recommendation_score
+    type: rating
+    prompt: "How likely are you to recommend our organization as a sponsorship opportunity to others?"
+    required: true
+    scale: 10
+  - id: most_valuable_aspect
+    type: text
+    prompt: "What has been the most valuable aspect of your sponsorship experience?"
+    required: false
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What specific improvements could enhance your sponsorship experience?"
+    required: false
+  - id: additional_comments
+    type: long_text
+    prompt: "Do you have any additional comments or suggestions?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

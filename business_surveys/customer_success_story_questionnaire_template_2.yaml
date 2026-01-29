@@ -1,0 +1,149 @@
+title: Customer Success Story Questionnaire
+description: Gather key insights and quantifiable results for crafting compelling customer success stories and testimonials.
+category: Customer Success
+questions:
+- id: results_satisfaction
+  type: single_choice
+  prompt: How satisfied are you with the results achieved using our solution?
+  required: true
+  options:
+  - Highly satisfied
+  - Satisfied
+  - Neutral
+  - Somewhat dissatisfied
+  - Dissatisfied
+- id: primary_challenge
+  type: text
+  prompt: What primary business challenge were you facing before using our solution?
+  required: true
+- id: realized_benefits
+  type: multiple_choice
+  prompt: Which of the following benefits have you realized since implementing our solution? (select all that apply)
+  required: true
+  options:
+  - Increased efficiency
+  - Cost savings
+  - Improved customer satisfaction
+  - Enhanced productivity
+  - Better decision-making
+  - Reduced risk
+  - Revenue growth
+  - Time savings
+  - Improved accuracy
+- id: impactful_features
+  type: multiple_choice
+  prompt: Which features of our solution have been most impactful for you? (select all that apply)
+  required: true
+  options:
+  - Core functionality
+  - Analytics Dashboard
+  - Integration capabilities
+  - Reporting Tools
+  - Support & Training
+  - Automation features
+  - Mobile access
+- id: roi_achievement
+  type: single_choice
+  prompt: Have you achieved a positive return on investment with our solution?
+  required: true
+  options:
+  - Yes, exceeded expectations
+  - Yes, met expectations
+  - Break-even
+  - Not yet, but expected
+  - No
+- id: implementation_timeline
+  type: single_choice
+  prompt: How long did it take to see measurable results after implementation?
+  required: true
+  options:
+  - Less than 1 month
+  - 1-3 months
+  - 3-6 months
+  - 6-12 months
+  - More than 1 year
+- id: quantifiable_metrics
+  type: multiple_choice
+  prompt: Which metrics have improved since using our solution? (Select all that apply)
+  required: false
+  options:
+  - Revenue increased by X%
+  - Costs reduced by X%
+  - Time saved (hours/week)
+  - Error rate decreased
+  - Customer satisfaction improved
+  - Productivity increased
+  - Other quantifiable metric
+- id: competitive_advantage
+  type: single_choice
+  prompt: Has our solution given you a competitive advantage?
+  required: true
+  options:
+  - Yes, significant advantage
+  - Yes, some advantage
+  - Neutral
+  - No
+  - Put us at a disadvantage
+- id: scalability_experience
+  type: rating
+  prompt: How well has our solution scaled with your business growth?
+  required: true
+  scale: 5
+- id: team_adoption
+  type: single_choice
+  prompt: How well has your team adopted our solution?
+  required: true
+  options:
+  - Excellent adoption
+  - Good adoption
+  - Moderate adoption
+  - Poor adoption
+  - Very poor adoption
+- id: support_quality
+  type: rating
+  prompt: How would you rate the quality of support and training provided?
+  required: true
+  scale: 5
+- id: recommendation_likelihood
+  type: single_choice
+  prompt: How likely are you to recommend our solution to a colleague or peer?
+  required: true
+  options:
+  - Extremely likely
+  - Very likely
+  - Neutral
+  - Unlikely
+  - Very unlikely
+- id: renewal_intent
+  type: single_choice
+  prompt: How likely are you to renew your subscription/contract with us?
+  required: true
+  options:
+  - Very likely
+  - Likely
+  - Neutral
+  - Unlikely
+  - Very unlikely
+- id: testimonial_permission
+  type: boolean
+  prompt: Would you be willing to provide a testimonial or case study about your experience?
+  required: true
+- id: standout_achievement
+  type: text
+  prompt: What specific achievement or quantifiable result stands out from your experience with our solution?
+  required: false
+- id: future_plans
+  type: long_text
+  prompt: How do you plan to leverage our solution for future business goals?
+  required: false
+- id: improvement_suggestions
+  type: text
+  prompt: What improvements or additional features would make our solution even more valuable to you?
+  required: false
+- id: contact_information
+  type: text
+  prompt: May we contact you for follow-up questions or to discuss your success story? (Please provide preferred contact method)
+  required: false
+validation_result:
+  status: PASS
+  errors: []

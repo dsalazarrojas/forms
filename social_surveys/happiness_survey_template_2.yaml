@@ -1,0 +1,95 @@
+title: "Happiness Survey"
+description: "Understand general well-being and satisfaction, and factors contributing to it"
+category: "Wellness Surveys"
+questions:
+  - id: overall_happiness
+    type: rating
+    prompt: "Overall, how would you rate your current level of happiness?"
+    required: true
+    scale: 10
+  - id: life_satisfaction
+    type: rating
+    prompt: "How satisfied are you with your life overall?"
+    required: true
+    scale: 10
+  - id: joy_activities_frequency
+    type: single_choice
+    prompt: "How often do you engage in activities that bring you joy?"
+    required: true
+    options: ["Daily", "Weekly", "Monthly", "Rarely", "Never"]
+  - id: happiness_contributors
+    type: multiple_choice
+    prompt: "Which of the following contribute most to your happiness?"
+    required: true
+    options: ["Family/Friends", "Work/Career", "Hobbies", "Health", "Personal growth", "Financial stability", "Spirituality", "Community involvement"]
+  - id: work_satisfaction
+    type: rating
+    prompt: "How satisfied are you with your work or career?"
+    required: false
+    scale: 5
+  - id: relationship_satisfaction
+    type: rating
+    prompt: "How satisfied are you with your personal relationships?"
+    required: false
+    scale: 5
+  - id: health_satisfaction
+    type: rating
+    prompt: "How satisfied are you with your physical health?"
+    required: false
+    scale: 5
+  - id: financial_security
+    type: single_choice
+    prompt: "How secure do you feel about your financial situation?"
+    required: false
+    options: ["Very secure", "Secure", "Somewhat secure", "Insecure", "Very insecure"]
+  - id: stress_levels
+    type: rating
+    prompt: "How would you rate your current stress levels?"
+    required: true
+    scale: 10
+  - id: sleep_quality
+    type: single_choice
+    prompt: "How would you rate your sleep quality?"
+    required: false
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: social_connections
+    type: single_choice
+    prompt: "How satisfied are you with your social connections and support network?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: work_life_balance
+    type: rating
+    prompt: "How well do you maintain work-life balance?"
+    required: false
+    scale: 5
+  - id: future_outlook
+    type: single_choice
+    prompt: "How optimistic are you about your future?"
+    required: true
+    options: ["Very optimistic", "Optimistic", "Neutral", "Pessimistic", "Very pessimistic"]
+  - id: personal_growth
+    type: rating
+    prompt: "How much personal growth have you experienced recently?"
+    required: false
+    scale: 5
+  - id: gratitude_practice
+    type: single_choice
+    prompt: "How often do you practice gratitude or appreciation?"
+    required: false
+    options: ["Daily", "Weekly", "Monthly", "Rarely", "Never"]
+  - id: happiness_barriers
+    type: multiple_choice
+    prompt: "What are the main barriers to your happiness?"
+    required: false
+    options: ["Work stress", "Financial worries", "Health issues", "Relationship problems", "Lack of time", "Environmental factors"]
+  - id: improvement_change
+    type: long_text
+    prompt: "What is one thing you would change to improve your overall happiness?"
+    required: false
+  - id: additional_thoughts
+    type: long_text
+    prompt: "Do you have any additional thoughts on well-being or happiness?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

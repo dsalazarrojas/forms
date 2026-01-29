@@ -1,0 +1,100 @@
+title: "Management Survey"
+description: "A survey to gather feedback on management performance and effectiveness"
+category: "HR & Employee Surveys"
+questions:
+  - id: overall_performance_satisfaction
+    type: rating
+    prompt: "How satisfied are you with your manager's overall performance?"
+    required: true
+    scale: 5
+  - id: communication_clarity
+    type: rating
+    prompt: "How clear is your manager's communication about goals and expectations?"
+    required: true
+    scale: 5
+  - id: feedback_frequency
+    type: single_choice
+    prompt: "How often do you receive constructive feedback from your manager?"
+    required: true
+    options: ["Daily", "Weekly", "Monthly", "Quarterly", "Rarely", "Never"]
+  - id: leadership_qualities
+    type: multiple_choice
+    prompt: "Which of the following leadership qualities does your manager consistently demonstrate?"
+    required: true
+    options: ["Clear communication", "Supports growth", "Empowers team", "Decisive", "Approachable", "Visionary", "Fair", "Motivational", "Organized", "Respects diversity"]
+  - id: decision_making_effectiveness
+    type: rating
+    prompt: "How effective is your manager at making timely decisions?"
+    required: true
+    scale: 5
+  - id: conflict_resolution
+    type: single_choice
+    prompt: "How well does your manager handle team conflicts and difficult situations?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: resource_allocation
+    type: rating
+    prompt: "How well does your manager allocate resources and prioritize tasks?"
+    required: true
+    scale: 5
+  - id: career_development_support
+    type: single_choice
+    prompt: "How supportive is your manager of your career development?"
+    required: true
+    options: ["Very supportive", "Somewhat supportive", "Neutral", "Not very supportive", "Not at all supportive"]
+  - id: work_life_balance_respect
+    type: rating
+    prompt: "How well does your manager respect work-life balance?"
+    required: true
+    scale: 5
+  - id: team_motivation
+    type: rating
+    prompt: "How effectively does your manager motivate and inspire the team?"
+    required: true
+    scale: 5
+  - id: delegation_skills
+    type: single_choice
+    prompt: "How well does your manager delegate tasks and responsibilities?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: change_management
+    type: rating
+    prompt: "How well does your manager handle organizational changes?"
+    required: true
+    scale: 5
+  - id: recognition_frequency
+    type: single_choice
+    prompt: "How often does your manager recognize and reward good performance?"
+    required: true
+    options: ["Very frequently", "Frequently", "Occasionally", "Rarely", "Never"]
+  - id: strategic_vision
+    type: rating
+    prompt: "How clear is your manager's strategic vision for the team/department?"
+    required: true
+    scale: 5
+  - id: accessibility_approachability
+    type: single_choice
+    prompt: "How accessible and approachable is your manager?"
+    required: true
+    options: ["Very accessible", "Somewhat accessible", "Neutral", "Somewhat inaccessible", "Very inaccessible"]
+  - id: performance_expectations
+    type: rating
+    prompt: "How clear are performance expectations set by your manager?"
+    required: true
+    scale: 5
+  - id: coaching_mentoring
+    type: single_choice
+    prompt: "How effective is your manager as a coach and mentor?"
+    required: true
+    options: ["Very effective", "Somewhat effective", "Neutral", "Somewhat ineffective", "Very ineffective"]
+  - id: improvement_areas
+    type: text
+    prompt: "What specific areas could your manager improve upon?"
+    required: false
+  - id: additional_comments
+    type: long_text
+    prompt: "Do you have any other comments or suggestions regarding management?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

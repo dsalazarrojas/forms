@@ -1,0 +1,104 @@
+title: "Post Event Feedback Survey"
+description: "Thank you for attending our event! Please share your feedback to help us improve future events."
+category: "Event Surveys"
+questions:
+  - id: overall_satisfaction
+    type: single_choice
+    prompt: "How satisfied were you with the event overall?"
+    required: true
+    options: ["Very satisfied", "Somewhat satisfied", "Neutral", "Somewhat dissatisfied", "Very dissatisfied"]
+  - id: most_valuable_sessions
+    type: multiple_choice
+    prompt: "Which sessions or presentations did you find most valuable?"
+    required: true
+    options: ["Keynote Speech", "Panel Discussion", "Workshop A", "Networking Session", "Product Demo", "Breakout Sessions", "Exhibitor Hall"]
+  - id: event_organization
+    type: single_choice
+    prompt: "How well organized and managed was the event?"
+    required: true
+    options: ["Excellent", "Good", "Average", "Poor", "Very poor"]
+  - id: future_attendance_likelihood
+    type: single_choice
+    prompt: "How likely are you to attend a similar event in the future?"
+    required: true
+    options: ["Very likely", "Somewhat likely", "Neutral", "Not very likely", "Not at all likely"]
+  - id: venue_quality
+    type: rating
+    prompt: "Rate the quality of the venue and facilities"
+    required: true
+    scale: 5
+  - id: content_relevance
+    type: single_choice
+    prompt: "How relevant was the event content to your interests and needs?"
+    required: true
+    options: ["Very relevant", "Somewhat relevant", "Neutral", "Somewhat irrelevant", "Very irrelevant"]
+  - id: networking_opportunities
+    type: rating
+    prompt: "Rate the quality of networking opportunities at the event"
+    required: true
+    scale: 5
+  - id: speaker_quality
+    type: single_choice
+    prompt: "How would you rate the quality of the speakers and presentations?"
+    required: true
+    options: ["Excellent", "Good", "Average", "Poor", "Very poor"]
+  - id: event_timing
+    type: single_choice
+    prompt: "Was the timing and duration of the event appropriate?"
+    required: true
+    options: ["Too long", "Just right", "Too short"]
+  - id: registration_process
+    type: single_choice
+    prompt: "How was your experience with the registration process?"
+    required: true
+    options: ["Very smooth", "Somewhat smooth", "Neutral", "Somewhat difficult", "Very difficult"]
+  - id: catering_quality
+    type: rating
+    prompt: "If applicable, rate the quality of food and beverages provided"
+    required: false
+    scale: 5
+  - id: technology_reliability
+    type: single_choice
+    prompt: "How reliable was the technology (AV equipment, WiFi, etc.)?"
+    required: true
+    options: ["Very reliable", "Somewhat reliable", "Neutral", "Somewhat unreliable", "Very unreliable"]
+  - id: value_for_money
+    type: single_choice
+    prompt: "Did the event provide good value for the cost of attendance?"
+    required: false
+    options: ["Excellent value", "Good value", "Fair value", "Poor value", "Very poor value"]
+  - id: learning_outcomes
+    type: rating
+    prompt: "To what extent did you achieve your learning objectives from attending?"
+    required: true
+    scale: 5
+  - id: diversity_inclusion
+    type: single_choice
+    prompt: "How well did the event promote diversity and inclusion?"
+    required: true
+    options: ["Very well", "Somewhat well", "Neutral", "Poorly", "Very poorly"]
+  - id: most_memorable_moment
+    type: text
+    prompt: "What was the most memorable or impactful moment from the event?"
+    required: false
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What specific improvements would you suggest for future events?"
+    required: false
+  - id: recommendation_likelihood
+    type: rating
+    prompt: "How likely are you to recommend this event to colleagues or friends?"
+    required: true
+    scale: 10
+  - id: overall_rating
+    type: rating
+    prompt: "On a scale of 1-10, what would you rate this event overall?"
+    required: true
+    scale: 10
+  - id: additional_comments
+    type: long_text
+    prompt: "Do you have any additional comments or suggestions for us?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

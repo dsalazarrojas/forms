@@ -1,0 +1,99 @@
+title: "Professional Development Survey"
+description: "A comprehensive survey to gauge employee satisfaction and identify opportunities for professional growth and development within the organization."
+category: "HR & Employee Surveys"
+questions:
+  - id: overall_role_satisfaction
+    type: single_choice
+    prompt: "Overall, how satisfied are you with your role at the organization?"
+    required: true
+    options: ["Very satisfied", "Somewhat satisfied", "Neutral", "Somewhat dissatisfied", "Very dissatisfied"]
+  - id: management_communication
+    type: single_choice
+    prompt: "How would you rate communication from management regarding career development opportunities?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "N/A"]
+  - id: development_support_feeling
+    type: single_choice
+    prompt: "Do you feel supported in your professional development?"
+    required: true
+    options: ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]
+  - id: current_skill_level
+    type: rating
+    prompt: "Rate your current skill level in your primary job responsibilities"
+    required: true
+    scale: 5
+  - id: skill_gap_awareness
+    type: single_choice
+    prompt: "How aware are you of the skills needed for your next career advancement?"
+    required: true
+    options: ["Very aware", "Somewhat aware", "Neutral", "Somewhat unaware", "Very unaware"]
+  - id: training_opportunities
+    type: multiple_choice
+    prompt: "What specific training or development opportunities would be most valuable to you?"
+    required: true
+    options: ["Leadership training", "Technical skills workshops", "Mentorship program", "Certification courses", "Conferences/Seminars", "Soft skills training", "Project management training", "Industry-specific training"]
+  - id: learning_resources_access
+    type: single_choice
+    prompt: "How easy is it for you to access learning resources within the organization?"
+    required: true
+    options: ["Very easy", "Easy", "Neutral", "Difficult", "Very difficult"]
+  - id: career_path_clarity
+    type: rating
+    prompt: "How clear is your career path within the organization?"
+    required: true
+    scale: 5
+  - id: feedback_frequency
+    type: single_choice
+    prompt: "How often do you receive constructive feedback on your performance?"
+    required: true
+    options: ["Weekly", "Monthly", "Quarterly", "Annually", "Rarely/Never"]
+  - id: mentorship_availability
+    type: single_choice
+    prompt: "Is mentorship available and accessible to you?"
+    required: true
+    options: ["Yes, very accessible", "Yes, somewhat accessible", "Limited availability", "Not available", "Not interested"]
+  - id: work_life_balance
+    type: rating
+    prompt: "How well does your current role support work-life balance?"
+    required: true
+    scale: 5
+  - id: growth_opportunities
+    type: single_choice
+    prompt: "Do you see clear opportunities for growth within your current department?"
+    required: true
+    options: ["Yes, many opportunities", "Some opportunities", "Limited opportunities", "No opportunities", "Unsure"]
+  - id: compensation_satisfaction
+    type: rating
+    prompt: "How satisfied are you with your current compensation and benefits?"
+    required: true
+    scale: 5
+  - id: recognition_frequency
+    type: single_choice
+    prompt: "How often do you feel recognized for your contributions?"
+    required: true
+    options: ["Very often", "Often", "Sometimes", "Rarely", "Never"]
+  - id: technology_tools_satisfaction
+    type: rating
+    prompt: "How satisfied are you with the technology tools and software provided for your work?"
+    required: true
+    scale: 5
+  - id: team_collaboration
+    type: single_choice
+    prompt: "How would you rate collaboration and teamwork in your department?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What could the organization do to better support your career growth?"
+    required: false
+  - id: growth_contributing_factors
+    type: long_text
+    prompt: "What aspects of your current role contribute most to your professional growth?"
+    required: false
+  - id: additional_comments
+    type: long_text
+    prompt: "Any additional comments or suggestions regarding professional development?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []

@@ -1,0 +1,127 @@
+title: School Climate Survey
+description: Comprehensive survey gathering insights on the school environment from students, staff, and parents to improve educational outcomes.
+category: Education Surveys
+questions:
+- id: overall_satisfaction
+  type: rating
+  prompt: How satisfied are you with the overall school climate?
+  required: true
+  scale: 5
+- id: belonging_sense
+  type: single_choice
+  prompt: How often do you feel a sense of belonging at school?
+  required: true
+  options:
+  - Always
+  - Often
+  - Sometimes
+  - Rarely
+  - Never
+- id: learning_environment
+  type: multiple_choice
+  prompt: Which of the following best describe the learning environment at school?
+  required: true
+  options:
+  - Supportive
+  - Engaging
+  - Challenging
+  - Respectful
+  - Safe
+  - Inclusive
+  - Collaborative
+  - Innovative
+  - Structured
+  - Flexible
+- id: safety_feeling
+  type: rating
+  prompt: How safe do you feel at school?
+  required: true
+  scale: 5
+- id: bullying_prevalence
+  type: single_choice
+  prompt: How often do you witness or experience bullying at school?
+  required: true
+  options:
+  - Never
+  - Rarely
+  - Sometimes
+  - Often
+  - Very often
+- id: teacher_support
+  type: rating
+  prompt: How supportive are teachers in helping students succeed?
+  required: true
+  scale: 5
+- id: peer_relationships
+  type: single_choice
+  prompt: How would you describe student relationships at school?
+  required: true
+  options:
+  - Very positive
+  - Positive
+  - Neutral
+  - Negative
+  - Very negative
+- id: communication_quality
+  type: rating
+  prompt: How effective is communication between school staff, students, and parents?
+  required: true
+  scale: 5
+- id: extracurricular_participation
+  type: single_choice
+  prompt: How accessible and appealing are extracurricular activities?
+  required: true
+  options:
+  - Very accessible and appealing
+  - Accessible and appealing
+  - Somewhat accessible
+  - Not very accessible
+  - Not accessible at all
+- id: technology_integration
+  type: rating
+  prompt: How well does the school integrate technology into learning?
+  required: true
+  scale: 5
+- id: diversity_inclusion
+  type: single_choice
+  prompt: How inclusive is the school environment for diverse backgrounds and perspectives?
+  required: true
+  options:
+  - Extremely inclusive
+  - Very inclusive
+  - Moderately inclusive
+  - Slightly inclusive
+  - Not inclusive
+- id: mental_health_support
+  type: rating
+  prompt: How adequate is mental health support at school?
+  required: true
+  scale: 5
+- id: academic_pressure
+  type: single_choice
+  prompt: How would you describe the level of academic pressure at school?
+  required: true
+  options:
+  - Too high
+  - Appropriate
+  - Too low
+- id: parent_involvement
+  type: rating
+  prompt: How involved do parents feel in school activities and decisions?
+  required: false
+  scale: 5
+- id: improvement_suggestions
+  type: long_text
+  prompt: What would you improve or change about the school climate?
+  required: false
+- id: positive_aspects
+  type: long_text
+  prompt: What are the most positive aspects of the school climate?
+  required: false
+- id: additional_feedback
+  type: long_text
+  prompt: Do you have any additional comments or feedback regarding the school environment?
+  required: false
+validation_result:
+  status: PASS
+  errors: []

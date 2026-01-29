@@ -1,0 +1,163 @@
+title: Social Media Survey
+description: A comprehensive survey to understand user habits, satisfaction, and perceptions of social media platforms.
+category: Social Media
+questions:
+- id: overall_satisfaction
+  type: rating
+  prompt: How satisfied are you with your overall social media experience?
+  required: true
+  scale: 5
+- id: usage_frequency
+  type: single_choice
+  prompt: How often do you interact with social media platforms?
+  required: true
+  options:
+  - Daily (multiple times)
+  - Daily (once)
+  - Several times a week
+  - Weekly
+  - Monthly
+  - Rarely
+  - Never
+- id: primary_purpose
+  type: single_choice
+  prompt: Which of the following best describes your main reason for using social media?
+  required: true
+  options:
+  - Connecting with friends/family
+  - News/Information
+  - Entertainment
+  - Professional networking
+  - Shopping/Commerce
+  - Content creation
+  - Education/Learning
+  - Other
+- id: platforms_used
+  type: multiple_choice
+  prompt: Which social media platforms do you use regularly? (select all that apply)
+  required: true
+  options:
+  - Facebook
+  - Instagram
+  - Twitter/X
+  - TikTok
+  - LinkedIn
+  - Snapchat
+  - YouTube
+  - Pinterest
+  - Reddit
+  - Other
+- id: time_spent
+  type: single_choice
+  prompt: On average, how much time do you spend on social media per day?
+  required: true
+  options:
+  - Less than 30 minutes
+  - 30 minutes to 1 hour
+  - 1-2 hours
+  - 2-3 hours
+  - 3-4 hours
+  - More than 4 hours
+- id: content_types
+  type: multiple_choice
+  prompt: What types of content do you most engage with? (select all that apply)
+  required: false
+  options:
+  - Photos/Images
+  - Videos
+  - Stories/Reels
+  - Text posts
+  - Live streams
+  - News articles
+  - Memes
+  - Educational content
+- id: positive_aspects
+  type: multiple_choice
+  prompt: Which positive aspects apply to your social media experience? (select all that apply)
+  required: false
+  options:
+  - Connects me with others
+  - Source of news/info
+  - Entertaining
+  - Helps with work/career
+  - Educational value
+  - Creative inspiration
+  - Community building
+- id: negative_aspects
+  type: multiple_choice
+  prompt: Which negative aspects apply to your social media experience? (select all that apply)
+  required: false
+  options:
+  - Causes anxiety/stress
+  - Time-consuming
+  - Privacy concerns
+  - Misinformation
+  - Cyberbullying/harassment
+  - Addiction/compulsive use
+  - Comparison with others
+- id: privacy_concerns
+  type: rating
+  prompt: How concerned are you about your privacy on social media?
+  required: true
+  scale: 5
+- id: data_sharing
+  type: single_choice
+  prompt: How comfortable are you with sharing personal data on social media?
+  required: true
+  options:
+  - Very comfortable
+  - Somewhat comfortable
+  - Neutral
+  - Somewhat uncomfortable
+  - Very uncomfortable
+- id: algorithm_satisfaction
+  type: rating
+  prompt: How satisfied are you with how social media algorithms curate your content?
+  required: false
+  scale: 5
+- id: monetization_views
+  type: single_choice
+  prompt: What are your views on creator monetization on social media?
+  required: false
+  options:
+  - Support it fully
+  - Support it with some limitations
+  - Neutral
+  - Oppose it
+  - Don't care
+- id: influence_on_life
+  type: single_choice
+  prompt: How has social media influenced your daily life?
+  required: true
+  options:
+  - Very positively
+  - Somewhat positively
+  - No significant impact
+  - Somewhat negatively
+  - Very negatively
+- id: future_usage
+  type: single_choice
+  prompt: How do you see your social media usage changing in the next year?
+  required: false
+  options:
+  - Increase significantly
+  - Increase slightly
+  - Stay about the same
+  - Decrease slightly
+  - Decrease significantly
+  - Stop using entirely
+- id: improvements_suggestions
+  type: long_text
+  prompt: What would you most like to improve or change about your social media experience?
+  required: false
+- id: favorite_platform
+  type: text
+  prompt: What is your favorite social media platform and why?
+  required: false
+- id: additional_feedback
+  type: long_text
+  prompt: Do you have any additional comments or feedback regarding social media?
+  required: false
+validation_result:
+  status: PASS
+  errors: []

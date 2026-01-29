@@ -1,0 +1,105 @@
+title: "Company Satisfaction Survey"
+description: "This survey aims to gather your valuable feedback on various aspects of your work experience and overall satisfaction at the company."
+category: "Business Surveys"
+questions:
+  - id: overall_role_satisfaction
+    type: rating
+    prompt: "How satisfied are you with your current role?"
+    required: true
+    scale: 5
+  - id: management_communication
+    type: single_choice
+    prompt: "How would you rate communication from management?"
+    required: true
+    options: ["Excellent", "Good", "Fair", "Poor", "Very poor"]
+  - id: professional_development_support
+    type: single_choice
+    prompt: "Do you feel supported in your professional development?"
+    required: true
+    options: ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]
+  - id: work_life_balance
+    type: rating
+    prompt: "Rate your work-life balance at the company"
+    required: true
+    scale: 5
+  - id: compensation_satisfaction
+    type: single_choice
+    prompt: "How satisfied are you with your compensation?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: benefits_satisfaction
+    type: rating
+    prompt: "Rate your satisfaction with company benefits"
+    required: false
+    scale: 5
+  - id: company_culture_values
+    type: multiple_choice
+    prompt: "What aspects of our company culture do you value most? (select all that apply)"
+    required: true
+    options: ["Team collaboration", "Work-life balance", "Innovation", "Learning opportunities", "Recognition", "Diversity & inclusion", "Social responsibility"]
+  - id: team_collaboration
+    type: rating
+    prompt: "Rate the quality of collaboration within your team"
+    required: true
+    scale: 5
+  - id: leadership_effectiveness
+    type: single_choice
+    prompt: "How effective is the leadership at your level?"
+    required: true
+    options: ["Very effective", "Effective", "Somewhat effective", "Ineffective", "Very ineffective"]
+  - id: career_growth_opportunities
+    type: single_choice
+    prompt: "How satisfied are you with career growth opportunities?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: workplace_environment
+    type: rating
+    prompt: "Rate the physical work environment"
+    required: false
+    scale: 5
+  - id: technology_resources
+    type: single_choice
+    prompt: "How adequate are the technology resources provided?"
+    required: true
+    options: ["Very adequate", "Adequate", "Somewhat adequate", "Inadequate", "Very inadequate"]
+  - id: recognition_appreciation
+    type: rating
+    prompt: "Rate how appreciated you feel for your contributions"
+    required: true
+    scale: 5
+  - id: change_management
+    type: single_choice
+    prompt: "How well does the company handle organizational changes?"
+    required: false
+    options: ["Very well", "Well", "Somewhat well", "Poorly", "Very poorly"]
+  - id: diversity_inclusion
+    type: rating
+    prompt: "Rate the company's commitment to diversity and inclusion"
+    required: false
+    scale: 5
+  - id: remote_work_flexibility
+    type: single_choice
+    prompt: "How flexible are remote work arrangements?"
+    required: false
+    options: ["Very flexible", "Flexible", "Somewhat flexible", "Rigid", "Very rigid"]
+  - id: training_development
+    type: single_choice
+    prompt: "How satisfied are you with training and development programs?"
+    required: true
+    options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+  - id: recommendation_likelihood
+    type: rating
+    prompt: "How likely are you to recommend this company as a place to work?"
+    required: true
+    scale: 10
+  - id: improvement_suggestions
+    type: long_text
+    prompt: "What could improve your experience at work?"
+    required: false
+  - id: additional_feedback
+    type: long_text
+    prompt: "Do you have any additional comments or suggestions?"
+    required: false
+validation_result:
+  status: "PASS"
+  errors: []
