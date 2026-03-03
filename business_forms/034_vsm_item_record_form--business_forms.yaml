@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: VSM Item Record Form
+    pages:
+    - id: 1
+      name: vsm_item_id
+      label: Item ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: vsm_item_name
+      label: item_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vsm_item_description
+      label: item_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vsm_item_category
+      label: item_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: vsm_item_tags
+      label: item_tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: vsm_item_status
+      label: item_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: vsm_item_due_date
+      label: due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: vsm_item_priority
+      label: item_priority
+      hint: null
+      type: number
+      options: []
+      required: false

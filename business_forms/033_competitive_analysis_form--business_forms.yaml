@@ -1,0 +1,120 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Competitive Analysis Form
+    pages:
+      - id: 1
+        name: competitor_data_header
+        label: -- Competitor Profile Data Collection --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: competitor_company_legal_name
+        label: Competitor Company Name
+        hint: Full legal name of the competing entity
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: competitor_hq_location
+        label: Headquarters Location
+        hint: City and Country
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: primary_target_audience_comp
+        label: Primary Target Audience
+        hint: Who are they specifically trying to sell to?
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: estimated_annual_revenue_range
+        label: Estimated Annual Revenue
+        hint: Use publicly available data or estimates
+        type: select_one
+        options:
+          - Under $1M
+          - $1M - $10M
+          - $10M - $50M
+          - $50M - $250M
+          - $250M - $1B
+          - Over $1B
+        required: true
+      - id: 6
+        name: core_competitive_advantage_text
+        label: Core Competitive Advantage
+        hint: What makes them unique in the market?
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: distribution_channels_multi
+        label: Distribution Channels Used
+        hint: How do they get their product to customers?
+        type: select_multiple
+        options:
+          - Direct Online Sales
+          - Retail / Physical Stores
+          - Third-party Marketplaces (Amazon, etc.)
+          - Resellers / Distributors
+          - Direct Sales Force
+        required: true
+      - id: 8
+        name: recent_competitor_news
+        label: Recent News or Strategic Moves
+        hint: e.g., Mergers, acquisitions, or key leadership changes
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: product_pricing_model_type
+        label: Product Pricing Model
+        hint: How do they charge their customers?
+        type: select_one
+        options:
+          - One-time Purchase
+          - Subscription (SaaS)
+          - Freemium
+          - Usage-based / Tiered
+          - Custom / Enterprise Pricing
+        required: true
+      - id: 10
+        name: digital_presence_rating
+        label: Website and Social Media Presence Rating
+        hint: Quality of their online engagement
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+        required: true
+      - id: 11
+        name: swot_summary_brief
+        label: SWOT Summary (Brief)
+        hint: Identify one key factor for each category
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: competitor_analysis_date
+        label: Date Collected
+        hint: Select today's date
+        type: date
+        options: []
+        required: true

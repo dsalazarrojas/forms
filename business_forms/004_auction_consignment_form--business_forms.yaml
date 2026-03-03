@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auction Consignment Form
+    pages:
+    - id: 1
+      name: consignor_info_section
+      label: -- Consignor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: consignor_name
+      label: Consignor Name
+      hint: Individual or Business Name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: If different from consignor name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: item_details_section
+      label: -- Item Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: item_category
+      label: Item Category
+      hint: null
+      type: select_one
+      options:
+      - Fine Art
+      - Antiques
+      - Jewelry
+      - Collectibles
+      - Furniture
+      - Other
+      required: true
+    - id: 9
+      name: item_title
+      label: Item Title - Short Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: detailed_description
+      label: Detailed Description and Condition
+      hint: List any flaws, damages, or restorations
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: provenance_history
+      label: Provenance and History
+      hint: Where did you acquire this item?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: item_dimensions
+      label: Dimensions
+      hint: Height x Width x Depth
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: financial_details_section
+      label: -- Financial Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: estimated_value
+      label: Estimated Value
+      hint: Your estimated market value
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: reserve_price
+      label: Reserve Price
+      hint: Minimum amount you will accept (set to 0 for no reserve)
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: commission_rate_agreed
+      label: Agreed Commission Rate (%)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: contract_acceptance
+      label: I accept the Consignment Agreement Terms
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Accept
+      - No, I Do Not Accept
+      required: true

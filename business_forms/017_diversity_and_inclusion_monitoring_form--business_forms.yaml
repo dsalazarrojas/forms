@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Diversity And Inclusion Monitoring Form
+    pages:
+    - id: 1
+      name: page_1
+      label: diversity_monitoring_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: section_header_1
+      label: section_header_1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: page_2
+      label: diversity_monitoring_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_data
+      label: employee_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_email
+      label: employee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: employee_phone
+      label: employee_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_race
+      label: employee_race
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''White'', ''value'': ''white''}'
+      - '{''label'': ''Black or African American'', ''value'': ''black_or_african_american''}'
+      - '{''label'': ''Asian'', ''value'': ''asian''}'
+      - '{''label'': ''Native American or Alaskan Natives'', ''value'': ''native_american_or_alaskan_native''}'
+      - '{''label'': ''Hispanic or Latino'', ''value'': ''hispanic_or_latino''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 11
+      name: employee_gender
+      label: employee_gender
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Male'', ''value'': ''male''}'
+      - '{''label'': ''Female'', ''value'': ''female''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 12
+      name: job_category
+      label: job_category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Full-Time'', ''value'': ''full-time''}'
+      - '{''label'': ''Part-Time'', ''value'': ''part-time''}'
+      - '{''label'': ''Contract'', ''value'': ''contract''}'
+      - '{''label'': ''Intern'', ''value'': ''intern''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 13
+      name: job_level
+      label: job_level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Entry Level'', ''value'': ''entry_level''}'
+      - '{''label'': ''Mid-Level'', ''value'': ''mid-level''}'
+      - '{''label'': ''Senior'', ''value'': ''senior''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 14
+      name: job_function
+      label: job_function
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Software Engineer'', ''value'': ''software_engineer''}'
+      - '{''label'': ''Sales'', ''value'': ''sales''}'
+      - '{''label'': ''Finance'', ''value'': ''finance''}'
+      - '{''label'': ''Marketing'', ''value'': ''marketing''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 15
+      name: employee_employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Full-time'', ''value'': ''full-time''}'
+      - '{''label'': ''Part-time'', ''value'': ''part-time''}'
+      - '{''label'': ''Retired'', ''value'': ''retired''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 16
+      name: job_location
+      label: job_location
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''On-Site'', ''value'': ''on-site''}'
+      - '{''label'': ''Remote'', ''value'': ''remote''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 17
+      name: diversity_monitoring_question_1
+      label: diversity_monitoring_question_1
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 18
+      name: diversity_monitoring_question_2
+      label: diversity_monitoring_question_2
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 19
+      name: diversity_monitoring_question_3
+      label: diversity_monitoring_question_3
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 20
+      name: diversity_monitoring_question_4
+      label: diversity_monitoring_question_4
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 21
+      name: diversity_monitoring_question_5
+      label: diversity_monitoring_question_5
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 22
+      name: diversity_monitoring_question_6
+      label: diversity_monitoring_question_6
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 23
+      name: diversity_monitoring_question_7
+      label: diversity_monitoring_question_7
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 24
+      name: diversity_monitoring_question_8
+      label: diversity_monitoring_question_8
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 25
+      name: diversity_monitoring_question_9
+      label: diversity_monitoring_question_9
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false

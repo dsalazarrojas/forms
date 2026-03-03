@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lesson Booking And Payment Survey
+    pages:
+    - id: 1
+      name: lesson_booking_and_payment_survey_form
+      label: booking_and_payment_survey_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: booking_date
+      label: booking_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: booking_time
+      label: booking_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: booking_details
+      label: booking_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - paypal
+      - credit_card
+      required: false
+    - id: 7
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rating
+      label: rating
+      hint: null
+      type: select_multiple
+      options:
+      - one
+      - two
+      - three
+      - four
+      - five
+      required: false

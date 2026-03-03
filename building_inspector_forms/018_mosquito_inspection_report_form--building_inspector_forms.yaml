@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mosquito Inspection Report Form
+    pages:
+    - id: 1
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: mosquito_species
+      label: Mosquito Species
+      hint: null
+      type: select_one
+      options:
+      - Asian Tiger
+      - Aedes
+      - Culex
+      - Anopheles
+      required: true
+    - id: 4
+      name: mosquito_count
+      label: Mosquito Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: date_inspected
+      label: Date Inspected
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time_inspected
+      label: Time Inspected
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: inspector_notes
+      label: Inspector Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: property_type
+      label: Property Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: mosquito_control_measures
+      label: Mosquito Control Measures
+      hint: null
+      type: text
+      options: []
+      required: false

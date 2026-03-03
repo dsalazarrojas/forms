@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Component Tolerance Adjustment Request Form
+    pages:
+    - id: 1
+      name: request_id
+      label: Request ID
+      hint: Unique request identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: Date of request submission
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: requester_name
+      label: Requester Name
+      hint: Full name of person making request
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_title
+      label: Requester Title
+      hint: Job title or position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Select your department
+      type: select_one
+      options:
+      - Engineering
+      - Manufacturing
+      - Quality Assurance
+      - Research and Development
+      - Production
+      - Design
+      - Other
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Work email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: component_name
+      label: Component Name
+      hint: Name of component requiring adjustment
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: component_part_number
+      label: Component Part Number
+      hint: Manufacturer part number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: component_revision
+      label: Component Revision
+      hint: Current revision level
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: drawing_number
+      label: Drawing Number
+      hint: Associated drawing number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: current_tolerance
+      label: Current Tolerance
+      hint: Describe current tolerance specification
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: requested_tolerance
+      label: Requested Tolerance
+      hint: Describe the requested tolerance change
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: tolerance_type
+      label: Tolerance Type
+      hint: Select the type of tolerance
+      type: select_one
+      options:
+      - Dimensional
+      - Geometric
+      - Surface Finish
+      - Angular
+      - Positional
+      - Concentricity
+      - Flatness
+      - Other
+      required: true
+    - id: 15
+      name: adjustment_reason
+      label: Adjustment Reason
+      hint: Why is this adjustment needed
+      type: select_one
+      options:
+      - Manufacturing Capability
+      - Design Change
+      - Cost Reduction
+      - Quality Improvement
+      - Supplier Change
+      - Process Optimization
+      - Customer Request
+      - Other
+      required: true
+    - id: 16
+      name: detailed_justification
+      label: Detailed Justification
+      hint: Provide detailed explanation for the request
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: impact_assessment
+      label: Impact Assessment
+      hint: What is the impact of this change
+      type: select_one
+      options:
+      - No Impact
+      - Minor Impact
+      - Moderate Impact
+      - Significant Impact
+      - Critical Impact
+      required: true
+    - id: 18
+      name: affected_assemblies
+      label: Affected Assemblies
+      hint: List assemblies or products affected
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: cost_impact
+      label: Cost Impact
+      hint: Estimated cost impact of change
+      type: select_one
+      options:
+      - Cost Reduction
+      - No Cost Impact
+      - Minor Cost Increase
+      - Moderate Cost Increase
+      - Significant Cost Increase
+      required: true
+    - id: 20
+      name: quality_impact
+      label: Quality Impact
+      hint: Expected impact on product quality
+      type: select_one
+      options:
+      - Quality Improvement
+      - No Change
+      - Minor Quality Risk
+      - Moderate Quality Risk
+      - Significant Quality Risk
+      required: true
+    - id: 21
+      name: implementation_timeline
+      label: Implementation Timeline
+      hint: When should this change be implemented
+      type: select_one
+      options:
+      - Immediate
+      - Next Production Run
+      - Within 30 Days
+      - Within 90 Days
+      - At Next Design Revision
+      required: true
+    - id: 22
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Will you attach supporting documents
+      type: select_one
+      options:
+      - Yes, Attached
+      - Yes, To Follow
+      - No Documents
+      required: false
+    - id: 23
+      name: approval_status
+      label: Approval Status
+      hint: Current approval status
+      type: select_one
+      options:
+      - Pending Review
+      - Under Engineering Review
+      - Under Quality Review
+      - Approved
+      - Rejected
+      - Requires Revision
+      required: true
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

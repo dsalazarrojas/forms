@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: manufacturing_energy_transition_contact_form
+    pages:
+    - id: 1
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_lead_status
+      label: Project Lead Status
+      hint: null
+      type: select_one
+      options:
+      - Lead
+      - Not Lead
+      required: true
+    - id: 7
+      name: decarbonization_interest
+      label: Decarbonization Interest
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: true
+    - id: 8
+      name: energy_transition_project
+      label: Energy Transition Project
+      hint: null
+      type: select_one
+      options:
+      - Solar
+      - Wind
+      - Other
+      required: true
+    - id: 9
+      name: project_size
+      label: Project Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: lead_type
+      label: Lead Type
+      hint: null
+      type: select_one
+      options:
+      - Qualified
+      - Unqualified
+      required: true
+    - id: 11
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - Referral
+      - Advertisement
+      - Other
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Scheduled
+      - In Progress
+      - Completed
+      required: true
+    - id: 17
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_user
+      label: Follow-up User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_phone
+      label: Follow-up Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_email
+      label: Follow-up Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_lead_type
+      label: Follow-up Lead Type
+      hint: null
+      type: select_one
+      options:
+      - Qualified
+      - Unqualified
+      required: false
+    - id: 22
+      name: follow_up_lead_source
+      label: Follow-up Lead Source
+      hint: null
+      type: select_one
+      options:
+      - Referral
+      - Advertisement
+      - Other
+      required: false
+    - id: 23
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: next_follow_up_date
+      label: Next Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: next_follow_up_status
+      label: Next Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Scheduled
+      - In Progress
+      - Completed
+      required: true

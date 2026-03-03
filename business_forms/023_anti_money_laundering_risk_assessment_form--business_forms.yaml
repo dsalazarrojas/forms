@@ -1,0 +1,94 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anti Money Laundering Risk Assessment Form
+    pages:
+    - id: 1
+      name: section_overview
+      label: -- Risk Assessment Overview --
+      hint: Capture entity and risk context
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: entity_name
+      label: Entity name
+      hint: Business or account being assessed
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessment_date
+      label: Assessment date
+      hint: Date of risk evaluation
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: customer_risk_factors
+      label: Customer risk factors
+      hint: Select factors present for the customer
+      type: select_multiple
+      options:
+        - Politically exposed person
+        - High risk jurisdiction
+        - Unusual transaction patterns
+        - Complex ownership
+        - None
+      required: false
+    - id: 5
+      name: product_risk
+      label: Product or service risk
+      hint: Level of risk associated with products used
+      type: select_one
+      options:
+        - Low
+        - Medium
+        - High
+      required: true
+    - id: 6
+      name: transaction_volume_risk
+      label: Transaction volume and velocity risk
+      hint: Consider frequency and amounts
+      type: select_one
+      options:
+        - Low
+        - Medium
+        - High
+      required: true
+    - id: 7
+      name: overall_risk_rating
+      label: Overall risk rating
+      hint: Composite risk based on factors above
+      type: select_one
+      options:
+        - Low
+        - Moderate
+        - High
+        - Critical
+      required: true
+    - id: 8
+      name: mitigation_measures
+      label: Mitigation measures recommended
+      hint: Controls needed to reduce identified risks
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reviewer_name
+      label: Reviewer name
+      hint: Person completing the risk assessment
+      type: text
+      options: []
+      required: true

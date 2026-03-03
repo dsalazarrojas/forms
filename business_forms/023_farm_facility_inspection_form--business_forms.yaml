@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: farm_facility_inspection_form
+    pages:
+    - id: 1
+      name: facility_details
+      label: Facility Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Large Farm'', ''value'': ''large_farm''}'
+      - '{''id'': 2, ''label'': ''Small Farm'', ''value'': ''small_farm''}'
+      - '{''id'': 3, ''label'': ''Livestock Farm'', ''value'': ''livestock_farm''}'
+      - '{''id'': 4, ''label'': ''Other (please specify)'', ''value'': ''other''}'
+      required: false
+    - id: 6
+      name: facility_status
+      label: Facility Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Active'', ''value'': ''active''}'
+      - '{''id'': 2, ''label'': ''Inactive'', ''value'': ''inactive''}'
+      - '{''id'': 3, ''label'': ''Under Renovation'', ''value'': ''under_renovation''}'
+      - '{''id'': 4, ''label'': ''Closed'', ''value'': ''closed''}'
+      required: false
+    - id: 7
+      name: inspection_result
+      label: Inspection Result
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Jane Doe'', ''value'': ''jane_doe''}'
+      - '{''id'': 2, ''label'': ''John Doe'', ''value'': ''john_doe''}'
+      required: false
+    - id: 10
+      name: farm_name
+      label: Farm Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: facility_phone
+      label: Facility Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: facility_fax
+      label: Facility Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: facility_email
+      label: Facility Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: facility_notes
+      label: Facility Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: facility_image
+      label: Facility Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: facility_document
+      label: Facility Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: facility_video
+      label: Facility Video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: facility_audio
+      label: Facility Audio
+      hint: null
+      type: text
+      options: []
+      required: false

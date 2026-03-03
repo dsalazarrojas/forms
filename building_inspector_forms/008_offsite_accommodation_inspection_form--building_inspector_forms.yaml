@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: offsite_accommodation_inspection_form
+    pages:
+    - id: 1
+      name: page_1
+      label: Offsite Accommodation Inspection Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: building_details
+      label: Building Details
+      hint: Building details
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_manager
+      label: Property Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: property_inspector
+      label: Property Inspector
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: date_inspected
+      label: Date Inspected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_inspected
+      label: Time Inspected
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: accommodation_details
+      label: Accommodation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

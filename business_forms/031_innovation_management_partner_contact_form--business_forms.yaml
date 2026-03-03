@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Innovation Management Partner Contact Form
+    pages:
+    - id: 1
+      name: partner_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: partner_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: partner_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: partner_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: partner_inquiry
+      label: Inquire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: partner_interest
+      label: Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: partner_agree
+      label: Agree
+      hint: null
+      type: select_one
+      options:
+      - I agree to share information for partnership purposes
+      - I do not agree
+      - I need more information about sharing data
+      required: false
+    - id: 8
+      name: partner_notes
+      label: Additional information
+      hint: null
+      type: text
+      options: []
+      required: false

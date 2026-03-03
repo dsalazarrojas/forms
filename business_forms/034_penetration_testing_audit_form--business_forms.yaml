@@ -1,0 +1,215 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Penetration Testing Audit Form
+    pages:
+    - id: 1
+      name: test_target
+      label: Test Target
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: frequency_tested
+      label: Frequency Tested
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_last_tested
+      label: Date Last Tested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: date_next_test
+      label: Date Next Test
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: test_frequency
+      label: Test Frequency
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 6
+      name: test_type
+      label: Test Type
+      hint: null
+      type: select_multiple
+      options:
+      - Penetration
+      - Vulnerability
+      - Compliance
+      required: true
+    - id: 7
+      name: test_target_type
+      label: Test Target Type
+      hint: null
+      type: select_multiple
+      options:
+      - External
+      - Internal
+      - External/Internal
+      required: true
+    - id: 8
+      name: risk_risk_factors
+      label: Risk Risk Factors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: risk_risk_factor_comments
+      label: Risk Risk Factor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: risk_risk_factor_severity
+      label: Risk Risk Factor Severity
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 11
+      name: risk_risk_factors_found
+      label: Risk Risk Factors Found
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 12
+      name: risk_risk_factors_remediated
+      label: Risk Risk Factors Remediated
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not Tested
+      required: true
+    - id: 13
+      name: remediation_status
+      label: Remediation Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Done
+      - Not Started
+      required: true
+    - id: 14
+      name: remediation_date_completed
+      label: Remediation Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: remediation_date_due
+      label: Remediation Date Due
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: remediation_comments
+      label: Remediation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: compliance_testing_status
+      label: Compliance Testing Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: compliance_testing_frequency
+      label: Compliance Testing Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: compliance_testing_type
+      label: Compliance Testing Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: compliance_testing_target_type
+      label: Compliance Testing Target Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: compliance_testing_status
+      label: Compliance Testing Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Done
+      - Not Started
+      required: true
+    - id: 22
+      name: compliance_testing_last_test
+      label: Compliance Testing Last Test
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: compliance_testing_next_test
+      label: Compliance Testing Next Test
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: compliance_testing_comments
+      label: Compliance Testing Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inventory Management Assessment Form
+    pages:
+    - id: 1
+      name: main_page
+      label: main_page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: stock_levels
+      label: stock_levels
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: management_strategies
+      label: management_strategies
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''A''}'
+      - '{''id'': 2, ''label'': ''B''}'
+      - '{''id'': 3, ''label'': ''C''}'
+      required: false
+    - id: 4
+      name: stock_tracking
+      label: stock_tracking
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''D''}'
+      - '{''id'': 2, ''label'': ''E''}'
+      - '{''id'': 3, ''label'': ''F''}'
+      required: false
+    - id: 5
+      name: stock_levels_frequency
+      label: stock_levels_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: stock_values
+      label: stock_values
+      hint: null
+      type: number
+      options: []
+      required: false

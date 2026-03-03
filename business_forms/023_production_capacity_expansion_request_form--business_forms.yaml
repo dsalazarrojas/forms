@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Capacity Expansion Request Form
+    pages:
+    - id: 1
+      name: production_capacity_expansion_request_form
+      label: request_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: production_capacity_expansion_requested_by
+      label: requested_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: capacity_increase
+      label: increase
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: justification
+      label: justification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: production_capacity_expansion_request_form_status
+      label: request_status
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''pending''}'
+      - '{''option2'': ''approved''}'
+      - '{''option3'': ''rejected''}'
+      required: false
+    - id: 6
+      name: production_capacity_expansion_request_form_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: production_capacity_expansion_request_form_time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: production_capacity_expansion_request_form_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: production_capacity_expansion_request_form_approvals
+      label: approvals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''manager1''}'
+      - '{''option2'': ''manager2''}'
+      - '{''option3'': ''manager3''}'
+      required: false

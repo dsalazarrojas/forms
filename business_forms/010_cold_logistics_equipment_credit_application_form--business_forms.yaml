@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cold Logistics Equipment Credit Application Form
+    pages:
+    - id: 1
+      name: section_business
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Registered Business Name
+      hint: Full legal name of the entity
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tax_id
+      label: Tax ID or Registration Number
+      hint: Business identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_address
+      label: Business Address
+      hint: Physical office location
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: years_operation
+      label: Years in Operation
+      hint: Number of years the business has been active
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: primary_contact
+      label: Primary Business Contact
+      hint: Person responsible for this application
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: section_credit
+      label: -- Equipment and Credit Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: equipment_type
+      label: Type of Equipment Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Refrigerated Vans
+      - Portable Freezers
+      - Monitoring Systems
+      - Cold Storage Racks
+      - Insulated Containers
+      required: true
+    - id: 10
+      name: credit_amount
+      label: Total Estimated Credit Amount
+      hint: Requested credit limit in USD
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: payment_terms
+      label: Desired Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - Net 30
+      - Net 60
+      - Net 90
+      - Monthly Installments
+      - Quarterly Installments
+      required: true
+    - id: 12
+      name: bank_name
+      label: Bank Name
+      hint: Primary business banking institution
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: business_reference
+      label: Business Reference Contact
+      hint: Name and email of a professional reference
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: declaration
+      label: Declaration of Accuracy
+      hint: I confirm that all provided information is true
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true

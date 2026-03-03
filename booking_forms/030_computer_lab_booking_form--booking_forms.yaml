@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Computer Lab Booking Form
+    pages:
+    - id: 1
+      name: section_booking_details
+      label: -- Booking Details --
+      hint: Reserve computer lab space and resources
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Name of person booking the lab
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_or_course
+      label: Organization or course
+      hint: Group or course name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_booking
+      label: Date of booking
+      hint: Preferred booking date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: start_time
+      label: Start time
+      hint: Booking start time
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: end_time
+      label: End time
+      hint: Booking end time
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: number_of_computers_needed
+      label: Number of computers needed
+      hint: Quantity of workstations required
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: special_equipment
+      label: Special equipment
+      hint: Projector, adapters, or peripherals needed
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact phone
+      hint: Phone for day of booking
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investigation Findings Report
+    pages:
+    - id: 1
+      name: investigation_outcome
+      label: Investigation Outcome
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: evidence_attach
+      label: Attach Evidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: actions_taken
+      label: Actions Taken
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: actions_outcome
+      label: Actions Outcome
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: risk_description
+      label: Risk Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: root_cause
+      label: Root Cause
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: investigator
+      label: Investigator
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: investigation_date
+      label: Investigation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: investigator_email
+      label: Investigator Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Disapproved
+      required: false
+    - id: 15
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: approval_note
+      label: Approval Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: approver
+      label: Approver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: investigator_phone
+      label: Investigator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: risk_level_description
+      label: Risk Level Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: actions_outcome_description
+      label: Actions Outcome Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: risk_level_rating
+      label: Risk Level Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: review_status_description
+      label: Review Status Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: investigation_status
+      label: Investigation Status
+      hint: null
+      type: select_multiple
+      options:
+      - Complete
+      - In Progress
+      - In Progress - Completed
+      required: false
+    - id: 25
+      name: investigator_notes
+      label: Investigator Notes
+      hint: null
+      type: text
+      options: []
+      required: false

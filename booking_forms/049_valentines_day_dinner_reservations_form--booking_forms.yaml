@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Valentines Day Dinner Reservations Form
+    pages:
+    - id: 1
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: reservation_time
+      label: Reservations Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: party_size
+      label: Party Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Submit''}'
+      - '{''value'': ''Cancel''}'
+      required: true
+    - id: 9
+      name: restaurant
+      label: Restaurant
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Restaurant A''}'
+      - '{''value'': ''Restaurant B''}'
+      - '{''value'': ''Restaurant C''}'
+      required: true

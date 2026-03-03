@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_and_equipment_agreement
+    pages:
+    - id: 1
+      name: product_and_equipment_agreement_page_1
+      label: Equipment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: Type of Equipment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: equipment_description
+      label: Description of Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: condition
+      label: Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: warranty_status
+      label: Warranty Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: warranty_expiration_date
+      label: Warranty Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: manufacturer
+      label: Manufacturer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: model_number
+      label: Model Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: product_code
+      label: Product Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: purchase_price
+      label: Purchase Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: sale_price
+      label: Sale Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: purchase_date_confirmation
+      label: Confirm Purchase Date
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: equipment_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

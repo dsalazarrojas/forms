@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Opportunity Tracker
+    pages:
+    - id: 1
+      name: sales_opportunity
+      label: Sales Opportunity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sales_stage
+      label: Sales Stage
+      hint: null
+      type: select_one
+      options:
+      - Lead
+      - Prospecting
+      - Qualification
+      - Presentation
+      - Demo
+      - Follow-up
+      - Closed Won
+      - Closed Lost
+      required: false
+    - id: 4
+      name: next_action
+      label: Next Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sales_probability
+      label: Sales Probability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: last_action
+      label: Last Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: close_date
+      label: Close Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: close_time
+      label: Close Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: follow_ups
+      label: Follow-ups
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Meeting
+      - Demo
+      - Other
+      required: false
+    - id: 10
+      name: pipeline
+      label: Pipeline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 12
+      name: sales_notes
+      label: Sales Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: last_follow_up
+      label: Last Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_method
+      label: Follow-up Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: sales_stage_change
+      label: Sales Stage Change
+      hint: null
+      type: select_one
+      options:
+      - Lead
+      - Prospecting
+      - Qualification
+      - Presentation
+      - Demo
+      - Follow-up
+      - Closed Won
+      - Closed Lost
+      required: true
+    - id: 20
+      name: sales_probability_change
+      label: Sales Probability Change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_method_change
+      label: Follow-up Method Change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_last_action
+      label: Follow-up Last Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: last_follow_up_time
+      label: Last Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: close_reason
+      label: Close Reason
+      hint: null
+      type: text
+      options: []
+      required: false

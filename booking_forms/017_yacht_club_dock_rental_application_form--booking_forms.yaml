@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Yacht Club Dock Rental Application Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Applicant Name
+      hint: Enter applicant name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: boat_type
+      label: Boat Type
+      hint: null
+      type: select_one
+      options:
+      - sail
+      - power
+      - sail power
+      required: false
+    - id: 6
+      name: rental_date
+      label: Rental Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: rental_time
+      label: Rental Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: special_requirements
+      label: Special Requirements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: review_note
+      label: Review Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Management Form
+    pages:
+    - id: 1
+      name: section_overview
+      label: -- Asset Overview --
+      hint: Summary information for asset tracking and governance
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: asset_id
+      label: asset id
+      hint: Internal reference identifier
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: asset_name
+      label: asset name
+      hint: Descriptive name used in records
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: owning department
+      hint: Department or business unit responsible
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: location
+      label: location
+      hint: Physical location or site
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: lifecycle_stage
+      label: lifecycle stage
+      hint: Current stage in the asset lifecycle
+      type: select_one
+      options:
+      - Active
+      - Maintenance
+      - Decommissioned
+      - Pending disposal
+      required: true
+    - id: 7
+      name: value_estimate
+      label: estimated value
+      hint: Estimated monetary value for tracking
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: warranty_expiration
+      label: warranty expiration date
+      hint: Date warranty ends if applicable
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: custodian_name
+      label: custodian name
+      hint: Primary contact responsible for the asset
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: audit_frequency
+      label: recommended audit frequency
+      hint: How often the asset should be audited
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      - As needed
+      required: true
+    - id: 11
+      name: notes
+      label: notes
+      hint: Additional management instructions or context
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Strategic Plan Upload Form
+    pages:
+    - id: 1
+      name: client_info_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: plan_info_header
+      label: -- Strategic Plan Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: plan_title
+      label: Strategic Plan Title
+      hint: Name or title of the plan
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: plan_period
+      label: Plan Period
+      hint: Time frame for this strategic plan
+      type: select_one
+      options:
+      - 1 year
+      - 3 years
+      - 5 years
+      - Other
+      required: true
+    - id: 9
+      name: plan_period_other
+      label: If Other, Please Specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: strategic_focus_areas
+      label: Strategic Focus Areas
+      hint: Main areas covered in the plan
+      type: select_multiple
+      options:
+      - Growth
+      - Market expansion
+      - Product development
+      - Cost reduction
+      - Operational efficiency
+      - Risk management
+      - Other
+      required: true
+    - id: 11
+      name: target_outcomes
+      label: Target Outcomes or Goals
+      hint: Key objectives for this plan period
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: resource_allocation
+      label: Budget or Resource Allocation
+      hint: How are resources allocated in the plan?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: document_header
+      label: -- Document Upload --
+      hint: Attach your strategic plan and supporting documents
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: primary_plan_document
+      label: Primary Strategic Plan Document
+      hint: Upload the main plan document
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Attach any additional files (financial forecasts, market analysis, etc)
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: executive_summary
+      label: Executive Summary
+      hint: Brief overview of the strategic plan
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: key_risks
+      label: Key Risks Identified
+      hint: Risks that might affect plan execution
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: success_metrics
+      label: Success Metrics
+      hint: How will you measure plan success?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: review_frequency
+      label: Plan Review Frequency
+      hint: How often will this plan be reviewed?
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-annually
+      - Annually
+      - As needed
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

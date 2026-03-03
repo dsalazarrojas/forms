@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Downtime Log Report Form
+    pages:
+    - id: 1
+      name: manufacturing_team
+      label: Manufacturing Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: downtime_event_date
+      label: Downtime Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: downtime_start_time
+      label: Downtime Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: downtime_duration
+      label: Downtime Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: Brief description of downtime event
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: downtime_classification
+      label: Downtime Classification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: downtime_classification_options
+      label: Downtime Classification Options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: production_line
+      label: Production Line
+      hint: null
+      type: select_one
+      options:
+      - Line 1
+      - Line 2
+      - Line 3
+      required: false
+    - id: 9
+      name: equipment
+      label: Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: equipment_options
+      label: Equipment Options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: downtime_cause
+      label: Downtime Cause
+      hint: null
+      type: select_one
+      options:
+      - Human
+      - Equipment
+      - Material
+      - Process
+      - Other
+      required: false
+    - id: 12
+      name: downtime_cause_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: downtime_cause_options
+      label: Downtime Cause Options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: shift
+      label: Shift
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Night
+      - Weekend
+      required: false
+    - id: 15
+      name: shift_options
+      label: Shift Options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: production_status
+      label: Production Status
+      hint: null
+      type: select_one
+      options:
+      - On Production
+      - In Production Queue
+      - Off Production
+      - Maintenance
+      - Shutdown
+      required: false
+    - id: 18
+      name: production_status_options
+      label: Production Status Options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: preventive_action
+      label: Preventive Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: root_cause
+      label: Root Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_actions
+      label: Follow-up Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

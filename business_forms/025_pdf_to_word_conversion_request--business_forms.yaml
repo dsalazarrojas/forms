@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: pdf_to_word_conversion_request
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: upload_pdf
+      label: Upload PDF
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: conversion_preferences
+      label: Conversion Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: turnaround_time
+      label: Turnaround Time
+      hint: null
+      type: select_one
+      options:
+      - Immediate
+      - 1 day
+      - 2 days
+      - 3 days
+      required: true
+    - id: 5
+      name: file_details
+      label: File Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: form_submission_notes
+      label: Form Submission Notes
+      hint: null
+      type: text
+      options: []
+      required: false

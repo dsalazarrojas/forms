@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Registration Certificate Amendment Form
+    pages:
+    - id: 1
+      name: section_current_registration
+      label: -- Current Registration Information --
+      type: note
+      required: false
+    - id: 2
+      name: current_business_name
+      label: Current Registered Business Name
+      hint: As shown on certificate
+      type: text
+      required: true
+    - id: 3
+      name: registration_number
+      label: Registration Number
+      hint: From current certificate
+      type: text
+      required: true
+    - id: 4
+      name: registration_date
+      label: Original Registration Date
+      hint: When was the business first registered
+      type: date
+      required: false
+    - id: 5
+      name: section_amendments
+      label: -- Amendment Details --
+      type: note
+      required: false
+    - id: 6
+      name: type_of_amendment
+      label: Type of Amendment
+      hint: What information needs to be updated
+      type: select_multiple
+      options:
+      - Business Name Change
+      - Address Change
+      - Owner or Manager Change
+      - Business Type Change
+      - Contact Information Update
+      - Partnership Change
+      - Legal Structure Change
+      required: true
+    - id: 7
+      name: section_name_change
+      label: -- Name Amendment Details --
+      type: note
+      required: false
+    - id: 8
+      name: new_business_name
+      label: New Business Name
+      hint: If changing business name
+      type: text
+      required: false
+    - id: 9
+      name: reason_for_name_change
+      label: Reason for Name Change
+      hint: Why are you changing the name
+      type: text
+      required: false
+    - id: 10
+      name: section_address_change
+      label: -- Address Amendment Details --
+      type: note
+      required: false
+    - id: 11
+      name: current_address
+      label: Current Registered Address
+      hint: Your present location
+      type: text
+      required: false
+    - id: 12
+      name: new_address
+      label: New Business Address
+      hint: Updated location if moving
+      type: text
+      required: false
+    - id: 13
+      name: change_effective_date
+      label: Date Change is Effective
+      hint: When does the amendment take effect
+      type: date
+      required: false
+    - id: 14
+      name: section_owner_change
+      label: -- Owner or Management Change --
+      type: note
+      required: false
+    - id: 15
+      name: current_owner
+      label: Current Registered Owner
+      hint: Present owner name
+      type: text
+      required: false
+    - id: 16
+      name: new_owner
+      label: New Owner Name
+      hint: If ownership is changing
+      type: text
+      required: false
+    - id: 17
+      name: new_owner_id_number
+      label: New Owner ID Number
+      hint: Identification or SSN if required
+      type: text
+      required: false
+    - id: 18
+      name: section_contact_update
+      label: -- Contact Information Update --
+      type: note
+      required: false
+    - id: 19
+      name: current_contact_phone
+      label: Current Contact Phone
+      hint: Present registered phone
+      type: text
+      required: false
+    - id: 20
+      name: new_contact_phone
+      label: New Contact Phone
+      hint: Updated phone number
+      type: text
+      required: false
+    - id: 21
+      name: current_contact_email
+      label: Current Contact Email
+      hint: Present registered email
+      type: email
+      required: false
+    - id: 22
+      name: new_contact_email
+      label: New Contact Email
+      hint: Updated email address
+      type: email
+      required: false
+    - id: 23
+      name: section_submission
+      label: -- Submission Information --
+      type: note
+      required: false
+    - id: 24
+      name: submitted_by_name
+      label: Submitted By - Name
+      hint: Who is submitting this amendment
+      type: text
+      required: true
+    - id: 25
+      name: submitted_by_title
+      label: Submitted By - Title
+      hint: Your role or position
+      type: text
+      required: false
+    - id: 26
+      name: submission_date
+      label: Submission Date
+      hint: Today's date
+      type: date
+      required: true
+    - id: 27
+      name: supporting_documents
+      label: Supporting Documents Attached
+      hint: List any attached documentation
+      type: text
+      required: false

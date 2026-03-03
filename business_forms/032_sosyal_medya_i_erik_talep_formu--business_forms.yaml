@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sosyal Medya İcerik Talep Formu
+    pages:
+    - id: 1
+      name: content_request
+      label: Social Media Content Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: platform_selection
+      label: Platform
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: content_type
+      label: Content Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: content_request_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Closed
+      required: true
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 8
+      name: output_file
+      label: Output File
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

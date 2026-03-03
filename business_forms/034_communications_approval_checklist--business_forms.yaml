@@ -1,0 +1,276 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Communications Approval Checklist
+    pages:
+      - id: 1
+        name: approval_information
+        label: Approval Information
+        hint: Details about the communications approval
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: submission_date
+        label: Submission Date
+        hint: Date of submission for approval
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: approval_id
+        label: Approval ID
+        hint: Unique approval reference number
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: communication_details
+        label: Communication Details
+        hint: Information about the communication material
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: communication_title
+        label: Communication Title
+        hint: Title or name of the communication
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: communication_type
+        label: Communication Type
+        hint: What type of communication is this
+        type: select_one
+        options:
+          - Press Release
+          - Internal Memo
+          - Email Campaign
+          - Social Media Post
+          - Website Content
+          - Newsletter
+          - Presentation
+          - Report
+          - Advertisement
+          - Other
+        required: true
+      - id: 7
+        name: communication_description
+        label: Communication Description
+        hint: Brief description of the communication
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: target_audience
+        label: Target Audience
+        hint: Who is the intended audience
+        type: select_multiple
+        options:
+          - General Public
+          - Customers
+          - Employees
+          - Management
+          - Investors
+          - Media
+          - Partners
+          - Regulators
+        required: true
+      - id: 9
+        name: creator_information
+        label: Creator Information
+        hint: Details about who created this communication
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: creator_name
+        label: Creator Name
+        hint: Name of the person who created this
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: creator_department
+        label: Creator Department
+        hint: Department of the creator
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: creator_email
+        label: Creator Email
+        hint: Email of the creator
+        type: email
+        options: []
+        required: true
+      - id: 13
+        name: distribution_plan
+        label: Distribution Plan
+        hint: How will this be distributed
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: distribution_channels
+        label: Distribution Channels
+        hint: Which channels will be used
+        type: select_multiple
+        options:
+          - Email
+          - Company Website
+          - Social Media
+          - Print Media
+          - Internal Portal
+          - Press Wire
+          - Direct Mail
+          - Events
+        required: true
+      - id: 15
+        name: distribution_date
+        label: Distribution Date
+        hint: When will this be distributed
+        type: date
+        options: []
+        required: true
+      - id: 16
+        name: approval_checklist
+        label: Approval Checklist
+        hint: Items to verify before approval
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: content_accuracy
+        label: Content Accuracy
+        hint: Has content accuracy been verified
+        type: select_one
+        options:
+          - "Yes - Verified"
+          - "No - Needs Review"
+          - "Not Applicable"
+        required: true
+      - id: 18
+        name: brand_compliance
+        label: Brand Compliance
+        hint: Does this comply with brand guidelines
+        type: select_one
+        options:
+          - "Yes - Fully Compliant"
+          - "Mostly Compliant"
+          - "No - Changes Needed"
+        required: true
+      - id: 19
+        name: legal_review
+        label: Legal Review
+        hint: Has legal reviewed this communication
+        type: select_one
+        options:
+          - "Yes - Approved"
+          - "Yes - With Comments"
+          - "Pending Review"
+          - "Not Required"
+        required: true
+      - id: 20
+        name: compliance_review
+        label: Compliance Review
+        hint: Has compliance reviewed this communication
+        type: select_one
+        options:
+          - "Yes - Approved"
+          - "Yes - With Comments"
+          - "Pending Review"
+          - "Not Required"
+        required: true
+      - id: 21
+        name: factual_accuracy
+        label: Factual Accuracy
+        hint: Are all facts and figures accurate
+        type: select_one
+        options:
+          - "Yes - Verified"
+          - "Mostly Accurate"
+          - "No - Corrections Needed"
+        required: true
+      - id: 22
+        name: grammar_spelling
+        label: Grammar and Spelling
+        hint: Has grammar and spelling been checked
+        type: select_one
+        options:
+          - "Yes - No Errors"
+          - "Yes - Minor Errors Fixed"
+          - "No - Needs Proofreading"
+        required: true
+      - id: 23
+        name: stakeholder_approval
+        label: Stakeholder Approval
+        hint: Have all stakeholders approved
+        type: select_one
+        options:
+          - "Yes - All Approved"
+          - "Pending Some Approvals"
+          - "No - Major Concerns"
+        required: true
+      - id: 24
+        name: risk_assessment
+        label: Risk Assessment
+        hint: Have potential risks been assessed
+        type: select_one
+        options:
+          - "Yes - Low Risk"
+          - "Yes - Moderate Risk"
+          - "Yes - High Risk"
+          - "No - Not Assessed"
+        required: true
+      - id: 25
+        name: final_approval
+        label: Final Approval
+        hint: Final approval decision
+        type: select_one
+        options:
+          - "Approved - Ready for Distribution"
+          - "Approved - With Minor Changes"
+          - "Pending Revisions"
+          - "Denied - Do Not Distribute"
+        required: true
+      - id: 26
+        name: approver_name
+        label: Approver Name
+        hint: Name of final approver
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: approver_title
+        label: Approver Title
+        hint: Title of final approver
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: approval_date
+        label: Approval Date
+        hint: Date of final approval
+        type: date
+        options: []
+        required: false
+      - id: 29
+        name: additional_comments
+        label: Additional Comments
+        hint: Any additional notes or conditions
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Walking Service Check Out Form
+    pages:
+    - id: 1
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: service_time
+      label: Service Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''credit_card'', ''value'': ''Credit Card''}'
+      - '{''name'': ''bank_transfer'', ''value'': ''Bank Transfer''}'
+      - '{''name'': ''cash'', ''value'': ''Cash''}'
+      required: false
+    - id: 5
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_email
+      label: Client E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: service_price
+      label: Service Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''paid'', ''value'': ''Paid''}'
+      - '{''name'': ''pending'', ''value'': ''Pending''}'
+      - '{''name'': ''cancelled'', ''value'': ''Cancelled''}'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false

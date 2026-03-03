@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Order Fulfillment Checklist Form
+    pages:
+    - id: 1
+      name: order_1
+      label: order_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_confirmation
+      label: payment_confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_tracking_number
+      label: shipping_tracking_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: shipping_date
+      label: shipping_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: shipping_time
+      label: shipping_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: shipping_contact
+      label: shipping_contact
+      hint: null
+      type: text
+      options: []
+      required: false

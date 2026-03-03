@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Endorsement Request Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_reason
+      label: Reason for Endorsement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: board_approval
+      label: Board Approval
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: sponsor_approval
+      label: Sponsor Approval
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_status
+      label: Project Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: endorsement_date
+      label: Endorsement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: project_endorsment_date
+      label: Endorsement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: formal_endorsement
+      label: Formal Endorsement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: formal_endorsement_date
+      label: Formal Endorsement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: formal_endorsement_by
+      label: Formal Endorsement By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: project_status
+      label: Project Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: project_manager_comments
+      label: Project Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: project_status
+      label: Project Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: project_sponsor
+      label: Project Sponsor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: project_sponsor_comments
+      label: Project Sponsor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: project_sponsor
+      label: Project Sponsor
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: project_sponsor_comments
+      label: Project Sponsor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: project_board
+      label: Project Board
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: project_board_comments
+      label: Project Board Comments
+      hint: null
+      type: text
+      options: []
+      required: false

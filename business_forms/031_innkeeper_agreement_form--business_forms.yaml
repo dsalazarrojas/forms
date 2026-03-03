@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Innkeeper Agreement Form
+    pages:
+    - id: 1
+      name: agreement_type
+      label: Agreement Type
+      hint: null
+      type: select_one
+      options:
+      - Hotel Agreement
+      - B&B Agreement
+      required: true
+    - id: 2
+      name: property_owner
+      label: Property Owner
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: owner_signature
+      label: Owner Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: innkeeper_name
+      label: Innkeeper Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: innkeeper_title
+      label: Innkeeper Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: agreement_term
+      label: Agreement Term
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: innkeeper_agreement
+      label: Innkeeper Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: date_of_signature
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: printed_name
+      label: Printed Name
+      hint: null
+      type: text
+      options: []
+      required: true

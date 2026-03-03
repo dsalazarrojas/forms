@@ -1,0 +1,354 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Rental Payment Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: Customer Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For payment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Billing address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: reservation_information
+      label: Reservation Information
+      hint: Rental details
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: reservation_number
+      label: Reservation Number
+      hint: Confirmation number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: rental_start_date
+      label: Rental Start Date
+      hint: Pickup date
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: rental_end_date
+      label: Rental End Date
+      hint: Return date
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_description
+      label: Vehicle Description
+      hint: Vehicle rented
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: payment_details
+      label: Payment Details
+      hint: Payment information
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: payment_type
+      label: Payment Type
+      hint: What type of payment?
+      type: select_one
+      options:
+      - Full payment
+      - Deposit
+      - Partial payment
+      - Balance due
+      - Additional charges
+      required: true
+    - id: 17
+      name: payment_amount
+      label: Payment Amount
+      hint: Amount to pay
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Cash
+      - Check
+      required: true
+    - id: 19
+      name: card_type
+      label: Card Type
+      hint: Type of card
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      required: false
+    - id: 20
+      name: cardholder_name
+      label: Cardholder Name
+      hint: Name on card
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: card_number
+      label: Card Number
+      hint: Card number
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: card_expiry
+      label: Expiration Date
+      hint: MM/YY
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: cvv
+      label: CVV
+      hint: Security code
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: billing_address
+      label: Billing Address
+      hint: Address on card
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: billing_city
+      label: Billing City
+      hint: City
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: billing_state
+      label: Billing State
+      hint: State
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: billing_zip
+      label: Billing ZIP
+      hint: ZIP code
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: billing_country
+      label: Billing Country
+      hint: Country
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: save_card_for_future
+      label: Save Card for Future
+      hint: Save for next time?
+      type: select_one
+      options:
+      - Yes - securely save
+      - No - one-time use
+      required: false
+    - id: 30
+      name: payment_breakdown
+      label: Payment Breakdown
+      hint: Itemized charges
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: base_rental_charge
+      label: Base Rental Charge
+      hint: Rental subtotal
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: insurance_charge
+      label: Insurance Charge
+      hint: Coverage fees
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: additional_services_charge
+      label: Additional Services Charge
+      hint: Add-ons total
+      type: number
+      options: []
+      required: false
+    - id: 34
+      name: taxes_and_fees
+      label: Taxes and Fees
+      hint: Tax amount
+      type: number
+      options: []
+      required: false
+    - id: 35
+      name: deposit_amount
+      label: Deposit Amount
+      hint: Security deposit
+      type: number
+      options: []
+      required: false
+    - id: 36
+      name: previous_payments
+      label: Previous Payments
+      hint: Amount already paid
+      type: number
+      options: []
+      required: false
+    - id: 37
+      name: balance_due
+      label: Balance Due
+      hint: Remaining balance
+      type: number
+      options: []
+      required: false
+    - id: 38
+      name: promotional_code
+      label: Promotional Code
+      hint: Discount code
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: discount_applied
+      label: Discount Applied
+      hint: Discount amount
+      type: number
+      options: []
+      required: false
+    - id: 40
+      name: payment_authorization
+      label: Payment Authorization
+      hint: Authorize payment
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: authorization_agreement
+      label: Authorization Agreement
+      hint: Do you authorize this charge?
+      type: select_one
+      options:
+      - I authorize this payment
+      - I do not authorize
+      required: true
+    - id: 42
+      name: terms_agreement
+      label: Terms Agreement
+      hint: Do you agree to terms?
+      type: select_one
+      options:
+      - I agree to the payment terms
+      - I do not agree
+      required: true
+    - id: 43
+      name: refund_policy_acknowledgment
+      label: Refund Policy Acknowledgment
+      hint: Do you understand refund policy?
+      type: select_one
+      options:
+      - Yes - I understand
+      - No - please explain
+      required: true
+    - id: 44
+      name: receipt_preference
+      label: Receipt Preference
+      hint: How to receive receipt?
+      type: select_one
+      options:
+      - Email
+      - Text message
+      - Print at counter
+      - Mail
+      required: true
+    - id: 45
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: payment_date
+      label: Payment Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

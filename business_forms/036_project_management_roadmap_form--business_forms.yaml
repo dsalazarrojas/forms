@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Management Roadmap Form
+    pages:
+    - id: 1
+      name: project_objectives
+      label: Project Objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_milestones
+      label: Project Milestones
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: project_owners
+      label: Project Owners
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: project_risks
+      label: Project Risks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: project_timeline
+      label: Project Timeline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: project_owners_email
+      label: Project Owners Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: project_owners_phone
+      label: Project Owners Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: text
+      options: []
+      required: false

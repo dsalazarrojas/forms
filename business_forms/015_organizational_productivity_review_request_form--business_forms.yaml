@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organizational Productivity Review Request Form
+    pages:
+    - id: 1
+      name: review_form
+      label: Review Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: review_requester
+      label: Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reviewed_by
+      label: Reviewee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: focus_areas
+      label: Focus Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: preferred_timeline
+      label: Preferred Timeline
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: review_goal
+      label: Review Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: review_focus
+      label: Review Focus
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: review_timeline
+      label: Review Timeline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false

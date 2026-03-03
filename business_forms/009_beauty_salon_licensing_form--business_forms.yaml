@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Salon Licensing Form
+    pages:
+    - id: 1
+      name: section_business_details
+      label: -- Business Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: legal_business_name
+      label: Legal Business Name
+      hint: As registered with the state
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dba_name
+      label: Doing Business As (DBA)
+      hint: If different from legal name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_address
+      label: Business Physical Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_phone
+      label: Business Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_owner_info
+      label: -- Ownership Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: owner_full_name
+      label: Owner Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: owner_email
+      label: Owner Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: tax_id_number
+      label: Federal Tax ID (EIN)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_license_request
+      label: -- License Application Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: application_type
+      label: Application Type
+      hint: null
+      type: select_one
+      options:
+      - New License
+      - Renewal
+      - Change of Ownership
+      - Change of Location
+      required: true
+    - id: 12
+      name: services_offered
+      label: Services to be Offered
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Hair Services
+      - Nail Services
+      - Esthetics / Skin Care
+      - Electrology
+      - Massage
+      - Tanning
+      required: true
+    - id: 13
+      name: salon_capacity
+      label: Number of Work Stations
+      hint: Total chairs or treatment rooms
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: square_footage
+      label: Total Square Footage of Facility
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: insurance_provider
+      label: Professional Liability Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: policy_number
+      label: Insurance Policy Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: submission_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: certification_of_accuracy
+      label: I certify that all information is true and accurate
+      hint: null
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true

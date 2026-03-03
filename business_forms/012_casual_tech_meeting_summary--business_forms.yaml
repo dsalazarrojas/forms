@@ -1,0 +1,124 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Casual Tech Meeting Summary
+    pages:
+      - id: 1
+        name: meeting_basics_header
+        label: -- Meeting Overview --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: meeting_date
+        label: Meeting Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: project_name
+        label: Project or Product Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: meeting_lead
+        label: Meeting Facilitator
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: attendees_list
+        label: Attendees
+        hint: List names or roles present
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: discussion_topics_header
+        label: -- Technical Discussions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: core_agenda_items
+        label: Core Topics Discussed
+        hint: Briefly list the main points of discussion
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: technical_decisions
+        label: Key Technical Decisions Made
+        hint: Architecture, libraries, or logic changes
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: blockers_identified
+        label: Blockers or Risks Identified
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: section_actions
+        label: -- Action Items and Next Steps --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: action_items
+        label: Assigned Action Items
+        hint: Person - Task - Due Date
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: priority_level
+        label: Overall Meeting Priority
+        hint: null
+        type: select_one
+        options:
+          - "High - Critical Path"
+          - "Medium - Routine Update"
+          - "Low - Information Sharing"
+        required: true
+      - id: 13
+        name: next_meeting_date
+        label: Proposed Next Meeting Date
+        hint: null
+        type: date
+        options: []
+        required: false
+      - id: 14
+        name: summary_reporter
+        label: Summary Prepared By
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: additional_links
+        label: Links to Documentation
+        hint: Jira, Confluence, GitHub, or Figma links
+        type: text
+        options: []
+        required: false

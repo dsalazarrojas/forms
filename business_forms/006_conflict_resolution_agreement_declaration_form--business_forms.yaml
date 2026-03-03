@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conflict Resolution Agreement Declaration Form
+    pages:
+    - id: 1
+      name: section_parties
+      label: -- Involved Parties --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: party_one_name
+      label: First Party Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: party_two_name
+      label: Second Party Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_agreement
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_conflict_details
+      label: -- Conflict Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: nature_of_dispute
+      label: Nature of the Dispute
+      hint: Briefly describe the conflict
+      type: select_one
+      options:
+      - Interpersonal
+      - Professional/Workplace
+      - Contractual
+      - Financial
+      - Other
+      required: true
+    - id: 7
+      name: conflict_description
+      label: Brief Conflict Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_resolution_terms
+      label: -- Resolution and Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: key_agreement_points
+      label: Key Points of Agreement
+      hint: What has been agreed upon to resolve the conflict?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: follow_up_actions
+      label: Required Follow-up Actions
+      hint: Specify tasks and deadlines
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: mediator_involved
+      label: Was a third-party mediator involved?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: mediator_name
+      label: Mediator Name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_declaration
+      label: -- Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: agreement_declaration
+      label: We hereby declare that we understand and agree to the terms above
+      hint: null
+      type: select_one
+      options:
+      - We agree
+      - Other
+      required: true
+    - id: 15
+      name: confidentiality_clause
+      label: I agree to keep the details of this resolution confidential
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 16
+      name: party_one_signature
+      label: First Party Signature (Type Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: party_two_signature
+      label: Second Party Signature (Type Name)
+      hint: null
+      type: text
+      options: []
+      required: true

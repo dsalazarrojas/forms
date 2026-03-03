@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Checklist Manager Form
+    pages:
+    - id: 1
+      name: section_checklist_meta
+      label: -- Checklist Definition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: checklist_name_title
+      label: Checklist Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: checklist_department
+      label: Department / Team
+      hint: null
+      type: select_one
+      options:
+      - Operations
+      - Human Resources
+      - IT Support
+      - Sales and Marketing
+      - Legal and Compliance
+      - Facility Management
+      required: true
+    - id: 4
+      name: manager_responsible_name
+      label: Manager Responsible
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: target_deadline_date
+      label: Target Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_task_management
+      label: -- Task Tracking --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: task_item_01_desc
+      label: Task 1 Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: task_item_01_status
+      label: Task 1 Status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - On Hold
+      - Completed
+      required: true
+    - id: 9
+      name: task_item_02_desc
+      label: Task 2 Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: task_item_02_status
+      label: Task 2 Status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - On Hold
+      - Completed
+      required: false
+    - id: 11
+      name: task_item_03_desc
+      label: Task 3 Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: task_item_03_status
+      label: Task 3 Status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - On Hold
+      - Completed
+      required: false
+    - id: 13
+      name: section_priority_res
+      label: -- Priority and Resources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: overall_checklist_priority
+      label: Overall Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: true
+    - id: 15
+      name: resource_requirements
+      label: Resources or Budget Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: team_members_assigned
+      label: Team Members Assigned
+      hint: Separate names with commas
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_comments_log
+      label: -- Comments and Logs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: progress_update_notes
+      label: Progress Update Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: blocker_summary_text
+      label: Description of Blockers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: manager_approval_ack
+      label: Manager Acknowledgment of Status
+      hint: null
+      type: select_one
+      options:
+      - Status Verified
+      - Other
+      required: true

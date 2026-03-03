@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Business Plan Form Template
+    pages:
+    - id: 1
+      name: monthly_business_plan_form_template
+      label: Business Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: month
+      label: Monthly Plan
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''January''}'
+      - '{''id'': 2, ''label'': ''February''}'
+      - '{''id'': 3, ''label'': ''March''}'
+      - '{''id'': 4, ''label'': ''April''}'
+      - '{''id'': 5, ''label'': ''May''}'
+      - '{''id'': 6, ''label'': ''June''}'
+      - '{''id'': 7, ''label'': ''July''}'
+      - '{''id'': 8, ''label'': ''August''}'
+      - '{''id'': 9, ''label'': ''September''}'
+      - '{''id'': 10, ''label'': ''October''}'
+      - '{''id'': 11, ''label'': ''November''}'
+      - '{''id'': 12, ''label'': ''December''}'
+      required: false
+    - id: 3
+      name: goals
+      label: Goals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Goal 1''}'
+      - '{''id'': 2, ''label'': ''Goal 2''}'
+      - '{''id'': 3, ''label'': ''Goal 3''}'
+      - '{''id'': 4, ''label'': ''Goal 4''}'
+      - '{''id'': 5, ''label'': ''Goal 5''}'
+      required: false
+    - id: 4
+      name: progress
+      label: Progress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: strategies
+      label: Strategies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Business Forms''}'
+      - '{''id'': 2, ''label'': ''Tracking Forms''}'
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

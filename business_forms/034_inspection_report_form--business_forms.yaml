@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: inspection_report_form
+    pages:
+    - id: 1
+      name: title
+      label: title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: description
+      label: description
+      hint: A form template designed to streamline the process of documenting safety
+        and compliance checks for workplaces or facilities, conducting inspections
+        of construction sites, and recording property condition assessments for real
+        estate transactions.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Business Forms
+      - Inspection Forms
+      required: true
+    - id: 4
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 5
+      name: form_ids
+      label: form_ids
+      hint: null
+      type: select_multiple
+      options:
+      - '5035'
+      - '58994'
+      required: true
+    - id: 6
+      name: property_condition
+      label: property_condition
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: safety_and_compliance_checks
+      label: safety_and_compliance_checks
+      hint: null
+      type: select_multiple
+      options:
+      - safety_check_1
+      - safety_check_2
+      - safety_check_3
+      required: true
+    - id: 8
+      name: construction_site
+      label: construction_site
+      hint: null
+      type: select_multiple
+      options:
+      - construction_site_1
+      - construction_site_2
+      - construction_site_3
+      required: true
+    - id: 9
+      name: property_condition_assessments
+      label: property_condition_assessments
+      hint: null
+      type: select_multiple
+      options:
+      - assessment_1
+      - assessment_2
+      - assessment_3
+      required: true
+    - id: 10
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time_completed
+      label: time_completed
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: output_file
+      label: output_file
+      hint: null
+      type: select_one
+      options:
+      - 034_inspection_report_form--business_forms.yaml
+      - Other
+      required: true
+    - id: 16
+      name: output_format
+      label: output_format
+      hint: null
+      type: select_one
+      options:
+      - pdf
+      - Other
+      required: false
+    - id: 17
+      name: output_filename
+      label: output_filename
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: output_path
+      label: output_path
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 20
+      name: assigned_group
+      label: assigned_group
+      hint: null
+      type: select_multiple
+      options:
+      - group1
+      - group2
+      - group3
+      required: true
+    - id: 21
+      name: assigned_date
+      label: assigned_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: assigned_time
+      label: assigned_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: assigned_location
+      label: assigned_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - user1
+      - Other
+      required: false
+    - id: 25
+      name: submitted_date
+      label: submitted_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: submitted_time
+      label: submitted_time
+      hint: null
+      type: time
+      options: []
+      required: false

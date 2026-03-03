@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Termination For Cause Contract Form
+    pages:
+    - id: 1
+      name: contract_number
+      label: Contract Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contract_date
+      label: Contract Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: reason_for_termination
+      label: Reason for Termination
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: termination_reason
+      label: Termination Reason
+      hint: null
+      type: select_multiple
+      options:
+      - Misconduct
+      - Default
+      - Termination at will
+      required: true
+    - id: 8
+      name: termination_amount
+      label: Termination Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: termination_type
+      label: Termination Type
+      hint: null
+      type: select_one
+      options:
+      - Contractor
+      - Employee
+      - Partner
+      - Other
+      required: true
+    - id: 10
+      name: reason_for_termination_type
+      label: Reason for Termination Type
+      hint: null
+      type: select_one
+      options:
+      - Contractor
+      - Employee
+      - Partner
+      - Other
+      required: true
+    - id: 11
+      name: signature_of_authorizing_party
+      label: Signature of Authorizing Party
+      hint: null
+      type: select_one
+      options:
+      - Contractor
+      - Employee
+      - Partner
+      - Other
+      required: true
+    - id: 12
+      name: signature_of_party_being_terminated
+      label: Signature of Party Being Terminated
+      hint: null
+      type: select_one
+      options:
+      - Contractor
+      - Employee
+      - Partner
+      - Other
+      required: true
+    - id: 13
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: time_signed
+      label: Time Signed
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: location_signed
+      label: Location Signed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: signature_of_witness_1
+      label: Signature of Witness 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: signature_of_witness_2
+      label: Signature of Witness 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: witness_1_name
+      label: Witness 1 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: witness_2_name
+      label: Witness 2 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: witness_1_title
+      label: Witness 1 Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: witness_2_title
+      label: Witness 2 Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: witness_1_signature
+      label: Witness 1 Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: witness_2_signature
+      label: Witness 2 Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: witness_1_date
+      label: Witness 1 Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: witness_2_date
+      label: Witness 2 Date
+      hint: null
+      type: date
+      options: []
+      required: false

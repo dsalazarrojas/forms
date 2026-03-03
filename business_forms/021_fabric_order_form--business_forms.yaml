@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fabric Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fabric_selection
+      label: Fabric Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Cotton''}'
+      - '{''id'': 2, ''name'': ''Polyester''}'
+      - '{''id'': 3, ''name'': ''Wool''}'
+      required: false
+    - id: 4
+      name: quantity_ordered
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Customer Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''In Progress''}'
+      - '{''id'': 2, ''name'': ''Completed''}'
+      - '{''id'': 3, ''name'': ''Cancelled''}'
+      required: false
+    - id: 10
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Net 30''}'
+      - '{''id'': 2, ''name'': ''Net 60''}'
+      - '{''id'': 3, ''name'': ''Prepay''}'
+      required: false
+    - id: 13
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: ship_to
+      label: Ship To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Customer''}'
+      - '{''id'': 2, ''name'': ''Supplier''}'
+      required: false
+    - id: 17
+      name: ship_address
+      label: Ship Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: ship_city
+      label: Ship City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: ship_state
+      label: Ship State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: ship_zip
+      label: Ship Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: ship_country
+      label: Ship Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: ship_note
+      label: Ship Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false

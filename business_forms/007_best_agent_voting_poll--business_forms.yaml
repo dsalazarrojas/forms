@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Best Agent Voting Poll
+    pages:
+    - id: 1
+      name: voter_info_header
+      label: -- Voter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: voter_full_name
+      label: Voter Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: voter_employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: voter_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: nominations_header
+      label: -- Agent Nomination --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: nominated_agent_name
+      label: Nominated Agent Name
+      hint: Name of the agent you are voting for
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: nomination_category
+      label: Category for Nomination
+      hint: Select the area where this agent excels most
+      type: select_one
+      options:
+      - Customer Satisfaction
+      - Sales Performance
+      - Efficiency and Speed
+      - Teamwork and Collaboration
+      - Innovation and Creativity
+      required: true
+    - id: 8
+      name: agent_ratings_header
+      label: -- Agent Performance Ratings --
+      hint: 1 is lowest, 5 is highest
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: quality_rating
+      label: Quality of Work
+      hint: null
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 10
+      name: reliability_rating
+      label: Reliability and Consistency
+      hint: null
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 11
+      name: communication_rating
+      label: Communication Skills
+      hint: null
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 12
+      name: problem_solving_rating
+      label: Problem Solving Ability
+      hint: null
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 13
+      name: feedback_header
+      label: -- Justification and Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: nomination_reason
+      label: Detailed Reason for Nomination
+      hint: Explain why this agent deserves the award
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: specific_achievement_example
+      label: Example of a Specific Achievement
+      hint: Describe a situation where this agent went above and beyond
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submission_header
+      label: -- Final Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: voting_date
+      label: Date of Vote
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: committee_feedback
+      label: Additional Feedback for Awards Committee
+      hint: Any other comments regarding the voting process
+      type: text
+      options: []
+      required: false

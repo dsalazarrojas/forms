@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supply Chain Transparency Evaluation Form
+    pages:
+    - id: 1
+      name: main
+      label: main
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: supplier_data
+      label: suppliers_data
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: business_data
+      label: business_data
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_data
+      label: contact_data
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: address_data
+      label: address_data
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: product_info
+      label: product_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: supply_chain
+      label: supply_chain
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: certification_info
+      label: certification_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: compliance_info
+      label: compliance_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: supplier_comments
+      label: supplier_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: buyer_comments
+      label: buyer_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_submitted
+      label: date_submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: date_reviewed
+      label: date_reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: date_certified
+      label: date_certified
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: form_version
+      label: form_version
+      hint: null
+      type: text
+      options: []
+      required: false

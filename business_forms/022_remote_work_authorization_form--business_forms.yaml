@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Work Authorization Form
+    pages:
+    - id: 1
+      name: remote_work_authorized
+      label: Remote Work Authorized
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 2
+      name: work_start_date
+      label: Work Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: work_end_date
+      label: Work End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: remote_location
+      label: Remote Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_authorized_remote_work
+      label: Reason for Authorized Remote Work
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_aware_of_remote_work
+      label: Manager Aware of Remote Work
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 7
+      name: manager_concurred_with_remote_work
+      label: Manager Concurred with Remote Work
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 8
+      name: manager_authorized_remote_work
+      label: Manager Authorized Remote Work
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 9
+      name: manager_aware_of_remote_work_date
+      label: Manager Aware of Remote Work Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: manager_concurred_with_remote_work_date
+      label: Manager Concurred with Remote Work Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: manager_authorized_remote_work_date
+      label: Manager Authorized Remote Work Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: remote_location_description
+      label: Remote Location Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manager_concurred_with_remote_work_description
+      label: Manager Concurred with Remote Work Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager_authorized_remote_work_description
+      label: Manager Authorized Remote Work Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: remote_work_employees
+      label: Remote Work Employees
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: number_of_remote_days
+      label: Number of Remote Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: remote_work_start_time
+      label: Remote Work Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: remote_work_end_time
+      label: Remote Work End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: manager_concurred_with_remote_work_awareness
+      label: Manager Concurred with Remote Work Awareness
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 20
+      name: manager_authorized_remote_work_awareness
+      label: Manager Authorized Remote Work Awareness
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 21
+      name: manager_remote_work_awareness
+      label: Manager Remote Work Awareness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: manager_concurred_remote_work_awareness
+      label: Manager Concurred Remote Work Awareness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: manager_authorized_remote_work_awareness
+      label: Manager Authorized Remote Work Awareness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: remote_work_awareness
+      label: Remote Work Awareness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: remote_work_concurred_awareness
+      label: Remote Work Concurred Awareness
+      hint: null
+      type: text
+      options: []
+      required: false

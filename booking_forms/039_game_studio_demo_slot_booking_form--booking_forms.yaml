@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Studio Demo Slot Booking Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_slot
+      label: Time Slot
+      hint: null
+      type: select_one
+      options:
+      - Slot 1
+      - Slot 2
+      - Slot 3
+      required: false
+    - id: 7
+      name: demo_length
+      label: Demo Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: media_type
+      label: Media Type
+      hint: null
+      type: select_multiple
+      options:
+      - Media 1
+      - Media 2
+      - Media 3
+      required: false
+    - id: 9
+      name: booking_status
+      label: Booking Status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Pending
+      - Canceled
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false

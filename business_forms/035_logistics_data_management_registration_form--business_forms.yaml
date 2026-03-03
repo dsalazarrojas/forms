@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Logistics Data Management Registration Form
+    pages:
+    - id: 1
+      name: main_page
+      label: main-page-label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_info
+      label: contact-info-label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: phone-number-label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email-label
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: address-label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: select_one
+      label: select-one-label
+      hint: Select one option
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 7
+      name: select_multiple
+      label: select-multiple-label
+      hint: Select multiple options
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: true
+    - id: 8
+      name: note_field
+      label: note-field-label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: date-label
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time
+      label: time-label
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: decimal
+      label: decimal-label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: integer
+      label: integer-label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: text_area
+      label: text-area-label
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: file
+      label: file-label
+      hint: null
+      type: text
+      options: []
+      required: false

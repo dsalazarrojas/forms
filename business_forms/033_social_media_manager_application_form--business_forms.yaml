@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Manager Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media
+      - Content Creation
+      - Marketing
+      - Communication
+      required: false
+    - id: 8
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_interest
+      label: Job Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media Management
+      - Content Strategy
+      - Branding
+      required: false
+    - id: 10
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: previous_work
+      label: Previous Work
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: available_start_date
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: available_end_date
+      label: Available End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: salary_range
+      label: Salary Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: job_reference
+      label: Job Reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: resume_attachment
+      label: Resume Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: portfolio_attachment
+      label: Portfolio Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: portfolio_link
+      label: Portfolio Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Full Time
+      - Part Time
+      - Freelance
+      required: false
+    - id: 22
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Archived
+      required: false
+    - id: 23
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: application_status
+      label: Application Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true

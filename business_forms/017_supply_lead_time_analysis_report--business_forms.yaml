@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supply Lead Time Analysis Report
+    pages:
+    - id: 1
+      name: supplier_id
+      label: Supplier ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: document_id
+      label: Document ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: document_name
+      label: Document Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: document_delay
+      label: Document Delay
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: delay_reason
+      label: Delay Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: delay_status
+      label: Delay Status
+      hint: null
+      type: select_one
+      options:
+      - delayed
+      - on_time
+      required: false

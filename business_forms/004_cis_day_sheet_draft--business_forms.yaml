@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: CIS Day Sheet Draft
+    pages:
+    - id: 1
+      name: header
+      label: -- Daily Activity Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_member
+      label: Team member name
+      hint: Staff responsible for the entries
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date
+      label: Date
+      hint: Day of report
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: tasks_completed
+      label: Tasks completed
+      hint: Brief list of key tasks or accomplishments
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: clients_seen
+      label: Clients seen
+      hint: Number of clients or appointments completed
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: revenue_collected
+      label: Revenue collected
+      hint: Total cash or payments collected today
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: issues_or_notes
+      label: Issues or notes
+      hint: Any incidents or notes for management
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_actions
+      label: Follow up actions
+      hint: Tasks to be completed next business day
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supervisor_signature
+      label: Supervisor approval name
+      hint: Name of supervisor approving the day sheet
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_at
+      label: Submitted at
+      hint: Time of submission
+      type: time
+      options: []
+      required: true

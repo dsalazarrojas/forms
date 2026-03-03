@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Development Appointment Form
+    pages:
+    - id: 1
+      name: client_info_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: brand_name_val
+      label: Company / Brand Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: scheduling_header
+      label: -- Appointment Scheduling --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: appt_dt
+      label: Preferred Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time_slot_select
+      label: Preferred Time Slot
+      hint: null
+      type: select_one
+      options:
+      - Morning 9am-11am
+      - Midday 12pm-2pm
+      - Afternoon 3pm-5pm
+      required: true
+    - id: 9
+      name: meet_type
+      label: Meeting Type
+      hint: null
+      type: select_one
+      options:
+      - In-Person
+      - Zoom / Virtual
+      - Phone Call
+      required: true
+    - id: 10
+      name: project_brief_header
+      label: -- Project Brief --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: svc_interest
+      label: Primary Service Interest
+      hint: null
+      type: select_one
+      options:
+      - New Brand Identity
+      - Rebranding
+      - Marketing Strategy
+      - Logo Design
+      - Brand Audit
+      required: true
+    - id: 12
+      name: consult_goals
+      label: What are your primary goals for this consultation?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: online_presence
+      label: Current Website or Social Media Links
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: referral_header
+      label: -- Referral --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: ref_src
+      label: How did you hear about us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: sub_dt
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true

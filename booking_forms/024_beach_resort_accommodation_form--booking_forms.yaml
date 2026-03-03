@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beach Resort Accommodation Form
+    pages:
+    - id: 1
+      name: guest_first_name
+      label: First Name
+      hint: Guest first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_last_name
+      label: Last Name
+      hint: Guest last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: check_in_date
+      label: Check-In Date
+      hint: Arrival date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: check_out_date
+      label: Check-Out Date
+      hint: Departure date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: number_of_guests
+      label: Number of Guests
+      hint: Total guests
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: number_of_adults
+      label: Number of Adults
+      hint: Guests 18 and over
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: number_of_children
+      label: Number of Children
+      hint: Under 18
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: children_ages
+      label: Children Ages
+      hint: List ages of children
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: room_type
+      label: Room Type
+      hint: Preferred room
+      type: select_one
+      options:
+      - Standard Room
+      - Ocean View Room
+      - Deluxe Suite
+      - Beachfront Villa
+      - Family Suite
+      - Presidential Suite
+      required: true
+    - id: 12
+      name: bed_preference
+      label: Bed Preference
+      hint: What type of bed
+      type: select_one
+      options:
+      - King Bed
+      - Queen Bed
+      - Two Double Beds
+      - Twin Beds
+      - No Preference
+      required: true
+    - id: 13
+      name: special_requests
+      label: Special Requests
+      hint: Any preferences
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: meal_plan
+      label: Meal Plan
+      hint: Select option
+      type: select_one
+      options:
+      - Room Only
+      - Bed and Breakfast
+      - Half Board
+      - Full Board
+      - All Inclusive
+      required: true
+    - id: 15
+      name: transportation_needed
+      label: Airport Transportation Needed
+      hint: Do you need transfer
+      type: select_one
+      options:
+      - Yes - Arrival Only
+      - Yes - Departure Only
+      - Yes - Both
+      - false
+      required: true
+    - id: 16
+      name: occasion
+      label: Special Occasion
+      hint: Reason for visit
+      type: select_one
+      options:
+      - Vacation
+      - Honeymoon
+      - Anniversary
+      - Birthday
+      - Family Reunion
+      - Business
+      - Other
+      required: false
+    - id: 17
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any requirements
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: pet_accommodation
+      label: Bringing a Pet
+      hint: Do you have a pet
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Bank Transfer
+      required: true
+    - id: 20
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Source
+      type: select_one
+      options:
+      - Website
+      - Travel Agent
+      - Social Media
+      - Friend or Family
+      - Previous Stay
+      - Other
+      required: false

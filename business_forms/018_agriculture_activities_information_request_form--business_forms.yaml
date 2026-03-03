@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agriculture Activities Information Request Form
+    pages:
+    - id: 1
+      name: requestor_info_header
+      label: -- Requestor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requestor_name
+      label: Requestor Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Company or Agency
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: For data delivery
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: purpose
+      label: Purpose of Request
+      hint: How will the data be used?
+      type: select_one
+      options:
+      - Academic Research
+      - Government Reporting
+      - Commercial Analysis
+      - Educational
+      - Media / Press
+      required: true
+    - id: 6
+      name: data_requirements_header
+      label: -- Data Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: data_category
+      label: Data Category Needed
+      hint: Primary subject
+      type: select_one
+      options:
+      - Crop Production
+      - Livestock Statistics
+      - Land Use / Zoning
+      - Market Prices
+      - Climate / Weather Impact
+      required: true
+    - id: 8
+      name: region_interest
+      label: Region of Interest
+      hint: Geographic scope
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: specific_crops
+      label: Specific Crops/Livestock
+      hint: Select all relevant
+      type: select_multiple
+      options:
+      - Corn / Maize
+      - Soybeans
+      - Wheat
+      - Cattle
+      - Poultry
+      - Swine
+      - Dairy
+      required: false
+    - id: 10
+      name: time_period
+      label: Time Period
+      hint: e.g. 2020-2025
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: deadline
+      label: Deadline
+      hint: When do you need this by?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: delivery_format
+      label: Preferred Data Format
+      hint: How should we send it?
+      type: select_one
+      options:
+      - Excel / CSV
+      - PDF Report
+      - JSON / API Access
+      - Hard Copy
+      required: true
+    - id: 13
+      name: legal_header
+      label: -- Legal --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: confidentiality
+      label: Confidentiality Agreement
+      hint: I agree not to share sensitive personal data
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

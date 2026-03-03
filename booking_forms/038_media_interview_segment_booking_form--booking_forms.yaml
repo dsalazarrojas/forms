@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: media_interview_segment_booking_form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: topic
+      label: topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_time_slot
+      label: preferred_time_slot
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: host_details
+      label: host_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - default
+      required: true
+    - id: 8
+      name: selected_tool
+      label: selected_tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

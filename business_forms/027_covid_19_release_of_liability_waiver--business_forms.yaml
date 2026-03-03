@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Release Of Liability Waiver
+    pages:
+    - id: 1
+      name: participant_name_full
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization_name_val
+      label: Business or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: activity_service_text
+      label: Activity or Service Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: waiver_date_val
+      label: Date of Waiver
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: risk_disclosure_ack
+      label: I acknowledge the contagious nature of COVID-19 and the risk of exposure
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I acknowledge
+      required: true
+    - id: 6
+      name: assumption_of_risk_ack
+      label: I voluntarily assume the risk that I may be exposed to COVID-19 by participating
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I assume the risk
+      required: true
+    - id: 7
+      name: release_liability_ack
+      label: I release the Organization from any and all liability related to COVID-19
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I release liability
+      required: true
+    - id: 8
+      name: indemnification_agree
+      label: I agree to indemnify and hold harmless the Organization from any claims
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I agree
+      required: true
+    - id: 9
+      name: health_warranty_cert
+      label: I certify that I do not currently have COVID-19 symptoms
+      hint: null
+      type: select_one
+      options:
+      - I certify
+      - Other
+      required: true
+    - id: 10
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: participant_signature_name
+      label: Electronic Signature (Type Full Name)
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Productivity Assessment Form
+    pages:
+    - id: 1
+      name: work_habits
+      label: Workplace habits
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: work_environment
+      label: Work environment
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 3
+      name: communication
+      label: Communication
+      hint: Please rate your communication with colleagues and management.
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: collaboration
+      label: Collaboration
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 5
+      name: time_management
+      label: Time management
+      hint: How do you manage your time?
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 6
+      name: work_life_balance
+      label: Work-life balance
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 7
+      name: job_satissfaction
+      label: Job satisfaction
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 8
+      name: overall_satisfaction
+      label: Overall satisfaction
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 9
+      name: productivity_improvement_area
+      label: Productivity improvement area
+      hint: What are some areas that can be improved
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: action_plan
+      label: Action plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: review
+      label: Review
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: true
+    - id: 14
+      name: follow_up_schedule
+      label: Follow up schedule
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 15
+      name: follow_up_method
+      label: Follow up method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Video call
+      required: true
+    - id: 16
+      name: follow_up_status
+      label: Follow up status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Not completed
+      required: true
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 18
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: work_hours
+      label: Work hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: work_hours_workplace
+      label: Work hours at workplace
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: work_week
+      label: Work week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: vacation_days
+      label: Vacation days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: work_from_home
+      label: Work from home
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: submitted
+      label: Submitted
+      hint: null
+      type: date
+      options: []
+      required: true

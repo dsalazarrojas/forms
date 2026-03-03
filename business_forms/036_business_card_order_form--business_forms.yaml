@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Card Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: position
+      label: Position
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: website
+      label: Website URL
+      hint: Your company website
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipping_info
+      label: Shipping Information
+      hint: Delivery address
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: shipping_address
+      label: Shipping Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State or Province
+      hint: Your state or province
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: Your postal code
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: country
+      label: Country
+      hint: Your country
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: card_details
+      label: Card Details
+      hint: Card specifications
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: card_quantity
+      label: Quantity
+      hint: Number of cards
+      type: select_one
+      options:
+      - 100 cards
+      - 250 cards
+      - 500 cards
+      - 1000 cards
+      - 2500 cards
+      - 5000 cards
+      required: true
+    - id: 16
+      name: card_size
+      label: Card Size
+      hint: Dimensions
+      type: select_one
+      options:
+      - Standard (3.5 x 2 inches)
+      - Square (2.5 x 2.5 inches)
+      - Rounded Corners
+      - Mini (2 x 1.5 inches)
+      required: true
+    - id: 17
+      name: card_stock
+      label: Card Stock
+      hint: Paper thickness
+      type: select_one
+      options:
+      - Standard (14 pt)
+      - Premium (16 pt)
+      - Ultra Thick (18 pt)
+      - Plastic
+      required: true
+    - id: 18
+      name: card_finish
+      label: Card Finish
+      hint: Surface finish
+      type: select_one
+      options:
+      - Matte
+      - Glossy
+      - Satin
+      - Soft Touch
+      required: true
+    - id: 19
+      name: print_sides
+      label: Print Sides
+      hint: Single or double sided
+      type: select_one
+      options:
+      - Single Sided
+      - Double Sided
+      required: true
+    - id: 20
+      name: card_design
+      label: Card Design
+      hint: How will you provide design
+      type: select_one
+      options:
+      - I Have Ready Design
+      - Use Template
+      - Need Design Help
+      required: true
+    - id: 21
+      name: design_notes
+      label: Design Notes
+      hint: Any specific design requirements
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: rush_order
+      label: Rush Order
+      hint: Do you need expedited processing
+      type: select_one
+      options:
+      - No - Standard (5-7 days)
+      - Yes - 3 Day Rush
+      - Yes - 2 Day Rush
+      - Yes - Overnight
+      required: true
+    - id: 23
+      name: payment_info
+      label: Payment Information
+      hint: Payment details
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Invoice
+      required: true
+    - id: 25
+      name: promo_code
+      label: Promo Code
+      hint: Any promotional code
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: special_instructions
+      label: Special Instructions
+      hint: Any other requests
+      type: text
+      options: []
+      required: false

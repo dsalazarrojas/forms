@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: Regulatory Compliance Audit Form
+    pages:
+    - id: 1
+      name: regulatory_compliance_audit_form_1
+      label: Compliance Audit Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: regulatory_compliance_audit_form_2
+      label: Review Standards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: regulatory_compliance_audit_form_3
+      label: Policies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: regulatory_compliance_audit_form_4
+      label: Audit Process
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

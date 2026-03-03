@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: vending_contract_agreement
+    pages:
+    - id: 1
+      name: machine_id
+      label: machine id
+      hint: null
+      type: select_one
+      options:
+      - '1234'
+      - '5678'
+      - '9012'
+      required: false
+    - id: 2
+      name: contract_start_date
+      label: contract start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contract_end_date
+      label: contract end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: payment_terms
+      label: payment terms
+      hint: Specify payment terms such as frequency and amount
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: responsibilities
+      label: responsibilities
+      hint: Specify responsibilities of both parties
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vending_operator
+      label: vending operator
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      required: false
+    - id: 7
+      name: location
+      label: location
+      hint: Specify location of the vending machine
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contract_duration
+      label: contract duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      required: false
+    - id: 10
+      name: payment_frequencies
+      label: payment frequencies
+      hint: Specify payment frequencies such as weekly, bi-weekly etc.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_terms_frequency
+      label: payment terms frequency
+      hint: Specify payment terms frequency such as weekly, bi-weekly etc.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_amount
+      label: payment amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: payment_schedule
+      label: payment schedule
+      hint: Specify payment schedule such as monthly
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contract_type
+      label: contract type
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      required: false
+    - id: 15
+      name: contract_version
+      label: contract version
+      hint: Specify contract version such as 1.0
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_terms_notes
+      label: payment terms notes
+      hint: Specify any notes about payment terms
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_frequencies_notes
+      label: payment frequencies notes
+      hint: Specify any notes about payment frequencies
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_schedule_notes
+      label: payment schedule notes
+      hint: Specify any notes about payment schedule
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contract_notes
+      label: contract notes
+      hint: Specify any notes about the contract
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contract_signers
+      label: contract signers
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      required: false
+    - id: 21
+      name: contract_sign_date
+      label: contract sign date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: contract_end_notes
+      label: contract end notes
+      hint: Specify any notes about the contract end date
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contract_start_notes
+      label: contract start notes
+      hint: Specify any notes about the contract start date
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contract_duration_notes
+      label: contract duration notes
+      hint: Specify any notes about the contract duration
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: payment_terms_notes
+      label: payment terms notes
+      hint: Specify any notes about payment terms
+      type: text
+      options: []
+      required: false

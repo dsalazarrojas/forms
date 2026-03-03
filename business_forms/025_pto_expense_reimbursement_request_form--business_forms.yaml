@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: PTO Expense Reimbursement Request Form
+    pages:
+    - id: 1
+      name: employee_info
+      label: Employee Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: expense_details
+      label: Expense Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: total_expense
+      label: Total Expense
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: expense_breakdown
+      label: Expense Breakdown
+      hint: null
+      type: select_multiple
+      options:
+      - 'Transportation:'
+      - 'Accommodation:'
+      - 'Food:'
+      - 'Other:'
+      required: false
+    - id: 6
+      name: total_expense_breakdown
+      label: Total Expense Breakdown
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: approval_level
+      label: Approval Level
+      hint: Select one of the following
+      type: select_one
+      options:
+      - Manager
+      - Department Head
+      - Higher
+      required: false
+    - id: 8
+      name: manager_info
+      label: Manager Info
+      hint: If Manager's info should be filled out automatically
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,98 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Data Review Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: Internal department requesting the review
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: review_priority
+      label: Review Priority
+      hint: Urgency of this request
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Urgent
+      required: true
+    - id: 4
+      name: review_period_start
+      label: Review Period Start
+      hint: Beginning date of the data range
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: review_period_end
+      label: Review Period End
+      hint: Ending date of the data range
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: documents_to_review
+      label: Documents to Review
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Income Statement
+      - Balance Sheet
+      - Cash Flow Statement
+      - Expense Reports
+      - Bank Reconciliations
+      required: true
+    - id: 7
+      name: reason_for_review_request
+      label: Reason for Review Request
+      hint: Briefly describe why this review is needed
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: specific_account_numbers
+      label: Specific Account Numbers
+      hint: If specific ledgers need attention
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: preferred_delivery_method
+      label: Preferred Delivery Method
+      hint: How should the report be shared?
+      type: select_one
+      options:
+      - Secure Portal
+      - Encrypted Email
+      - In-person Meeting
+      required: true
+    - id: 10
+      name: requested_completion_date
+      label: Requested Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smtf Policies And Procedures
+    pages:
+    - id: 1
+      name: policy_name
+      label: Policy Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: procedure_description
+      label: Procedure Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: effective_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Smtf
+      - Other
+      - Multiple
+      required: true
+    - id: 6
+      name: policy_type
+      label: Policy Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 8
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - User1
+      - User2
+      - User3
+      required: false
+    - id: 9
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - User1
+      - User2
+      - User3
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

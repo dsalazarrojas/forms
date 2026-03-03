@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Checklist For New Items
+    pages:
+    - id: 1
+      name: section_item_profile
+      label: -- Item Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: new_item_name_title
+      label: Item Name / Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: item_category_type
+      label: Product / Item Category
+      hint: null
+      type: select_one
+      options:
+      - Hardware
+      - Software Feature
+      - Marketing Asset
+      - Corporate Policy
+      - Physical Event
+      required: true
+    - id: 4
+      name: project_lead_name
+      label: Project / Item Lead
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: target_launch_date
+      label: Target Launch Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_checklist_steps
+      label: -- Review Checklist --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: step_initial_design_review
+      label: Initial Design Review Completed
+      hint: null
+      type: select_one
+      options:
+      - Done
+      - In Progress
+      - N/A
+      required: true
+    - id: 8
+      name: step_quality_assurance_test
+      label: Quality Assurance Testing Passed
+      hint: null
+      type: select_one
+      options:
+      - Done
+      - In Progress
+      - Pending
+      required: true
+    - id: 9
+      name: step_pricing_valuation
+      label: Pricing and Valuation Finalized
+      hint: null
+      type: select_one
+      options:
+      - Done
+      - Under Review
+      - N/A
+      required: true
+    - id: 10
+      name: step_legal_compliance_check
+      label: Legal and Compliance Approval
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: true
+    - id: 11
+      name: step_marketing_collateral
+      label: Marketing Collateral Prepared
+      hint: null
+      type: select_one
+      options:
+      - Done
+      - Not Started
+      - N/A
+      required: true
+    - id: 12
+      name: section_specifications
+      label: -- Technical Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: item_specifications_summary
+      label: Key Specifications Summary
+      hint: Dimensions, technical requirements, etc.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: bill_of_materials_link
+      label: Documentation / BOM Link
+      hint: URL to internal document
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_status_next_steps
+      label: -- Finalization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: item_readiness_score
+      label: Overall Readiness Score
+      hint: null
+      type: select_one
+      options:
+      - 1 - Needs Significant Work
+      - 2 - Getting There
+      - 3 - Ready for Beta
+      - 4 - Ready for Launch
+      required: true
+    - id: 17
+      name: blocker_issues_identified
+      label: Major Blocker Issues
+      hint: List any issues preventing launch
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: next_review_meeting_date
+      label: Date of Next Review Meeting
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: check_completion_ack
+      label: I confirm all checklist items have been reviewed
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Other
+      required: true

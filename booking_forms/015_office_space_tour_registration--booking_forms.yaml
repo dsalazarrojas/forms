@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: office_space_tour_registration
+    pages:
+    - id: 1
+      name: prospective_tenant_info
+      label: Prospective Tenant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tour_request_details
+      label: Tour Request Details
+      hint: Select description of requested tour
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: preferred_tour_dates
+      label: Preferred Dates
+      hint: Select up to 3 dates
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: preferred_tour_times
+      label: Preferred Tour Times
+      hint: Select tour times
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: requested_tour_duration
+      label: Requested Tour Duration
+      hint: Duration of the requested tour
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: tour_requestor_info
+      label: Tour Requestor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: Email
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up
+      label: Follow-up
+      hint: Follow-up method
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-app
+      required: false

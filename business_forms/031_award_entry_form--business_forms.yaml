@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Award Entry Form
+    pages:
+    - id: 1
+      name: section_entry_basics
+      label: -- Award Entry Basics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: recipient_name
+      label: Full Name of the Recipient or Entry
+      hint: Official name for the award
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Primary Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Primary Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: award_name_entry
+      label: Official Award Name
+      hint: Which award are you entering for?
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: entry_category
+      label: Entry Category
+      hint: Select the most appropriate category
+      type: select_one
+      options:
+      - Small Business Award
+      - Large Corporation Award
+      - Individual Achievement
+      - Non-Profit or Social Impact
+      - Startup of the Year
+      required: true
+    - id: 7
+      name: section_org_details
+      label: -- Organization and Business Details --
+      hint: Information about the entering entity
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: organization_name
+      label: Business or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: entry_year
+      label: Year of Entry
+      hint: Current award cycle
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: achievement_summary_short
+      label: Brief Description of Achievement
+      hint: 1-2 sentences summarizing the entry
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: achievement_narrative_long
+      label: Detailed Entry Narrative
+      hint: Provide a full explanation of why you deserve the award
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: evidence_link
+      label: Link to Supporting Evidence
+      hint: URL to documents, videos, or portfolios
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_count
+      label: Total Number of Employees
+      hint: Size of the organization
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: revenue_range
+      label: Annual Revenue Range
+      hint: Optional, for internal classification
+      type: select_one
+      options:
+      - Under $100,000
+      - $100,000 - $1,000,000
+      - $1,000,001 - $10,000,000
+      - Over $10,000,000
+      required: false
+    - id: 15
+      name: publicity_agreement
+      label: Agreement to Publicity Rights
+      hint: Can we use your entry for promotional purposes?
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 16
+      name: declaration_accuracy
+      label: Declaration of Accuracy
+      hint: I certify that all information is true and correct
+      type: select_one
+      options:
+      - I so declare
+      - Other
+      required: true
+    - id: 17
+      name: entry_signature
+      label: Digital Signature
+      hint: Type full name to sign the entry
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: dimensional_healing_session_registration
+    pages:
+    - id: 1
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: appointment_preferences
+      label: Appointment Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_consent
+      label: Client Consent
+      hint: Please sign below to confirm that you have read and understood the Client
+        Consent Form and agree to the terms and conditions.
+      type: select_multiple
+      options:
+      - I have read and agree to the Client Consent Form.
+      - I do not agree to the Client Consent Form.
+      required: true
+    - id: 5
+      name: preferred_time
+      label: Preferred Time
+      hint: Select a time
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 6
+      name: preferred_time_end
+      label: Preferred Time End
+      hint: Select a time
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 7
+      name: preferred_duration
+      label: Preferred Duration
+      hint: Select a duration
+      type: select_multiple
+      options:
+      - 15 minutes
+      - 30 minutes
+      - 60 minutes
+      required: true
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: practitioner_details
+      label: Practitioner Details
+      hint: Name of Practitioner
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: Enter your contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: Select a method
+      type: select_one
+      options:
+      - Online Banking
+      - In Person
+      required: true
+    - id: 14
+      name: special_instructions
+      label: Special Instructions
+      hint: Enter any special instructions
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: client_consent_2
+      label: Client Consent 2
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and agree to the Client Consent Form 2.
+      - I do not agree to the Client Consent Form 2.
+      required: true
+    - id: 16
+      name: client_consent_3
+      label: Client Consent 3
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and agree to the Client Consent Form 3.
+      - I do not agree to the Client Consent Form 3.
+      required: true
+    - id: 17
+      name: client_consent_4
+      label: Client Consent 4
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and agree to the Client Consent Form 4.
+      - I do not agree to the Client Consent Form 4.
+      required: true
+    - id: 18
+      name: client_consent_5
+      label: Client Consent 5
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and agree to the Client Consent Form 5.
+      - I do not agree to the Client Consent Form 5.
+      required: true
+    - id: 19
+      name: client_consent_6
+      label: Client Consent 6
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and agree to the Client Consent Form 6.
+      - I do not agree to the Client Consent Form 6.
+      required: true
+    - id: 20
+      name: practitioner_consent
+      label: Practitioner Consent
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and agree to the Practitioner Consent Form.
+      - I do not agree to the Practitioner Consent Form.
+      required: true
+    - id: 21
+      name: practitioner_consent_2
+      label: Practitioner Consent 2
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and agree to the Practitioner Consent Form 2.
+      - I do not agree to the Practitioner Consent Form 2.
+      required: true
+    - id: 22
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: payment_terms_2
+      label: Payment Terms 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: payment_terms_3
+      label: Payment Terms 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

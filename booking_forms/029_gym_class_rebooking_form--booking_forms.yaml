@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Class Rebooking Form
+    pages:
+    - id: 1
+      name: next_term
+      label: next_term
+      hint: null
+      type: select_one
+      options:
+      - yes, no
+      - Other
+      required: false
+    - id: 2
+      name: rebooking_class_id
+      label: rebooking_class
+      hint: null
+      type: select_one
+      options:
+      - class1, class2, class3
+      - Other
+      required: false
+    - id: 3
+      name: rebooking_name
+      label: rebooking_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rebooking_email
+      label: rebooking_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: rebooking_phone
+      label: rebooking_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: class_details
+      label: class_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: instructor_name
+      label: instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rebooking_message
+      label: rebooking_message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: rebooking_terms
+      label: rebooking_terms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: rebooking_status
+      label: rebooking_status
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,170 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: intellectual_property_portfolio_report_form
+    pages:
+    - id: 1
+      name: form_type
+      label: Form Type
+      hint: null
+      type: select_one
+      options:
+      - Patent Portfolio
+      - Trademark Portfolio
+      - Copyright Portfolio
+      - Trade Secret Portfolio
+      - Other
+      required: false
+    - id: 2
+      name: portfolio_name
+      label: Portfolio Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: owner_contact
+      label: Owner Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: owner_relationship
+      label: Ownership Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Owner
+      - Co-Owner
+      - Agent
+      required: false
+    - id: 8
+      name: owner_address
+      label: Owner Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: portfolio_type
+      label: Portfolio Type
+      hint: null
+      type: select_one
+      options:
+      - Patent
+      - Trademark
+      - Copyright
+      - Trade Secret
+      required: false
+    - id: 10
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: portfolio_items
+      label: Portfolio Items
+      hint: null
+      type: select_multiple
+      options:
+      - Patent
+      - Patent Application
+      - Patent Filing
+      - Patent Registration
+      - Patent Renewal
+      - Trademark
+      - Trademark Registration
+      - Trademark Renewal
+      - Copyright
+      - Copyright Registration
+      - Copyright Renewal
+      - Trade Secret
+      - Trade Secret Registration
+      - Trade Secret Renewal
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Employee
+      - Manager
+      - Other
+      required: false
+    - id: 14
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: reviewed_by
+      label: Reviewed By
+      hint: null
+      type: select_one
+      options:
+      - Employee
+      - Manager
+      - Other
+      required: false
+    - id: 16
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: comments_review
+      label: Comments Review
+      hint: null
+      type: text
+      options: []
+      required: false

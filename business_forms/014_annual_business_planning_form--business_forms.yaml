@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Business Planning Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Official name of the business
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Person Name
+      hint: Primary contact for planning
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: planning_year
+      label: Planning Year
+      hint: Which year is this plan for?
+      type: select_one
+      options:
+      - 2026
+      - 2027
+      - 2028
+      - Multi-Year
+      required: true
+    - id: 6
+      name: business_stage
+      label: Business Stage
+      hint: Current stage of business
+      type: select_one
+      options:
+      - Startup
+      - Growth
+      - Established
+      - Expansion
+      - Maturity
+      - Turnaround
+      required: true
+    - id: 7
+      name: industry
+      label: Industry
+      hint: What industry are you in?
+      type: select_one
+      options:
+      - Technology
+      - Retail
+      - Manufacturing
+      - Healthcare
+      - Food Service
+      - Professional Services
+      - Construction
+      - Real Estate
+      - Education
+      - Other
+      required: true
+    - id: 8
+      name: mission_statement
+      label: Mission Statement
+      hint: Your business mission
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: vision_statement
+      label: Vision Statement
+      hint: Your vision for the future
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: core_values
+      label: Core Values
+      hint: List your core values
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: revenue_goal
+      label: Revenue Goal
+      hint: Target revenue for the year
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: profit_goal
+      label: Profit Goal
+      hint: Target profit for the year
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: growth_rate
+      label: Target Growth Rate
+      hint: Percentage growth target
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: key_objectives
+      label: Key Objectives
+      hint: Select your top priorities
+      type: select_multiple
+      options:
+      - Revenue Growth
+      - Profit Improvement
+      - Market Expansion
+      - Product Development
+      - Customer Retention
+      - Brand Awareness
+      - Operational Efficiency
+      - Team Building
+      - Technology Upgrade
+      - Cost Reduction
+      - Other
+      required: true
+    - id: 15
+      name: target_market
+      label: Target Market
+      hint: Who are your primary customers?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: competitive_advantage
+      label: Competitive Advantage
+      hint: What sets you apart?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: marketing_strategies
+      label: Marketing Strategies
+      hint: Planned marketing activities
+      type: select_multiple
+      options:
+      - Digital Marketing
+      - Social Media
+      - Content Marketing
+      - Email Campaigns
+      - Events and Trade Shows
+      - Partnerships
+      - Traditional Advertising
+      - Public Relations
+      - Referral Programs
+      - Other
+      required: true
+    - id: 18
+      name: marketing_budget
+      label: Marketing Budget
+      hint: Allocated marketing spend
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: staffing_plan
+      label: Staffing Plan
+      hint: Planned hiring or changes
+      type: select_one
+      options:
+      - No Changes
+      - Hiring Key Roles
+      - Team Expansion
+      - Restructuring
+      - Outsourcing
+      - Other
+      required: true
+    - id: 20
+      name: technology_investments
+      label: Technology Investments
+      hint: Planned technology upgrades
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: capital_requirements
+      label: Capital Requirements
+      hint: Funding needed
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: funding_sources
+      label: Funding Sources
+      hint: Where will funding come from?
+      type: select_multiple
+      options:
+      - Internal Cash Flow
+      - Bank Loan
+      - Investors
+      - Venture Capital
+      - Crowdfunding
+      - Government Grants
+      - Other
+      - Not Needed
+      required: true
+    - id: 23
+      name: risk_assessment
+      label: Risk Assessment
+      hint: Key risks to the plan
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: success_metrics
+      label: Success Metrics
+      hint: How will you measure success?
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: timeline_milestones
+      label: Timeline and Milestones
+      hint: Key dates and milestones
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other planning details
+      type: text
+      options: []
+      required: false

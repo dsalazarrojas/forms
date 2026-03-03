@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recruiter Phone Screen
+    pages:
+    - id: 1
+      name: screen_questions
+      label: Screen Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: candidate_name
+      label: candidate_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_note
+      label: contact_note
+      hint: null
+      type: note
+      options: []
+      required: false

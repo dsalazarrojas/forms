@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Service Booking Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: pickup_time
+      label: Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: care_notes
+      label: Care Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: select_one_service
+      label: Select Service
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Morning''}'
+      - '{''label'': ''Afternoon''}'
+      - '{''label'': ''Evening''}'
+      required: false
+    - id: 8
+      name: select_multiple_services
+      label: Select Services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Morning''}'
+      - '{''label'': ''Afternoon''}'
+      - '{''label'': ''Evening''}'
+      required: false
+    - id: 9
+      name: parent_details
+      label: Parent Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: scheduling
+      label: Scheduling
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: Please provide any additional information or concerns you have
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false

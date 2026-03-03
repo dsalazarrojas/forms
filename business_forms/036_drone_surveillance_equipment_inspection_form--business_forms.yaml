@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: drone_surveillance_equipment_inspection_form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_details
+      label: Equipment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inspection_schedule
+      label: Inspection Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: inspection_results
+      label: Inspection Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inspection_frequency
+      label: Inspection Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: inspection_status
+      label: Inspection Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Passed''}'
+      - '{''label'': ''Failed''}'
+      - '{''label'': ''Pending''}'
+      required: false
+    - id: 8
+      name: drone_type
+      label: Drone Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Fixed Wing''}'
+      - '{''label'': ''Rotorcraft''}'
+      - '{''label'': ''Hybrid''}'
+      required: false
+    - id: 9
+      name: condition
+      label: Condition
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: date_last_inspection
+      label: Date Last Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: date_next_inspection
+      label: Date Next Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: certification_validity
+      label: Certification Validity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: remarks_certification
+      label: Remarks Certification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: serial_no
+      label: Serial No
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: remarks_serial_no
+      label: Remarks Serial No
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Not Applicable''}'
+      required: false
+    - id: 18
+      name: remarks_equipment_condition
+      label: Remarks Equipment Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: inspection_type
+      label: Inspection Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Scheduled''}'
+      - '{''label'': ''Unscheduled''}'
+      required: false
+    - id: 20
+      name: remarks_inspection_type
+      label: Remarks Inspection Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: remarks_inspection_status
+      label: Remarks Inspection Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: certification_status
+      label: Certification Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Valid''}'
+      - '{''label'': ''Invalid''}'
+      required: false
+    - id: 23
+      name: remarks_certification_status
+      label: Remarks Certification Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: remarks_certification_validity
+      label: Remarks Certification Validity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: remarks_certification_status_details
+      label: Remarks Certification Status Details
+      hint: null
+      type: text
+      options: []
+      required: false

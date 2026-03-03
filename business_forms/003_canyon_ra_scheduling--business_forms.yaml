@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Canyon RA Scheduling
+    pages:
+    - id: 1
+      name: resident_information
+      label: Resident Information
+      hint: Please provide your resident details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: resident_name
+      label: Resident Name
+      hint: Full name of the resident
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: room_number
+      label: Room Number
+      hint: Your room number in Canyon Hall
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Your preferred email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: rd_information
+      label: Resident Director Information
+      hint: Your RD assignment
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assigned_rd
+      label: Assigned Resident Director
+      hint: Select your RD
+      type: select_one
+      options:
+      - RD - Sarah Johnson
+      - RD - Michael Chen
+      - RD - Emily Rodriguez
+      - RD - David Kim
+      - RD - Jessica Martinez
+      - Undecided
+      required: true
+    - id: 8
+      name: scheduling_request
+      label: Scheduling Request
+      hint: What type of meeting do you need?
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: meeting_type
+      label: Meeting Type
+      hint: Purpose of the meeting
+      type: select_one
+      options:
+      - Initial Check-in
+      - Roommate Mediation
+      - Community Concerns
+      - Personal Support
+      - Event Planning
+      - Policy Question
+      - Emergency Meeting
+      required: true
+    - id: 10
+      name: preferred_date
+      label: Preferred Date
+      hint: Your preferred meeting date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: preferred_time
+      label: Preferred Time
+      hint: Your preferred meeting time
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: meeting_duration
+      label: Expected Duration
+      hint: How long do you expect the meeting to take?
+      type: select_one
+      options:
+      - 15 minutes
+      - 30 minutes
+      - 45 minutes
+      - 1 hour
+      - 1.5 hours
+      required: true
+    - id: 13
+      name: meeting_location
+      label: Preferred Location
+      hint: Where would you like to meet?
+      type: select_one
+      options:
+      - RD Office
+      - Canyon Hall Lounge
+      - Study Room
+      - Outdoor Courtyard
+      - Virtual/Zoom
+      - No preference
+      required: false
+    - id: 14
+      name: attendees
+      label: Additional Attendees
+      hint: Will others be attending?
+      type: select_one
+      options:
+      - Just me
+      - My roommate(s)
+      - Other residents
+      - Staff member
+      required: true
+    - id: 15
+      name: topic_details
+      label: Topic Details
+      hint: Briefly describe what you'd like to discuss
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this matter?
+      type: select_one
+      options:
+      - Low - can wait
+      - Medium - within a week
+      - High - within 48 hours
+      - Urgent - within 24 hours
+      - Emergency - immediate attention
+      required: true
+    - id: 17
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accommodations needed?
+      type: select_multiple
+      options:
+      - None
+      - Wheelchair accessible room
+      - Sign language interpreter
+      - Extended time
+      - Other accommodations
+      required: false
+    - id: 18
+      name: previous_meetings
+      label: Previous Meetings with RD
+      hint: Have you met with your RD before?
+      type: select_one
+      options:
+      - Yes - this is a follow-up
+      - Yes - but different RD
+      - No - first time
+      required: true
+    - id: 19
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information your RD should know
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: confirmation_preference
+      label: Confirmation Preference
+      hint: How should we confirm your appointment?
+      type: select_one
+      options:
+      - Email confirmation
+      - Text message
+      - Phone call
+      - No confirmation needed
+      required: true

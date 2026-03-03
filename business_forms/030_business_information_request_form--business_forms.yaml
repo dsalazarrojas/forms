@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Information Request Form
+    pages:
+    - id: 1
+      name: section_requesting_party
+      label: -- Requesting Party --
+      hint: Who is making this request
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requesting_company_name_full
+      label: Requesting Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requesting_person_name_full
+      label: Requesting Person Name
+      hint: Authorised representative
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requesting_person_title_role
+      label: Professional Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_target_information
+      label: -- Target Business and Information --
+      hint: Details of the requested data
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: target_company_name_request
+      label: Target Company Name
+      hint: The business you are requesting information about
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: specific_info_required_selection
+      label: Specific Information Required
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Financial Statements
+      - Credit History
+      - Operational Licensing
+      - Insurance Certification
+      - Reference List
+      - Sustainability Reports
+      required: true
+    - id: 8
+      name: purpose_of_request_category
+      label: Purpose of Request
+      hint: Why is this information needed
+      type: select_one
+      options:
+      - Vendor Onboarding / Due Diligence
+      - Partnership Evaluation
+      - Legal / Regulatory Compliance
+      - Credit Application Review
+      - Market Research
+      required: true
+    - id: 9
+      name: request_urgency_level_priority
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - Standard (3-5 business days)
+      - Priority (1-2 business days)
+      - Urgent (Same day)
+      required: true
+    - id: 10
+      name: desired_info_format_selection
+      label: Desired Format for Information
+      hint: null
+      type: select_one
+      options:
+      - Digital PDF via Email
+      - Online Portal Access
+      - Physical Printed Documents
+      - Phone Consultation
+      required: true
+    - id: 11
+      name: deadline_info_receipt_date
+      label: Deadline for Information Receipt
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: section_confidentiality_notice
+      label: -- Confidentiality Agreement --
+      hint: Important legal notice regarding data usage
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: confidentiality_acknowledgment_check
+      label: I agree to treat all received information as strictly confidential
+      hint: Data must not be shared with third parties without consent
+      type: select_one
+      options:
+      - I Agree and Acknowledge
+      - Other
+      required: true
+    - id: 14
+      name: request_terms_consent_check
+      label: I have the authority to make this request on behalf of my company
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true
+    - id: 15
+      name: request_form_submission_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true

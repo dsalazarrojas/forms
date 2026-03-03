@@ -1,0 +1,139 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CAPA Action Form
+    pages:
+      - id: 1
+        name: capa_header
+        label: -- Corrective and Preventive Action (CAPA) Report --
+        hint: Standardized form for quality and compliance documentation.
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: capa_number
+        label: CAPA Reference Number
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: source_of_issue
+        label: Source of Non-Conformance
+        hint: null
+        type: select_one
+        options:
+          - Internal Audit
+          - External Audit
+          - Customer Complaint
+          - Process Monitoring
+          - Supplier Quality
+          - Other
+        required: true
+      - id: 4
+        name: issue_description
+        label: Detailed Description of the Issue
+        hint: Include what happened, where, and when.
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: immediate_correction_action
+        label: Immediate Correction Taken
+        hint: Action taken to contain the issue.
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: root_cause_analysis
+        label: Root Cause Analysis (RCA)
+        hint: Why did this happen? (e.g., Use 5 Whys method)
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: corrective_action_plan
+        label: Corrective Action Plan
+        hint: Steps to eliminate the cause of the non-conformance.
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: preventive_action_plan
+        label: Preventive Action Plan
+        hint: Steps to prevent recurrence in similar processes.
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: assigned_owner
+        label: Assigned Action Owner
+        hint: Person responsible for implementation.
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: implementation_due_date
+        label: Target Completion Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 11
+        name: resource_requirements
+        label: Resources or Budget Required
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: verification_method
+        label: Method for Verification of Effectiveness
+        hint: How will we know the action worked?
+        type: select_one
+        options:
+          - Re-audit
+          - Performance Monitoring
+          - Document Review
+          - Training Evaluation
+        required: true
+      - id: 13
+        name: risk_assessment_post_capa
+        label: Post-Action Risk Level
+        hint: null
+        type: select_one
+        options:
+          - Negligible
+          - Low
+          - Medium
+          - High
+        required: true
+      - id: 14
+        name: quality_manager_approval
+        label: Quality Manager Approval Signature
+        hint: Enter name for digital approval
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: capa_status
+        label: Current CAPA Status
+        hint: null
+        type: select_one
+        options:
+          - Open
+          - In Progress
+          - Pending Verification
+          - Closed
+        required: true

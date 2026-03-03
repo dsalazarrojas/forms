@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Project Intake Form
+    pages:
+    - id: 1
+      name: section_client_contact
+      label: -- Client and Primary Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client/Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: primary_contact_person
+      label: Primary Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Primary Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Primary Phone Number
+      hint: Format - (555) 555-5555
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_project_ident
+      label: -- Project Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: project_title
+      label: Official Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_location_address
+      label: Project Site Address
+      hint: City, State, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parcel_number_apn
+      label: Tax Parcel Number (APN)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_type_ident
+      label: Primary Project Category
+      hint: null
+      type: select_one
+      options:
+      - New Residential Construction
+      - Residential Renovation/Remodel
+      - New Commercial Construction
+      - Commercial Fit-out/TI
+      - Industrial/Warehouse
+      - Infrastructure/Civil Works
+      - Institutional/Healthcare
+      required: true
+    - id: 11
+      name: section_project_scope
+      label: -- Project Scope and Budget --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: project_scope_summary
+      label: Brief Summary of Project Scope
+      hint: Describe the main goals and features
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: estimated_total_budget
+      label: Estimated Total Project Budget ($)
+      hint: Range or fixed amount
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: project_funding_status
+      label: Current Project Funding Status
+      hint: null
+      type: select_one
+      options:
+      - Fully Funded/Self-funded
+      - Financing Secured
+      - Financing in Progress
+      - Seeking Financing
+      required: true
+    - id: 15
+      name: section_timeline_logistics
+      label: -- Timeline and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: desired_start_date
+      label: Desired Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: target_completion_date
+      label: Desired Project Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: permits_secured_checklist
+      label: Permits and Approvals Status
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - All Permits Secured
+      - Some Permits Secured
+      - Application in Progress
+      - Pre-application Phase
+      - None - Requesting Assistance
+      required: true
+    - id: 19
+      name: section_additional_info
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: special_constraints_notes
+      label: Special Site Constraints or Client Requirements
+      hint: e.g., Environmental restrictions, specific hours, security clearance
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: referral_source_desc
+      label: How did you hear about our firm?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: intake_officer_name_label
+      label: Name of Person Completing Intake Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: submission_date
+      label: Date of Intake
+      hint: null
+      type: date
+      options: []
+      required: true

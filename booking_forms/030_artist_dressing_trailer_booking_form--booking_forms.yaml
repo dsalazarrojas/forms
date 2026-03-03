@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Dressing Trailer Booking Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Booking Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Person Name
+      hint: Who is making the booking?
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_name
+      label: Organization or Company Name
+      hint: Production company, event venue, or tour company
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_2
+      label: -- Event and Artist Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: Name of the event or show
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: artist_name
+      label: Artist or Performer Name
+      hint: Primary artist or band name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_type
+      label: Type of Event
+      hint: What kind of event?
+      type: select_one
+      options:
+      - Concert or Music Festival
+      - Theater Production
+      - Comedy Tour
+      - Award Show
+      - TV Production
+      - Commercial Shoot
+      - Corporate Event
+      - Other
+      required: true
+    - id: 10
+      name: section_header_3
+      label: -- Trailer Booking Dates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: event_date
+      label: Event Date
+      hint: When is the event?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: setup_date
+      label: Trailer Setup Date
+      hint: When should the trailer arrive?
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: pickup_date
+      label: Trailer Pickup Date
+      hint: When will it be picked up?
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: total_days
+      label: Total Number of Days Needed
+      hint: How many days will you need the trailer?
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: section_header_4
+      label: -- Trailer Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: trailer_type
+      label: Type of Trailer Needed
+      hint: What kind of dressing trailer?
+      type: select_one
+      options:
+      - Single Occupancy
+      - Double Occupancy
+      - VIP Trailer
+      - Multi-Station Trailer
+      - Luxury Suite
+      - Custom Configuration
+      required: true
+    - id: 17
+      name: number_of_trailers
+      label: Number of Trailers Needed
+      hint: How many dressing trailers?
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: special_requirements
+      label: Special Requirements or Amenities
+      hint: Specific features or equipment needed
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_header_5
+      label: -- Location and Delivery --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: venue_location
+      label: Venue Location or Address
+      hint: Full address where trailer will be delivered
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: parking_requirements
+      label: Parking or Setup Space Constraints
+      hint: Any space limitations or requirements?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_header_6
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: budget_range
+      label: Budget Range for Trailer Rental (GBP)
+      hint: Estimated budget
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: insurance_provided
+      label: Will You Provide Insurance?
+      hint: Does your organization have coverage?
+      type: select_one
+      options:
+      - Yes, we provide insurance
+      - No, we need rental insurance
+      - TBD
+      required: true
+    - id: 25
+      name: additional_notes
+      label: Additional Notes or Special Requests
+      hint: Any other information we should know?
+      type: text
+      options: []
+      required: false

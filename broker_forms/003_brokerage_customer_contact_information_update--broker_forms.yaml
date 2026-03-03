@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brokerage Customer Contact Information Update
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_id
+      label: Client ID Number
+      hint: Your unique account identifier
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: previous_phone
+      label: Previous Phone Number on File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: current_phone
+      label: Current Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: previous_email
+      label: Previous Email on File
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: current_email
+      label: Current Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: previous_address
+      label: Previous Mailing Address
+      hint: Street address
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: current_address
+      label: Current Mailing Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: current_zip
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: phone_preference
+      label: Preferred Contact Method
+      hint: How should we reach you
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Mail
+      - Text Message
+      required: true
+    - id: 13
+      name: do_not_contact
+      label: Opt-out of marketing communications
+      hint: Check if you prefer not to receive promotional materials
+      type: select_one
+      options:
+      - Yes, opt me out
+      - No, I want to receive updates
+      required: true
+    - id: 14
+      name: update_date
+      label: Date of Change
+      hint: When did your contact information change
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: confirmation_phone
+      label: Confirm New Phone Number
+      hint: Please re-enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: confirmation_email
+      label: Confirm New Email Address
+      hint: Please re-enter your email address
+      type: email
+      options: []
+      required: true

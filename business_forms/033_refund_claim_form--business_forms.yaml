@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: refund_claim_form
+    pages:
+    - id: 1
+      name: user_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_id
+      label: order_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_refund
+      label: reason_for_refund
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: amount_claimed
+      label: amount_claimed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date_refund_requested
+      label: date_refund_requested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_refund_requested
+      label: time_refund_requested
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false

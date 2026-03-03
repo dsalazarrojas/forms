@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Recommendation Form
+    pages:
+    - id: 1
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: travel_type
+      label: travel_type
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Leisure
+      - Adventure
+      required: false
+    - id: 3
+      name: destination
+      label: destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: accommodation_type
+      label: accommodation_type
+      hint: null
+      type: select_one
+      options:
+      - Hotel
+      - Hostel
+      - Guesthouse
+      required: false
+    - id: 5
+      name: preferred_room_type
+      label: preferred_room_type
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Double
+      - Triple
+      - Suite
+      required: false
+    - id: 6
+      name: preferred_room_view
+      label: preferred_room_view
+      hint: null
+      type: select_one
+      options:
+      - city
+      - mountain
+      - sea
+      - lake
+      required: false
+    - id: 7
+      name: arrival_time
+      label: arrival_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: preferred_language
+      label: preferred_language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Chinese
+      required: false

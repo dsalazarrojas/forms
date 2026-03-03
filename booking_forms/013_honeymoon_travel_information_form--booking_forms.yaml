@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Honeymoon Travel Information Form
+    pages:
+    - id: 1
+      name: traveler_info
+      label: Traveler Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_preferences
+      label: Travel Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_details
+      label: Travel Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: travel_budget
+      label: Travel Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: travel_locations
+      label: Travel Locations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Destination 1'', ''value'': ''destination_1''}'
+      - '{''label'': ''Destination 2'', ''value'': ''destination_2''}'
+      - '{''label'': ''Destination 3'', ''value'': ''destination_3''}'
+      required: false
+    - id: 8
+      name: travel_modes
+      label: Travel Modes
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Mode 1'', ''value'': ''mode_1''}'
+      - '{''label'': ''Mode 2'', ''value'': ''mode_2''}'
+      - '{''label'': ''Mode 3'', ''value'': ''mode_3''}'
+      required: false

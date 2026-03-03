@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Education Verification Form Template
+    pages:
+    - id: 1
+      name: education_verification_form
+      label: Education Verification Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employer_details
+      label: Employers Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: education_details
+      label: Education Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employee_education
+      label: Employee Education
+      hint: Is employee education verified?
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Pending''}'
+      required: false
+    - id: 6
+      name: employer_education
+      label: Employers Education
+      hint: Select type of education
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High School''}'
+      - '{''id'': 2, ''label'': ''College''}'
+      - '{''id'': 3, ''label'': ''University''}'
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: graduation_date
+      label: Graduation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: degree
+      label: Degree
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: major
+      label: Major
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: gpa
+      label: GPA
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: verified_by
+      label: Verified By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: employer_signature
+      label: Employer Signature
+      hint: null
+      type: text
+      options: []
+      required: false

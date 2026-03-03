@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appointment E Session Request Form
+    pages:
+    - id: 1
+      name: bride_information
+      label: -- Bride Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: bride_name
+      label: Bride Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: wedding_date
+      label: Wedding Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: location_city
+      label: Wedding Location - City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: session_preferences
+      label: -- Session Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: session_type
+      label: E-Session Type
+      hint: null
+      type: select_one
+      options:
+      - Engagement session
+      - Bridal session
+      - Couples session
+      - Full e-session package
+      - Other
+      required: true
+    - id: 9
+      name: preferred_session_date
+      label: Preferred Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: session_duration
+      label: Preferred Session Duration
+      hint: null
+      type: select_one
+      options:
+      - 1 hour
+      - 2 hours
+      - 3 hours
+      - Half day
+      - Full day
+      required: false
+    - id: 11
+      name: session_location
+      label: Preferred Session Location
+      hint: Indoor, outdoor, studio, etc
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: photography_style
+      label: Photography Style Preference
+      hint: null
+      type: select_one
+      options:
+      - Traditional
+      - Modern
+      - Artistic
+      - Candid
+      - Mix of styles
+      required: false
+    - id: 13
+      name: styling_preferences
+      label: -- Styling Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: dress_details
+      label: Wedding Dress Details
+      hint: Designer, color, style
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: makeup_hair
+      label: Makeup and Hair Details
+      hint: Style preferences
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: accessories_jewelry
+      label: Accessories and Jewelry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: groom_participation
+      label: Will the groom be in some photos?
+      hint: null
+      type: select_one
+      options:
+      - Yes, for all session
+      - Yes, for part of session
+      - false
+      - Undecided
+      required: false
+    - id: 18
+      name: additional_people
+      label: Will anyone else be in the session?
+      hint: Mother, sister, bridesmaids, etc
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: special_requests
+      label: Special requests or ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: budget_confirmation
+      label: Budget or package confirmation
+      hint: null
+      type: text
+      options: []
+      required: false

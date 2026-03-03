@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Loyalty Tier Adjustment Request
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_request
+      label: Reason for request
+      hint: null
+      type: select_multiple
+      options:
+      - Tier Downgrade
+      - Tier Upgrade
+      - Tier Swap
+      required: false
+    - id: 6
+      name: loyalty_program
+      label: Loyalty program
+      hint: null
+      type: select_one
+      options:
+      - Rewards Program
+      - Exclusive Program
+      - Standard Program
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: tier_level
+      label: Tier Level
+      hint: null
+      type: select_multiple
+      options:
+      - 1 - Tier 1
+      - 2 - Tier 2
+      - 3 - Tier 3
+      - 4 - Tier 4
+      - 5 - Tier 5
+      - 6 - Tier 6
+      - 7 - Tier 7
+      - 8 - Tier 8
+      required: false
+    - id: 9
+      name: current_tier
+      label: Current Tier
+      hint: null
+      type: select_one
+      options:
+      - 1 - Tier 1
+      - 2 - Tier 2
+      - 3 - Tier 3
+      - 4 - Tier 4
+      - 5 - Tier 5
+      - 6 - Tier 6
+      - 7 - Tier 7
+      - 8 - Tier 8
+      required: false
+    - id: 10
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_number
+      label: Employee Number
+      hint: null
+      type: number
+      options: []
+      required: false

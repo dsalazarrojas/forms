@@ -1,0 +1,262 @@
+inputSchema:
+  type: object
+  properties:
+    title: All Inclusive Vacation Planning Request Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Client first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Client last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How to reach you?
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - Any method
+      required: true
+    - id: 6
+      name: destination_preference
+      label: Destination Preference
+      hint: Where do you want to go?
+      type: select_one
+      options:
+      - Caribbean
+      - Mexico
+      - Hawaii
+      - Europe
+      - Asia
+      - South Pacific
+      - No preference
+      required: true
+    - id: 7
+      name: travel_dates_preferred
+      label: Preferred Travel Dates
+      hint: Ideal dates
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: travel_dates_flexible
+      label: Date Flexibility
+      hint: How flexible are dates?
+      type: select_one
+      options:
+      - Very flexible
+      - Somewhat flexible
+      - Fixed dates
+      required: true
+    - id: 9
+      name: trip_duration
+      label: Trip Duration
+      hint: Length of vacation
+      type: select_one
+      options:
+      - 3-5 days
+      - 6-7 days
+      - 8-10 days
+      - 11-14 days
+      - 15+ days
+      required: true
+    - id: 10
+      name: travelers_adults
+      label: Number of Adults
+      hint: Adults traveling
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: travelers_children
+      label: Number of Children
+      hint: Children traveling
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: children_ages
+      label: Children Ages
+      hint: List ages
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: accommodation_type
+      label: Accommodation Type
+      hint: Room preference
+      type: select_one
+      options:
+      - Standard room
+      - Ocean view room
+      - Junior suite
+      - Master suite
+      - Private villa
+      - Overwater bungalow
+      required: true
+    - id: 14
+      name: budget_per_person
+      label: Budget Per Person
+      hint: Price range
+      type: select_one
+      options:
+      - Under $1500
+      - $1500-$2500
+      - $2501-$4000
+      - $4001-$6000
+      - $6001-$10000
+      - No budget limit
+      required: true
+    - id: 15
+      name: inclusions_priority
+      label: Most Important Inclusions
+      hint: Select top priorities
+      type: select_multiple
+      options:
+      - Unlimited dining
+      - Premium beverages
+      - Water sports
+      - Spa access
+      - Golf
+      - Kids club
+      - Entertainment
+      - Airport transfers
+      - Excursions
+      required: true
+    - id: 16
+      name: dining_preferences
+      label: Dining Preferences
+      hint: Dietary requirements
+      type: select_multiple
+      options:
+      - No restrictions
+      - Vegetarian options
+      - Vegan options
+      - Gluten-free
+      - Kosher
+      - Halal
+      - Allergy-friendly
+      required: false
+    - id: 17
+      name: special_occasion
+      label: Special Occasion
+      hint: Celebrating?
+      type: select_one
+      options:
+      - None
+      - Honeymoon
+      - Anniversary
+      - Birthday
+      - Graduation
+      - Retirement
+      - Family reunion
+      - Other
+      required: false
+    - id: 18
+      name: flight_requirements
+      label: Flight Requirements
+      hint: Airfare needs
+      type: select_one
+      options:
+      - Include flights
+      - Book separately
+      - Have flights already
+      required: true
+    - id: 19
+      name: departure_city
+      label: Departure City
+      hint: Nearest airport
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: travel_insurance
+      label: Travel Insurance
+      hint: Include insurance?
+      type: select_one
+      options:
+      - Yes, include
+      - No, decline
+      - Need more information
+      required: true
+    - id: 21
+      name: accessibility_requirements
+      label: Accessibility Requirements
+      hint: Special needs
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: room_preferences
+      label: Room Preferences
+      hint: Specific requests
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: activities_interest
+      label: Activities of Interest
+      hint: What do you enjoy?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: previous_experiences
+      label: Previous All-Inclusive Experiences
+      hint: Been before?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: referral_source
+      label: How Did You Find Us?
+      hint: Source
+      type: select_one
+      options:
+      - Online search
+      - Social media
+      - Referral
+      - Previous client
+      - Advertisement
+      - Travel show
+      - Other
+      required: false
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else?
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: consultation_availability
+      label: Availability for Consultation
+      hint: When to call?
+      type: text
+      options: []
+      required: false

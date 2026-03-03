@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_performance_stage_booking_form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: venue_name
+      label: Venue Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: technical_requirements
+      label: Technical Requirements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: performance_length
+      label: Performance Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: technical_support
+      label: Technical Support
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: stage_description
+      label: Stage Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: equipment_list
+      label: Equipment List
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: performance_type
+      label: Performance Type
+      hint: null
+      type: select_one
+      options:
+      - Live
+      - Recorded
+      - Hybrid
+      required: true
+    - id: 16
+      name: performance_language
+      label: Performance Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - French
+      - Spanish
+      required: true
+    - id: 17
+      name: performance_genre
+      label: Performance Genre
+      hint: null
+      type: select_multiple
+      options:
+      - Classical
+      - Jazz
+      - Pop
+      required: true
+    - id: 18
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Public
+      - Private
+      - School
+      required: true
+    - id: 19
+      name: contact_role
+      label: Contact Role
+      hint: null
+      type: select_one
+      options:
+      - Performer
+      - Promoter
+      - Technician
+      required: true
+    - id: 20
+      name: technical_skills
+      label: Technical Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Sound
+      - Stage
+      - Lighting
+      required: true
+    - id: 21
+      name: technical_support_email
+      label: Technical Support E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: technical_support_phone
+      label: Technical Support Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: technical_support_contact
+      label: Technical Support Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Furniture Purchase Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: products
+      label: Products
+      hint: null
+      type: select_multiple
+      options:
+      - Furniture A
+      - Furniture B
+      - Furniture C
+      required: false
+    - id: 6
+      name: product_color
+      label: Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Select One
+      - Other
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Other
+      required: false

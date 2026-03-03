@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Celebrity Agency Transfer Form
+    pages:
+    - id: 1
+      name: section_celebrity_info
+      label: -- Celebrity Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: celebrity_legal_name
+      label: Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: stage_name
+      label: Stage Name or Professional Name
+      hint: If different from legal name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_current_agency
+      label: -- Current Agency Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_agency_name
+      label: Current Agency Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_agent_name
+      label: Current Agent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_agent_contact
+      label: Current Agent Contact Information
+      hint: Phone and email
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: representation_start_date
+      label: Representation Start Date
+      hint: When did current representation begin
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: section_new_agency
+      label: -- New Agency Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: new_agency_name
+      label: New Agency Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: new_agent_name
+      label: New Agent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: new_agent_contact
+      label: New Agent Contact Information
+      hint: Phone and email
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_transfer_details
+      label: -- Transfer Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: transfer_effective_date
+      label: Transfer Effective Date
+      hint: When should new representation begin
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: reason_for_transfer
+      label: Reason for Transfer
+      hint: null
+      type: select_one
+      options:
+      - Career Development
+      - Better Representation
+      - Contract Termination
+      - Agency Closure
+      - Personal Preference
+      - Financial Reasons
+      - Other
+      required: true
+    - id: 19
+      name: reason_details
+      label: Detailed Reason for Transfer
+      hint: Please explain
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_contractual
+      label: -- Contractual Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: existing_contract_status
+      label: Existing Agency Contract Status
+      hint: null
+      type: select_one
+      options:
+      - Active with Notice Period
+      - Terminated
+      - Expired
+      - Under Review
+      - Mutual Termination
+      required: true
+    - id: 22
+      name: notice_period_days
+      label: Notice Period Required (days)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: pending_commitments
+      label: Pending Commitments or Projects
+      hint: List any ongoing contracts or projects
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_acknowledgment
+      label: -- Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: transfer_confirmation
+      label: I confirm the information and authorize this transfer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

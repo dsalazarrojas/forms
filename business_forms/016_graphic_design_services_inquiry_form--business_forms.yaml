@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graphic Design Services Inquiry Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: timeline_details
+      label: Timeline Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: budget_details
+      label: Budget Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: budget_currency
+      label: Budget Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - CAD
+      required: false
+    - id: 6
+      name: budget_estimated_cost
+      label: Budget Estimated Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: services_required
+      label: Services Required
+      hint: null
+      type: select_multiple
+      options:
+      - Graphic Design
+      - Visual Identity
+      - Branding
+      - Print Design
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: file
+      label: File
+      hint: null
+      type: select_multiple
+      options:
+      - file
+      - image
+      - document
+      required: false
+    - id: 15
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false

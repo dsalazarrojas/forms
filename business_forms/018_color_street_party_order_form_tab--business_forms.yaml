@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street Party Order Form TAB
+    pages:
+    - id: 1
+      name: section_party_info
+      label: -- Party and Hostess Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: hostess_name
+      label: Hostess Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: party_date
+      label: Party Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_guest_order
+      label: -- Guest Order Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: sets_from_stock
+      label: Sets Ordered from On-Hand Stock
+      hint: List set names
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: stock_sets_count
+      label: Number of On-Hand Sets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: sets_to_be_ordered
+      label: Sets to be Ordered (Out of Stock)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: ordered_sets_count
+      label: Number of Sets to Order
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: section_financials
+      label: -- Payment Tracking --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: subtotal_amount
+      label: Subtotal
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: shipping_charged
+      label: Shipping Charged
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: total_collected
+      label: Total Amount Collected
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Not Billed
+      required: true

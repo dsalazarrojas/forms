@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Travel Booking Form
+    pages:
+    - id: 1
+      name: travel_date
+      label: travel_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: travel_location
+      label: travel_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_purpose
+      label: travel_purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_type
+      label: travel_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_email
+      label: employee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: employee_phone
+      label: employee_phone
+      hint: null
+      type: text
+      options: []
+      required: false

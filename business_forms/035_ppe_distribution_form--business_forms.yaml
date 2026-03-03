@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: PPE Distribution Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: team_id
+      label: Team ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: item_id
+      label: Item ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_issued
+      label: Date Issued
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_distributed
+      label: Date Distributed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: distributed_to
+      label: Distributed To
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

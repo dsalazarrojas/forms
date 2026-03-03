@@ -1,0 +1,174 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Checklist
+    pages:
+      - id: 1
+        name: location_header
+        label: -- Cleaning Checklist --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: property_address
+        label: Property Address/Location
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: cleaning_date
+        label: Date of Cleaning
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: cleaner_name
+        label: Cleaner Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: kitchen_header
+        label: -- Kitchen Area --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: kitchen_counters
+        label: Countertops wiped and sanitized
+        hint: null
+        type: select_one
+        options:
+          - Done
+          - N/A
+        required: true
+      - id: 7
+        name: kitchen_sink
+        label: Sink cleaned and polished
+        hint: null
+        type: select_one
+        options:
+          - Done
+          - N/A
+        required: true
+      - id: 8
+        name: kitchen_appliances
+        label: Exterior of appliances wiped
+        hint: null
+        type: select_one
+        options:
+          - Done
+          - N/A
+        required: true
+      - id: 9
+        name: living_room_header
+        label: -- Living and Common Areas --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: dust_surfaces
+        label: All flat surfaces dusted
+        hint: null
+        type: select_one
+        options:
+          - Done
+          - N/A
+        required: true
+      - id: 11
+        name: vacuum_floors
+        label: Floors vacuumed or swept
+        hint: null
+        type: select_one
+        options:
+          - Done
+          - N/A
+        required: true
+      - id: 12
+        name: mop_floors
+        label: Hard floors mopped
+        hint: null
+        type: select_one
+        options:
+          - Done
+          - N/A
+        required: true
+      - id: 13
+        name: bathroom_header
+        label: -- Bathrooms --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: bathroom_toilet
+        label: Toilet cleaned and sanitized
+        hint: null
+        type: select_one
+        options:
+          - Done
+          - N/A
+        required: true
+      - id: 15
+        name: bathroom_shower
+        label: Shower and tub scrubbed
+        hint: null
+        type: select_one
+        options:
+          - Done
+          - N/A
+        required: true
+      - id: 16
+        name: bathroom_mirrors
+        label: Mirrors and glass cleaned
+        hint: null
+        type: select_one
+        options:
+          - Done
+          - N/A
+        required: true
+      - id: 17
+        name: supplies_low
+        label: List any supplies that are running low
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: client_special_requests
+        label: Notes on client special requests
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: completion_time
+        label: Time Finished
+        hint: null
+        type: time
+        options: []
+        required: false
+      - id: 20
+        name: supervisor_sign_off
+        label: Supervisor Inspection Sign-off
+        hint: null
+        type: text
+        options: []
+        required: false

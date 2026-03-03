@@ -1,0 +1,261 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Delivery Note Filters
+    pages:
+    - id: 1
+      name: delivery_note_filters_form
+      label: Delivery Note Filters Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_note_filter
+      label: Delivery Note Filter
+      hint: null
+      type: select_one
+      options:
+      - '{''Delivery Note Type'': ''Standard''}'
+      - '{''Delivery Note Type'': ''Urgent''}'
+      - '{''Delivery Note Type'': ''Critical''}'
+      required: false
+    - id: 3
+      name: delivery_note_filter_type
+      label: Delivery Note Type
+      hint: null
+      type: select_multiple
+      options:
+      - Standard
+      - Urgent
+      - Critical
+      required: true
+    - id: 4
+      name: delivery_note_start_date
+      label: Start Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: delivery_note_end_date
+      label: End Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: delivery_note_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: delivery_note_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 8
+      name: delivery_note_filter_description
+      label: Filter Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: delivery_note_filter_key
+      label: Filter Key
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: delivery_note_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - General
+      - Financial
+      required: false
+    - id: 11
+      name: customer_filter
+      label: Customer
+      hint: null
+      type: select_one
+      options:
+      - Customer 1
+      - Customer 2
+      required: false
+    - id: 12
+      name: order_number
+      label: Order Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: order_item_filter
+      label: Order Item
+      hint: null
+      type: select_one
+      options:
+      - Item 1
+      - Item 2
+      required: false
+    - id: 14
+      name: shipment_status
+      label: Shipment Status
+      hint: null
+      type: select_one
+      options:
+      - Delivered
+      - Not Delivered
+      required: false
+    - id: 15
+      name: shipment_date
+      label: Shipment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: shipment_time
+      label: Shipment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: delivery_phone
+      label: Delivery Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: delivery_email
+      label: Delivery Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: delivery_notes
+      label: Delivery Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: delivery_note_note
+      label: Delivery Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: delivery_note_comment
+      label: Delivery Note Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: delivery_note_attachments
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: delivery_note_tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: delivery_note_created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: delivery_note_updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: delivery_note_created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: delivery_note_updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 29
+      name: delivery_note_created_by_user
+      label: Created By User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: delivery_note_updated_by_user
+      label: Updated By User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: delivery_note_assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      required: false
+    - id: 32
+      name: delivery_note_due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false

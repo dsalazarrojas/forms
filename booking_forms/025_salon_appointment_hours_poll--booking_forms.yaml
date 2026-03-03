@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: salon_appointment_hours_poll
+    pages:
+    - id: 1
+      name: salon_appointment_hours
+      label: select_time_slots
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: available_hours
+      label: select_available_hours
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: preferred_hours
+      label: select_preferred_hours
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: client_email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: salon_phone
+      label: salon_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: appointment_date
+      label: select_date
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: appointment_time
+      label: select_time
+      hint: null
+      type: text
+      options: []
+      required: true

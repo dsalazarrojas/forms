@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bed Sheets Order Form
+    pages:
+    - id: 1
+      name: section_customer_details
+      label: -- Customer and Shipping Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: shipping_address
+      label: Shipping Address
+      hint: Street, City, State, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_product_selection
+      label: -- Bed Sheet Selection --
+      hint: Choose your sizes, materials, and colors
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: sheet_size
+      label: Sheet Size
+      hint: null
+      type: select_one
+      options:
+      - Twin
+      - Twin XL
+      - Full / Double
+      - Queen
+      - King
+      - California King
+      required: true
+    - id: 8
+      name: material_type
+      label: Material Preference
+      hint: null
+      type: select_one
+      options:
+      - 100% Egyptian Cotton
+      - Organic Bamboo
+      - Microfiber
+      - Linen
+      - Tencel
+      - Satin
+      required: true
+    - id: 9
+      name: thread_count
+      label: Preferred Thread Count
+      hint: null
+      type: select_one
+      options:
+      - 200 - 400
+      - 400 - 600
+      - 600 - 800
+      - 800 - 1000
+      required: true
+    - id: 10
+      name: color_choice
+      label: Color or Pattern
+      hint: null
+      type: select_one
+      options:
+      - Classic White
+      - Dove Grey
+      - Navy Blue
+      - Sage Green
+      - Ivory / Cream
+      - Stripe Pattern
+      required: true
+    - id: 11
+      name: order_quantity
+      label: Quantity (Sets)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_payment_billing
+      label: -- Payment and Billing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: preferred_payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Apple Pay
+      - Bank Transfer
+      required: true
+    - id: 14
+      name: special_delivery_notes
+      label: Special Delivery Instructions
+      hint: e.g. Gate code or leave at back door
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: gift_wrap_option
+      label: Would you like gift wrapping?
+      hint: Additional $5.00 fee
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 16
+      name: order_date
+      label: Today's Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time Sheet
+    pages:
+    - id: 1
+      name: time_sheet
+      label: Time Sheet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_date
+      label: Work Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: break_duration
+      label: Break Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: break_frequency
+      label: Break Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_id
+      label: Manager ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments_date
+      label: Comments Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: created_at
+      label: Created At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: deleted_by
+      label: Deleted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: created_at_time
+      label: Created At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: updated_at_time
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: deleted_at_time
+      label: Deleted At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false

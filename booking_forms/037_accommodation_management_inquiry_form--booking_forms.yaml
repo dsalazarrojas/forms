@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accommodation Management Inquiry Form
+    pages:
+    - id: 1
+      name: inquirer_full_name
+      label: Inquirer Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inquirer_email
+      label: Inquirer Email
+      hint: Your email address for response
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: inquirer_phone
+      label: Inquirer Phone
+      hint: Your phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inquiry_date
+      label: Inquiry Date
+      hint: Date of your inquiry
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: inquiry_type
+      label: Inquiry Type
+      hint: What type of accommodation are you inquiring about?
+      type: select_one
+      options:
+      - Hotel Reservation
+      - Long-term Lease
+      - Vacation Rental
+      - Corporate Housing
+      - Student Housing
+      - Senior Living
+      - Other
+      required: true
+    - id: 6
+      name: property_of_interest
+      label: Property of Interest
+      hint: Name of the property you're inquiring about
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: preferred_move_in_date
+      label: Preferred Move In Date
+      hint: When would you like to move in or stay?
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: length_of_stay
+      label: Length of Stay
+      hint: How long do you plan to stay?
+      type: select_one
+      options:
+      - Less than 1 week
+      - 1-2 weeks
+      - 1 month
+      - 2-6 months
+      - 6-12 months
+      - 1 year or more
+      - Open to discussion
+      required: true
+    - id: 9
+      name: number_of_occupants
+      label: Number of Occupants
+      hint: How many people will be staying?
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: accommodation_preferences
+      label: Accommodation Preferences
+      hint: What type of accommodation are you looking for?
+      type: select_multiple
+      options:
+      - Studio
+      - 1 Bedroom
+      - 2 Bedrooms
+      - 3 Bedrooms
+      - More than 3 Bedrooms
+      - Furnished
+      - Unfurnished
+      - Pet-friendly
+      - Wheelchair accessible
+      - Smoking permitted
+      - Non-smoking
+      - Other
+      required: true
+    - id: 11
+      name: budget_range
+      label: Budget Range
+      hint: What is your monthly budget for accommodation?
+      type: select_one
+      options:
+      - Under $500
+      - $500-$1,000
+      - $1,000-$1,500
+      - $1,500-$2,000
+      - $2,000-$3,000
+      - Over $3,000
+      - To be discussed
+      required: true
+    - id: 12
+      name: special_requirements
+      label: Special Requirements
+      hint: Do you have any special requirements?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employment_status
+      label: Employment Status
+      hint: What is your current employment status?
+      type: select_one
+      options:
+      - Employed Full-time
+      - Employed Part-time
+      - Self-employed
+      - Student
+      - Retired
+      - Unemployed
+      - Other
+      required: true
+    - id: 14
+      name: income_verification
+      label: Income Verification
+      hint: Can you provide income verification?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Will provide upon request
+      required: true
+    - id: 15
+      name: references_available
+      label: References Available
+      hint: Do you have references available?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Will provide upon request
+      required: true
+    - id: 16
+      name: preferred_communication_method
+      label: Preferred Communication Method
+      hint: How would you prefer to be contacted?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      - Any Method
+      required: true
+    - id: 17
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is your need for accommodation?
+      type: select_one
+      options:
+      - Immediate (within 1 week)
+      - Soon (within 1 month)
+      - Planned (within 3 months)
+      - Exploring options
+      required: true
+    - id: 18
+      name: additional_inquiries
+      label: Additional Inquiries
+      hint: What other information would you like to know about the accommodation?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: source_of_information
+      label: Source of Information
+      hint: How did you hear about this accommodation?
+      type: select_one
+      options:
+      - Online Search
+      - Referral
+      - Advertisement
+      - Social Media
+      - Real Estate Agent
+      - Other
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other comments or questions?
+      type: text
+      options: []
+      required: false

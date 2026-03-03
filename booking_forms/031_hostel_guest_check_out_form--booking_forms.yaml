@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prophets
+    pages:
+    - id: 1
+      name: check_out_date
+      label: Check Out Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: room_number
+      label: Room Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Online Payment''}'
+      - '{''label'': ''Cash''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 7
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Rent''}'
+      - '{''label'': ''Food''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Paid''}'
+      - '{''label'': ''Outstanding''}'
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Online Payment''}'
+      - '{''label'': ''Cash''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

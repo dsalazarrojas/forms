@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: official_document_header_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: document_id
+      label: Document Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: document_name
+      label: Document Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Document 1''}'
+      - '{''id'': 2, ''label'': ''Document 2''}'
+      required: false
+    - id: 5
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: created_by_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: document_number
+      label: Document Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: document_number_2
+      label: Document Number 2
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Rental Agreement Form
+    pages:
+    - id: 1
+      name: renter_name
+      label: Renter Full Name
+      hint: Name of person or organization renting the facility
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization
+      label: Organization Name
+      hint: Organization if applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number for booking coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: rental_start_date
+      label: Rental Start Date
+      hint: Date when rental begins
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: rental_end_date
+      label: Rental End Date
+      hint: Date when rental ends
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: purpose_of_rental
+      label: Purpose of Rental
+      hint: Brief description of intended use
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: number_of_attendees
+      label: Expected Number of Attendees
+      hint: Estimate for facility planning
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: security_deposit_required
+      label: Security Deposit Required
+      hint: Indicate if deposit is required
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: insurance_required
+      label: Insurance Required
+      hint: Does the renter need to provide insurance
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: additional_terms
+      label: Additional Terms and Conditions
+      hint: Any specialized terms for this rental
+      type: text
+      options: []
+      required: false

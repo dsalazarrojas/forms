@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Equipment Rental Booking Form
+    pages:
+    - id: 1
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''item_label'': ''Laptop''}'
+      - '{''item_label'': ''Projector''}'
+      - '{''item_label'': ''Camera''}'
+      required: true
+    - id: 4
+      name: staff_member
+      label: Staff Member
+      hint: null
+      type: select_one
+      options:
+      - '{''item_label'': ''Staff A''}'
+      - '{''item_label'': ''Staff B''}'
+      - '{''item_label'': ''Staff C''}'
+      required: true
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''item_label'': ''IT''}'
+      - '{''item_label'': ''Admin''}'
+      - '{''item_label'': ''Faculty''}'
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

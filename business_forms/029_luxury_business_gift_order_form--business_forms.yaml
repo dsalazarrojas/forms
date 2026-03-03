@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Luxury Business Gift Order Form
+    pages:
+    - id: 1
+      name: business_forms
+      label: Business Forms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_forms
+      label: Order Forms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: gift_order_process
+      label: Gift Order Process
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: clients_and_employees
+      label: Clients and Employees
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: gift_details
+      label: Gift Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: gift_options
+      label: Gift Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_info
+      label: Delivery Information
+      hint: null
+      type: text
+      options: []
+      required: false

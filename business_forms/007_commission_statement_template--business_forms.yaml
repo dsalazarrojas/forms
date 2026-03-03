@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commission Statement Template
+    pages:
+    - id: 1
+      name: section_rep_info
+      label: -- Representative Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: representative_name
+      label: Sales Representative Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: representative_id
+      label: Representative ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: representative_email
+      label: Email Address
+      hint: For digital statement delivery
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_statement_period
+      label: -- Statement Period --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: period_start_date
+      label: Statement Period Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: period_end_date
+      label: Statement Period End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: section_sales_summary
+      label: -- Sales Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: total_sales_count
+      label: Total Number of Sales in Period
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: total_sales_volume
+      label: Total Gross Sales Volume
+      hint: Exclusive of taxes and returns
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: returns_cancellations
+      label: Returns or Cancellations (Deductions)
+      hint: If none, enter 0
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: net_sales_volume
+      label: Net Sales Volume
+      hint: (Gross Sales - Returns)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: section_commission_calc
+      label: -- Commission Calculation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: commission_percentage
+      label: Base Commission Rate (%)
+      hint: Percentage applied to net sales
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: base_commission_earned
+      label: Base Commission Amount Earned
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: overrides_tier_bonuses
+      label: Overrides or Tiered Bonuses
+      hint: If applicable, otherwise enter 0
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: other_adjustments
+      label: Other Adjustments or Reimbursements
+      hint: e.g., Travel allowance or marketing credit
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: total_payable_commission
+      label: Total Payable Commission for Period
+      hint: Final amount before tax withholding
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: section_authorization
+      label: -- Statement Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: prepared_by
+      label: Statement Prepared By
+      hint: Full Name of Payroll or Manager
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: preparation_date
+      label: Date Statement was Prepared
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: rep_acknowledgement
+      label: I acknowledge receipt of this statement and agree with the calculations
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 23
+      name: ack_date
+      label: Acknowledgment Date
+      hint: null
+      type: date
+      options: []
+      required: true

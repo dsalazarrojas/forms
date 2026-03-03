@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Database Setup Quote Request Form
+    pages:
+    - id: 1
+      name: donor_database_setup_quote_request_form
+      label: Donor Database Setup Quote Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: non_profit_organization
+      label: non_profit_organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: donor_database_description
+      label: donor_database_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: preferred_donor_management_system
+      label: preferred_donor_management_system
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: custom_requirements
+      label: custom_requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: true

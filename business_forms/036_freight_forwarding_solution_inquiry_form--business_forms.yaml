@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Freight Forwarding Solution Inquiry Form
+    pages:
+    - id: 1
+      name: freight_forwarding_solution_inquiry_form
+      label: freight_forwarding_solution_inquiry_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_rates
+      label: shipping_rates
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: service_options
+      label: service_options
+      hint: null
+      type: select_one
+      options:
+      - Domestic
+      - International
+      - Both
+      required: false
+    - id: 4
+      name: delivery_timelines
+      label: delivery_timelines
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: inquiry_type
+      label: inquiry_type
+      hint: null
+      type: select_multiple
+      options:
+      - Rate
+      - Service
+      - Timeline
+      required: false

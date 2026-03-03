@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Refund Authorization Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_refund
+      label: reason for refund
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: refund_amount
+      label: refund amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: authorization
+      label: authorization
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Partial
+      required: true
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

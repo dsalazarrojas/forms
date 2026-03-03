@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gold Price Estimation Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: jewelry_description
+      label: Jewelry Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: material
+      label: Material
+      hint: null
+      type: select_one
+      options:
+      - gold
+      - silver
+      - platinum
+      required: false
+    - id: 5
+      name: carat
+      label: Carat
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: price_range
+      label: Price Range
+      hint: null
+      type: select_multiple
+      options:
+      - high
+      - low
+      - medium
+      required: false
+    - id: 7
+      name: customer_inquiries
+      label: Customer Inquiries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_inquiries_count
+      label: Customer Inquiries Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: customer_inquiries_type
+      label: Customer Inquiry Type
+      hint: null
+      type: select_one
+      options:
+      - email
+      - phone
+      - chat
+      required: false
+    - id: 10
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_chat
+      label: Customer Chat
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: estimated_value
+      label: Estimated Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: actual_value
+      label: Actual Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: difference
+      label: Difference
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

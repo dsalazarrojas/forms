@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Large Format Printing Quote Request Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: print_type
+      label: Print Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Rollup''}'
+      - '{''id'': 2, ''name'': ''Banner''}'
+      - '{''id'': 3, ''name'': ''Poster''}'
+      required: false
+    - id: 3
+      name: print_area
+      label: Print Area
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: paper_type
+      label: Paper Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Paper A''}'
+      - '{''id'': 2, ''name'': ''Paper B''}'
+      - '{''id'': 3, ''name'': ''Paper C''}'
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: finish_type
+      label: Finish Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Gloss''}'
+      - '{''id'': 2, ''name'': ''Matte''}'
+      - '{''id'': 3, ''name'': ''Semi-gloss''}'
+      required: false
+    - id: 7
+      name: material
+      label: Material
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Paper''}'
+      - '{''id'': 2, ''name'': ''Vinyl''}'
+      - '{''id'': 3, ''name'': ''Banner''}'
+      required: false
+    - id: 8
+      name: color
+      label: Color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Red''}'
+      - '{''id'': 2, ''name'': ''Blue''}'
+      - '{''id'': 3, ''name'': ''Yellow''}'
+      required: false
+    - id: 9
+      name: quantity_per_unit
+      label: Quantity Per Unit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: unit_of_measure
+      label: Unit of Measure
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''inches''}'
+      - '{''id'': 2, ''name'': ''feet''}'
+      - '{''id'': 3, ''name'': ''yards''}'
+      required: false
+    - id: 11
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      - '{''id'': 3, ''name'': ''Maybe''}'
+      required: false
+    - id: 13
+      name: date_needed
+      label: Date Needed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time_needed
+      label: Time Needed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: upload
+      label: Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: file_type
+      label: File Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''PDF''}'
+      - '{''id'': 2, ''name'': ''DOCX''}'
+      - '{''id'': 3, ''name'': ''TXT''}'
+      required: false
+    - id: 22
+      name: file_size
+      label: File Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: file_size_unit
+      label: File Size Unit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''GB''}'
+      - '{''id'': 2, ''name'': ''MB''}'
+      - '{''id'': 3, ''name'': ''KB''}'
+      required: false
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission
+      label: Submission
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Submit Product
+    pages:
+    - id: 1
+      name: product_form
+      label: Product form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: Product name
+      hint: Please enter product name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_description
+      label: Product description
+      hint: Please enter product description
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: product_price_currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      required: false
+    - id: 6
+      name: product_tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - Tag 1
+      - Tag 2
+      - Tag 3
+      required: false

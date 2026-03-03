@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: High Visibility Gear Order Form
+    pages:
+    - id: 1
+      name: high_visibility_gear_order_form
+      label: High Visibility Gear Order
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - High Visibility Clothing
+      - High Visibility Accessories
+      required: true
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: color
+      label: Color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Black
+      required: true
+    - id: 5
+      name: size
+      label: Size
+      hint: null
+      type: select_multiple
+      options:
+      - Large
+      - Medium
+      - Small
+      required: true
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: high_visibility_gear_order_form_comments
+      label: High Visibility Gear Order Form Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy2
+      required: true

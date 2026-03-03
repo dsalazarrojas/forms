@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cargo Van Reservation Form
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: driver_license
+      label: Driver's License Number
+      hint: Required for vehicle pickup
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_reservation
+      label: -- Reservation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: pickup_date
+      label: Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: pickup_time
+      label: Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: return_time
+      label: Return Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: van_size
+      label: Preferred Van Size
+      hint: Select the capacity needed
+      type: select_one
+      options:
+      - Small (e.g., Ford Transit Connect)
+      - Medium (e.g., Mercedes Sprinter)
+      - Large (e.g., Extended Wheelbase)
+      - Extra Large (e.g., High Roof Extended)
+      required: true
+    - id: 12
+      name: section_rental_options
+      label: -- Rental Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: rental_duration_days
+      label: Rental Duration (days)
+      hint: total number of days for hire
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: insurance_package
+      label: Insurance Package
+      hint: protect against damage and liability
+      type: select_one
+      options:
+      - Basic Coverage
+      - Plus Coverage
+      - Premium Coverage
+      - None (Own Insurance)
+      required: true
+    - id: 15
+      name: additional_driver
+      label: Add an additional driver?
+      hint: additional fees may apply
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: section_equipment
+      label: -- Equipment and Accessories --
+      hint: Optional add-ons
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: equipment_add_ons
+      label: Additional Equipment
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Moving Pads
+      - Dolly
+      - GPS Navigation
+      - Ratchet Straps
+      - Loading Ramp
+      required: false
+    - id: 18
+      name: estimated_mileage
+      label: Estimated Mileage for Rental
+      hint: total distance you plan to travel
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: section_purpose
+      label: -- Purpose of Rental --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: rental_purpose
+      label: Primary Purpose
+      hint: Why do you need a cargo van?
+      type: select_one
+      options:
+      - Personal Move
+      - Business Delivery
+      - Event Transport
+      - Storage Move
+      required: true
+    - id: 21
+      name: cargo_description
+      label: What will you be transporting?
+      hint: Furniture, boxes, equipment, etc.
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: section_payment
+      label: -- Payment and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: deposit_payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Cash
+      required: true
+    - id: 24
+      name: agreement_confirmation
+      label: I agree to the rental terms and conditions
+      hint: and take responsibility for the vehicle
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: digital_signature
+      label: Customer Signature
+      hint: Type full name as confirmation
+      type: text
+      options: []
+      required: true

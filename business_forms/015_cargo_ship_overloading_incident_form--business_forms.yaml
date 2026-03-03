@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cargo Ship Overloading Incident Form
+    pages:
+    - id: 1
+      name: section_vessel_voyage
+      label: -- Vessel and Voyage Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vessel_name
+      label: Vessel Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: imo_number
+      label: IMO Number
+      hint: unique identification number for ships
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: voyage_number
+      label: Voyage Number
+      hint: current journey identifier
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: master_name
+      label: Master's Name
+      hint: Name of the commanding officer
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_incident_summary
+      label: -- Incident Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: incident_date
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: incident_time
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: incident_location
+      label: Current Location
+      hint: Lat/Long coordinates or Port name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_loading_details
+      label: -- Loading Details --
+      hint: draft measurements
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: maximum_permissible_draft
+      label: Maximum Permissible Draft (m)
+      hint: from the ship's load line certificate
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: actual_draft_at_departure
+      label: Actual Draft at Departure (m)
+      hint: observed draft reading
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: draft_discrepancy
+      label: Observed Over-draft (cm)
+      hint: difference between actual and permissible draft
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: load_line_status
+      label: Load Line Status
+      hint: physical observation
+      type: select_one
+      options:
+      - Above Line
+      - Below Line
+      - Submerged
+      required: true
+    - id: 15
+      name: section_cause
+      label: -- Cause of Overloading --
+      hint: identify the root issue
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: overloading_cause
+      label: Primary Cause of Overloading
+      hint: null
+      type: select_one
+      options:
+      - Calculation Error
+      - Incorrect Cargo Weight
+      - Unauthorized Cargo
+      - Water Ingress
+      - Improper Ballasting
+      - Other
+      required: true
+    - id: 17
+      name: detailed_cause_description
+      label: Provide details on the cause
+      hint: explain how the discrepancy occurred
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: section_impact_actions
+      label: -- Impact and Actions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: vessel_stability_impact
+      label: Impact on Vessel Stability
+      hint: perceived change in vessel behavior
+      type: select_one
+      options:
+      - Negligible
+      - Minimal
+      - Significant
+      - Dangerous
+      required: true
+    - id: 20
+      name: risk_of_structural_damage
+      label: Observed risk of structural damage?
+      hint: hull stress or strain
+      type: select_one
+      options:
+      - true
+      - false
+      - Possible
+      required: true
+    - id: 21
+      name: immediate_actions_taken
+      label: Immediate actions taken
+      hint: deballasting, unloading, etc.
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: section_regulatory
+      label: -- Regulatory and Reporting --
+      hint: compliance check
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: port_authority_notified
+      label: Port Authority Notified?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: section_final
+      label: -- Final Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: reporter_declaration
+      label: I confirm this incident report is accurate
+      hint: Type name as digital signature
+      type: text
+      options: []
+      required: true

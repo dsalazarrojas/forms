@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Plumbing System Inspection Form
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: system_condition
+      label: System Condition
+      hint: null
+      type: select_one
+      options:
+      - good
+      - fair
+      - poor
+      required: false
+    - id: 4
+      name: leak_location
+      label: Leak Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fixture_condition
+      label: Fixture Condition
+      hint: null
+      type: select_one
+      options:
+      - excellent
+      - fair
+      - poor
+      required: false
+    - id: 6
+      name: pipe_material
+      label: Pipe Material
+      hint: null
+      type: select_one
+      options:
+      - Copper
+      - PEX
+      - PVC
+      required: false
+    - id: 7
+      name: pipe_size
+      label: Pipe Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: pipe_condition
+      label: Pipe Condition
+      hint: null
+      type: select_one
+      options:
+      - good
+      - fair
+      - poor
+      required: false
+    - id: 9
+      name: water_quality
+      label: Water Quality
+      hint: null
+      type: select_one
+      options:
+      - excellent
+      - good
+      - fair
+      - poor
+      required: false
+    - id: 10
+      name: fixture_type
+      label: Fixture Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: fixture_type_location
+      label: Fixture Type Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: fixture_condition
+      label: Fixture Condition
+      hint: null
+      type: select_one
+      options:
+      - excellent
+      - fair
+      - poor
+      required: false
+    - id: 13
+      name: water_quality_location
+      label: Water Quality Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: pipe_location
+      label: Pipe Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: other_notes
+      label: Other Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: system_status
+      label: System Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      required: false
+    - id: 17
+      name: system_status_location
+      label: System Status Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: other_system_status
+      label: Other System Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: system_notes
+      label: System Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: water_temperature
+      label: Water Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: pipe_diameter
+      label: Pipe Diameter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: pipe_depth
+      label: Pipe Depth
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: fixture_depth
+      label: Fixture Depth
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: system_rating
+      label: System Rating
+      hint: null
+      type: select_multiple
+      options:
+      - excellent
+      - good
+      - fair
+      - poor
+      required: false
+    - id: 25
+      name: system_rating_location
+      label: System Rating Location
+      hint: null
+      type: text
+      options: []
+      required: false

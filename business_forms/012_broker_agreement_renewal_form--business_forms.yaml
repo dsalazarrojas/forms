@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Broker Agreement Renewal Form
+    pages:
+    - id: 1
+      name: broker_information_header
+      label: -- Broker Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: broker_name
+      label: Broker Full Name
+      hint: Full legal name of the broker
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: broker_license_number
+      label: Broker License Number
+      hint: Your current license number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: broker_email
+      label: Broker Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: broker_phone
+      label: Broker Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: firm_name
+      label: Firm Name
+      hint: Name of the brokerage firm
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: agreement_details_header
+      label: -- Agreement Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_agreement_number
+      label: Current Agreement Number
+      hint: Number of the agreement being renewed
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: original_agreement_date
+      label: Original Agreement Date
+      hint: When the original agreement was signed
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: current_agreement_end_date
+      label: Current Agreement End Date
+      hint: When the current agreement expires
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: agreement_type
+      label: Agreement Type
+      hint: Type of agreement to renew
+      type: select_one
+      options:
+      - Listing Agreement
+      - Buyer Representation
+      - Dual Agency
+      - Property Management
+      - Leasing Agreement
+      - General Brokerage
+      required: true
+    - id: 12
+      name: renewal_period
+      label: Requested Renewal Period
+      hint: Duration of the renewal
+      type: select_one
+      options:
+      - 3 Months
+      - 6 Months
+      - 12 Months
+      - 24 Months
+      - Month to Month
+      required: true
+    - id: 13
+      name: renewal_start_date
+      label: Renewal Start Date
+      hint: When the renewal should begin
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: property_information_header
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: property_address
+      label: Property Address
+      hint: Address of the property involved
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: property_type
+      label: Property Type
+      hint: Type of property
+      type: select_one
+      options:
+      - Residential Single Family
+      - Residential Multi-Family
+      - Commercial
+      - Industrial
+      - Land
+      - Mixed Use
+      required: true
+    - id: 17
+      name: listing_price
+      label: Listing Price
+      hint: Asking price for the property
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: commission_rate
+      label: Commission Rate
+      hint: Agreed commission percentage
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: terms_updates_header
+      label: -- Terms and Updates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: terms_changed
+      label: Have Terms Changed
+      hint: Are there any changes to the agreement terms
+      type: select_one
+      options:
+      - No changes
+      - Yes minor changes
+      - Yes significant changes
+      required: true
+    - id: 21
+      name: term_changes_description
+      label: Description of Changes
+      hint: Describe any changes if applicable
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: performance_summary
+      label: Performance Summary
+      hint: Brief summary of activity during current agreement
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: client_feedback
+      label: Client Feedback
+      hint: Any feedback from the client
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: compliance_header
+      label: -- Compliance and Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: license_status
+      label: License Status
+      hint: Confirm your license is current and in good standing
+      type: select_one
+      options:
+      - Active and Current
+      - Pending Renewal
+      required: true
+    - id: 26
+      name: errors_omissions_insurance
+      label: E and O Insurance Current
+      hint: Confirm errors and omissions insurance is active
+      type: select_one
+      options:
+      - Yes current
+      - false
+      required: true
+    - id: 27
+      name: agreement_acknowledgement
+      label: I agree to the renewal terms
+      hint: Check to acknowledge agreement renewal
+      type: select_one
+      options:
+      - I Agree to Renewal
+      - Other
+      required: true
+    - id: 28
+      name: electronic_signature
+      label: Electronic Signature
+      hint: Type your full legal name to sign
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: signature_date
+      label: Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true

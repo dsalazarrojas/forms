@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: LVCC Boarding Contract
+    pages:
+    - id: 1
+      name: boarding_contract_form
+      label: Pet Boarding Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_name
+      label: petname
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_type
+      label: pettype
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Dog''}'
+      - '{''value'': ''Cat''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: pet_breed
+      label: petbreed
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Poodle''}'
+      - '{''value'': ''Siamese''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 5
+      name: owner_name
+      label: ownername
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: contactinfo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: arrival_date
+      label: arrivaldate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: departure_date
+      label: departuredate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: special_request
+      label: specialrequest
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: payment
+      label: payment
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Pay on Arrival''}'
+      - '{''value'': ''Pay on Departure''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 13
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: boarding_contract_terms
+      label: boardingcontractterms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: acknowledgement
+      label: acknowledgement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: signature_date
+      label: signaturedate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: contract_date
+      label: contractdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: boarding_contract_number
+      label: boardingcontractnumber
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: pet_medical_info
+      label: petmedicalinfo
+      hint: null
+      type: note
+      options: []
+      required: false

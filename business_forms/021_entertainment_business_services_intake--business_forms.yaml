@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Entertainment Business Services Intake
+    pages:
+    - id: 1
+      name: new_client_inquiries
+      label: New client inquiries
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_details
+      label: Event details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: budgets
+      label: Budgets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: contact_preferences
+      label: Contact preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Agency
+      - Venue
+      - Creative
+      required: true
+    - id: 5
+      name: event_type
+      label: Event type
+      hint: null
+      type: select_one
+      options:
+      - Live Performance
+      - Event
+      - Other
+      required: true
+    - id: 6
+      name: event_start_date
+      label: Event start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_end_date
+      label: Event end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_start_time
+      label: Event start time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: event_end_time
+      label: Event end time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Studio
+      - Theater
+      - Arena
+      - Other
+      required: true
+    - id: 11
+      name: event_description
+      label: Event description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: client_email
+      label: Client email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: client_phone
+      label: Client phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: agency_email
+      label: Agency email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: agency_phone
+      label: Agency phone
+      hint: null
+      type: text
+      options: []
+      required: true

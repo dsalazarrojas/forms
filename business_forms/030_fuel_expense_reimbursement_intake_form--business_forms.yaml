@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fuel Expense Reimbursement Intake Form
+    pages:
+    - id: 1
+      name: business_forms_intake_form
+      label: Fuel Expense Reimbursement Intake Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: business_form_id
+      label: Business Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_trip
+      label: Date Of Trip
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: mileage
+      label: Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: fuel_price
+      label: Fuel Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: business_forms_intake_form_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: business_forms_intake_form_submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''User 1''}'
+      - '{''label'': ''User 2''}'
+      - '{''label'': ''User 3''}'
+      required: false
+    - id: 9
+      name: business_forms_intake_form_submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''User 1''}'
+      - '{''label'': ''User 2''}'
+      required: false
+    - id: 10
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Literacy Challenge
+    pages:
+    - id: 1
+      name: user_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: savings
+      label: savings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: financial_knowledge
+      label: financial_knowledge
+      hint: null
+      type: select_one
+      options:
+      - Financial Literacy
+      - Financial Planning
+      - Financial Analysis
+      - Investment Management
+      required: false
+    - id: 8
+      name: financial_knowledge_2
+      label: financial_knowledge_2
+      hint: null
+      type: select_multiple
+      options:
+      - Financial Planning
+      - Financial Analysis
+      - Investment Management
+      required: false
+    - id: 9
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

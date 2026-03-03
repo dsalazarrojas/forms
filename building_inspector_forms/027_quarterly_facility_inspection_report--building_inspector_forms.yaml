@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: quarterly Facility Inspection Report
+    pages:
+    - id: 1
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_last_inspected
+      label: Date Last Inspected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: inspector_id
+      label: Inspector ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: facility_status
+      label: Facility Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: safety_comments
+      label: Safety Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: facility_condition
+      label: Facility Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: facility_status_comments
+      label: Facility Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false

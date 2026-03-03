@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Franchise Manual Revision Request Form
+    pages:
+    - id: 1
+      name: franchise_manual_revision_request_form
+      label: Franchise Manual Revision Request Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: franchise_manual_change_reason
+      label: What is the reason for the manual change request
+      hint: Please provide a brief explanation of the change request
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: change_request_description
+      label: Change Request Description
+      hint: Briefly describe the requested change
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: franchise_manual_version
+      label: Franchise Manual Version
+      hint: Please enter the current version of the franchise manual
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: franchise_manual_previous_version
+      label: Previous Franchise Manual Version
+      hint: Please enter the version of the franchise manual before the change
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: new_franchise_manual_version
+      label: New franchise manual version
+      hint: Please enter the new version of the franchise manual
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: franchise_manual_effective_date
+      label: Franchise Manual Effective Date
+      hint: Please enter the date when the new version will be effective
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: franchise_manual_status
+      label: Franchise Manual Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 9
+      name: submitter_name
+      label: Submitter's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_email
+      label: Submitter's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: submitter_phone
+      label: Submitter's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_department
+      label: Submitter's Department
+      hint: null
+      type: select_multiple
+      options:
+      - HQ
+      - Regional
+      - Local
+      required: false

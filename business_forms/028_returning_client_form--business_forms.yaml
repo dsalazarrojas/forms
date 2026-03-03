@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Returning Client Form
+    pages:
+    - id: 1
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: previous_engagement
+      label: previous_engagement
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: client_service_provider
+      label: client_service_provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: update_details
+      label: update_details
+      hint: null
+      type: note
+      options: []
+      required: false

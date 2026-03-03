@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vacation Rental Release Form
+    pages:
+    - id: 1
+      name: guest_information
+      label: Guest Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': 1}'
+      - '{''label'': False, ''value'': 2}'
+      required: false
+    - id: 3
+      name: rental_terms
+      label: Rental Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Cash'', ''value'': 1}'
+      - '{''label'': ''Credit Card'', ''value'': 2}'
+      - '{''label'': ''PayPal'', ''value'': 3}'
+      required: false
+    - id: 6
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rental_duration
+      label: Rental Duration
+      hint: null
+      type: number
+      options: []
+      required: false

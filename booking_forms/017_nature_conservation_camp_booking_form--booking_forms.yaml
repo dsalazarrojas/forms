@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nature Conservation Camp Booking Form
+    pages:
+    - id: 1
+      name: nature_conservation_camp_booking_form
+      label: booking_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: participant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_details
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: booking_status
+      label: booking_status
+      hint: null
+      type: select_multiple
+      options:
+      - pending
+      - confirmed
+      - rejected
+      required: false
+    - id: 6
+      name: participant_status
+      label: participant_status
+      hint: null
+      type: select_one
+      options:
+      - confirmed
+      - pending
+      required: false
+    - id: 7
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: participant_details
+      label: participant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_details
+      label: participant_details
+      hint: Enter a list of participant details
+      type: note
+      options: []
+      required: false

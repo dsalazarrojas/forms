@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: subcontractor_time_allocation_form
+    pages:
+    - id: 1
+      name: project
+      label: Project
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: hours_worked
+      label: Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: week
+      label: Week
+      hint: null
+      type: select_one
+      options:
+      - Week 1
+      - Week 2
+      - Week 3
+      required: true
+    - id: 4
+      name: subcontractor
+      label: Subcontractor
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      required: true
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

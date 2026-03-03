@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cocktail Bar Booking Inquiry
+    pages:
+    - id: 1
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company
+      label: Company or Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_event_details
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Corporate event
+      - Wedding
+      - Private party
+      - Networking event
+      - Product launch
+      - Other
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: event_end_time
+      label: Event End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: event_location
+      label: Event Location or Venue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_guest_info
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: number_of_guests
+      label: Expected Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: section_bar_services
+      label: -- Bar Services Requested --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: service_type
+      label: Type of Service
+      hint: null
+      type: select_one
+      options:
+      - Full bar service
+      - Limited bar service
+      - Cocktail service only
+      - Bartender rental
+      - Other
+      required: true
+    - id: 16
+      name: special_requests
+      label: Special Requests or Preferences
+      hint: Specific drinks, themes, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: dietary_restrictions
+      label: Dietary or Alcohol Restrictions
+      hint: Any special considerations?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_setup
+      label: -- Setup and Equipment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: setup_required
+      label: Setup and Equipment Required
+      hint: null
+      type: select_one
+      options:
+      - Full setup and service
+      - Bar equipment only
+      - Just bartender
+      - Venue provides setup
+      required: true
+    - id: 20
+      name: venue_amenities
+      label: Venue Amenities Available
+      hint: Electrical outlets, ice, etc.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_budget
+      label: -- Budget Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: budget_range
+      label: Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Under 500
+      - 500-1000
+      - 1000-2000
+      - 2000-5000
+      - 5000+
+      - Not determined yet
+      required: false
+    - id: 23
+      name: inquiry_date
+      label: Inquiry Date
+      hint: null
+      type: date
+      options: []
+      required: true

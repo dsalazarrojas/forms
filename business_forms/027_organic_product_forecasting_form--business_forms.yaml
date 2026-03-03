@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organic Product Forecasting Form
+    pages:
+    - id: 1
+      name: organic_product_forecasting_form_1
+      label: Organic Product Forecasting Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organic_product_forecasting_form_2
+      label: Select Products
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Banana
+      - Carrot
+      required: false
+    - id: 3
+      name: organic_product_forecasting_form_3
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: organic_product_forecasting_form_4
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: organic_product_forecasting_form_5
+      label: Forecast Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: organic_product_forecasting_form_6
+      label: Distribution Channel
+      hint: null
+      type: select_multiple
+      options:
+      - Store 1
+      - Store 2
+      - Store 3
+      required: false
+    - id: 7
+      name: organic_product_forecasting_form_7
+      label: Production Location
+      hint: null
+      type: select_one
+      options:
+      - Farm 1
+      - Farm 2
+      - Farm 3
+      required: false
+    - id: 8
+      name: organic_product_forecasting_form_8
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

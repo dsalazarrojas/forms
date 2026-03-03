@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fleet Maintenance Report Form
+    pages:
+    - id: 1
+      name: main_form
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_maintenance
+      label: Maintenance Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: vehicle_repair
+      label: Vehicle Repairs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_inspection
+      label: Vehicle Inspections
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: vehicle_inspection_notes
+      label: Inspection Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_inspection_status
+      label: Inspection Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: vehicle_inspection_result
+      label: Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: vehicle_inspection_remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_inspection_cost
+      label: Inspection Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_inspection_mileage
+      label: Inspection Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_inspection_remarks
+      label: Additional Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_inspection_status_change
+      label: Status Change
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

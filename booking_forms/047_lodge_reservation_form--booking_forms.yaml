@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lodge Reservation Form
+    pages:
+    - id: 1
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: guest_message
+      label: Guest Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: business_leisure
+      label: Business or Leisure
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Leisure
+      required: false
+    - id: 9
+      name: business_traveling
+      label: Business Traveling
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: reservation_type
+      label: Reservation Type
+      hint: null
+      type: select_one
+      options:
+      - Overnight
+      - Day Use
+      - Week End
+      required: false

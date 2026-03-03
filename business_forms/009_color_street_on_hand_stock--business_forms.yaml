@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street On Hand Stock
+    pages:
+    - id: 1
+      name: stylist_name
+      label: Stylist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: stock_date
+      label: Stock Check Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: section_on_hand
+      label: -- Current On Hand Stock --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: glitter_quantity
+      label: Glitter Sets Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: solid_quantity
+      label: Solid Sets Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: art_design_quantity
+      label: Art/Design Sets Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: french_quantity
+      label: French Sets Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: pedicure_quantity
+      label: Pedicure Sets Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: seasonal_quantity
+      label: Seasonal/Limited Edition Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_value
+      label: -- Stock Value Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: total_stock_value
+      label: Estimated Total Retail Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: discrepancies
+      label: Any discrepancies noted?
+      hint: null
+      type: text
+      options: []
+      required: false

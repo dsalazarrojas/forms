@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Set Up Time Selection
+    pages:
+    - id: 1
+      name: vendor_set_up_time_selection
+      label: Vendor Set-Up Time Selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: move_in_start_time
+      label: Move-In Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: move_in_end_time
+      label: Move-In End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: vendor_setup_details
+      label: Vendor Setup Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: vendor_setup_location
+      label: Vendor Setup Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: move_in_details
+      label: Move-in Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: estimated_arrival_time
+      label: Estimated Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: vendor_set_up_requirements
+      label: Vendor Set-Up Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: vendor_set_up_requirements_additional_info
+      label: Additional Vendor Set-Up Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: vendor_set_up_time_selection
+      label: Vendor Set-Up Time Selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: vendor_contact_info
+      label: Vendor Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_id
+      label: Event ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: vendor_id
+      label: Vendor ID
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Identification Number Survey
+    pages:
+    - id: 1
+      name: section_legal_entity_identification
+      label: -- Legal Entity Identification --
+      hint: Official registration details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: legal_entity_registered_name
+      label: Official Entity Name
+      hint: As registered with the government
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_registered_address_full
+      label: Registered Address
+      hint: Include City, State, and Zip Code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: federal_tax_id_ein
+      label: Federal Tax ID / EIN
+      hint: e.g. 12-3456789
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: local_business_registration_number
+      label: Business Registration Number
+      hint: State or local registration ID
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state_of_incorporation_registration
+      label: State or Province of Registration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: year_of_incorporation_official
+      label: Year of Incorporation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: section_business_contact_id
+      label: -- Contact and Online Presence --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: official_contact_person_name
+      label: Primary Contact Name
+      hint: Person authorized for business identity matters
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: official_contact_email_address
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: official_contact_phone_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: company_website_domain
+      label: Business Website
+      hint: e.g. www.business.com
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: industry_classification_naics_sic
+      label: Industry Classification
+      hint: Primary business activity category
+      type: select_one
+      options:
+      - Agriculture / Forestry
+      - Construction / Real Estate
+      - Education / Social Services
+      - Finance / Insurance
+      - Healthcare / Medical
+      - Manufacturing / Retail
+      - Technology / Professional Services
+      - Transportation / Logistics
+      required: true
+    - id: 14
+      name: verification_acknowledgment_id
+      label: I certify that the identification numbers provided are accurate
+      hint: null
+      type: select_one
+      options:
+      - Certified
+      - Other
+      required: true
+    - id: 15
+      name: survey_date_recorded
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Distribution Group Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Marketing''}'
+      - '{''label'': ''Sales''}'
+      - '{''label'': ''Support''}'
+      required: true
+    - id: 5
+      name: manager_name
+      label: Manager name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: team_size
+      label: Team size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''2-10''}'
+      - '{''label'': ''11-20''}'
+      - '{''label'': ''21-30''}'
+      required: true
+    - id: 8
+      name: product
+      label: Product
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Product A''}'
+      - '{''label'': ''Product B''}'
+      - '{''label'': ''Product C''}'
+      required: true
+    - id: 9
+      name: distribution_location
+      label: Distribution location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: team_lead_email
+      label: Team lead email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: team_lead_phone
+      label: Team lead phone
+      hint: null
+      type: text
+      options: []
+      required: false

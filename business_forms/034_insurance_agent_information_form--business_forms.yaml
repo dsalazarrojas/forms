@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: insurance-agent-information-form
+    pages:
+    - id: 1
+      name: agency_name
+      label: Agency Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: agent_name
+      label: agent-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: phone-number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: insurance_lines
+      label: insurance-lines
+      hint: null
+      type: select_multiple
+      options:
+      - Life
+      - Auto
+      - Health
+      - Home
+      required: false
+    - id: 6
+      name: license_number
+      label: license-number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: certification_date
+      label: certification-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: experience_years
+      label: experience-years
+      hint: null
+      type: number
+      options: []
+      required: false

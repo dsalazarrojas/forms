@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flight Rescheduling Request Form
+    pages:
+    - id: 1
+      name: flight_info
+      label: Flight Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: passenger_info
+      label: Passenger Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: airline_info
+      label: Airline
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: flight_details
+      label: Flight Details
+      hint: null
+      type: select_multiple
+      options:
+      - Domestic
+      - International
+      required: true
+    - id: 6
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: reason_for_reschedule
+      label: Reason For Reschedule
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: flight_status
+      label: Flight Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: airline_phone
+      label: Airline Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: airline_email
+      label: Airline Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: airline_url
+      label: Airline URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: airline_fax
+      label: Airline Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: airline_address
+      label: Airline Address
+      hint: null
+      type: text
+      options: []
+      required: false

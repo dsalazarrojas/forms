@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact A Manufacturing Technology Advisor
+    pages:
+    - id: 1
+      name: inquiry_details
+      label: Technology Inquiry Details
+      hint: Tell us about your manufacturing technology needs
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your organization name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Direct contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_role
+      label: Job Role
+      hint: Your position
+      type: select_one
+      options:
+      - Engineer
+      - Operations Manager
+      - Plant Manager
+      - Technology Director
+      - Executive
+      - Consultant
+      - Other
+      required: true
+    - id: 8
+      name: manufacturing_sector
+      label: Manufacturing Sector
+      hint: Your industry sector
+      type: select_one
+      options:
+      - Discrete Manufacturing
+      - Process Manufacturing
+      - Hybrid Manufacturing
+      - Job Shop
+      - Contract Manufacturing
+      required: true
+    - id: 9
+      name: technology_interest
+      label: Technology Areas of Interest
+      hint: Select technologies you want to explore
+      type: select_multiple
+      options:
+      - Industrial IoT
+      - Robotics and Automation
+      - AI and Machine Learning
+      - Additive Manufacturing
+      - CNC and Machining
+      - Quality Control Systems
+      - MES Systems
+      - Digital Twin Technology
+      required: true
+    - id: 10
+      name: current_technology_level
+      label: Current Technology Adoption Level
+      hint: How would you describe your current state
+      type: select_one
+      options:
+      - Legacy Systems Only
+      - Basic Automation
+      - Partially Digitalized
+      - Mostly Automated
+      - Industry 4.0 Ready
+      required: true
+    - id: 11
+      name: project_type
+      label: Project Type
+      hint: What type of project is this
+      type: select_one
+      options:
+      - New Implementation
+      - System Upgrade
+      - Process Optimization
+      - Technology Assessment
+      - Troubleshooting
+      required: true
+    - id: 12
+      name: budget_range
+      label: Budget Range
+      hint: Estimated investment range
+      type: select_one
+      options:
+      - Under $100000
+      - $100000-$500000
+      - $500000-$1000000
+      - $1000000-$5000000
+      - Over $5000000
+      required: false
+    - id: 13
+      name: timeline
+      label: Implementation Timeline
+      hint: Expected timeframe
+      type: select_one
+      options:
+      - Immediate
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - Planning Phase
+      required: true
+    - id: 14
+      name: team_size
+      label: Project Team Size
+      hint: Number of people involved
+      type: select_one
+      options:
+      - 1-5
+      - 6-10
+      - 11-25
+      - 26-50
+      - Over 50
+      required: false
+    - id: 15
+      name: pain_points
+      label: Current Pain Points
+      hint: Select challenges you face
+      type: select_multiple
+      options:
+      - Low Productivity
+      - High Defect Rates
+      - Equipment Downtime
+      - Skills Gap
+      - Data Visibility
+      - Integration Issues
+      - Cost Pressures
+      - Quality Consistency
+      required: true
+    - id: 16
+      name: project_description
+      label: Project Description
+      hint: Describe your technology needs
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: success_criteria
+      label: Success Criteria
+      hint: What defines success for this project
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: How should we reach you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Video Call
+      - In-Person Meeting
+      required: true
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

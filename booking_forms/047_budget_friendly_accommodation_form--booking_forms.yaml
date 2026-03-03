@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budget Friendly Accommodation Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest name
+      hint: Full name for booking
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: Email for booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: check_in_date
+      label: Check in date
+      hint: Arrival date for stay
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: check_out_date
+      label: Check out date
+      hint: Departure date for stay
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: room_preference
+      label: Room preference
+      hint: Type of budget room preferred
+      type: select_one
+      options:
+      - Single
+      - Double
+      - Shared dorm
+      required: false
+    - id: 6
+      name: max_budget_per_night
+      label: Max budget per night
+      hint: Maximum acceptable nightly rate
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: accessibility_needs
+      label: Accessibility needs
+      hint: Any mobility or accessibility requirements
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: special_requests
+      label: Special requests
+      hint: Additional booking requests
+      type: text
+      options: []
+      required: false

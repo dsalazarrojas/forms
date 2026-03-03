@@ -1,0 +1,378 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Rental Billing Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: Customer Information
+      hint: Billing contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For billing communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Billing address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: rental_information
+      label: Rental Information
+      hint: Rental agreement details
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: reservation_number
+      label: Reservation Number
+      hint: Confirmation number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: rental_start_date
+      label: Rental Start Date
+      hint: Pickup date
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: rental_end_date
+      label: Rental End Date
+      hint: Return date
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: actual_return_date
+      label: Actual Return Date
+      hint: If different
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: rental_days
+      label: Total Rental Days
+      hint: Number of days
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: vehicle_information
+      label: Vehicle Information
+      hint: Rented vehicle details
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_category
+      label: Vehicle Category
+      hint: Class of vehicle
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: vehicle_make_model
+      label: Vehicle Make and Model
+      hint: Specific vehicle
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: vehicle_vin
+      label: Vehicle VIN
+      hint: Vehicle Identification Number
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: license_plate
+      label: License Plate
+      hint: Plate number
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: starting_mileage
+      label: Starting Mileage
+      hint: Odometer at pickup
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: ending_mileage
+      label: Ending Mileage
+      hint: Odometer at return
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: miles_driven
+      label: Total Miles Driven
+      hint: Total distance
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: billing_charges
+      label: Billing Charges
+      hint: Itemized charges
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: daily_rate
+      label: Daily Rental Rate
+      hint: Rate per day
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: base_rental_charge
+      label: Base Rental Charge
+      hint: Subtotal for rental
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: mileage_charge
+      label: Mileage Charge
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: additional_driver_fee
+      label: Additional Driver Fee
+      hint: Fee for extra drivers
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: gps_fee
+      label: GPS Navigation Fee
+      hint: If rented
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: child_seat_fee
+      label: Child Seat Fee
+      hint: If rented
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: additional_equipment_fee
+      label: Additional Equipment Fee
+      hint: Other equipment
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: insurance_charges
+      label: Insurance Charges
+      hint: Coverage fees
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: fuel_charges
+      label: Fuel Charges
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 34
+      name: toll_charges
+      label: Toll Charges
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 35
+      name: late_return_fee
+      label: Late Return Fee
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 36
+      name: cleaning_fee
+      label: Cleaning Fee
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 37
+      name: damage_charges
+      label: Damage Charges
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 38
+      name: other_charges
+      label: Other Charges
+      hint: Any other fees
+      type: number
+      options: []
+      required: false
+    - id: 39
+      name: other_charges_description
+      label: Other Charges Description
+      hint: Describe other charges
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: subtotal
+      label: Subtotal
+      hint: Before taxes
+      type: number
+      options: []
+      required: true
+    - id: 41
+      name: tax_rate
+      label: Tax Rate
+      hint: Tax percentage
+      type: number
+      options: []
+      required: true
+    - id: 42
+      name: taxes
+      label: Taxes
+      hint: Tax amount
+      type: number
+      options: []
+      required: true
+    - id: 43
+      name: total_amount
+      label: Total Amount Due
+      hint: Final total
+      type: number
+      options: []
+      required: true
+    - id: 44
+      name: payments
+      label: Payments
+      hint: Payment information
+      type: note
+      options: []
+      required: false
+    - id: 45
+      name: deposit_amount
+      label: Deposit Amount
+      hint: Security deposit
+      type: number
+      options: []
+      required: false
+    - id: 46
+      name: deposit_status
+      label: Deposit Status
+      hint: Deposit status
+      type: select_one
+      options:
+      - Held
+      - Released
+      - Applied to balance
+      required: false
+    - id: 47
+      name: amount_paid
+      label: Amount Paid
+      hint: Amount already paid
+      type: number
+      options: []
+      required: false
+    - id: 48
+      name: payment_date
+      label: Payment Date
+      hint: When was payment made?
+      type: date
+      options: []
+      required: false
+    - id: 49
+      name: balance_due
+      label: Balance Due
+      hint: Remaining balance
+      type: number
+      options: []
+      required: true
+    - id: 50
+      name: payment_method
+      label: Payment Method
+      hint: How was/will it be paid?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Check
+      - Corporate Account
+      - Pending
+      required: true
+    - id: 51
+      name: billing_notes
+      label: Billing Notes
+      hint: Any additional notes
+      type: text
+      options: []
+      required: false
+    - id: 52
+      name: billing_date
+      label: Billing Date
+      hint: Date of this invoice
+      type: date
+      options: []
+      required: true

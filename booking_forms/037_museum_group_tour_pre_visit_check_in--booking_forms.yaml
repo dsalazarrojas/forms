@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Museum Group Tour Pre Visit Check In
+    pages:
+    - id: 1
+      name: group_name
+      label: Group Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: group_size
+      label: Group Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: visit_time
+      label: Visit Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: tour_type
+      label: Tour Type
+      hint: Select One
+      type: select_one
+      options:
+      - Guided Tour
+      - Self-Guided Tour
+      required: true
+    - id: 6
+      name: tour_guide
+      label: Tour Guide
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

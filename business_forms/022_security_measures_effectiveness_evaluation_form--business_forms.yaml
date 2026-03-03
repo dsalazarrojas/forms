@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: security_measures_effectiveness_evaluation_form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: security_protocols
+      label: security protocols
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: vulnerability_rating
+      label: vulnerability rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: risk_level
+      label: risk level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 5
+      name: safety_measures
+      label: safety measures
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: data_collection_method
+      label: data collection method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: form_completed
+      label: form completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_info
+      label: contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_submitter
+      label: form submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_submitter_email
+      label: form submitter email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: form_submitter_phone
+      label: form submitter phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date_submitted
+      label: date submitted
+      hint: null
+      type: date
+      options: []
+      required: false

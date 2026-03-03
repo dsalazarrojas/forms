@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arbitration Outcome Report Form
+    pages:
+    - id: 1
+      name: section_case_information
+      label: -- Case Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: case_number
+      label: Case Number
+      hint: Arbitration case reference
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: case_title
+      label: Case Title
+      hint: Name of the parties in dispute
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: arbitrator_name
+      label: Arbitrator Name
+      hint: Person conducting the arbitration
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: hearing_date
+      label: Hearing Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: decision_date
+      label: Decision Date
+      hint: When was the decision issued?
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_parties
+      label: -- Parties Involved --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: claimant_name
+      label: Claimant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: respondent_name
+      label: Respondent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_outcome
+      label: -- Arbitration Outcome --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: decision_type
+      label: Type of Decision
+      hint: null
+      type: select_one
+      options:
+      - Award in favor of claimant
+      - Award in favor of respondent
+      - Partial award for both parties
+      - Dismissal
+      - Settlement agreement
+      required: true
+    - id: 12
+      name: damage_amount
+      label: Damages Awarded
+      hint: Total monetary amount, if applicable
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: damage_recipient
+      label: Recipient of Damages
+      hint: null
+      type: select_one
+      options:
+      - Claimant
+      - Respondent
+      - Shared
+      - Not Applicable
+      required: false
+    - id: 14
+      name: decision_summary
+      label: Decision Summary
+      hint: Brief overview of the arbitrator's ruling
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_obligations
+      label: -- Post-Decision Obligations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: compliance_deadline
+      label: Compliance Deadline
+      hint: By when must the decision be implemented?
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: required_actions
+      label: Required Actions
+      hint: What must the losing party do?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: appeal_period
+      label: Appeal Period End Date
+      hint: Last day to file an appeal
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: report_prepared_by
+      label: Report Prepared By
+      hint: Name of person completing this form
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true

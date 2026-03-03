@@ -1,0 +1,163 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Administrative Terms Glossary Submission
+    pages:
+    - id: 1
+      name: submission_header
+      label: -- Administrative Terms Glossary Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: submitter_name
+      label: Submitter Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: submitter_email
+      label: Submitter Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: submitter_department
+      label: Submitter Department
+      hint: Which department do you belong to?
+      type: select_one
+      options: ["Administration", "Human Resources", "Finance", "Marketing", "Operations", "IT", "Sales", "Customer Service", "Executive", "Other"]
+      required: true
+    - id: 5
+      name: submission_date
+      label: Submission Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: term_to_define
+      label: Term to Define
+      hint: The administrative term you wish to define
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: term_category
+      label: Term Category
+      hint: Which category does this term belong to?
+      type: select_one
+      options: ["Finance", "Human Resources", "Operations", "Information Technology", "Legal", "Compliance", "Facilities", "Procurement", "Other"]
+      required: true
+    - id: 8
+      name: definition
+      label: Definition
+      hint: Clear and concise definition of the term
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: acronym_expansion
+      label: Acronym Expansion
+      hint: If the term is an acronym, provide the full expansion
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: related_terms
+      label: Related Terms
+      hint: List any related terms or synonyms
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: usage_context
+      label: Usage Context
+      hint: In what context is this term typically used?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: example_usage
+      label: Example Usage
+      hint: Provide an example of how the term is used
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: origin_etymology
+      label: Origin/Etymology
+      hint: Information about the origin of the term
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: department_specific_use
+      label: Department-Specific Use
+      hint: How is this term used specifically in your department?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: frequency_of_use
+      label: Frequency of Use
+      hint: How often is this term used in your department?
+      type: select_one
+      options: ["Daily", "Weekly", "Monthly", "Occasionally", "Rarely"]
+      required: true
+    - id: 16
+      name: importance_level
+      label: Importance Level
+      hint: How important is this term to administrative operations?
+      type: select_one
+      options: ["Critical", "High", "Medium", "Low"]
+      required: true
+    - id: 17
+      name: suggested_alternatives
+      label: Suggested Alternatives
+      hint: Are there simpler alternatives to this term?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: external_references
+      label: External References
+      hint: Any external sources or references for this term
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: approval_status
+      label: Approval Status
+      hint: Status of the submission (to be filled by reviewer)
+      type: select_one
+      options: ["Pending", "Approved", "Rejected", "Requires Revision"]
+      required: false
+    - id: 20
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: Comments from the reviewer (to be filled by reviewer)
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_signature
+      label: Submitter Signature
+      hint: Electronic signature to confirm submission
+      type: text
+      options: []
+      required: true

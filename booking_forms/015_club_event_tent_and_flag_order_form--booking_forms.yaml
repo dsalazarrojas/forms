@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Event Tent And Flag Order Form
+    pages:
+    - id: 1
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: club_name
+      label: Club Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organizer_name
+      label: Event Organizer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organizer_email
+      label: Organizer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: organizer_phone
+      label: Organizer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_start_time
+      label: Setup Start Time
+      hint: What time to set up
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: event_end_time
+      label: Teardown End Time
+      hint: When event ends
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: event_location
+      label: Event Location
+      hint: Full address or campus location
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: tent_quantity
+      label: Number of Tents Needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: tent_size
+      label: Tent Size Preference
+      hint: Select tent dimensions
+      type: select_one
+      options:
+      - 10x10
+      - 10x20
+      - 20x20
+      - 20x30
+      - 30x30
+      - Other
+      required: true
+    - id: 13
+      name: flag_quantity
+      label: Number of Flags Needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: flag_type
+      label: Flag Type
+      hint: What kind of flags
+      type: select_one
+      options:
+      - Banner Flags
+      - Feather Flags
+      - Table Flags
+      - Custom Flags
+      - Mixed
+      required: true
+    - id: 15
+      name: flag_customization
+      label: Flag Customization or Printing
+      hint: Select if custom printing needed
+      type: select_one
+      options:
+      - None - Plain Flags
+      - Club Logo
+      - Event Name
+      - Custom Design
+      required: true
+    - id: 16
+      name: weather_backup
+      label: Weather Contingency Plan
+      hint: What if weather is bad
+      type: select_one
+      options:
+      - Indoor Backup Location
+      - Event Will Be Postponed
+      - Will Manage with Covers
+      - Not Applicable
+      required: true
+    - id: 17
+      name: total_rental_cost
+      label: Total Rental Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      - Purchase Order
+      - Wire Transfer
+      required: true

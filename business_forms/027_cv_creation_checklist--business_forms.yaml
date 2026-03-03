@@ -1,0 +1,128 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CV Creation Checklist
+    pages:
+      - id: 1
+        name: checklist_intro
+        label: -- CV Preparation Checklist --
+        hint: Ensure your CV is complete and professional before applying
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: contact_info_check
+        label: Contact information is current and professional
+        hint: includes name, phone, email, and location
+        type: select_one
+        options: [Done, In Progress, Not Started]
+        required: true
+      - id: 3
+        name: professional_summary_check
+        label: Professional summary is tailored to target role
+        hint: null
+        type: select_one
+        options: [Done, In Progress, Not Started]
+        required: true
+      - id: 4
+        name: work_history_order
+        label: Work history is in reverse-chronological order
+        hint: newest experience first
+        type: select_one
+        options: [Done, In Progress, Not Started]
+        required: true
+      - id: 5
+        name: bullet_points_action
+        label: Used action-oriented bullet points
+        hint: e.g. Managed, Developed, Increased
+        type: select_one
+        options: [Done, In Progress, Not Started]
+        required: true
+      - id: 6
+        name: education_details_included
+        label: Education details include institution and year
+        hint: null
+        type: select_one
+        options: [Done, In Progress, Not Started]
+        required: true
+      - id: 7
+        name: skills_keywords
+        label: Keywords from job description included in skills section
+        hint: helps with ATS systems
+        type: select_one
+        options: [Done, In Progress, Not Started]
+        required: true
+      - id: 8
+        name: layout_clean
+        label: Layout is clean and consistent
+        hint: fonts and margins are uniform
+        type: select_one
+        options: [Done, In Progress, Not Started]
+        required: true
+      - id: 9
+        name: proofreading_done
+        label: Spelling and grammar check completed
+        hint: null
+        type: select_one
+        options: [Done, In Progress, Not Started]
+        required: true
+      - id: 10
+        name: file_format_check
+        label: File is saved in PDF format
+        hint: ensures formatting stays intact
+        type: select_one
+        options: [Done, In Progress, Not Started]
+        required: true
+      - id: 11
+        name: additional_tasks_header
+        label: -- Specific Content Sections --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: certifications_list
+        label: List of current certifications
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: languages_spoken
+        label: Languages spoken
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: volunteer_experience_check
+        label: Volunteer or community experience included
+        hint: null
+        type: select_one
+        options: [Yes, No, Not Applicable]
+        required: false
+      - id: 15
+        name: checklist_notes
+        label: Additional Notes for CV Improvement
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: target_completion_date
+        label: Target Date for Final Submission
+        hint: null
+        type: date
+        options: []
+        required: true

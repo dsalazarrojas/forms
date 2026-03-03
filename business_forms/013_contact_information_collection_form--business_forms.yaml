@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Information Collection Form
+    pages:
+    - id: 1
+      name: intro
+      label: Information Collection Form
+      hint: Please provide your details to stay connected
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization / Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: registration_type
+      label: Registering for
+      hint: null
+      type: select_multiple
+      options:
+      - Newsletter
+      - Website Access
+      - Upcoming Event
+      - Resource Download
+      required: true
+    - id: 8
+      name: interest_areas
+      label: Areas of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Technology
+      - Business
+      - Science
+      - Art
+      - Education
+      required: false
+    - id: 9
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - SMS
+      - Phone
+      required: true
+    - id: 10
+      name: terms_acceptance
+      label: I agree to receive communications
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

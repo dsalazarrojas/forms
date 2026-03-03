@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: venture-capital-analyst-offboarding-form
+    pages:
+    - id: 1
+      name: analyst_offboarding_form_page
+      label: Analyst Offboarding Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: exit_date
+      label: Exit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Venture Capital
+      - Private Equity
+      - Real Estate
+      - Other
+      required: false
+    - id: 8
+      name: category_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: true

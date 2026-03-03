@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facial Treatment Appointment Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: treatment_name
+      label: Treatment Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: treatment_duration
+      label: Treatment Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Mobile
+      - Email
+      - Phone
+      required: false
+    - id: 9
+      name: preferred_contact_method_other
+      label: Preferred Contact Method Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_form
+      label: Consent Form
+      hint: null
+      type: select_multiple
+      options:
+      - I agree to receive marketing materials
+      - I do not agree to receive marketing materials
+      required: false
+    - id: 11
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - another_user
+      required: false
+    - id: 13
+      name: assigned_user_other
+      label: Assigned User Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: business_signature
+      label: Business Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: appointment_type
+      label: Appointment Type
+      hint: null
+      type: select_multiple
+      options:
+      - Facial
+      - Chemical Peel
+      - Microderm
+      required: false
+    - id: 17
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partially Paid
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_fields
+      label: Additional Fields
+      hint: null
+      type: text
+      options: []
+      required: false

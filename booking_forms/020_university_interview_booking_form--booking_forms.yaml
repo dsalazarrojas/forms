@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: university_interview_booking_form
+    pages:
+    - id: 1
+      name: booking_details
+      label: Booking Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: student_phone
+      label: Student Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: interview_date
+      label: Interview Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: interview_time
+      label: Interview Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: interview_duration
+      label: Interview Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: interviewers
+      label: Interviewers
+      hint: null
+      type: select_multiple
+      options:
+      - John Smith
+      - Jane Doe
+      - Bob Brown
+      required: false
+    - id: 9
+      name: booking_method
+      label: Booking Method
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Online
+      - Phone
+      required: false
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Campus
+      - Off-Campus
+      - Remote
+      required: false
+    - id: 11
+      name: booking_status
+      label: Booking Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Confirmed
+      - Cancelled
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false

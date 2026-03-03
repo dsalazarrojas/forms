@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Paragliding Experience Reservation Form
+    pages:
+    - id: 1
+      name: reservation_details
+      label: reservation_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: experience_date
+      label: choose_experience_date
+      hint: null
+      type: select_one
+      options:
+      - '2022-03-01'
+      - '2022-03-02'
+      - '2022-03-03'
+      required: false
+    - id: 4
+      name: experience_time
+      label: choose_experience_time
+      hint: null
+      type: select_multiple
+      options:
+      - 09:00-10:00
+      - 10:00-11:00
+      - 11:00-12:00
+      - 13:00-14:00
+      - 14:00-15:00
+      - 15:00-16:00
+      required: false
+    - id: 5
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: experience_location
+      label: experience_location
+      hint: null
+      type: select_one
+      options:
+      - Paragliding Experience 1
+      - Paragliding Experience 2
+      - Paragliding Experience 3
+      required: false
+    - id: 8
+      name: customer_note
+      label: customer_note
+      hint: null
+      type: note
+      options: []
+      required: false

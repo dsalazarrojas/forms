@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: fcs_daily_progress_report
+    pages:
+    - id: 1
+      name: form_title
+      label: fcs_daily_progress_report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_date
+      label: form_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: form_time
+      label: form_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: form_progress
+      label: form_progress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_comments
+      label: form_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_assigned_to
+      label: form_assigned_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: form_phone
+      label: form_phone
+      hint: null
+      type: text
+      options: []
+      required: false

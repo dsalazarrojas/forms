@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creative Residency Cottage Booking Form
+    pages:
+    - id: 1
+      name: stay_dates
+      label: Stay Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: guest_details
+      label: Guest Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: artist_info
+      label: Artist Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: residency_type
+      label: Residency Type
+      hint: null
+      type: select_multiple
+      options:
+      - digital
+      - traditional
+      required: false
+    - id: 7
+      name: accommodation_preferences
+      label: Accommodation Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - single
+      - shared
+      - other
+      - please_specify
+      required: false
+    - id: 8
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

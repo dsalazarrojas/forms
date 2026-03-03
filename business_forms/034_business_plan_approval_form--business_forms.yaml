@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Plan Approval Form
+    pages:
+    - id: 1
+      name: submission_date
+      label: Plan Submission Date
+      hint: Date submitted for approval
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: submitted_by
+      label: Submitted By
+      hint: Name of submitter
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: submitted_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Business name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: plan_title
+      label: Business Plan Title
+      hint: Title of the plan
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: fiscal_year
+      label: Fiscal Year
+      hint: What fiscal year does this cover?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: plan_type
+      label: Type of Plan
+      hint: Strategic, operational, etc.
+      type: select_one
+      options:
+      - Strategic Plan
+      - Annual Operating Plan
+      - Marketing Plan
+      - Financial Plan
+      - Product Launch Plan
+      - Expansion Plan
+      - Other
+      required: true
+    - id: 8
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Name of approver
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: reviewer_email
+      label: Reviewer Email
+      hint: Approver email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: reviewer_title
+      label: Reviewer Title
+      hint: Position or role
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: plan_completeness
+      label: Plan Completeness
+      hint: Rate completeness (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: strategic_alignment
+      label: Strategic Alignment
+      hint: Aligns with company vision? (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: financial_feasibility
+      label: Financial Feasibility
+      hint: Financially sound? (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: resource_availability
+      label: Resource Availability
+      hint: Are resources sufficient? (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: risk_assessment
+      label: Risk Assessment
+      hint: Are risks identified? (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: timeline_realism
+      label: Timeline Realism
+      hint: Is timeline realistic? (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: approval_status
+      label: Approval Status
+      hint: Do you approve this plan?
+      type: select_one
+      options:
+      - Approved
+      - Approved with Conditions
+      - Needs Revision
+      - Not Approved
+      required: true
+    - id: 18
+      name: conditions_or_revisions
+      label: Conditions or Required Revisions
+      hint: If applicable, specify
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: Any additional feedback?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: review_date
+      label: Date of Review
+      hint: When was this reviewed?
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: implementation_start_date
+      label: Planned Implementation Start
+      hint: When will this be implemented?
+      type: date
+      options: []
+      required: false

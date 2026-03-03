@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tlg Application Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: main_page_subform_1
+      label: Subform 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: main_page_subform_2
+      label: Subform 2
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: main_page_subform_3
+      label: Subform 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: main_page_subform_4
+      label: Subform 4
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advertising Network Agreement Renewal Form
+    pages:
+    - id: 1
+      name: agreement_info_header
+      label: -- Current Agreement Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: agreement_number
+      label: Agreement Number
+      hint: Please enter the ID from your current contract.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: renewal_type
+      label: Renewal Type
+      hint: null
+      type: select_one
+      options:
+      - Standard Renewal (Same Terms)
+      - Renewal with Modifications
+      - Upgrade Package
+      - Downgrade Package
+      required: true
+    - id: 4
+      name: business_details_header
+      label: -- Business Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_representative
+      label: Authorized Representative Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_email
+      label: Business Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: billing_address
+      label: Billing Address
+      hint: Update if changed since last agreement.
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: performance_feedback_header
+      label: -- Performance Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: satisfaction_rating
+      label: Satisfaction with Current Period
+      hint: How satisfied were you with the ad performance?
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 11
+      name: key_performance_metrics
+      label: Key Metrics Achieved
+      hint: Select metrics that met your expectations.
+      type: select_multiple
+      options:
+      - Click-Through Rate (CTR)
+      - Conversion Rate
+      - Impression Volume
+      - Cost Per Acquisition (CPA)
+      - Return on Ad Spend (ROAS)
+      required: false
+    - id: 12
+      name: feedback_comments
+      label: Comments or Concerns
+      hint: Please share any feedback for the next term.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: renewal_terms
+      label: Renewal Term Length
+      hint: Select the duration for the new agreement.
+      type: select_one
+      options:
+      - 3 Months
+      - 6 Months
+      - 12 Months
+      - 24 Months
+      required: true
+    - id: 14
+      name: signature_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: authorization
+      label: Authorization
+      hint: By checking this box, I authorize the renewal of the advertising agreement.
+      type: select_one
+      options:
+      - I Authorize
+      - Other
+      required: true

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quality Improvement Checklist
+    pages:
+    - id: 1
+      name: initial_assessment
+      label: Initial Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: review_process
+      label: Review Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: identify_areas
+      label: Identify Areas
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''A''}'
+      - '{''label'': ''B''}'
+      - '{''label'': ''C''}'
+      required: false
+    - id: 4
+      name: develop_plan
+      label: Develop Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: evaluate_results
+      label: Evaluate Results
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: correct_defects
+      label: Correct Defects
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''A''}'
+      - '{''label'': ''B''}'
+      - '{''label'': ''C''}'
+      required: false
+    - id: 7
+      name: monitor_progress
+      label: Monitor Progress
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: adjust_process
+      label: Adjust Process
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''A''}'
+      - '{''label'': ''B''}'
+      required: false
+    - id: 9
+      name: retest_results
+      label: Retest Results
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: reevaluate_results
+      label: Reevaluate Results
+      hint: null
+      type: number
+      options: []
+      required: false

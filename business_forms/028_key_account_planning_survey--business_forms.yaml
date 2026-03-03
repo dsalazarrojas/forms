@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Key Account Planning Survey
+    pages:
+    - id: 1
+      name: key_account_planning_survey
+      label: Key Account Planning Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: account_manager
+      label: account_manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: objectives
+      label: objectives
+      hint: What are the key objectives of this account?
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Revenue Growth''}'
+      - '{''id'': 2, ''label'': ''Customer Acquisition''}'
+      - '{''id'': 3, ''label'': ''Retention''}'
+      required: false
+    - id: 4
+      name: stakeholders
+      label: stakeholders
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''CEO''}'
+      - '{''id'': 2, ''label'': ''Sales Team''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: challenges
+      label: challenges
+      hint: What are the key challenges of this account?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: growth_opportunities
+      label: growth_opportunities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Increase Revenue''}'
+      - '{''id'': 2, ''label'': ''Enhance Customer Experience''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: customer_profile
+      label: customer_profile
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: account_value
+      label: account_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: account_risk
+      label: account_risk
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 10
+      name: sales_outcomes
+      label: sales_outcomes
+      hint: How would you like to see this account?
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Won''}'
+      - '{''id'': 2, ''label'': ''Lost''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

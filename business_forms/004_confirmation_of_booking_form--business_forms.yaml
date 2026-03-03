@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Confirmation Of Booking Form
+    pages:
+    - id: 1
+      name: booking_reference
+      label: Booking Reference Number
+      hint: Unique identifier for this booking
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: booking_date
+      label: Booking Date
+      hint: Date when the booking was made
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: Full name of the person making the booking
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_email
+      label: Email Address
+      hint: Contact email for confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: customer_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: Organization or business name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_type
+      label: Type of Service Booked
+      hint: What service or product is being booked
+      type: select_one
+      options:
+      - Event Venue Rental
+      - Equipment Rental
+      - Consulting Service
+      - Training Session
+      - Product Order
+      - Appointment
+      - Other
+      required: true
+    - id: 8
+      name: service_details
+      label: Service Details
+      hint: Describe the specific service or product
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_date
+      label: Event or Service Date
+      hint: When will the service be provided
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: event_time
+      label: Event or Service Time
+      hint: Start time for the service
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: duration
+      label: Expected Duration
+      hint: How long will the service last
+      type: select_one
+      options:
+      - 1 hour
+      - 2 hours
+      - 3 hours
+      - 4 hours
+      - Half day
+      - Full day
+      - Multi-day
+      - Other
+      required: true
+    - id: 12
+      name: number_of_guests
+      label: Number of Guests or Participants
+      hint: Expected attendance or participants
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special needs or accommodations
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_services
+      label: Additional Services Requested
+      hint: Select any add-on services
+      type: select_multiple
+      options:
+      - Catering
+      - Audio Visual Equipment
+      - Transportation
+      - Accommodation
+      - Setup and Cleanup
+      - Security
+      - Photography
+      - None
+      required: false
+    - id: 15
+      name: payment_status
+      label: Payment Status
+      hint: Current status of payment
+      type: select_one
+      options:
+      - Paid in Full
+      - Deposit Paid
+      - Pending Payment
+      - Invoice Sent
+      - Not Yet Due
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: How will payment be made
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      - Cash
+      - Invoice
+      - Other
+      required: false
+    - id: 17
+      name: total_amount
+      label: Total Booking Amount
+      hint: Total cost of the booking
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: deposit_amount
+      label: Deposit Amount Paid
+      hint: Amount of deposit if applicable
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: cancellation_policy
+      label: Cancellation Policy Acknowledged
+      hint: Customer has read and understood cancellation terms
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: terms_accepted
+      label: Terms and Conditions Accepted
+      hint: Agreement to booking terms
+      type: select_one
+      options:
+      - Yes - I Accept
+      - false
+      required: true
+    - id: 21
+      name: confirmation_method
+      label: Preferred Confirmation Method
+      hint: How should we send confirmations
+      type: select_one
+      options:
+      - Email
+      - SMS
+      - Phone Call
+      - Mail
+      required: true
+    - id: 22
+      name: notes
+      label: Additional Notes
+      hint: Any other information or requests
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: staff_name
+      label: Booking Staff Name
+      hint: Name of staff member who processed booking
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: confirmation_status
+      label: Confirmation Status
+      hint: Final status of this booking
+      type: select_one
+      options:
+      - Confirmed
+      - Pending Approval
+      - Waitlisted
+      - Cancelled
+      required: true

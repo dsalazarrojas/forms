@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Elevator Inspection Form
+    pages:
+    - id: 1
+      name: elevator_inspection_form
+      label: elevator_inspection_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: elevator_status
+      label: elevator_status
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Not Available''}'
+      - '{2: ''Out of Service''}'
+      - '{3: ''Available''}'
+      - '{4: ''Maintenance Required''}'
+      required: false
+    - id: 3
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: elevator_number
+      label: elevator_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: elevator_status_2
+      label: elevator_status_2
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Not Available''}'
+      - '{2: ''Out of Service''}'
+      - '{3: ''Available''}'
+      - '{4: ''Maintenance Required''}'
+      required: false
+    - id: 7
+      name: elevator_type
+      label: elevator_type
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Passenger''}'
+      - '{2: ''Service''}'
+      required: false
+    - id: 8
+      name: inspection_completed
+      label: inspection_completed
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Panel''}'
+      - '{2: ''Safety''}'
+      - '{3: ''Code''}'
+      - '{4: ''Other''}'
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false

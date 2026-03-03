@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fishing Permit Reservation Form
+    pages:
+    - id: 1
+      name: form_start
+      label: Fishing Permit Reservation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: customer email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_reservation
+      label: Date of Reservation
+      hint: 'format: YYYY-MM-DD'
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_reservation
+      label: Time of Reservation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: type_of_fishing_trip
+      label: Type of Fishing Trip
+      hint: null
+      type: select_one
+      options:
+      - Fresh Water
+      - Salt Water
+      - Both
+      required: false
+    - id: 9
+      name: number_of_people
+      label: Number of People
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: fishing_license_number
+      label: Fishing License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: confirm_reservation
+      label: Confirm Reservation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: form_end
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false

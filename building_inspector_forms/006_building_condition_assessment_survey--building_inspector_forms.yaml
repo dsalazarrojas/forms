@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Condition Assessment Survey
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: Building location
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_id
+      label: Property ID
+      hint: Reference number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: building_age
+      label: Building Age
+      hint: Years since construction
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: foundation_condition
+      label: Foundation Condition
+      hint: Assess structural foundation
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 6
+      name: roof_condition
+      label: Roof Condition
+      hint: Roof structural integrity
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 7
+      name: exterior_walls
+      label: Exterior Walls Condition
+      hint: Siding, masonry, paint
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 8
+      name: windows_doors
+      label: Windows and Doors
+      hint: Functionality and sealing
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 9
+      name: plumbing_system
+      label: Plumbing System
+      hint: Pipes and fixtures
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 10
+      name: electrical_system
+      label: Electrical System
+      hint: Wiring and panels
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 11
+      name: hvac_system
+      label: HVAC System
+      hint: Heating and cooling systems
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 12
+      name: interior_walls
+      label: Interior Walls and Finishes
+      hint: Drywall, paint, flooring
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 13
+      name: moisture_damage
+      label: Signs of Moisture or Water Damage
+      hint: Leaks, mold, wet spots
+      type: select_one
+      options:
+      - None Visible
+      - Minor Spots
+      - Moderate Damage
+      - Extensive Damage
+      required: true
+    - id: 14
+      name: safety_hazards
+      label: Safety Hazards
+      hint: Any dangerous conditions
+      type: select_multiple
+      options:
+      - None Found
+      - Electrical
+      - Gas
+      - Structural
+      - Asbestos
+      - Lead Paint
+      - Other
+      required: true
+    - id: 15
+      name: maintenance_needs
+      label: Immediate Maintenance Needs
+      hint: What needs fixing soon
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: long_term_repairs
+      label: Long-Term Repairs Recommended
+      hint: Future improvements
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: overall_rating
+      label: Overall Building Condition
+      hint: General assessment
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 18
+      name: inspector_name
+      label: Inspector Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: inspector_license
+      label: Inspector License Number
+      hint: Professional credentials
+      type: text
+      options: []
+      required: false

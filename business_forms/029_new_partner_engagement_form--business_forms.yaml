@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Partner Engagement Form
+    pages:
+    - id: 1
+      name: new_partner_form
+      label: new_partner_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: basic_info
+      label: Basic Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: partner_type
+      label: partner_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      - '{''id'': 3}'
+      required: false
+    - id: 5
+      name: partner_name
+      label: partner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: partner_since
+      label: partner_since
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: partner_since_time
+      label: partner_since_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: partner_since_note
+      label: partner_since_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: partner_since_date
+      label: partner_since_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: partner_since_month
+      label: partner_since_month
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''January''}'
+      - '{''id'': 2, ''label'': ''February''}'
+      - '{''id'': 3, ''label'': ''March''}'
+      - '{''id'': 4, ''label'': ''April''}'
+      - '{''id'': 5, ''label'': ''May''}'
+      - '{''id'': 6, ''label'': ''June''}'
+      - '{''id'': 7, ''label'': ''July''}'
+      - '{''id'': 8, ''label'': ''August''}'
+      - '{''id'': 9, ''label'': ''September''}'
+      - '{''id'': 10, ''label'': ''October''}'
+      - '{''id'': 11, ''label'': ''November''}'
+      - '{''id'': 12, ''label'': ''December''}'
+      required: false
+    - id: 14
+      name: partner_since_year
+      label: partner_since_year
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 2010}'
+      - '{''id'': 2, ''label'': 2011}'
+      - '{''id'': 3, ''label'': 2012}'
+      - '{''id'': 4, ''label'': 2013}'
+      - '{''id'': 5, ''label'': 2014}'
+      - '{''id'': 6, ''label'': 2015}'
+      - '{''id'': 7, ''label'': 2016}'
+      - '{''id'': 8, ''label'': 2017}'
+      - '{''id'': 9, ''label'': 2018}'
+      - '{''id'': 10, ''label'': 2019}'
+      - '{''id'': 11, ''label'': 2020}'
+      - '{''id'': 12, ''label'': 2021}'
+      - '{''id'': 13, ''label'': 2022}'
+      - '{''id'': 14, ''label'': 2023}'
+      - '{''id'': 15, ''label'': 2024}'
+      - '{''id'': 16, ''label'': 2025}'
+      required: false
+    - id: 15
+      name: terms_and_conditions
+      label: terms and conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: save
+      label: save
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: back
+      label: back
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: labour_market_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: This is an introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: survey_part_one
+      label: How many people have you seen in the past 4 weeks looking for a job?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: survey_part_two
+      label: Have you seen any changes in the local employment market?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: employment_issues
+      label: What are some of the biggest employment issues you have faced?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: notes
+      label: Do you have any further comments or notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: How did you contact us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

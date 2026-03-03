@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: stevedore_service_referral_form
+    pages:
+    - id: 1
+      name: business_id
+      label: Business ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: service_details
+      label: Service Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: stevedore_name
+      label: Stevedore Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: stevedore_email
+      label: Stevedore Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: stevedore_phone
+      label: Stevedore Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_of_service
+      label: Time of Service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: stevedore_address
+      label: Stevedore Address
+      hint: null
+      type: text
+      options: []
+      required: false

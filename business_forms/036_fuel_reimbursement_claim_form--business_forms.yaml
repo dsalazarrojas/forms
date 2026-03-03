@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fuel Reimbursement Claim Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: odometer_reading_start
+      label: Odometer Reading Start
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: odometer_reading_end
+      label: Odometer Reading End
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: miles_driven
+      label: Miles Driven
+      hint: Please enter total miles driven during the claim period
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: fuel_cost
+      label: Fuel Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: business_purpose
+      label: Business Purpose
+      hint: Please enter a brief description of the trip or business purpose
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reimbursement_amount
+      label: Reimbursement Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Department Head
+      - HR
+      - Supervisor
+      required: true
+    - id: 11
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_multiple
+      options:
+      - Finance
+      - Accounts Payable
+      - HR
+      - Manager
+      required: false
+    - id: 12
+      name: approval_level
+      label: Approval Level
+      hint: Select the approval level for this claim
+      type: select_one
+      options:
+      - Manager
+      - Department Head
+      - Director
+      - CEO
+      required: false

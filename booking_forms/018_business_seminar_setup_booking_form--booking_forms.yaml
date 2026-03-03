@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Seminar Setup Booking Form
+    pages:
+    - id: 1
+      name: organizer_name
+      label: Organizer Name
+      hint: Name of the person organizing the seminar
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organizer_email
+      label: Organizer Email
+      hint: Contact email for the organizer
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: organizer_phone
+      label: Organizer Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company or Organization Name
+      hint: Name of sponsoring organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: seminar_title
+      label: Seminar Title
+      hint: Title or topic of the seminar
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: seminar_date
+      label: Desired Seminar Date
+      hint: Preferred date for the seminar
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: seminar_start_time
+      label: Seminar Start Time
+      hint: What time should it begin
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: seminar_end_time
+      label: Seminar End Time
+      hint: What time should it finish
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: expected_attendees
+      label: Expected Number of Attendees
+      hint: How many people will attend
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: venue_needed
+      label: Venue Needed
+      hint: Does the event need a venue
+      type: select_one
+      options:
+      - Yes, In-person Venue
+      - No, Virtual Event
+      - Hybrid - Both In-person and Virtual
+      required: true
+    - id: 11
+      name: room_type
+      label: Room Type Preference
+      hint: What type of room do you need
+      type: select_one
+      options:
+      - Classroom Style
+      - Theater Style
+      - Banquet Style
+      - U-Shape
+      - Boardroom
+      - Other
+      required: false
+    - id: 12
+      name: av_requirements
+      label: AV and Technical Requirements
+      hint: What equipment do you need
+      type: select_multiple
+      options:
+      - Projector and Screen
+      - Microphone System
+      - Video Conferencing
+      - Recording Equipment
+      - WiFi
+      - Lighting
+      - Sound System
+      required: false
+    - id: 13
+      name: catering_needed
+      label: Catering Required
+      hint: Will you need refreshments
+      type: select_one
+      options:
+      - Full Meals
+      - Beverages Only
+      - Snacks Only
+      - None
+      required: false
+    - id: 14
+      name: catering_dietary_needs
+      label: Dietary or Special Requirements
+      hint: Any special food requirements
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: parking_needed
+      label: Parking Needed
+      hint: Is parking required
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 16
+      name: accessibility_needs
+      label: Accessibility or Special Needs
+      hint: Any accessibility requirements
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: setup_preferences
+      label: Setup Preferences or Notes
+      hint: Specific setup requirements
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: budget_estimate
+      label: Budget Estimate
+      hint: Approximate budget for the seminar
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: booking_date
+      label: Booking Request Date
+      hint: Date of this booking request
+      type: date
+      options: []
+      required: true

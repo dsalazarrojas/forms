@@ -1,0 +1,125 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Work From Home Policy Survey
+    pages:
+    - id: 1
+      name: home_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: work_from_home_policy
+      label: Work From Home Policy
+      hint: null
+      type: select_one
+      options:
+      - Allow Remote Work
+      - Do Not Allow Remote Work
+      - Case by Case
+      required: true
+    - id: 3
+      name: remote_work_frequency
+      label: How Often Do You Work Remotely
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Less Than 20% of Time
+      - 20-50% of Time
+      - More Than 50% of Time
+      required: true
+    - id: 4
+      name: work_from_home_frequency_hint
+      label: How Often
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: job_classification
+      label: Job Classification
+      hint: null
+      type: select_one
+      options:
+      - Non-Exempt
+      - Exempt
+      - Hybrid
+      required: true
+    - id: 6
+      name: benefits_of_remote_work
+      label: Benefits of Remote Work
+      hint: null
+      type: select_multiple
+      options:
+      - Increased Productivity
+      - Improved Work-Life Balance
+      - Enhanced Job Satisfaction
+      required: false
+    - id: 7
+      name: challenges_of_remote_work
+      label: Challenges of Remote Work
+      hint: null
+      type: select_multiple
+      options:
+      - Communication Barriers
+      - Lack of Structure
+      - Difficulty Staying Motivated
+      required: false
+    - id: 8
+      name: work_at_home_environment
+      label: Work At Home Environment
+      hint: null
+      type: select_multiple
+      options:
+      - Home Office
+      - Co-Working Space
+      - Coffee Shop
+      required: false
+    - id: 9
+      name: work_from_home_equipment
+      label: Work From Home Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Computer
+      - Internet
+      - Phone
+      required: false
+    - id: 10
+      name: work_from_home_concerns
+      label: Work From Home Concerns
+      hint: null
+      type: select_multiple
+      options:
+      - Lack of Face-To-Face Interaction
+      - Difficulty Staying Focused
+      - Inadequate Equipment
+      required: false
+    - id: 11
+      name: work_from_home_suggestions
+      label: Work From Home Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

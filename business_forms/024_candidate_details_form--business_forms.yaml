@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candidate Details Form
+    pages:
+    - id: 1
+      name: basic_details_section
+      label: -- Basic Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: candidate_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: candidate_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_city_location
+      label: Current Location
+      hint: City and Country
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: linkedin_url
+      label: LinkedIn Profile URL
+      hint: Optional link to your professional profile
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: search_preferences_section
+      label: -- Job Search Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_job_status
+      label: Current Status
+      hint: What is your availability for a new role
+      type: select_one
+      options:
+      - Actively Looking
+      - Open to Offers
+      - Not Looking
+      - Employed
+      - Other
+      required: true
+    - id: 9
+      name: target_titles
+      label: Target Job Titles
+      hint: Positions you are interested in pursuing
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: preferred_industries
+      label: Preferred Industries
+      hint: Select the sectors where you want to work
+      type: select_multiple
+      options:
+      - Technology
+      - Finance
+      - Healthcare
+      - Manufacturing
+      - Education
+      - Creative
+      - Other
+      required: true
+    - id: 11
+      name: desired_location
+      label: Desired Location
+      hint: Specify remote, hybrid, or specific city
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: min_expected_salary
+      label: Minimum Expected Salary
+      hint: Specify annual amount and currency
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: notice_period_duration
+      label: What is your notice period
+      hint: null
+      type: select_one
+      options:
+      - Immediate
+      - 2 weeks
+      - 1 month
+      - 2 months
+      - Other
+      required: true
+    - id: 14
+      name: experience_summary_section
+      label: -- Experience Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: total_exp_years
+      label: Total Years of Experience
+      hint: Number of years in professional work
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: core_competencies_list
+      label: Core Competencies
+      hint: What are your top 3 skills or strengths
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: current_last_employer_name
+      label: Current or Last Employer
+      hint: Name of the company
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: recruiter_info_section
+      label: -- Recruiter Information --
+      hint: Internal management details
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: assigned_recruiter
+      label: Assigned Recruiter Name
+      hint: The person managing this candidate
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: internal_referral_check
+      label: Internal Referral
+      hint: Was this candidate referred by an employee
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: recruiting_agency_name
+      label: Agency Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: interviewer_notes_field
+      label: Notes for Interviewers
+      hint: Internal notes regarding candidate's fit
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: entry_creation_date
+      label: Date of Entry
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Showreel Screening Slot Booking Form
+    pages:
+    - id: 1
+      name: booking_form
+      label: Booking Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: select_one_booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: select_one_booking_time
+      label: Booking Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: select_one_email
+      label: Email
+      hint: Please enter your email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: select_one_phone
+      label: Phone
+      hint: Please enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: select_one_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: select_one_booking_notes
+      label: Booking Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: select_one_booking_status
+      label: Booking Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      - Pending
+      required: false

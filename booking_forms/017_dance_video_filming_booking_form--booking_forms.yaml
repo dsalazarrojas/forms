@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Video Filming Booking Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Event 1
+      - Event 2
+      - Event 3
+      required: true
+    - id: 4
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: event_date_start
+      label: Event Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_date_end
+      label: Event End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: client_name_phone
+      label: Client Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: videographer_name
+      label: Videographer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: studio_name
+      label: Studio Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: filming_location
+      label: Filming Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: equipment_needed
+      label: Equipment Needed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: client_notes
+      label: Client Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: project_amount
+      label: Project Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Pending
+      required: true
+    - id: 20
+      name: project_start_time
+      label: Project Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: project_end_time
+      label: Project End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: project_duration
+      label: Project Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: project_amount_currency
+      label: Project Amount Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      required: true
+    - id: 24
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: date
+      options: []
+      required: true

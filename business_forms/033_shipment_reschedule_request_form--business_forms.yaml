@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shipment Reschedule Request Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipment_info
+      label: shipment_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: shipment_type
+      label: shipment_type
+      hint: null
+      type: select_one
+      options:
+      - Reschedule
+      - Cancel
+      - Delay
+      required: false
+    - id: 4
+      name: shipment_date
+      label: shipment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: shipment_time
+      label: shipment_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: customer_note
+      label: customer_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false

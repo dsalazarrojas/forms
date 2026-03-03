@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Breach Notification Information Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: affected_individuals_first_name
+      label: affectedindividualsFirstnames
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: affected_individuals_last_name
+      label: affectedindividualsLastname
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: dateofbirth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phonenumber
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: social_security_number
+      label: socialsecuritynumber
+      hint: Please enter your social security number.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: affected_individuals_count
+      label: affectedindividualscount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: breach_description
+      label: breachdescription
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: breach_date
+      label: breachdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: affected_individuals_informed
+      label: affectedindividualsinformed
+      hint: null
+      type: select_one
+      options:
+      - Individuals notified
+      - Individuals not notified
+      required: false
+    - id: 13
+      name: breach_resolved
+      label: breachresolved
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: breach_category
+      label: breachcategory
+      hint: null
+      type: select_one
+      options:
+      - Financial
+      - Personal Data
+      - Business
+      - Security
+      - Other
+      required: false
+    - id: 15
+      name: breach_affected_systems
+      label: breachaffectedsystems
+      hint: null
+      type: select_multiple
+      options:
+      - System A
+      - System B
+      - System C
+      required: false
+    - id: 16
+      name: breach_type
+      label: breachtype
+      hint: null
+      type: select_one
+      options:
+      - Unauthorized access
+      - Data loss
+      - Theft
+      - Other
+      required: false
+    - id: 17
+      name: breach_severity
+      label: breachseverity
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: false
+    - id: 18
+      name: breach_description_date
+      label: breachdescriptiondate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: breach_description_time
+      label: breachdescriptiontime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: breach_description_location
+      label: breachdescriptionlocation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: breach_notification_method
+      label: breachnotificationmethod
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Fax
+      - Letter
+      - Other
+      required: false
+    - id: 22
+      name: breach_notification_date
+      label: breachnotificationdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: breach_notification_time
+      label: breachnotificationtime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: breach_resolution_date
+      label: breachresolutiondate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: resolution_description
+      label: resolutiondescription
+      hint: null
+      type: text
+      options: []
+      required: false

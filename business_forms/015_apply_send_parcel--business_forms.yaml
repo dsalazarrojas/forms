@@ -1,0 +1,267 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apply Send Parcel
+    pages:
+    - id: 1
+      name: submission_date
+      label: Submission Date
+      hint: Date of parcel application
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: sender_name
+      label: Sender Name
+      hint: Full name of sender
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sender_company
+      label: Sender Company
+      hint: Company name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sender_email
+      label: Sender Email
+      hint: Email address of sender
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: sender_phone
+      label: Sender Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: sender_address
+      label: Sender Address
+      hint: Full pickup address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: sender_city
+      label: Sender City
+      hint: City of pickup
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: sender_state
+      label: Sender State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: sender_zip
+      label: Sender Zip
+      hint: Postal or zip code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: sender_country
+      label: Sender Country
+      hint: Country of origin
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Germany
+      - France
+      - Other
+      required: true
+    - id: 11
+      name: recipient_name
+      label: Recipient Name
+      hint: Full name of recipient
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: recipient_company
+      label: Recipient Company
+      hint: Company name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: recipient_email
+      label: Recipient Email
+      hint: Email address of recipient
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: recipient_phone
+      label: Recipient Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: recipient_address
+      label: Recipient Address
+      hint: Full delivery address
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: recipient_city
+      label: Recipient City
+      hint: City of delivery
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: recipient_state
+      label: Recipient State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: recipient_zip
+      label: Recipient Zip
+      hint: Postal or zip code
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: recipient_country
+      label: Recipient Country
+      hint: Destination country
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Germany
+      - France
+      - Other
+      required: true
+    - id: 20
+      name: parcel_type
+      label: Parcel Type
+      hint: Type of parcel being sent
+      type: select_one
+      options:
+      - Document
+      - Small Package
+      - Medium Package
+      - Large Package
+      - Pallet
+      - Fragile Item
+      required: true
+    - id: 21
+      name: parcel_description
+      label: Parcel Description
+      hint: Description of contents
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: parcel_weight
+      label: Parcel Weight
+      hint: Weight in pounds or kilograms
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: parcel_dimensions
+      label: Parcel Dimensions
+      hint: Length x Width x Height
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: parcel_value
+      label: Parcel Value
+      hint: Declared value of contents
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: shipping_speed
+      label: Shipping Speed
+      hint: Desired delivery speed
+      type: select_one
+      options:
+      - Standard (5-7 days)
+      - Express (2-3 days)
+      - Overnight
+      - Same Day
+      - Economy
+      required: true
+    - id: 26
+      name: pickup_date
+      label: Pickup Date
+      hint: Preferred pickup date
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: pickup_time
+      label: Pickup Time
+      hint: Preferred pickup time
+      type: select_one
+      options:
+      - Morning (8 AM - 12 PM)
+      - Afternoon (12 PM - 5 PM)
+      - Evening (5 PM - 8 PM)
+      - Any Time
+      required: false
+    - id: 28
+      name: insurance_required
+      label: Insurance Required
+      hint: Do you need insurance coverage
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: signature_required
+      label: Signature Required
+      hint: Is signature required on delivery
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special handling instructions
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for shipping
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Account Billing
+      - Cash on Pickup
+      - PayPal
+      required: true
+    - id: 32
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Desired Accommodation Request Form
+    pages:
+    - id: 1
+      name: desired_accommodation_request_form
+      label: Desired Accommodation Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: accommodation_type
+      label: Accommodation Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 3
+      name: checkin_date
+      label: Checkin Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: checkin_time
+      label: Checkin Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: checkout_date
+      label: Checkout Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: checkout_time
+      label: Checkout Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 8
+      name: accommodation_name
+      label: Accommodation Name
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 9
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

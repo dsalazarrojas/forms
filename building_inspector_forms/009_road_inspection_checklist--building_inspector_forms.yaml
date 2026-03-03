@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Road Inspection Checklist
+    pages:
+    - id: 1
+      name: road_inspection_form
+      label: road_inspection_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: inspector_notes
+      label: inspector_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: road_condition
+      label: road_condition
+      hint: null
+      type: select_multiple
+      options:
+      - good
+      - fair
+      - poor
+      required: false
+    - id: 5
+      name: road_surface
+      label: road_surface
+      hint: null
+      type: select_one
+      options:
+      - asphalt
+      - concrete
+      - dirt
+      - gravel
+      - sand
+      required: false
+    - id: 6
+      name: road_width
+      label: road_width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: road_length
+      label: road_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: road_elevation
+      label: road_elevation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: road_alignment
+      label: road_alignment
+      hint: null
+      type: select_multiple
+      options:
+      - straight
+      - curved
+      - circular
+      - zig_zag
+      required: false
+    - id: 10
+      name: road_grade
+      label: road_grade
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      required: false
+    - id: 11
+      name: road_surface_condition
+      label: road_surface_condition
+      hint: null
+      type: select_multiple
+      options:
+      - good
+      - fair
+      - poor
+      required: false
+    - id: 12
+      name: road_surface_texture
+      label: road_surface_texture
+      hint: null
+      type: select_multiple
+      options:
+      - smooth
+      - rough
+      - bumpy
+      required: false
+    - id: 13
+      name: road_alignment_type
+      label: road_alignment_type
+      hint: null
+      type: select_multiple
+      options:
+      - straight
+      - curved
+      - circular
+      - zig_zag
+      required: false
+    - id: 14
+      name: road_grade_condition
+      label: road_grade_condition
+      hint: null
+      type: select_multiple
+      options:
+      - good
+      - fair
+      - poor
+      required: false
+    - id: 15
+      name: road_gradient
+      label: road_gradient
+      hint: null
+      type: select_multiple
+      options:
+      - flat
+      - slight
+      - moderate
+      - steep
+      required: false

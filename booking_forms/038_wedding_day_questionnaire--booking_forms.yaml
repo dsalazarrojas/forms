@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Day Questionnaire
+    pages:
+    - id: 1
+      name: ceremony_details
+      label: Ceremony Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_multiple
+      options:
+      - Wedding Planner
+      - Event Organizers
+      required: true
+    - id: 3
+      name: major_sponsors
+      label: Major Sponsors
+      hint: null
+      type: select_multiple
+      options:
+      - Sponsor 1
+      - Sponsor 2
+      required: false
+    - id: 4
+      name: ceremony_time
+      label: Ceremony Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: reception_details
+      label: Reception Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: special_addons
+      label: Special Addons
+      hint: null
+      type: select_multiple
+      options:
+      - Addons 1
+      - Addons 2
+      required: false
+    - id: 7
+      name: ceremony_date
+      label: Ceremony Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: wedding_planner
+      label: Wedding Planner
+      hint: null
+      type: select_one
+      options:
+      - Wedding Planner 1
+      - Wedding Planner 2
+      required: true
+    - id: 9
+      name: reception_time
+      label: Reception Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: event_organizers
+      label: Event Organizers
+      hint: null
+      type: select_multiple
+      options:
+      - Event Organizer 1
+      - Event Organizer 2
+      required: false
+    - id: 11
+      name: major_sponsor
+      label: Major Sponsor
+      hint: null
+      type: select_one
+      options:
+      - Sponsor 1
+      - Sponsor 2
+      required: true
+    - id: 12
+      name: wedding_date
+      label: Wedding Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: ceremony_location
+      label: Ceremony Location
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: reception_location
+      label: Reception Location
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: ceremony_type
+      label: Ceremony Type
+      hint: null
+      type: select_one
+      options:
+      - Ceremony Type 1
+      - Ceremony Type 2
+      required: true
+    - id: 16
+      name: special_addon
+      label: Special Addon
+      hint: null
+      type: select_multiple
+      options:
+      - Addons 1
+      - Addons 2
+      required: false
+    - id: 17
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: major_sponsor_name
+      label: Major Sponsor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: major_sponsor_email
+      label: Major Sponsor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: major_sponsor_phone
+      label: Major Sponsor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: major_sponsor_address
+      label: Major Sponsor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: event_organizer_name
+      label: Event Organizer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: event_organizer_email
+      label: Event Organizer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 27
+      name: event_organizer_phone
+      label: Event Organizer Phone
+      hint: null
+      type: text
+      options: []
+      required: false

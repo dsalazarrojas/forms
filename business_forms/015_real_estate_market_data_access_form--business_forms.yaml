@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Market Data Access Form
+    pages:
+    - id: 1
+      name: real_estate_market_data_access_form
+      label: real_estate_market_data_access_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: property_type_options
+      label: property_type_options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: price_range
+      label: price_range
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_details_options
+      label: contact_details_options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: contact
+      label: contact
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_options
+      label: contact_options
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: phone_number_options
+      label: phone_number_options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

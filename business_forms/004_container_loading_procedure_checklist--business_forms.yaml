@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Container Loading Procedure Checklist
+    pages:
+    - id: 1
+      name: checklist_date
+      label: Checklist Date
+      hint: Date of loading operation
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: loading_location
+      label: Loading Location
+      hint: Facility or warehouse name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: container_number
+      label: Container Number
+      hint: Unique container identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: container_size
+      label: Container Size
+      hint: Select the container size
+      type: select_one
+      options:
+      - 20 feet
+      - 40 feet
+      - 40 feet High Cube
+      - 45 feet
+      required: true
+    - id: 5
+      name: container_type
+      label: Container Type
+      hint: Type of shipping container
+      type: select_one
+      options:
+      - Dry Van
+      - Refrigerated
+      - Open Top
+      - Flat Rack
+      - Tank Container
+      required: true
+    - id: 6
+      name: logistics_manager_name
+      label: Logistics Manager Name
+      hint: Person responsible for loading operation
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: pre_loading_inspection
+      label: Pre-Loading Inspection Completed
+      hint: Container inspected for damage and cleanliness
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 8
+      name: container_condition
+      label: Container Condition
+      hint: Overall condition of the container
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Damaged
+      required: true
+    - id: 9
+      name: loading_equipment_check
+      label: Loading Equipment Check
+      hint: All loading equipment inspected and functional
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: cargo_secured_properly
+      label: Cargo Secured Properly
+      hint: All items properly braced and secured
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: weight_distribution
+      label: Weight Distribution
+      hint: Weight evenly distributed throughout container
+      type: select_one
+      options:
+      - Evenly Distributed
+      - Front Heavy
+      - Rear Heavy
+      - Side Heavy
+      required: true
+    - id: 12
+      name: total_cargo_weight
+      label: Total Cargo Weight
+      hint: Total weight in kilograms or pounds
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: hazardous_materials
+      label: Hazardous Materials Present
+      hint: Are there any hazardous materials in this shipment?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: hazmat_documentation
+      label: Hazmat Documentation Complete
+      hint: All required hazardous material paperwork completed
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 15
+      name: loading_start_time
+      label: Loading Start Time
+      hint: Time loading began
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: loading_end_time
+      label: Loading End Time
+      hint: Time loading completed
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: seal_number
+      label: Container Seal Number
+      hint: Security seal identification number
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: photos_taken
+      label: Photos Taken
+      hint: Photographs of loaded container for documentation
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: damage_noted
+      label: Damage Noted
+      hint: Any damage observed during loading
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: supervisor_signature_date
+      label: Supervisor Signature Date
+      hint: Date of supervisor approval
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information about the loading procedure
+      type: text
+      options: []
+      required: false

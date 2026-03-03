@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Signature Authorization Form
+    pages:
+    - id: 1
+      name: digital_signature_authorization_form
+      label: Digital Signature Authorization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_forms
+      label: Business Forms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: legal_forms
+      label: Legal Forms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contracts
+      label: Contracts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: agreements
+      label: Agreements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: documents
+      label: Documents
+      hint: Please upload document
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: signatures
+      label: Signatures
+      hint: Enter signatures
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: signature_status
+      label: Signature Status
+      hint: Enter signature status
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature_type
+      label: Signature Type
+      hint: Enter signature type
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature_level
+      label: Signature Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 11
+      name: expiration_date
+      label: Expiration Date
+      hint: Select expiration date
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: expiration_time
+      label: Expiration Time
+      hint: null
+      type: time
+      options: []
+      required: false

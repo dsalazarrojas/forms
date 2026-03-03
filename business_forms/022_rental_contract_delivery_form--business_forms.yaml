@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: rental_contract_delivery_form
+    pages:
+    - id: 1
+      name: rental_contract
+      label: Rental Contract Delivery Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tenant_name
+      label: Tenant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tenant_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: tenant_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rental_terms
+      label: Rental Terms
+      hint: null
+      type: select_multiple
+      options:
+      - Landlord
+      - Tenant
+      - Other
+      required: false
+    - id: 6
+      name: contract_terms
+      label: Contract Terms
+      hint: null
+      type: select_multiple
+      options:
+      - '30'
+      - '60'
+      - '90'
+      required: false
+    - id: 7
+      name: move_in_date
+      label: Move-in Date
+      hint: null
+      type: date
+      options: []
+      required: false

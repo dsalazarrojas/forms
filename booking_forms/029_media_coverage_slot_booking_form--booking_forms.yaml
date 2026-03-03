@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: media_coverage_slot_booking_form
+    pages:
+    - id: 1
+      name: event_title
+      label: Event Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: media_slot_name
+      label: Media Slot Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: slot_start_time
+      label: Slot Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: slot_end_time
+      label: Slot End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: slot_duration
+      label: Slot Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: coverage_name
+      label: Coverage Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: media_type
+      label: Media Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 13, ''label'': ''Option 1''}'
+      - '{''id'': 14, ''label'': ''Option 2''}'
+      - '{''id'': 15, ''label'': ''Option 3''}'
+      required: true
+    - id: 10
+      name: media_format
+      label: Media Format
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 17, ''label'': ''Option 1''}'
+      - '{''id'': 18, ''label'': ''Option 2''}'
+      required: true
+    - id: 11
+      name: reporter_name
+      label: Reporter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: reporter_contact
+      label: Reporter Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: booking_time
+      label: Booking Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: booking_duration
+      label: Booking Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: booking_status
+      label: Booking Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 26, ''label'': ''Option 1''}'
+      - '{''id'': 27, ''label'': ''Option 2''}'
+      - '{''id'': 28, ''label'': ''Option 3''}'
+      required: true

@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: pci_compliance_assessment
+    pages:
+    - id: 1
+      name: payment_channels
+      label: Payment Channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: it_status
+      label: it_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: key_security_controls
+      label: key_security_controls
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: key_security_controls_2
+      label: key_security_controls_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: key_security_controls_3
+      label: key_security_controls_3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fraudulent Activity Complaint Form
+    pages:
+    - id: 1
+      name: fraud_complaint
+      label: complaint_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: report_date
+      label: report_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: report_time
+      label: report_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: suspect_name
+      label: suspect_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suspect_address
+      label: suspect_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suspect_phone
+      label: suspect_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suspect_email
+      label: suspect_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: suspect_dob
+      label: suspect_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: fraudulent_activity
+      label: fraudulent_activity
+      hint: null
+      type: select_one
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      - Item 4
+      - Item 5
+      required: false
+    - id: 10
+      name: witness_statement
+      label: witness_statement
+      hint: null
+      type: text
+      options: []
+      required: false

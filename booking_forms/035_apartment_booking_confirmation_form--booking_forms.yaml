@@ -1,0 +1,304 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apartment Booking Confirmation Form
+    pages:
+    - id: 1
+      name: booking_reference
+      label: Booking Reference Number
+      hint: Unique booking ID
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: booking_date
+      label: Booking Date
+      hint: Date of booking
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: guest_name
+      label: Guest Full Name
+      hint: Primary guest name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: guest_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: guest_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: number_of_guests
+      label: Number of Guests
+      hint: Total guests
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: adults_count
+      label: Number of Adults
+      hint: Adults 18 and over
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: children_count
+      label: Number of Children
+      hint: Children under 18
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: apartment_type
+      label: Apartment Type
+      hint: Type of apartment booked
+      type: select_one
+      options:
+      - Studio
+      - One bedroom
+      - Two bedroom
+      - Three bedroom
+      - Penthouse
+      - Other
+      required: true
+    - id: 10
+      name: apartment_number
+      label: Apartment Number
+      hint: Unit number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: check_in_date
+      label: Check-in Date
+      hint: Arrival date
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: check_in_time
+      label: Check-in Time
+      hint: Expected arrival time
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: check_out_date
+      label: Check-out Date
+      hint: Departure date
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: check_out_time
+      label: Check-out Time
+      hint: Expected departure time
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: number_of_nights
+      label: Number of Nights
+      hint: Total nights
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: purpose_of_stay
+      label: Purpose of Stay
+      hint: Why are you staying
+      type: select_one
+      options:
+      - Vacation
+      - Business
+      - Relocation
+      - Family visit
+      - Medical
+      - Other
+      required: true
+    - id: 17
+      name: special_requests
+      label: Special Requests
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accommodations needed
+      type: select_multiple
+      options:
+      - None
+      - Wheelchair accessible
+      - Ground floor
+      - Elevator access
+      - Visual aids
+      - Hearing aids
+      - Other
+      required: true
+    - id: 19
+      name: parking_required
+      label: Parking Required
+      hint: Do you need parking
+      type: select_one
+      options:
+      - Yes, one space
+      - Yes, multiple spaces
+      - false
+      required: true
+    - id: 20
+      name: payment_section
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: total_amount
+      label: Total Amount
+      hint: Total booking cost
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: deposit_paid
+      label: Deposit Paid
+      hint: Deposit amount
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: balance_due
+      label: Balance Due
+      hint: Remaining amount
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Bank transfer
+      - Cash
+      - Other
+      required: true
+    - id: 25
+      name: payment_status
+      label: Payment Status
+      hint: Current status
+      type: select_one
+      options:
+      - Fully paid
+      - Deposit paid
+      - Pending
+      - Pay on arrival
+      required: true
+    - id: 26
+      name: cancellation_policy
+      label: Cancellation Policy Acknowledged
+      hint: Have you read the policy
+      type: select_one
+      options:
+      - Yes, acknowledged
+      - No, not read
+      required: true
+    - id: 27
+      name: house_rules
+      label: House Rules Acknowledged
+      hint: Do you agree to house rules
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 28
+      name: damage_deposit
+      label: Damage Deposit Required
+      hint: Refundable deposit
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: additional_services
+      label: Additional Services Requested
+      hint: Select any extras
+      type: select_multiple
+      options:
+      - None
+      - Daily housekeeping
+      - Airport transfer
+      - Welcome package
+      - Grocery stocking
+      - Late check-out
+      - Early check-in
+      - Other
+      required: true
+    - id: 30
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: In case of emergency
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: confirmation_status
+      label: Confirmation Status
+      hint: Booking status
+      type: select_one
+      options:
+      - Confirmed
+      - Pending
+      - Waitlisted
+      - Cancelled
+      required: true
+    - id: 33
+      name: property_manager
+      label: Property Manager Name
+      hint: Your contact person
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: manager_contact
+      label: Manager Contact Information
+      hint: Phone or email
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: guest_signature
+      label: Guest Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: confirmation_date
+      label: Confirmation Date
+      hint: Date confirmed
+      type: date
+      options: []
+      required: true

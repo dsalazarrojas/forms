@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: resort_package_inquiry_form
+    pages:
+    - id: 1
+      name: inquiry_details
+      label: Inquiry Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: checkin_date
+      label: Checkin Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: checkout_date
+      label: Checkout Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: room_type_options
+      label: Room Types
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: num_guests
+      label: number-of-guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Video Wall Display Booking Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: booking_start_time
+      label: Booking Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: booking_duration
+      label: Booking Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: display_requirements
+      label: Display Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: terms_agreement
+      label: Terms Agreement
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Arrival Form
+    pages:
+    - id: 1
+      name: reason_of_visit
+      label: Reason of visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reservation_number
+      label: Reservation number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rate_your_experience
+      label: Rate your experience
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 4
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: instruction_to_our_staff
+      label: Instruction to our staff
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: SOW Information Collection
+    pages:
+    - id: 1
+      name: project_scope
+      label: Project Scope
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: projectName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: deliverables
+      label: Deliverables
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: timeline
+      label: Timeline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: stakeholders
+      label: Stakeholders
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: Enter contact information for follow up
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_manager
+      label: projectManager
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: project_status
+      label: projectStatus
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Absent Parent Passport Form
+    pages:
+    - id: 1
+      name: section_header_applicant_info
+      label: -- Applying Parent or Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Full name of parent or guardian submitting this form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_relationship
+      label: Relationship to the child
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Legal guardian
+      - Other
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: applicant_address
+      label: Current residential address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: applicant_id_number
+      label: Government-issued ID number
+      hint: Passport number, driver license, or national ID
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_header_child_info
+      label: -- Child Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: child_full_name
+      label: Full legal name of the child
+      hint: As it should appear on the passport
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: child_date_of_birth
+      label: Child date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: child_place_of_birth
+      label: Child place of birth
+      hint: City, state, country
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: child_gender
+      label: Child gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 13
+      name: section_header_absent_parent
+      label: -- Absent Parent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: absent_parent_name
+      label: Full name of the absent parent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: reason_for_absence
+      label: Reason the other parent is absent or unable to consent
+      hint: null
+      type: select_one
+      options:
+      - Deceased
+      - Sole custody granted by court
+      - Unknown whereabouts
+      - Incarcerated
+      - Other (explain below)
+      required: true
+    - id: 16
+      name: absence_explanation
+      label: Additional explanation if applicable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: court_order_available
+      label: Do you have a court order granting sole custody or travel authority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: section_header_declaration
+      label: -- Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: declaration_agreement
+      label: I declare that the information provided is true and correct to the best
+        of my knowledge
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - Other
+      required: true
+    - id: 20
+      name: submission_date
+      label: Date of submission
+      hint: null
+      type: date
+      options: []
+      required: true

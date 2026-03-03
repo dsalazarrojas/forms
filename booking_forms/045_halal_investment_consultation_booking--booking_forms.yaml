@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halal Investment Consultation Booking
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_interests
+      label: Client Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Halal Stocks
+      - Islamic Bonds
+      - Sukuk
+      - Real Estate
+      - Mutual Funds
+      required: false
+    - id: 3
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: consultant_details
+      label: Consultant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: prophets_details
+      label: Prophet's Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consultant_schedule
+      label: Consultant Schedule
+      hint: null
+      type: select_one
+      options:
+      - 9:00 AM
+      - 11:00 AM
+      - 2:00 PM
+      required: false
+    - id: 7
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: consultant_name
+      label: Consultant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consultant
+      label: Consultant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consultant_email
+      label: Consultant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: consultant_phone
+      label: Consultant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: consultant_address
+      label: Consultant Address
+      hint: null
+      type: text
+      options: []
+      required: false

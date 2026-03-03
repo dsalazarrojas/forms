@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Two Horses Tattoo Consent Form (EN)
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tattoo_artist
+      label: Tattoo Artist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tattoo_design
+      label: Tattoo Design
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - Client
+      - Artist
+      - Manager
+      required: true
+    - id: 9
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: artist_signature
+      label: Artist Signature
+      hint: null
+      type: note
+      options: []
+      required: false

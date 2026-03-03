@@ -1,0 +1,26 @@
+inputSchema:
+  type: object
+  properties:
+    title: Curb Adapter Feedback Form
+    pages:
+    - id: 1
+      name: install_details
+      label: Installation Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: rating
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: performance_comments
+      label: Curb Adapter Performance
+      hint: null
+      type: note
+      options: []
+      required: false

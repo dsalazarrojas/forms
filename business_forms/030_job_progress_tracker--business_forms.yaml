@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: job_progress_tracker
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_tasks
+      label: Project Tasks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: deadlines
+      label: Deadlines
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: milestone_info
+      label: Milestone Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: task_progress
+      label: Task Progress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: deadline_date
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: assigned_team_lead
+      label: Assigned Team Lead
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Small Business Facility Rental Agreement
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_size
+      label: Company size
+      hint: Please select company size from 1-50
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rental_start_date
+      label: Rental start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: rental_end_date
+      label: Rental end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: facility_type
+      label: Facility type
+      hint: Please select type of facility
+      type: select_multiple
+      options:
+      - Office space
+      - Warehouse
+      - Storage
+      required: false
+    - id: 10
+      name: facilities
+      label: Facilities
+      hint: Please select facilities
+      type: select_multiple
+      options:
+      - Parking
+      - Meeting rooms
+      - Kitchen
+      - Office equipment
+      - Fiber optic internet
+      - Utilities
+      required: false
+    - id: 11
+      name: rental_duration
+      label: Rental duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: lease_term
+      label: Lease term
+      hint: null
+      type: select_one
+      options:
+      - Month
+      - Quarter
+      - Year
+      required: false
+    - id: 13
+      name: security_deposit
+      label: Security deposit
+      hint: Enter the amount of security deposit
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: monthly_rent
+      label: Monthly rent
+      hint: Enter the monthly rent
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: other_charges
+      label: Other charges
+      hint: Enter other charges
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: terms_and_conditions
+      label: Terms and conditions
+      hint: Please sign and agree to the terms and conditions
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: sign_date
+      label: Signed date
+      hint: null
+      type: date
+      options: []
+      required: false

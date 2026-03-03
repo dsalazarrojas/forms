@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Business Optimization Consulting Application Form
+    pages:
+    - id: 1
+      name: form_page_1
+      label: Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 4, ''name'': ''John'', ''value'': ''John''}'
+      - '{''id'': 5, ''name'': ''Jane'', ''value'': ''Jane''}'
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

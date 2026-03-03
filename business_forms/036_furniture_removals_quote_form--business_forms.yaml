@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Furniture Removals Quote Form
+    pages:
+    - id: 1
+      name: house_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - House
+      - Apartment
+      - Flat
+      - Office
+      required: true
+    - id: 6
+      name: pickup_date
+      label: Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: pickup_time
+      label: Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: removals_location
+      label: Removals Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: removals_size
+      label: Removals Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: quote_details
+      label: Quote Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: quote_price
+      label: Quote Price
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advisor Commitment Letter
+    pages:
+    - id: 1
+      name: advisor_details_header
+      label: -- Advisor Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: advisor_name
+      label: Advisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_affiliation
+      label: Current Organization / Affiliation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: role_acceptance_header
+      label: -- Role Acceptance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: advisory_role
+      label: Advisory Role Title
+      hint: Position you are accepting.
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: commitment_term
+      label: Commitment Term
+      hint: Duration of service.
+      type: select_one
+      options:
+      - 1 Year
+      - 2 Years
+      - 3 Years
+      - Project Duration
+      required: true
+    - id: 9
+      name: responsibilities_acknowledgment
+      label: Responsibilities Acknowledgment
+      hint: I understand the duties required of this role.
+      type: select_multiple
+      options:
+      - Attend quarterly meetings
+      - Provide strategic guidance
+      - Mentor junior members
+      - Participate in annual review
+      - Maintain confidentiality
+      required: true
+    - id: 10
+      name: conflict_of_interest
+      label: Conflict of Interest Declaration
+      hint: Do you have any potential conflicts?
+      type: select_one
+      options:
+      - No known conflicts
+      - Yes (Please describe below)
+      required: true
+    - id: 11
+      name: conflict_details
+      label: Conflict Details
+      hint: If yes, please explain.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: commitment_statement
+      label: Statement of Commitment
+      hint: I hereby commit to serving as an advisor to the best of my ability.
+      type: select_one
+      options:
+      - I Commit
+      - Other
+      required: true
+    - id: 13
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

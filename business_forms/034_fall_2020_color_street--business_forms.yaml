@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fall 2020 Color Street
+    pages:
+    - id: 1
+      name: color_street
+      label: fall 2020 color street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product
+      label: product
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''product1'', ''label'': ''Product 1''}'
+      - '{''value'': ''product2'', ''label'': ''Product 2''}'
+      - '{''value'': ''product3'', ''label'': ''Product 3''}'
+      required: true
+    - id: 3
+      name: color
+      label: color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''red'', ''label'': ''red''}'
+      - '{''value'': ''blue'', ''label'': ''blue''}'
+      - '{''value'': ''green'', ''label'': ''green''}'
+      required: true
+    - id: 4
+      name: size
+      label: size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: order_time
+      label: order time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy'', ''label'': ''chatjimmy''}'
+      - Other
+      required: true

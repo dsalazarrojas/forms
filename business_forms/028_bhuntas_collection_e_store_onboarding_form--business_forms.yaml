@@ -1,0 +1,300 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bhuntas Collection/E Store Onboarding Form
+    pages:
+    - id: 1
+      name: section_header_vendor
+      label: -- Vendor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vendor_name
+      label: Vendor or Collection Name
+      hint: Name of your store or collection
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vendor_type
+      label: Vendor Type
+      hint: What type of vendor are you?
+      type: select_one
+      options:
+      - Individual seller
+      - Small business
+      - Established brand
+      - Collection/boutique
+      - Designer
+      - Manufacturer
+      - Distributor
+      - Other
+      required: true
+    - id: 4
+      name: primary_contact
+      label: Primary Contact Name
+      hint: Name of main contact person
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: Your primary email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_business
+      label: -- Business Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: business_registration
+      label: Business Registration Number
+      hint: License or registration ID
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tax_id
+      label: Tax ID or EIN
+      hint: For tax and compliance purposes
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: business_address
+      label: Business Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: business_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: business_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: business_postal
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: business_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_header_products
+      label: -- Products and Categories --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: product_categories
+      label: Primary Product Categories
+      hint: What do you sell (Select all that apply)?
+      type: select_multiple
+      options:
+      - Clothing
+      - Accessories
+      - Jewelry
+      - Home goods
+      - Electronics
+      - Handcrafted items
+      - Vintage
+      - Art and crafts
+      - Health and wellness
+      - Beauty products
+      - Other
+      required: true
+    - id: 17
+      name: product_description
+      label: Brief Description of Your Products
+      hint: What makes your products unique?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: average_price_range
+      label: Average Product Price Range
+      hint: Typical price point
+      type: select_one
+      options:
+      - Under $25
+      - $25 - $50
+      - $50 - $100
+      - $100 - $250
+      - $250 - $500
+      - Over $500
+      - Mixed range
+      required: true
+    - id: 19
+      name: inventory_estimate
+      label: Estimated Number of Products
+      hint: How many SKUs do you have?
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: section_header_experience
+      label: -- Experience and Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: selling_experience
+      label: Years of Selling Experience
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      - No experience
+      required: true
+    - id: 22
+      name: online_selling_experience
+      label: Online Selling Experience
+      hint: Have you sold online before?
+      type: select_one
+      options:
+      - Extensive experience
+      - Some experience
+      - Limited experience
+      - New to online selling
+      required: true
+    - id: 23
+      name: current_sales_channels
+      label: Current Sales Channels
+      hint: Where do you currently sell (Select all)?
+      type: select_multiple
+      options:
+      - Own website
+      - Social media
+      - Other marketplaces
+      - Physical store
+      - Pop-up events
+      - Wholesale
+      - Not currently selling
+      required: false
+    - id: 24
+      name: section_header_banking
+      label: -- Banking and Payments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: bank_account_holder
+      label: Bank Account Holder Name
+      hint: Name on the account
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: bank_account_type
+      label: Bank Account Type
+      hint: null
+      type: select_one
+      options:
+      - Checking account
+      - Savings account
+      - Business account
+      - PayPal or digital wallet
+      required: true
+    - id: 27
+      name: currency_preference
+      label: Preferred Currency
+      hint: What currency for payments?
+      type: select_one
+      options:
+      - USD - US Dollar
+      - EUR - Euro
+      - GBP - British Pound
+      - CAD - Canadian Dollar
+      - AUD - Australian Dollar
+      - Other
+      required: true
+    - id: 28
+      name: section_header_shipping
+      label: -- Shipping and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: shipping_capability
+      label: Can You Handle Your Own Shipping
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully equipped
+      - Yes, with some limitations
+      - No, need marketplace support
+      - No, need fulfillment service
+      required: true
+    - id: 30
+      name: shipping_regions
+      label: Shipping Regions
+      hint: Where can you ship to (Select all)?
+      type: select_multiple
+      options:
+      - Domestic only
+      - North America
+      - Europe
+      - Worldwide
+      - Need to discuss
+      required: true
+    - id: 31
+      name: section_header_compliance
+      label: -- Compliance and Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: terms_agreement
+      label: I Agree to Platform Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 33
+      name: additional_information
+      label: Additional Information
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

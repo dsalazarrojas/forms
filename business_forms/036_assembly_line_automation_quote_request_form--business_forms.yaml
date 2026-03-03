@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Assembly Line Automation Quote Request Form
+    pages:
+      - id: 1
+        name: company_info_header
+        label: -- Company Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: company_name_automation
+        label: Company Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: industry_type_automation
+        label: Primary Industry
+        hint: null
+        type: select_one
+        options:
+          - Automotive
+          - Consumer Electronics
+          - Food and Beverage
+          - Pharmaceutical
+          - Aerospace
+          - Other
+        required: true
+      - id: 4
+        name: manual_process_desc
+        label: Description of Current Manual Process
+        hint: What are the primary tasks performed by workers
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: desired_throughput
+        label: Desired Production Throughput
+        hint: Units per hour or day
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: space_constraints
+        label: Physical Space Constraints
+        hint: Approximate dimensions of the installation area
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: component_handling_needs
+        label: Types of Components to be Handled
+        hint: e.g. Small electronic parts, heavy metal frames
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: estimated_budget_automation
+        label: Estimated Project Budget
+        hint: Provide a range in USD
+        type: select_one
+        options:
+          - Under 50k
+          - 50k to 250k
+          - 250k to 1M
+          - Over 1M
+        required: true
+      - id: 9
+        name: implementation_timeline
+        label: Desired Implementation Timeline
+        hint: null
+        type: select_one
+        options:
+          - Within 3 months
+          - 3 to 6 months
+          - 6 to 12 months
+          - Future Planning
+        required: true
+      - id: 10
+        name: system_integration_notes
+        label: Existing System Integration Needs
+        hint: List any ERP or PLM software involved
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: contact_email_automation
+        label: Contact Email for Quote
+        hint: null
+        type: email
+        options: []
+        required: true

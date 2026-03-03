@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Threat Assessment Form
+    pages:
+    - id: 1
+      name: threat_assessment
+      label: Threat Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 2
+      name: risk_type
+      label: risk_type
+      hint: null
+      type: select_one
+      options:
+      - Risk 1
+      - Risk 2
+      - Risk 3
+      required: true
+    - id: 3
+      name: risk_level
+      label: risk_level
+      hint: 0-10
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: threat_level
+      label: threat_level
+      hint: 0.0-10.0
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: risk_description
+      label: risk_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: risk_justification
+      label: risk_justification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: risk_prevention
+      label: risk_prevention
+      hint: null
+      type: select_multiple
+      options:
+      - Prevention 1
+      - Prevention 2
+      - Prevention 3
+      required: true
+    - id: 8
+      name: risk_response
+      label: risk_response
+      hint: null
+      type: select_one
+      options:
+      - Response 1
+      - Response 2
+      - Response 3
+      required: true
+    - id: 9
+      name: risk_recommendation
+      label: risk_recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: risk_status
+      label: risk_status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: true
+    - id: 11
+      name: risk_comments
+      label: risk_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: risk_next_steps
+      label: risk_next_steps
+      hint: null
+      type: select_multiple
+      options:
+      - Step 1
+      - Step 2
+      - Step 3
+      required: false
+    - id: 13
+      name: risk_follow_up
+      label: risk_follow_up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: risk_follow_up_time
+      label: risk_follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: risk_reviewed_by
+      label: risk_reviewed_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: risk_reviewed_date
+      label: risk_reviewed_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: risk_reviewed_time
+      label: risk_reviewed_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: risk_reviewed_by_who
+      label: risk_reviewed_by_who
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: risk_closed
+      label: risk_closed
+      hint: null
+      type: select_one
+      options:
+      - Closed 1
+      - Closed 2
+      - Closed 3
+      required: true
+    - id: 20
+      name: risk_notes
+      label: risk_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: risk_attachments
+      label: risk_attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: risk_attachment_comments
+      label: risk_attachment_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: risk_recommendation_date
+      label: risk_recommendation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: risk_recommendation_time
+      label: risk_recommendation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: risk_reviewed_comments
+      label: risk_reviewed_comments
+      hint: null
+      type: text
+      options: []
+      required: false

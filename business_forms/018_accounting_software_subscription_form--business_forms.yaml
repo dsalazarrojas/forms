@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Software Subscription Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Legal name of the entity
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: primary_admin_name
+      label: Primary Admin Name
+      hint: Main user with administrative rights
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: admin_email
+      label: Admin Email
+      hint: For login and billing notifications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: software_edition
+      label: Software Edition
+      hint: Select your plan
+      type: select_one
+      options:
+      - Basic
+      - Professional
+      - Enterprise
+      required: true
+    - id: 5
+      name: number_of_user_licenses
+      label: Number of User Licenses
+      hint: Additional seats beyond the base plan
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: subscription_term
+      label: Subscription Term
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Annual
+      required: true
+    - id: 7
+      name: optional_modules
+      label: Optional Modules
+      hint: Select add-ons to enhance functionality
+      type: select_multiple
+      options:
+      - Inventory
+      - Payroll
+      - Multi-currency
+      - Project Tracking
+      - API Access
+      required: false
+    - id: 8
+      name: calculated_monthly_cost
+      label: Calculated Monthly Cost
+      hint: Estimated total
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_header
+      label: -- Payment Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: payment_gateway
+      label: Payment Gateway
+      hint: Choose your processor
+      type: select_one
+      options:
+      - Stripe
+      - Square
+      - Authorize.net
+      required: true
+    - id: 11
+      name: auto_renew_enabled
+      label: Enable Auto-Renew?
+      hint: Automatically bill at the end of the term
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: activation_date
+      label: Desired Activation Date
+      hint: null
+      type: date
+      options: []
+      required: true

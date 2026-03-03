@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trucking Booking Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: truck_id
+      label: Truck ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: booking_time
+      label: Booking Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: select_one_trucks
+      label: Select Truck
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Truck 1'', ''value'': 1}'
+      - '{''label'': ''Truck 2'', ''value'': 2}'
+      - '{''label'': ''Truck 3'', ''value'': 3}'
+      required: false
+    - id: 12
+      name: select_multiple_trucks
+      label: Select Multiple Trucks
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Truck 1'', ''value'': 1}'
+      - '{''label'': ''Truck 2'', ''value'': 2}'
+      - '{''label'': ''Truck 3'', ''value'': 3}'
+      required: false

@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: production_batch_integrity_report
+    pages:
+    - id: 1
+      name: batch_details
+      label: batch_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_results
+      label: inspection_results
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: issues
+      label: issues
+      hint: null
+      type: select_multiple
+      options:
+      - Production Issues
+      - Packaging Issues
+      - Quality Issues
+      required: false
+    - id: 4
+      name: corrective_actions
+      label: corrective_actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: batch_number
+      label: batch_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: production_date
+      label: production_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: production_time
+      label: production_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: production_location
+      label: production_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: production_shift
+      label: production_shift
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: production_line
+      label: production_line
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: production_machine
+      label: production_machine
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: production_operator
+      label: production_operator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: production_quality_check
+      label: production_quality_check
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: batch_size
+      label: batch_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: batch_weight
+      label: batch_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: batch_weight_units
+      label: batch_weight_units
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: batch_weight_tolerance
+      label: batch_weight_tolerance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: batch_weight_tolerance_range
+      label: batch_weight_tolerance_range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: production_shift_start
+      label: production_shift_start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: production_shift_end
+      label: production_shift_end
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: shift_start_signature
+      label: shift_start_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: shift_end_signature
+      label: shift_end_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: production_manager
+      label: production_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: production_supervisor
+      label: production_supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

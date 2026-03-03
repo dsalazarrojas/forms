@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufacturing Task Management Board
+    pages:
+    - id: 1
+      name: task_assigner
+      label: task_assigner
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: task_priority
+      label: task_priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: task_due_date
+      label: task_due_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: task_status
+      label: task_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 5
+      name: task_description
+      label: task_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: production_plan
+      label: production_plan
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: production_start_date
+      label: production_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: production_end_date
+      label: production_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: production_team
+      label: production_team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: production_supervisor
+      label: production_supervisor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: production_responsible
+      label: production_responsible
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: production_notes
+      label: production_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: production_comments
+      label: production_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: production_escalation
+      label: production_escalation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: production_escalation_email
+      label: production_escalation_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: production_escalation_phone
+      label: production_escalation_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: production_escalation_notes
+      label: production_escalation_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: production_attachments
+      label: production_attachments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: task_assignee
+      label: task_assignee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: task_priority_order
+      label: task_priority_order
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: production_team_status
+      label: production_team_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 22
+      name: production_status_comments
+      label: production_status_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: production_status_notes
+      label: production_status_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: task_assigner_comment
+      label: task_assigner_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: production_notes2
+      label: production_notes2
+      hint: null
+      type: text
+      options: []
+      required: false

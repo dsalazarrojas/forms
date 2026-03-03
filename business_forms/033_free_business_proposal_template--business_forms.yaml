@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: free-business-proposal-template
+    pages:
+    - id: 1
+      name: business_proposal_template
+      label: Business Proposal Template
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: proposal_date
+      label: Proposal Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: proposal_status
+      label: Proposal Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 5
+      name: proposal_status_hint
+      label: Proposal Status Hint
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: proposal_description
+      label: Proposal Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: proposal_contact
+      label: Proposal Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: proposal_scope
+      label: Proposal Scope
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: proposal_terms
+      label: Proposal Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: client_signature_date
+      label: Client Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: client_signature_status
+      label: Client Signature Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 16
+      name: proposal_approvals
+      label: Proposal Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 17
+      name: client_comment
+      label: Client Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: proposal_comments
+      label: Proposal Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: proposal_file
+      label: Proposal File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: proposal_file_type
+      label: Proposal File Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 21
+      name: client_terms
+      label: Client Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: proposal_signature_date_hint
+      label: Proposal Signature Date Hint
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: proposal_signature_status_hint
+      label: Proposal Signature Status Hint
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: proposal_finalization_date_hint
+      label: Proposal Finalization Date Hint
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: proposal_finalization_status_hint
+      label: Proposal Finalization Status Hint
+      hint: null
+      type: note
+      options: []
+      required: false

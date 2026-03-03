@@ -1,0 +1,130 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Batch Analysis Report Request Form
+    pages:
+      - id: 1
+        name: requestor_header
+        label: -- Requestor Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: requestor_full_name
+        label: Requestor Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: department_name
+        label: Department or Division
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: contact_email
+        label: Contact Email
+        hint: For delivery of report
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: batch_details_header
+        label: -- Batch Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: batch_id_number
+        label: Batch ID or Lot Number
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: product_name
+        label: Product or Sample Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: manufacturing_date
+        label: Date of Manufacture
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 9
+        name: analysis_params_header
+        label: -- Analysis Parameters --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: analysis_type_requested
+        label: Type of Analysis Requested
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Chemical Composition
+          - Microbiological Screening
+          - Physical Properties Testing
+          - Heavy Metal Analysis
+          - Stability Testing
+          - Potency Assay
+        required: true
+      - id: 11
+        name: priority_level
+        label: Priority Level
+        hint: null
+        type: select_one
+        options:
+          - Standard (5-7 Business Days)
+          - Expedited (2-3 Business Days)
+          - Urgent (24 Hours - Surcharge Applies)
+        required: true
+      - id: 12
+        name: sample_quantity_submitted
+        label: Sample Quantity and Units
+        hint: e.g. 500ml, 1kg, 10 units
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: safety_handling_notes
+        label: Special Handling or Safety Instructions
+        hint: e.g. Biohazard, Flammable, Keep Chilled
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: additional_requirements
+        label: Specific Regulatory Standards to Meet
+        hint: e.g. ISO 9001, FDA CFR 211, USP
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: submission_date
+        label: Date of Request
+        hint: null
+        type: date
+        options: []
+        required: true

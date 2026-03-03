@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civil Litigation Information Form
+    pages:
+    - id: 1
+      name: case_details_header
+      label: -- Legal Case Information --
+      hint: To be completed by legal staff or attorney
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: law_firm_name
+      label: Law Firm Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: case_name
+      label: Official Case Name (e.g., Smith v. Jones)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: case_index_number
+      label: Case Index or File Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: primary_attorney
+      label: Lead Attorney
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: court_jurisdiction
+      label: Court/Jurisdiction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: litigation_type
+      label: Type of Civil Litigation
+      hint: null
+      type: select_one
+      options:
+      - Personal Injury (Tort)
+      - Breach of Contract
+      - Property/Real Estate Dispute
+      - Employment/Labor Law
+      - Intellectual Property
+      - Civil Rights
+      - Family Law (Civil)
+      required: true
+    - id: 8
+      name: current_case_status
+      label: Current Procedural Status
+      hint: null
+      type: select_one
+      options:
+      - Initial Pleadings
+      - Discovery Phase
+      - Motion Practice
+      - Settlement Negotiations
+      - Pre-Trial
+      - Trial
+      - Post-Trial/Appeals
+      required: true
+    - id: 9
+      name: key_deadlines_header
+      label: -- Upcoming Deadlines --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: deadline_discovery_completion
+      label: Discovery Completion Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: deadline_motion_filing
+      label: Dispositive Motion Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: trial_start_date
+      label: Scheduled Trial Date (if set)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: opposing_party_header
+      label: -- Opposing Party and Counsel --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: opposing_party_name
+      label: Opposing Party Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: opposing_counsel_name
+      label: Opposing Counsel Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: update_timestamp
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: case_complexity_rating
+      label: Case Complexity Level
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Moderate
+      - Complex
+      - Highly Complex (Class Action/Multidistrict)
+      required: true
+    - id: 18
+      name: settlement_probability
+      label: Probability of Settlement before Trial (%)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: case_summary_notes
+      label: Strategic Case Summary (Confidential)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: next_action_item
+      label: Immediate Next Action Item
+      hint: null
+      type: text
+      options: []
+      required: true

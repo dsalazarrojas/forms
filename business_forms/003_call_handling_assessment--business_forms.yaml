@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Call Handling Assessment
+    pages:
+    - id: 1
+      name: section_call_info
+      label: -- Call Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: representative_name
+      label: Representative Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: call_duration
+      label: Call Duration
+      hint: In minutes
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: customer_satisfaction
+      label: Customer Satisfaction Level
+      hint: Rate the customer's apparent satisfaction
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 6
+      name: section_performance_assessment
+      label: -- Performance Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: call_answered_professionally
+      label: Call was answered professionally and courteously
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Unacceptable
+      required: true
+    - id: 8
+      name: issue_understood_clearly
+      label: Representative understood customer issue clearly
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Unacceptable
+      required: true
+    - id: 9
+      name: active_listening_demonstrated
+      label: Active listening and empathy demonstrated
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Unacceptable
+      required: true
+    - id: 10
+      name: technical_knowledge
+      label: Technical knowledge and product expertise
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Unacceptable
+      required: true
+    - id: 11
+      name: problem_resolution
+      label: Problem was effectively resolved or escalated
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Unacceptable
+      required: true
+    - id: 12
+      name: call_pace_appropriate
+      label: Call pace was appropriate and not rushed
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Unacceptable
+      required: true
+    - id: 13
+      name: follow_up_offered
+      label: Follow-up or next steps were clearly communicated
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Unacceptable
+      required: true
+    - id: 14
+      name: section_feedback
+      label: -- Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: strengths_demonstrated
+      label: Key Strengths Demonstrated
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: training_recommendations
+      label: Training or Development Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: overall_performance_rating
+      label: Overall Performance Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 19
+      name: assessor_name
+      label: Assessor Name
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Tax Resale Certificate Form
+    pages:
+    - id: 1
+      name: seller_info
+      label: seller_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: purchaser_info
+      label: purchaser_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: resale_number
+      label: resale_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: resale_number_expiration
+      label: resale_number_expiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: exemption_reason
+      label: exemption_reason
+      hint: null
+      type: select_one
+      options:
+      - Resale Number Required
+      - Resale Number Not Required
+      - Resale Number Exempt
+      required: false
+    - id: 6
+      name: exemption_reason_other
+      label: exemption_reason_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: exemption_reason_note
+      label: exemption_reason_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: seller_signature
+      label: seller_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: purchaser_signature
+      label: purchaser_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sales_tax_resale_certificate
+      label: sales_tax_resale_certificate
+      hint: null
+      type: select_one
+      options:
+      - Sales Tax Exempt
+      - Sales Tax Resale Certificate
+      required: false
+    - id: 11
+      name: sales_tax_resale_certificate_note
+      label: sales_tax_resale_certificate_note
+      hint: null
+      type: note
+      options: []
+      required: false

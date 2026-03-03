@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_travel_policy_verification_form
+    pages:
+    - id: 1
+      name: company_travel_policy
+      label: Company Travel Policy
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: travel_frequency
+      label: travel_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Frequently'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Occasionally'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Rarely'', ''value'': 3}'
+      required: false
+    - id: 3
+      name: travel_type
+      label: travel_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Business'', ''value'': ''Business''}'
+      - '{''id'': 2, ''label'': ''Personal'', ''value'': ''Personal''}'
+      required: false
+    - id: 4
+      name: travel_reason
+      label: travel_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_frequency_1
+      label: how_often_do_you_travel_for_business
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: travel_frequency_2
+      label: travel_frequency_1_description
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Frequently'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Occasionally'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Rarely'', ''value'': 3}'
+      required: false
+    - id: 7
+      name: travel_type_1
+      label: travel_type_1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Business'', ''value'': ''Business''}'
+      - '{''id'': 2, ''label'': ''Personal'', ''value'': ''Personal''}'
+      required: false
+    - id: 8
+      name: travel_reason_1
+      label: travel_reason_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: travel_frequency_3
+      label: travel_frequency_2_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: travel_type_2
+      label: travel_type_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Business'', ''value'': ''Business''}'
+      - '{''id'': 2, ''label'': ''Personal'', ''value'': ''Personal''}'
+      required: false
+    - id: 11
+      name: travel_reason_2
+      label: travel_reason_2
+      hint: null
+      type: text
+      options: []
+      required: false

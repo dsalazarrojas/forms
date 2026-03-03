@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Screening Slot Booking Form
+    pages:
+    - id: 1
+      name: booking_form
+      label: booking_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: screen_time
+      label: screen_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: screening_start_time
+      label: screening_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: screening_end_time
+      label: screening_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: booking_slot
+      label: booking_slot
+      hint: null
+      type: select_one
+      options:
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      - '13'
+      - '14'
+      - '15'
+      - '16'
+      - '17'
+      - '18'
+      - '19'
+      - '20'
+      - '21'
+      - '22'
+      - '23'
+      - '24'
+      - '25'
+      - '26'
+      - '27'
+      - '28'
+      - '29'
+      - '30'
+      - '31'
+      - '32'
+      - '33'
+      - '34'
+      - '35'
+      - '36'
+      - '37'
+      - '38'
+      - '39'
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: confirm_booking
+      label: confirm_booking
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

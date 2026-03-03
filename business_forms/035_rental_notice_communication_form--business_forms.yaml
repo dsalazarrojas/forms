@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Notice Communication Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: notice_type
+      label: Notice Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: notice_date
+      label: Notice Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: notice_text
+      label: Notice Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notice_signature
+      label: Notice Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: tenant_signature
+      label: Tenant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: landlord_signature
+      label: Landlord Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notice_category
+      label: Notice Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: notice_details
+      label: Notice Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_submitter
+      label: Form Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notice_status
+      label: Notice Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

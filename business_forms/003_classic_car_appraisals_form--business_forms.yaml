@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Classic Car Appraisals Form
+    pages:
+    - id: 1
+      name: appraisal_date
+      label: Appraisal Date
+      hint: Date of the appraisal
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: appraiser_name
+      label: Appraiser Name
+      hint: Full name of the certified appraiser
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: appraiser_license_number
+      label: License Number
+      hint: Professional license or certification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_header_vehicle
+      label: -- Vehicle Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_year
+      label: Year of Manufacture
+      hint: Year the vehicle was made
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_make
+      label: Make
+      hint: Manufacturer (e.g., Ford, Chevrolet, Mercedes-Benz)
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_model
+      label: Model
+      hint: Specific model name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_vin
+      label: Vehicle Identification Number (VIN)
+      hint: 17-character VIN
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_color
+      label: Color
+      hint: Primary exterior color
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: body_style
+      label: Body Style
+      hint: Type of vehicle body
+      type: select_one
+      options:
+      - Sedan
+      - Coupe
+      - Convertible
+      - Wagon
+      - Truck
+      - Roadster
+      - Other
+      required: true
+    - id: 11
+      name: current_mileage
+      label: Current Mileage
+      hint: Odometer reading in miles or kilometers
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_header_condition
+      label: -- Condition Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: exterior_condition
+      label: Exterior Condition
+      hint: Overall condition of exterior
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: interior_condition
+      label: Interior Condition
+      hint: Overall condition of interior
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: mechanical_condition
+      label: Mechanical Condition
+      hint: Engine and mechanical components condition
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: restoration_history
+      label: Has the vehicle been restored?
+      hint: Select if vehicle has undergone restoration
+      type: select_one
+      options:
+      - No restoration
+      - Partial restoration
+      - Complete restoration
+      - Frame-off restoration
+      required: true
+    - id: 17
+      name: restoration_details
+      label: Restoration Details
+      hint: Describe what work was done and when
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: service_records
+      label: Service Records Available
+      hint: Documented maintenance and repair history
+      type: select_one
+      options:
+      - Complete records
+      - Partial records
+      - No records
+      required: true
+    - id: 19
+      name: special_features
+      label: Special or Rare Features
+      hint: Unique options or modifications
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_header_valuation
+      label: -- Valuation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: estimated_value
+      label: Estimated Current Value
+      hint: Fair market value in local currency
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: valuation_method
+      label: Valuation Method Used
+      hint: Approach used to determine value
+      type: select_one
+      options:
+      - Comparable Sales Analysis
+      - Cost Approach
+      - Income Approach
+      - Market Data Guide
+      required: true
+    - id: 23
+      name: supporting_notes
+      label: Supporting Notes and Comments
+      hint: Additional information affecting value
+      type: text
+      options: []
+      required: false

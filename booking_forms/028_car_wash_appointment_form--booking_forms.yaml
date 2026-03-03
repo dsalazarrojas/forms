@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Wash Appointment Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: preferred_date
+      label: Preferred wash date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: preferred_time
+      label: Preferred wash time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: time_flexibility
+      label: How flexible is your time?
+      hint: null
+      type: select_one
+      options:
+      - Very Flexible
+      - Flexible
+      - Within 30 minutes
+      - Exact Time Only
+      required: false
+    - id: 7
+      name: vehicle_make_model
+      label: Vehicle make and model
+      hint: e.g., Honda Accord
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_color
+      label: Vehicle color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_size
+      label: Vehicle size
+      hint: null
+      type: select_one
+      options:
+      - Compact
+      - Mid-Size
+      - Full-Size
+      - SUV
+      - Truck
+      - Van
+      - Minivan
+      required: true
+    - id: 10
+      name: vehicle_condition
+      label: Current vehicle condition
+      hint: null
+      type: select_one
+      options:
+      - Light Dust
+      - Moderate Dirt
+      - Heavy Soiling
+      - Very Dirty
+      - Off-Road Condition
+      required: true
+    - id: 11
+      name: wash_package
+      label: Wash package selection
+      hint: null
+      type: select_one
+      options:
+      - Basic Wash
+      - Standard Wash
+      - Deluxe Wash
+      - Premium Wash
+      - Full Detailing
+      - Express Wash
+      required: true
+    - id: 12
+      name: wash_package_details
+      label: What's included in your chosen package?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_services
+      label: Additional services (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Wax Application
+      - Interior Vacuum
+      - Window Cleaning
+      - Tire Shine
+      - Undercarriage Wash
+      - Air Freshener
+      - Carpet Protection
+      required: false
+    - id: 14
+      name: special_requests
+      label: Any special requests or concerns?
+      hint: Allergies, special care instructions, etc.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: interior_cleaning
+      label: Interior cleaning needed?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Just Vacuum
+      required: false
+    - id: 16
+      name: window_tinting
+      label: Window tinting to protect?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 17
+      name: location_preference
+      label: Service location preference
+      hint: null
+      type: select_one
+      options:
+      - Our Facility
+      - Your Location - Mobile Service
+      - Either
+      required: true
+    - id: 18
+      name: service_address
+      label: Service address (if mobile service)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: estimated_duration
+      label: Is this an express or standard duration appointment?
+      hint: null
+      type: select_one
+      options:
+      - Express - 30 minutes
+      - Standard - 1 hour
+      - Deluxe - 1.5 hours
+      - Premium - 2+ hours
+      required: false
+    - id: 20
+      name: recurring_appointment
+      label: Would you like a recurring appointment?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Weekly
+      - Yes - Bi-weekly
+      - Yes - Monthly
+      - false
+      required: false
+    - id: 21
+      name: loyalty_program
+      label: Are you a loyalty program member?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Interested
+      required: false
+    - id: 22
+      name: payment_method
+      label: Preferred payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Check
+      - Online Payment
+      required: true
+    - id: 23
+      name: estimated_cost
+      label: Estimated wash cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: contact_preference
+      label: Preferred contact method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text Message
+      - Either
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Any additional notes or requirements?
+      hint: null
+      type: text
+      options: []
+      required: false

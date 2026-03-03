@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: AML Compliance Consent Form
+    pages:
+    - id: 1
+      name: client_full_name
+      label: Client Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: Valid email for account communications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: Contact number for account verification
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_name
+      label: Business Name
+      hint: Name of the business entity (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tax_identification_number
+      label: Tax Identification Number
+      hint: SSN, EIN, or equivalent tax ID
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: residential_address
+      label: Residential Address
+      hint: Current address for identity verification
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: source_of_funds
+      label: Source of Funds
+      hint: How do you plan to fund your account?
+      type: select_one
+      options:
+      - Employment Income
+      - Business Revenue
+      - Investment Returns
+      - Gift/Inheritance
+      - Sale of Assets
+      - Other
+      required: true
+    - id: 8
+      name: expected_account_activity
+      label: Expected Account Activity
+      hint: What type of transactions do you expect to conduct?
+      type: select_multiple
+      options:
+      - Deposits
+      - Withdrawals
+      - Transfers
+      - International Wire Transfers
+      - Checks
+      - Electronic Payments
+      required: true
+    - id: 9
+      name: monthly_transaction_volume
+      label: Estimated Monthly Transaction Volume
+      hint: Approximate amount of money to be transacted monthly
+      type: select_one
+      options:
+      - Under $1,000
+      - $1,000-$5,000
+      - $5,000-$10,000
+      - $10,000-$25,000
+      - Over $25,000
+      required: true
+    - id: 10
+      name: account_purpose
+      label: Purpose of Account
+      hint: Why are you opening this account?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: beneficial_ownership_disclosure
+      label: Beneficial Ownership Disclosure
+      hint: I acknowledge that beneficial ownership information may be required
+      type: select_one
+      options:
+      - Acknowledge
+      - Other
+      required: true
+    - id: 12
+      name: consent_identity_verification
+      label: Consent to Identity Verification
+      hint: I consent to identity verification procedures as required by AML regulations
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: consent_monitoring_activities
+      label: Consent to Monitoring of Activities
+      hint: I consent to monitoring of my account activities for suspicious transactions
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: consent_information_sharing
+      label: Consent to Information Sharing
+      hint: I consent to sharing of information with regulatory authorities as required
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: signature_consent
+      label: Electronic Signature Consent
+      hint: I agree that my electronic submission constitutes my legal signature
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

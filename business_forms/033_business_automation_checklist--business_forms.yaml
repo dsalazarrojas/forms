@@ -1,0 +1,292 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Automation Checklist
+    pages:
+    - id: 1
+      name: company_info
+      label: Company Information
+      hint: About your business
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: industry
+      label: Industry
+      hint: Your industry
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Professional Services
+      - Education
+      - Other
+      required: true
+    - id: 4
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - More than 500 employees
+      required: true
+    - id: 5
+      name: contact_name
+      label: Contact Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_automation
+      label: Current Automation
+      hint: What do you currently automate
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: automation_level
+      label: Current Automation Level
+      hint: How automated are you now
+      type: select_one
+      options:
+      - Not Automated
+      - Minimally Automated
+      - Somewhat Automated
+      - Mostly Automated
+      - Fully Automated
+      required: true
+    - id: 10
+      name: current_tools
+      label: Current Automation Tools
+      hint: What tools do you use
+      type: select_multiple
+      options:
+      - Zapier
+      - Microsoft Power Automate
+      - IFTTT
+      - Custom Scripts
+      - RPA Software
+      - CRM Automation
+      - Marketing Automation
+      - None
+      - Other
+      required: true
+    - id: 11
+      name: departments_using_automation
+      label: Departments Using Automation
+      hint: Where is automation used
+      type: select_multiple
+      options:
+      - Sales
+      - Marketing
+      - Customer Service
+      - Finance
+      - HR
+      - Operations
+      - IT
+      - None
+      required: true
+    - id: 12
+      name: automation_needs
+      label: Automation Needs
+      hint: What do you want to automate
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: processes_to_automate
+      label: Processes to Automate
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Data Entry
+      - Email Marketing
+      - Lead Generation
+      - Customer Onboarding
+      - Invoice Processing
+      - Report Generation
+      - Appointment Scheduling
+      - Inventory Management
+      - Order Processing
+      - HR Onboarding
+      - Social Media Posting
+      - Other
+      required: true
+    - id: 14
+      name: pain_points
+      label: Current Pain Points
+      hint: What manual tasks are problematic
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: time_spent_manual
+      label: Time Spent on Manual Tasks
+      hint: Hours per week
+      type: select_one
+      options:
+      - Less than 5 hours
+      - 5-10 hours
+      - 10-20 hours
+      - 20-40 hours
+      - More than 40 hours
+      required: true
+    - id: 16
+      name: automation_goals
+      label: Automation Goals
+      hint: What do you hope to achieve
+      type: select_multiple
+      options:
+      - Save Time
+      - Reduce Errors
+      - Cut Costs
+      - Improve Customer Experience
+      - Scale Operations
+      - Better Data Tracking
+      - Employee Satisfaction
+      - Compliance
+      required: true
+    - id: 17
+      name: integration_needs
+      label: Integration Needs
+      hint: What systems need to connect
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: current_software
+      label: Current Software Systems
+      hint: What software do you use
+      type: select_multiple
+      options:
+      - Salesforce
+      - HubSpot
+      - QuickBooks
+      - Xero
+      - Slack
+      - Microsoft Teams
+      - Google Workspace
+      - Microsoft 365
+      - Shopify
+      - WordPress
+      - Other
+      required: true
+    - id: 19
+      name: crm_system
+      label: CRM System
+      hint: Which CRM do you use
+      type: select_one
+      options:
+      - Salesforce
+      - HubSpot
+      - Pipedrive
+      - Zoho
+      - Microsoft Dynamics
+      - None
+      - Other
+      required: false
+    - id: 20
+      name: erp_system
+      label: ERP System
+      hint: Which ERP do you use
+      type: select_one
+      options:
+      - SAP
+      - Oracle
+      - NetSuite
+      - Microsoft Dynamics
+      - QuickBooks Enterprise
+      - None
+      - Other
+      required: false
+    - id: 21
+      name: budget_timeline
+      label: Budget and Timeline
+      hint: Investment and timing
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: budget_range
+      label: Budget Range
+      hint: Expected investment
+      type: select_one
+      options:
+      - Under $5,000
+      - $5,000-$15,000
+      - $15,000-$50,000
+      - $50,000-$100,000
+      - More than $100,000
+      - Not Determined
+      required: false
+    - id: 23
+      name: timeline
+      label: Implementation Timeline
+      hint: When do you want to start
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 Month
+      - Within 3 Months
+      - Within 6 Months
+      - Just Exploring
+      required: true
+    - id: 24
+      name: it_resources
+      label: IT Resources Available
+      hint: Do you have IT staff
+      type: select_one
+      options:
+      - Dedicated IT Team
+      - IT Contractor
+      - Tech-Savvy Staff
+      - No IT Resources
+      required: true
+    - id: 25
+      name: change_readiness
+      label: Change Readiness
+      hint: How ready is organization for change
+      type: select_one
+      options:
+      - Very Ready
+      - Ready
+      - Somewhat Ready
+      - Resistant
+      - Very Resistant
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

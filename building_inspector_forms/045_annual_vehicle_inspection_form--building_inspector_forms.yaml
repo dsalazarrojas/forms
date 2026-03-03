@@ -1,0 +1,381 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Vehicle Inspection Form
+    pages:
+    - id: 1
+      name: inspector_name
+      label: Inspector Full Name
+      hint: Person conducting inspection
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Inspection company
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: inspection_year
+      label: Inspection Year
+      hint: Which year?
+      type: select_one
+      options:
+      - 2026
+      - 2025
+      - 2024
+      - 2023
+      required: true
+    - id: 7
+      name: vehicle_owner
+      label: Vehicle Owner
+      hint: Owner name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year of manufacture
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_color
+      label: Vehicle Color
+      hint: Primary color
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vin_number
+      label: VIN Number
+      hint: Vehicle identification number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: license_plate
+      label: License Plate
+      hint: Plate number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: license_state
+      label: License State
+      hint: State of registration
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: odometer_reading
+      label: Odometer Reading
+      hint: Current mileage
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: vehicle_type
+      label: Vehicle Type
+      hint: Type of vehicle
+      type: select_one
+      options:
+      - Sedan
+      - SUV
+      - Truck
+      - Van
+      - Motorcycle
+      - Commercial
+      - Other
+      required: true
+    - id: 17
+      name: fuel_type
+      label: Fuel Type
+      hint: Type of fuel
+      type: select_one
+      options:
+      - Gasoline
+      - Diesel
+      - Electric
+      - Hybrid
+      - Propane
+      - Other
+      required: false
+    - id: 18
+      name: engine_condition
+      label: Engine Condition
+      hint: Rate engine
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Failed
+      required: true
+    - id: 19
+      name: transmission_condition
+      label: Transmission Condition
+      hint: Rate transmission
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Failed
+      required: true
+    - id: 20
+      name: brake_condition
+      label: Brake Condition
+      hint: Rate brakes
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Failed
+      required: true
+    - id: 21
+      name: tire_condition
+      label: Tire Condition
+      hint: Rate tires
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Failed
+      required: true
+    - id: 22
+      name: suspension_condition
+      label: Suspension Condition
+      hint: Rate suspension
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Failed
+      required: true
+    - id: 23
+      name: exhaust_system
+      label: Exhaust System
+      hint: Rate exhaust
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Failed
+      required: true
+    - id: 24
+      name: lighting_system
+      label: Lighting System
+      hint: Rate lights
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Failed
+      required: true
+    - id: 25
+      name: electrical_system
+      label: Electrical System
+      hint: Rate electrical
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Failed
+      required: true
+    - id: 26
+      name: steering_condition
+      label: Steering Condition
+      hint: Rate steering
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Failed
+      required: true
+    - id: 27
+      name: body_condition
+      label: Body Condition
+      hint: Rate body
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Failed
+      required: true
+    - id: 28
+      name: interior_condition
+      label: Interior Condition
+      hint: Rate interior
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Failed
+      required: true
+    - id: 29
+      name: safety_features
+      label: Safety Features
+      hint: Select working features
+      type: select_multiple
+      options:
+      - Airbags
+      - ABS
+      - Seat Belts
+      - Backup Camera
+      - Blind Spot Monitor
+      - Lane Departure Warning
+      - None Working
+      required: true
+    - id: 30
+      name: emissions_test
+      label: Emissions Test
+      hint: Result
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Not Tested
+      required: true
+    - id: 31
+      name: defects_found
+      label: Defects Found
+      hint: Any issues?
+      type: select_one
+      options:
+      - None
+      - Minor
+      - Major
+      - Critical
+      required: true
+    - id: 32
+      name: defect_details
+      label: Defect Details
+      hint: Describe issues
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: overall_condition
+      label: Overall Condition
+      hint: Rate overall
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Failed
+      required: true
+    - id: 34
+      name: inspection_result
+      label: Inspection Result
+      hint: Pass or fail?
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Conditional Pass
+      required: true
+    - id: 35
+      name: repairs_required
+      label: Repairs Required
+      hint: What needs fixing?
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: reinspection_required
+      label: Reinspection Required
+      hint: Is follow-up needed?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 37
+      name: reinspection_date
+      label: Reinspection Date
+      hint: Scheduled date
+      type: date
+      options: []
+      required: false
+    - id: 38
+      name: next_inspection_due
+      label: Next Inspection Due
+      hint: When is next due?
+      type: date
+      options: []
+      required: true
+    - id: 39
+      name: inspector_signature
+      label: Inspector Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true
+    - id: 40
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

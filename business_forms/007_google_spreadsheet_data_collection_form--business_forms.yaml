@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Google Spreadsheet Data Collection Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Google Spreadsheet Data Collection Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Information Forms
+      - Request Forms
+      required: false
+    - id: 4
+      name: form_business_unit
+      label: Business Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_form_ids
+      label: Form IDs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_priority
+      label: Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: form_follow_up
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 13
+      name: form_tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: form_attachments
+      label: Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - Attachment 1
+      - Attachment 2
+      - Attachment 3
+      required: false

@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Data Validation Report Form
+    pages:
+    - id: 1
+      name: process_data_validation_form_section
+      label: Process Data Validation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: activities
+      label: Activities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: findings
+      label: Findings
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: actions_taken
+      label: Actions Taken
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: validation_status
+      label: Validation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments_additional_info
+      label: Comments Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: validation_date
+      label: Validation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: validation_time
+      label: Validation Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: reviewer_phone
+      label: Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: false

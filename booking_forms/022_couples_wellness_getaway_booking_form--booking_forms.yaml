@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Couples Wellness Getaway Booking Form
+    pages:
+    - id: 1
+      name: couples_wellness_booking_form_page_1
+      label: Form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: couples_wellness_booking_form_page_2
+      label: Booking Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: couples_wellness_booking_form_page_3
+      label: Booking Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: couples_wellness_booking_form_page_4
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

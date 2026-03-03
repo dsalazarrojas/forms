@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: financial_approval_form
+    pages:
+    - id: 1
+      name: financial_approval_form_page_1
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: budget_request_form
+      label: budget_request
+      hint: null
+      type: select_one
+      options:
+      - Expense Reimbursement
+      - Funding Allocation
+      - Budget Request
+      required: false
+    - id: 3
+      name: budget_request_amount
+      label: request_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: expense_reimbursement_form
+      label: expense_reimbursement
+      hint: null
+      type: select_multiple
+      options:
+      - Travel Reimbursement
+      - Food Reimbursement
+      - Miscellaneous Reimbursement
+      required: false
+    - id: 5
+      name: approval_date
+      label: approval_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: approval_time
+      label: approval_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

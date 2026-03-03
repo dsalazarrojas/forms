@@ -1,0 +1,209 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: User Logon Activity Report
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: logon_logoff_time
+      label: Logon/Logoff Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: activity_type
+      label: Activity Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Login''}'
+      - '{''id'': 2, ''label'': ''Log off''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: device
+      label: Device
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''PC''}'
+      - '{''id'': 2, ''label'': ''Mobile''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''IT''}'
+      - '{''id'': 2, ''label'': ''Security''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Admin''}'
+      - '{''id'': 2, ''label'': ''Manager''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Success''}'
+      - '{''id'': 2, ''label'': ''Failed''}'
+      - '{''id'': 3, ''label'': ''Partially Successful''}'
+      required: false
+    - id: 10
+      name: user_ip
+      label: User IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: user_agent
+      label: User Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: user_os
+      label: User OS
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: device_type
+      label: Device Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: browser
+      label: Browser
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: operating_system
+      label: Operating System
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: browser_version
+      label: Browser Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: device_details
+      label: Device Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by_user
+      label: Submitted By User
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 19
+      name: device_location
+      label: Device Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: device_ip
+      label: Device IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: activity
+      label: Activity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_submitting_device
+      label: Form Submitting Device
+      hint: null
+      type: text
+      options: []
+      required: false

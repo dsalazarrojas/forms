@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Resource Request Form
+    pages:
+    - id: 1
+      name: project_id
+      label: Project ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: project name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_description
+      label: project description
+      hint: Write a brief description of the project
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: resource_id
+      label: resource id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: resource_name
+      label: resource name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: resource_type
+      label: resource type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''resource-type-1''}'
+      - '{''id'': 2, ''name'': ''resource-type-2''}'
+      - '{''id'': 3, ''name'': ''resource-type-3''}'
+      required: false
+    - id: 7
+      name: resource_quantity
+      label: resource quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: project_start_date
+      label: project start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: project_end_date
+      label: project end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: project_status
+      label: project status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''active''}'
+      - '{''id'': 2, ''name'': ''pending''}'
+      - '{''id'': 3, ''name'': ''completed''}'
+      required: false
+    - id: 11
+      name: project_manager
+      label: project manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_lead
+      label: project lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: resource_manager
+      label: resource manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: resource_lead
+      label: resource lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: notes
+      hint: Additional notes on project
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: priority
+      label: priority
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''high''}'
+      - '{''id'': 2, ''name'': ''medium''}'
+      - '{''id'': 3, ''name'': ''low''}'
+      required: false
+    - id: 17
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''chatjimmy''}'
+      required: false
+    - id: 18
+      name: project_team
+      label: project team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''team-member-1''}'
+      - '{''id'': 2, ''name'': ''team-member-2''}'
+      required: false
+    - id: 19
+      name: resource_team
+      label: resource team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''team-member-1''}'
+      - '{''id'': 2, ''name'': ''team-member-2''}'
+      required: false
+    - id: 20
+      name: project_budget
+      label: project budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: project_status_date
+      label: project status date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: project_status_time
+      label: project status time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: project_priority
+      label: project priority
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''high''}'
+      - '{''id'': 2, ''name'': ''medium''}'
+      - '{''id'': 3, ''name'': ''low''}'
+      required: false
+    - id: 24
+      name: project_notes
+      label: project notes
+      hint: Project notes section
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: project_manager_2
+      label: project manager 2
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carpenter Estimate Form
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_address
+      label: Job Location Address
+      hint: where the work will be performed
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_job_overview
+      label: -- Job Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: carpentry_type
+      label: Type of Carpentry Work
+      hint: select the primary category
+      type: select_one
+      options:
+      - Framing
+      - Cabinetry
+      - Decking
+      - Doors and Windows
+      - Furniture
+      - Repairs
+      - Other
+      required: true
+    - id: 8
+      name: job_description
+      label: Description of the job or project
+      hint: include as many details as possible
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_timeline
+      label: Preferred Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: completion_deadline
+      label: Desired Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: section_materials
+      label: -- Dimensions and Materials --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: dimensions_measurements
+      label: Approximate Dimensions and Measurements
+      hint: e.g. 10ft x 12ft
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: preferred_materials
+      label: Preferred Type of Wood or Materials
+      hint: Pine, Oak, Cedar, MDF, etc.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: finish_type
+      label: Desired Finish
+      hint: null
+      type: select_one
+      options:
+      - Raw
+      - Stained
+      - Painted
+      - Varnished
+      - Not Sure
+      required: true
+    - id: 15
+      name: section_site_conditions
+      label: -- Site Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: work_environment
+      label: Where will the work be done?
+      hint: null
+      type: select_one
+      options:
+      - Indoor
+      - Outdoor
+      - Workshop
+      - Multi-site
+      required: true
+    - id: 17
+      name: structural_access
+      label: Any access or structural issues?
+      hint: narrow hallways, high ceilings, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: waste_removal_needed
+      label: Will waste removal be required?
+      hint: do you need me to haul away old materials?
+      type: select_one
+      options:
+      - true
+      - false
+      - Depends
+      required: true
+    - id: 19
+      name: section_budget
+      label: -- Budget and Estimations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: estimated_budget
+      label: Estimated Budget for the project
+      hint: numeric value only
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - GBP
+      - CAD
+      - AUD
+      - EUR
+      required: true
+    - id: 22
+      name: source_referral
+      label: How did you hear about my carpentry services?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: photo_upload_confirm
+      label: Have you provided photos of the work area?
+      hint: visual aids are very helpful
+      type: select_one
+      options:
+      - true
+      - false
+      - Will send later
+      required: true
+    - id: 24
+      name: section_confirmation
+      label: -- Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: estimate_acknowledgment
+      label: I understand this is only an estimate and not a final quote
+      hint: Type name as digital signature
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

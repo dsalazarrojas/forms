@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fundraiser for Elementary School PTA
+    pages:
+    - id: 1
+      name: fundraiser_form
+      label: Fundraiser Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: share
+      label: Share
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Facebook''}'
+      - '{''text'': ''Twitter''}'
+      - '{''text'': ''Email''}'
+      - '{''text'': ''Text Message''}'
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: currency
+      label: Currency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''USD''}'
+      - '{''text'': ''CAD''}'
+      - '{''text'': ''EUR''}'
+      - '{''text'': ''JPY''}'
+      required: true
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false

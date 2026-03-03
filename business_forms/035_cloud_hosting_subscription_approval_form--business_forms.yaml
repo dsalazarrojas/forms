@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Hosting Subscription Approval Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Full name of person requesting
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department or team
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_request
+      label: -- Subscription Request Details --
+      hint: Information about the cloud hosting needed
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: service_type
+      label: Type of Cloud Hosting Service
+      hint: null
+      type: select_one
+      options:
+      - Shared hosting
+      - Virtual private server
+      - Dedicated server
+      - Cloud platform (IaaS)
+      - Content delivery network
+      - Managed services
+      - Other
+      required: true
+    - id: 6
+      name: hosting_provider
+      label: Preferred Hosting Provider
+      hint: null
+      type: select_one
+      options:
+      - AWS
+      - Microsoft Azure
+      - Google Cloud
+      - DigitalOcean
+      - Linode
+      - Bluehost
+      - No preference
+      - Other
+      required: true
+    - id: 7
+      name: plan_tier
+      label: Requested Plan Tier
+      hint: null
+      type: select_one
+      options:
+      - Basic/Starter
+      - Standard
+      - Professional/Advanced
+      - Enterprise
+      - Custom
+      required: true
+    - id: 8
+      name: estimated_cost
+      label: Estimated Monthly Cost
+      hint: Budget for this service
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: section_purpose
+      label: -- Purpose and Use Case --
+      hint: What the hosting will be used for
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: primary_purpose
+      label: Primary Purpose
+      hint: null
+      type: select_one
+      options:
+      - Website hosting
+      - Application hosting
+      - Database hosting
+      - Email hosting
+      - Backup and storage
+      - Development and testing
+      - Production environment
+      - Other
+      required: true
+    - id: 11
+      name: use_case_description
+      label: Detailed Use Case Description
+      hint: Explain what will be hosted
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_requirements
+      label: -- Technical Requirements --
+      hint: Specific technical needs
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: required_specs
+      label: Required Specifications
+      hint: CPU, memory, storage, bandwidth
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: expected_traffic
+      label: Expected Monthly Traffic
+      hint: Visitors or requests per month
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: data_requirements
+      label: Data Security Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - Encryption in transit
+      - Encryption at rest
+      - Firewall
+      - DDoS protection
+      - Backup and recovery
+      - Compliance (PCI, HIPAA, etc.)
+      - Other
+      required: false
+    - id: 16
+      name: section_justification
+      label: -- Business Justification --
+      hint: Why this service is needed
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: business_impact
+      label: Expected Business Impact
+      hint: How this will benefit the organization
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: roi_expectation
+      label: Return on Investment Expectation
+      hint: Expected cost savings or revenue
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_timeline
+      label: -- Timeline and Implementation --
+      hint: When this is needed
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: needed_by_date
+      label: Needed By Date
+      hint: When is the hosting needed
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: implementation_timeline
+      label: Implementation Timeline
+      hint: null
+      type: select_one
+      options:
+      - Immediate - within 1 week
+      - Short term - within 2-4 weeks
+      - Medium term - within 1-3 months
+      - Long term - 3+ months
+      - Flexible
+      required: true
+    - id: 22
+      name: section_approval
+      label: -- Approval Information --
+      hint: Manager and budget approval
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: manager_name
+      label: Manager or Supervisor Name
+      hint: Person who should approve
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: manager_email
+      label: Manager Email
+      hint: For approval notification
+      type: email
+      options: []
+      required: true
+    - id: 25
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Any other important information
+      type: text
+      options: []
+      required: false

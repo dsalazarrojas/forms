@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trade Setup Risk Management Checklist
+    pages:
+    - id: 1
+      name: trade_entry
+      label: Trade Entry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: stop_loss
+      label: Stop Loss
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: position_size
+      label: Position Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: risk_checks
+      label: Risk Checks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: entry_type
+      label: Entry Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: target_price
+      label: Target Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: stop_price
+      label: Stop Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 9
+      name: trade_date
+      label: Trade Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: trade_time
+      label: Trade Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: risk_rating
+      label: Risk Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: position_size_units
+      label: Position Size Units
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

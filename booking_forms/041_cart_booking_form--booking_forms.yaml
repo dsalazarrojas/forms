@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cart Booking Form
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Customer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: member_id
+      label: Member ID
+      hint: if you are a registered member
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_booking_details
+      label: -- Booking Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: booking_date
+      label: Reservation Date
+      hint: select the date for pickup
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: booking_time
+      label: Preferred Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: duration_hours
+      label: Rental Duration (hours)
+      hint: how long do you need the cart?
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: cart_type
+      label: Preferred Cart Type
+      hint: choose based on capacity
+      type: select_one
+      options:
+      - 2-Seater
+      - 4-Seater
+      - 6-Seater
+      - Utility or Cargo
+      - VIP or Luxury
+      required: true
+    - id: 11
+      name: cart_purpose
+      label: Primary Purpose
+      hint: null
+      type: select_one
+      options:
+      - Golfing
+      - Resort Transport
+      - Event Logistics
+      - Warehouse Use
+      required: true
+    - id: 12
+      name: section_options
+      label: -- Additional Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: quantity_carts
+      label: Total Number of Carts
+      hint: how many of this type?
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: driver_requirement
+      label: I need a driver provided?
+      hint: additional service fees apply
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: equipment_add_ons
+      label: Additional Equipment
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - GPS Navigation
+      - Cooler
+      - Rain Cover
+      - Tow Hitch
+      required: false
+    - id: 16
+      name: section_delivery
+      label: -- Location and Delivery --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: pickup_location
+      label: Pickup Location
+      hint: choose where you will collect the cart
+      type: select_one
+      options:
+      - Club House
+      - Main Entrance
+      - North Gate
+      - Warehouse A
+      required: true
+    - id: 18
+      name: delivery_requested
+      label: Request delivery to specific site?
+      hint: within the facility grounds
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: delivery_address
+      label: Site address for delivery
+      hint: include site number or building name
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_payment
+      label: -- Payment and Policies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Member Account
+      - PayPal
+      - Cash
+      required: true
+    - id: 22
+      name: damage_waiver
+      label: I agree to the Damage Waiver and Rental Terms
+      hint: protect against incidental damage
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: section_requests
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: comments
+      label: Any additional comments or requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: booking_ack
+      label: I confirm my booking request is accurate
+      hint: Type name as digital signature
+      type: text
+      options: []
+      required: true

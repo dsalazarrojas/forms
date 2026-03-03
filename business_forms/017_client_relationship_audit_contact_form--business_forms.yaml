@@ -1,0 +1,257 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Relationship Audit Contact Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Client Relationship Audit Form
+      hint: Document client relationship details for audit and follow-up purposes
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: audit_date
+      label: Audit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: auditor_name
+      label: Auditor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: auditor_department
+      label: Auditor Department
+      hint: null
+      type: select_one
+      options:
+      - Account Management
+      - Customer Success
+      - Sales
+      - Operations
+      - Executive
+      - Other
+      required: true
+    - id: 5
+      name: client_company
+      label: Client Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: client_id
+      label: Client ID or Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: primary_contact_title
+      label: Primary Contact Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: primary_contact_email
+      label: Primary Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: primary_contact_phone
+      label: Primary Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: additional_contacts
+      label: Additional Contacts
+      hint: Names titles and emails
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: relationship_start_date
+      label: Relationship Start Date
+      hint: When did client become a customer
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: account_manager
+      label: Assigned Account Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: service_tier
+      label: Service Tier or Package
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Standard
+      - Premium
+      - Enterprise
+      - Custom
+      required: true
+    - id: 15
+      name: annual_contract_value
+      label: Annual Contract Value
+      hint: null
+      type: select_one
+      options:
+      - Under $10000
+      - $10000-$49999
+      - $50000-$99999
+      - $100000-$249999
+      - $250000-$499999
+      - $500000+
+      required: false
+    - id: 16
+      name: contract_renewal_date
+      label: Contract Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: services_utilized
+      label: Services Currently Utilized
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Core Platform
+      - Premium Features
+      - Support Services
+      - Training
+      - Consulting
+      - Integration Services
+      - Custom Development
+      - Other
+      required: true
+    - id: 18
+      name: relationship_health
+      label: Overall Relationship Health
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - At Risk
+      - Critical
+      required: true
+    - id: 19
+      name: satisfaction_score
+      label: Client Satisfaction Score
+      hint: 1 to 10 scale
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: recent_interactions
+      label: Summary of Recent Interactions
+      hint: Last 30-60 days
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: outstanding_issues
+      label: Outstanding Issues or Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: escalation_history
+      label: Any Escalations in Past Year
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 23
+      name: escalation_details
+      label: Escalation Details
+      hint: If yes describe
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: growth_opportunities
+      label: Identified Growth Opportunities
+      hint: Upsell cross-sell possibilities
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: risk_factors
+      label: Risk Factors
+      hint: What could threaten the relationship
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: competitor_exposure
+      label: Is Client Using Competitor Products
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: false
+    - id: 27
+      name: competitor_details
+      label: Competitor Details
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: action_items
+      label: Action Items from Audit
+      hint: What needs to be done
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: follow_up_date
+      label: Scheduled Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 30
+      name: next_steps
+      label: Next Steps
+      hint: Immediate actions required
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lighting Audit Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_info
+      label: Equipment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: characteristics
+      label: Characteristics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: power_requirements
+      label: Power Requirements
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: quality_assessments
+      label: Quality Assessments
+      hint: null
+      type: select_one
+      options:
+      - Lumen
+      - Lux
+      - WATTS
+      - KWH
+      required: true
+    - id: 7
+      name: other_characteristics
+      label: Other Characteristics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

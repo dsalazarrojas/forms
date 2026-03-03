@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Report Request Form
+    pages:
+    - id: 1
+      name: report_request_form
+      label: Report Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: report_type
+      label: Report Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Progress Report''}'
+      - '{''id'': 2, ''name'': ''Status Report''}'
+      - '{''id'': 3, ''name'': ''Detail Report''}'
+      required: false
+    - id: 3
+      name: project_number
+      label: Project Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: report_frequency
+      label: Report Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Daily''}'
+      - '{''id'': 2, ''name'': ''Weekly''}'
+      - '{''id'': 3, ''name'': ''Monthly''}'
+      - '{''id'': 4, ''name'': ''Quarterly''}'
+      - '{''id'': 5, ''name'': ''Annual''}'
+      required: false
+    - id: 5
+      name: report_start_date
+      label: Report Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: report_end_date
+      label: Report End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: report_requester
+      label: Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: report_requester_email
+      label: Requester Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: report_requester_phone
+      label: Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: report_requested_by
+      label: Requested By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Project Manager''}'
+      - '{''id'': 2, ''name'': ''Project Team''}'
+      - '{''id'': 3, ''name'': ''Data Manager''}'
+      required: false
+    - id: 11
+      name: report_comment
+      label: Report Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: submit_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Project Manager''}'
+      - '{''id'': 2, ''name'': ''Project Team''}'
+      - '{''id'': 3, ''name'': ''Data Manager''}'
+      required: false
+    - id: 16
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Project Manager''}'
+      - '{''id'': 2, ''name'': ''Project Team''}'
+      - '{''id'': 3, ''name'': ''Data Manager''}'
+      required: false
+    - id: 17
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_comment
+      label: Submitter Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_comment_2
+      label: Submitter Comment 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_comment_3
+      label: Submitter Comment 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_comment_4
+      label: Submitter Comment 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_comment_5
+      label: Submitter Comment 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_comment_6
+      label: Submitter Comment 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_comment_7
+      label: Submitter Comment 7
+      hint: null
+      type: text
+      options: []
+      required: false

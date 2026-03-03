@@ -1,0 +1,77 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Meetings Feedback Form
+    pages:
+    - id: 1
+      name: meeting_attended
+      label: Have you attended the meeting
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'False'
+      required: true
+    - id: 2
+      name: meeting_attended_label
+      label: Meeting Attendee Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: meeting_attended_date
+      label: Meeting Date
+      hint: 'Format: MM/dd/yyyy'
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: meeting_minutes
+      label: Meeting Minutes
+      hint: Enter your thoughts about the meeting in this box
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: action_items
+      label: Action Items
+      hint: Enter your suggestions or action items from the meeting
+      type: select_multiple
+      options:
+      - To-Do List
+      - Follow-up meeting
+      - Other (Specify)
+      required: true
+    - id: 6
+      name: action_items_description
+      label: Action Items Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: meeting_next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: meeting_comments
+      label: Meeting Comments
+      hint: null
+      type: text
+      options: []
+      required: false

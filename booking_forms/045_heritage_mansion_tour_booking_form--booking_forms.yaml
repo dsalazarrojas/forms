@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Heritage Mansion Tour Booking Form
+    pages:
+    - id: 1
+      name: visitor_details
+      label: Visitor Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: tour_date
+      label: Tour Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: guest_count
+      label: Guest Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: special_request
+      label: Special Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: preferred_time_slot
+      label: Preferred Time Slot
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

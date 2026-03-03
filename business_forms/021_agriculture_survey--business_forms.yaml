@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agriculture Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Respondent name
+      hint: Optional for anonymous survey
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_type
+      label: Business type
+      hint: Farm, cooperative, input supplier, or service
+      type: select_one
+      options:
+      - Farm
+      - Cooperative
+      - Input supplier
+      - Service provider
+      - Research
+      required: true
+    - id: 3
+      name: main_challenges
+      label: Main challenges faced
+      hint: Economic, climatic, logistical, or other challenges
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: support_needs
+      label: Support needs
+      hint: Services or resources that would help the business
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: technology_use
+      label: Use of technology
+      hint: Which technologies are used in operations
+      type: select_multiple
+      options:
+      - Mobile apps
+      - Mechanization
+      - Soil sensors
+      - Irrigation systems
+      required: false
+    - id: 6
+      name: employment_count
+      label: Number of employees
+      hint: Approximate count of full and part time staff
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: turnover_estimate
+      label: Estimated annual turnover
+      hint: Whole number in local currency
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: willingness_to_participate
+      label: Willingness to participate in programs
+      hint: Participate in trainings or pilots
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 9
+      name: preferred_contact
+      label: Preferred contact method
+      hint: Best way to reach the respondent
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

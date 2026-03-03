@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: daily-restaurant-operations-report
+    pages:
+    - id: 1
+      name: restaurant_name
+      label: restaurant-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manager_name
+      label: manager-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: total_seats
+      label: total-seats
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tables
+      label: tables
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: occupied_seats
+      label: occupied-seats
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: staff_presented
+      label: staff-presented
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: staff_presents
+      label: staff-presents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: staff_quantity
+      label: staff-quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: total_cash_sales
+      label: total-cash-sales
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: total_card_sales
+      label: total-card-sales
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: total_cash_discounts
+      label: total-cash-discounts
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: total_card_discounts
+      label: total-card-discounts
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: total_tax_refunds
+      label: total-tax-refunds
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: total_gift_card_discounts
+      label: total-gift-card-discounts
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: sales_per_hour
+      label: sales-per-hour
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: average_sale
+      label: average-sale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: average_transaction
+      label: average-transaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: total_sales
+      label: total-sales
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: total_expenses
+      label: total-expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: cost_of_goods_sold
+      label: cost-of-goods-sold
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: cost_of_goods_sold_per_avg_transaction
+      label: cost-of-goods-sold-per-avg-transaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: cost_of_goods_sold_per_avg_sale
+      label: cost-of-goods-sold-per-avg-sale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: cost_of_goods_sold_per_sale
+      label: cost-of-goods-sold-per-sale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: profit_per_sale
+      label: profit-per-sale
+      hint: null
+      type: number
+      options: []
+      required: false

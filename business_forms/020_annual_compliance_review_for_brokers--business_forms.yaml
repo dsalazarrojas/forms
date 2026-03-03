@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Compliance Review For Brokers
+    pages:
+    - id: 1
+      name: broker_name
+      label: Full Name
+      hint: Broker completing this review
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Broker identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Work email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: branch_office
+      label: Branch Office
+      hint: Location of primary office
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: crd_number
+      label: CRD Number
+      hint: Central Registration Depository number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: review_year
+      label: Review Year
+      hint: Which year is this review for?
+      type: select_one
+      options:
+      - 2026
+      - 2025
+      - 2024
+      - 2023
+      required: true
+    - id: 8
+      name: registration_status
+      label: Registration Status
+      hint: Current registration status
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      - Suspended
+      required: true
+    - id: 9
+      name: licenses_held
+      label: Licenses Held
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Series 7
+      - Series 63
+      - Series 65
+      - Series 66
+      - Series 24
+      - Series 53
+      - Series 79
+      - Series 86/87
+      - Other
+      required: true
+    - id: 10
+      name: continuing_education
+      label: Continuing Education Completed
+      hint: Have you completed required CE?
+      type: select_one
+      options:
+      - Yes, Current
+      - In Progress
+      - Not Yet
+      - Not Required
+      required: true
+    - id: 11
+      name: regulatory_disclosures
+      label: Regulatory Disclosures
+      hint: Any regulatory actions or disclosures?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: disclosure_details
+      label: Disclosure Details
+      hint: Provide details if yes
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_complaints
+      label: Customer Complaints
+      hint: Any customer complaints this year?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: complaint_details
+      label: Complaint Details
+      hint: Provide details if yes
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: outside_business_activities
+      label: Outside Business Activities
+      hint: Do you have outside business activities?
+      type: select_one
+      options:
+      - Yes, Disclosed
+      - Yes, Not Disclosed
+      - false
+      required: true
+    - id: 16
+      name: outside_activity_details
+      label: Outside Activity Details
+      hint: Describe outside activities
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: financial_disclosures
+      label: Financial Disclosures
+      hint: Any bankruptcies or liens?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: financial_details
+      label: Financial Details
+      hint: Provide details if yes
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: criminal_disclosures
+      label: Criminal Disclosures
+      hint: Any criminal charges or convictions?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: criminal_details
+      label: Criminal Details
+      hint: Provide details if yes
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: compliance_training
+      label: Compliance Training Completed
+      hint: Have you completed annual compliance training?
+      type: select_one
+      options:
+      - Yes, All Training
+      - Partially
+      - false
+      required: true
+    - id: 22
+      name: training_topics
+      label: Training Topics Completed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - AML
+      - Ethics
+      - Suitability
+      - Privacy
+      - Cybersecurity
+      - Trading Practices
+      - Communications
+      - Other
+      required: false
+    - id: 23
+      name: policy_acknowledgment
+      label: Policy Acknowledgment
+      hint: Have you reviewed all firm policies?
+      type: select_one
+      options:
+      - Yes, All Policies
+      - Partially
+      - false
+      required: true
+    - id: 24
+      name: attestation
+      label: Attestation
+      hint: I certify the information is accurate
+      type: select_one
+      options:
+      - Yes, I Attest
+      - false
+      required: true
+    - id: 25
+      name: signature_date
+      label: Signature Date
+      hint: Date of attestation
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: supervisor_review
+      label: Supervisor Review Status
+      hint: Has supervisor reviewed?
+      type: select_one
+      options:
+      - Pending
+      - Reviewed
+      - Approved
+      - Requires Action
+      required: true
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

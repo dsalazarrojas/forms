@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auction Trading Post Contract
+    pages:
+    - id: 1
+      name: section_consignor
+      label: -- Consignor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: consignor_name
+      label: Consignor Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_name
+      label: Business Name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_contract
+      label: -- Contract Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: trading_post_location
+      label: Trading Post Location
+      hint: Select the facility where items are located
+      type: select_one
+      options:
+      - North Branch
+      - South Hub
+      - Main Street Office
+      - Warehouse 10
+      required: true
+    - id: 8
+      name: item_list_summary
+      label: Summary of Items for Sale
+      hint: Provide a high-level list
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: commission_rate
+      label: Agreed Sales Commission (%)
+      hint: Percentage taken by the trading post
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: payment_terms
+      label: Payout Terms
+      hint: When will you receive payment?
+      type: select_one
+      options:
+      - 15 days post-sale
+      - 30 days post-sale
+      - End of month
+      required: true
+    - id: 11
+      name: liability_waiver
+      label: I agree to the liability waiver terms
+      hint: Trading post is not liable for theft or damage
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 12
+      name: contract_end_date
+      label: Contract Expiration Date
+      hint: When items must be retrieved if unsold
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: digital_signature
+      label: Digital Signature (Type Name)
+      hint: null
+      type: text
+      options: []
+      required: true

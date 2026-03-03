@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Composting Service Referral Form
+    pages:
+    - id: 1
+      name: referral_id
+      label: Referral ID
+      hint: Unique referral identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: referral_date
+      label: Referral Date
+      hint: Date of referral
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: referrer_name
+      label: Referrer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: referrer_email
+      label: Referrer Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: referrer_phone
+      label: Referrer Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_type
+      label: Customer Type
+      hint: Are you a current customer
+      type: select_one
+      options:
+      - Yes, Current Residential Customer
+      - Yes, Current Business Customer
+      - Past Customer
+      - No, First Time Referral
+      required: true
+    - id: 7
+      name: account_number
+      label: Account Number
+      hint: Your account number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: referred_person_name
+      label: Referred Person Name
+      hint: Full name of person being referred
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: referred_person_email
+      label: Referred Person Email
+      hint: Email of person being referred
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: referred_person_phone
+      label: Referred Person Phone
+      hint: Phone number of person being referred
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: referred_address
+      label: Referred Address
+      hint: Address of person being referred
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: property_type
+      label: Property Type
+      hint: Type of property
+      type: select_one
+      options:
+      - Single Family Home
+      - Apartment or Condo
+      - Townhouse
+      - Restaurant
+      - Office Building
+      - Retail Store
+      - School or Institution
+      - Other
+      required: true
+    - id: 15
+      name: estimated_volume
+      label: Estimated Compost Volume
+      hint: How much compostable waste per week
+      type: select_one
+      options:
+      - Small (5 gallon bucket or less)
+      - Medium (5-10 gallons)
+      - Large (10-20 gallons)
+      - Extra Large (20+ gallons)
+      - Unsure
+      required: false
+    - id: 16
+      name: service_interest
+      label: Service Interest
+      hint: What services are they interested in
+      type: select_multiple
+      options:
+      - Residential Pickup
+      - Business Pickup
+      - Compost Bin Purchase
+      - Educational Workshop
+      - Garden Consultation
+      - Community Program
+      required: true
+    - id: 17
+      name: how_did_they_hear
+      label: How Did They Hear About Us
+      hint: How did the referred person learn about the service
+      type: select_one
+      options:
+      - Friend or Family Referral
+      - Social Media
+      - Website
+      - Local Event
+      - Advertisement
+      - Other
+      required: false
+    - id: 18
+      name: start_date_preference
+      label: Start Date Preference
+      hint: When would they like to start service
+      type: select_one
+      options:
+      - As Soon As Possible
+      - Within 2 Weeks
+      - Within 30 Days
+      - Next Month
+      - Just Information Now
+      required: false
+    - id: 19
+      name: referral_source
+      label: How Did You Hear About Referral Program
+      hint: How did you learn about our referral program
+      type: select_one
+      options:
+      - Email Newsletter
+      - Website
+      - Social Media
+      - Pickup Driver
+      - Invoice Insert
+      - Other
+      required: false
+    - id: 20
+      name: consent_to_contact
+      label: Consent to Contact
+      hint: Does the referred person consent to be contacted
+      type: select_one
+      options:
+      - Yes, They Consent
+      - No, They Do Not Consent
+      - Unsure
+      required: true
+    - id: 21
+      name: marketing_consent
+      label: Marketing Communications Consent
+      hint: May we send you updates and promotions
+      type: select_one
+      options:
+      - Yes, Send Me Updates
+      - No, Thank You
+      required: true
+    - id: 22
+      name: additional_information
+      label: Additional Information
+      hint: Any other details about the referral
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: referral_status
+      label: Referral Status
+      hint: Current status of referral
+      type: select_one
+      options:
+      - Submitted
+      - Contacted
+      - Service Scheduled
+      - Service Started
+      - Not Eligible
+      required: true

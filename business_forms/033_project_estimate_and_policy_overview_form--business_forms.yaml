@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Estimate And Policy Overview Form
+    pages:
+    - id: 1
+      name: project_estimate
+      label: Project Estimate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_policy
+      label: Project Policy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_approval
+      label: Client Approval
+      hint: null
+      type: select_multiple
+      options:
+      - Client 1
+      - Client 2
+      - Client 3
+      required: false
+    - id: 4
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 5
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: estimated_cost
+      label: Estimated Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: actual_cost
+      label: Actual Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Business Forms
+      - Estimate Forms
+      required: true
+    - id: 12
+      name: subcategory
+      label: Subcategory
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: subcategory_2
+      label: Subcategory 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: subcategory_3
+      label: Subcategory 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: subcategory_4
+      label: Subcategory 4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: subcategory_5
+      label: Subcategory 5
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: form_version
+      label: Form Version
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: form_version_2
+      label: Form Version 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: form_version_3
+      label: Form Version 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: project_estimates
+      label: Project Estimates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: project_policies
+      label: Project Policies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: client_approvals
+      label: Client Approvals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false

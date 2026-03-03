@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Report Access Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Your Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company or Organization Name
+      hint: Represents which organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: position_title
+      label: Position or Title
+      hint: Your role or position
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: requester_type
+      label: Type of Requester
+      hint: null
+      type: select_one
+      options:
+      - Shareholder
+      - Employee
+      - Customer
+      - Investor
+      - Analyst
+      - Media
+      - Academic
+      - General Public
+      - Other
+      required: true
+    - id: 7
+      name: stake_or_affiliation
+      label: Relationship to organization
+      hint: Nature of your interest
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: report_year
+      label: Which year report do you need
+      hint: Fiscal year or calendar year
+      type: select_one
+      options:
+      - Current year
+      - Previous year
+      - 2-3 years back
+      - Multiple years
+      - All available reports
+      required: true
+    - id: 9
+      name: report_format
+      label: Preferred report format
+      hint: null
+      type: select_one
+      options:
+      - PDF
+      - Print copy
+      - Online access
+      - Email delivery
+      - Any format acceptable
+      required: true
+    - id: 10
+      name: specific_sections
+      label: Specific sections or information needed
+      hint: If you only need parts of the report
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: purpose_of_access
+      label: Purpose of accessing the report
+      hint: Why do you need this information
+      type: select_one
+      options:
+      - Investment research
+      - Business analysis
+      - Academic research
+      - Regulatory compliance
+      - Media inquiry
+      - General information
+      - Due diligence
+      - Other
+      required: true
+    - id: 12
+      name: intended_use
+      label: Intended use of report
+      hint: How will you use the information
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: disclosure_acceptable
+      label: Are you requesting a public or confidential report
+      hint: null
+      type: select_one
+      options:
+      - Public - can be shared
+      - Confidential - for internal use only
+      - No preference
+      required: true
+    - id: 14
+      name: authorization_required
+      label: Do you need authorization from a manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: false
+    - id: 15
+      name: authorized_by
+      label: Manager or authorized person name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: nda_agreement
+      label: Will you sign an NDA if required
+      hint: Non-disclosure agreement
+      type: select_one
+      options:
+      - Yes, I agree
+      - 'No'
+      - Need to review
+      required: true
+    - id: 17
+      name: confidentiality_commitment
+      label: I commit to maintaining confidentiality
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 18
+      name: data_protection_consent
+      label: I consent to data protection and privacy terms
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 19
+      name: delivery_method
+      label: Preferred delivery method
+      hint: How would you like to receive the report
+      type: select_one
+      options:
+      - Email
+      - Download link
+      - Physical mail
+      - Portal access
+      - No preference
+      required: true
+    - id: 20
+      name: urgent_request
+      label: This is an urgent request
+      hint: Do you need the report quickly
+      type: select_one
+      options:
+      - Yes - urgent
+      - No - standard timeline acceptable
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional comments or requirements
+      hint: Any other information we should know
+      type: text
+      options: []
+      required: false

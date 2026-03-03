@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: reading_appointment_booking
+    pages:
+    - id: 1
+      name: book_title
+      label: Book Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reader_name
+      label: Reader Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reader_email
+      label: Reader Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: reader_phone
+      label: Reader Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reader_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: preferred_tutor
+      label: Preferred Tutor
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 11
+      name: additional_details
+      label: Additional Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: confirm_message
+      label: Confirm Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: confirm_reader_message
+      label: Confirm Reader Message
+      hint: null
+      type: text
+      options: []
+      required: false

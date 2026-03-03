@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: tech_tutoring_appointment_form
+    pages:
+    - id: 1
+      name: appointment_date
+      label: appointment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tutor_name
+      label: tutor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: appointment_time
+      label: total_time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: session_type
+      label: session_type
+      hint: null
+      type: select_one
+      options:
+      - tech_support
+      - other
+      - other_other
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false

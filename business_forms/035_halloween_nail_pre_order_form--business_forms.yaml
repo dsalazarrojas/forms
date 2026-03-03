@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: halloween_nail_pre_order_form
+    pages:
+    - id: 1
+      name: customer_information
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_options
+      label: Services
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Nail Pre-Order Form'', ''label'': ''Nail Pre-Order Form''}'
+      - Other
+      required: false
+    - id: 3
+      name: product_options
+      label: Products
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Nail Polish'', ''label'': ''Nail Polish''}'
+      - '{''value'': ''Nail Art'', ''label'': ''Nail Art''}'
+      - '{''value'': ''Nail Extensions'', ''label'': ''Nail Extensions''}'
+      required: false
+    - id: 4
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: false

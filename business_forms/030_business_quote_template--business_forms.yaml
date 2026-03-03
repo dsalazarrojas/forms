@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Quote Template
+    pages:
+    - id: 1
+      name: section_quote_header
+      label: -- Quote Information --
+      type: note
+      required: false
+    - id: 2
+      name: quote_number
+      label: Quote Number
+      hint: Unique identifier for this quote
+      type: text
+      required: true
+    - id: 3
+      name: quote_date
+      label: Quote Date
+      hint: Date the quote is issued
+      type: date
+      required: true
+    - id: 4
+      name: valid_until_date
+      label: Valid Until Date
+      hint: Quote expiration date
+      type: date
+      required: true
+    - id: 5
+      name: section_client_details
+      label: -- Client Details --
+      type: note
+      required: false
+    - id: 6
+      name: client_name
+      label: Client Name
+      hint: Individual or company name
+      type: text
+      required: true
+    - id: 7
+      name: client_contact
+      label: Contact Person
+      hint: Name of decision maker
+      type: text
+      required: false
+    - id: 8
+      name: client_email
+      label: Email Address
+      hint: Client email
+      type: email
+      required: true
+    - id: 9
+      name: client_phone
+      label: Phone Number
+      hint: Client phone number
+      type: text
+      required: true
+    - id: 10
+      name: client_address
+      label: Client Address
+      hint: Full business address
+      type: text
+      required: false
+    - id: 11
+      name: section_work_details
+      label: -- Work Details --
+      type: note
+      required: false
+    - id: 12
+      name: work_description
+      label: Description of Work or Services
+      hint: What services are being quoted
+      type: text
+      required: true
+    - id: 13
+      name: commencement_date
+      label: Expected Commencement Date
+      hint: When work will start
+      type: date
+      required: true
+    - id: 14
+      name: completion_date
+      label: Expected Completion Date
+      hint: When work will be finished
+      type: date
+      required: true
+    - id: 15
+      name: section_items
+      label: -- Work Items and Pricing --
+      type: note
+      required: false
+    - id: 16
+      name: item_1_description
+      label: Item 1 Description
+      hint: First work item or service
+      type: text
+      required: true
+    - id: 17
+      name: item_1_quantity
+      label: Item 1 Quantity
+      hint: Number of units
+      type: number
+      required: true
+    - id: 18
+      name: item_1_unit_price
+      label: Item 1 Unit Price
+      hint: Price per unit
+      type: number
+      required: true
+    - id: 19
+      name: item_2_description
+      label: Item 2 Description
+      hint: Second work item if applicable
+      type: text
+      required: false
+    - id: 20
+      name: item_2_quantity
+      label: Item 2 Quantity
+      hint: Quantity of item 2
+      type: number
+      required: false
+    - id: 21
+      name: item_2_unit_price
+      label: Item 2 Unit Price
+      hint: Price per unit for item 2
+      type: number
+      required: false
+    - id: 22
+      name: item_3_description
+      label: Item 3 Description
+      hint: Third work item if applicable
+      type: text
+      required: false
+    - id: 23
+      name: item_3_quantity
+      label: Item 3 Quantity
+      hint: Quantity of item 3
+      type: number
+      required: false
+    - id: 24
+      name: item_3_unit_price
+      label: Item 3 Unit Price
+      hint: Price per unit for item 3
+      type: number
+      required: false
+    - id: 25
+      name: subtotal
+      label: Subtotal
+      hint: Sum of all line items before discount and tax
+      type: number
+      required: true
+    - id: 26
+      name: section_totals
+      label: -- Totals and Adjustments --
+      type: note
+      required: false
+    - id: 27
+      name: discount_percentage
+      label: Discount Percentage
+      hint: Optional discount percentage
+      type: number
+      required: false
+    - id: 28
+      name: discount_amount
+      label: Discount Amount
+      hint: Dollar amount of discount
+      type: number
+      required: false
+    - id: 29
+      name: tax_rate
+      label: Tax Rate Percentage
+      hint: Applicable tax percentage
+      type: number
+      required: true
+    - id: 30
+      name: tax_amount
+      label: Tax Amount
+      hint: Calculated tax
+      type: number
+      required: true
+    - id: 31
+      name: total_cost
+      label: Total Cost
+      hint: Final quote amount
+      type: number
+      required: true
+    - id: 32
+      name: payment_terms
+      label: Payment Terms
+      hint: Payment schedule or conditions
+      type: text
+      required: false

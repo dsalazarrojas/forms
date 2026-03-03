@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Forklift Safety Inspection Form
+    pages:
+    - id: 1
+      name: company_address
+      label: company_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_contact
+      label: company_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: forklift_description
+      label: forklift_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: forklift_status
+      label: forklift_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: safety_hazards
+      label: safety_hazards
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: safety_hazards_details
+      label: safety_hazards_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: corrective_action
+      label: corrective_action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: inspector_signoff
+      label: inspector_signoff
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: forklift_last_use_date
+      label: forklift_last_use_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: forklift_next_use_date
+      label: forklift_next_use_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: forklift_last_inspection_date
+      label: forklift_last_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: forklift_last_inspection_status
+      label: forklift_last_inspection_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: forklift_last_inspector
+      label: forklift_last_inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: forklift_next_inspection_due_date
+      label: forklift_next_inspection_due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: forklift_next_inspection_status
+      label: forklift_next_inspection_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: forklift_last_inspection_notes
+      label: forklift_last_inspection_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: forklift_last_inspection_result
+      label: forklift_last_inspection_result
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: next_inspection_due_date
+      label: next_inspection_due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: forklift_last_use_time
+      label: forklift_last_use_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: forklift_last_location
+      label: forklift_last_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: forklift_last_maintenance_date
+      label: forklift_last_maintenance_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: forklift_last_maintenance_status
+      label: forklift_last_maintenance_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

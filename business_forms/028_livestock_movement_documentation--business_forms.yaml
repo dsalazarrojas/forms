@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Livestock Movement Documentation
+    pages:
+    - id: 1
+      name: origin
+      label: origin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: destination
+      label: destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: origin_date
+      label: origin_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: origin_time
+      label: origin_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: destination_date
+      label: destination_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: destination_time
+      label: destination_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: transporters
+      label: transporters
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: vehicles
+      label: vehicles
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: livestock
+      label: livestock
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: movement_details
+      label: movement_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: total_moving
+      label: total_moving
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: origin_weight
+      label: origin_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: origin_weight_unit
+      label: origin_weight_unit
+      hint: null
+      type: select_one
+      options:
+      - kg
+      - ton
+      required: false

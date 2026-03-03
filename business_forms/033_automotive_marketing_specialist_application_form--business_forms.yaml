@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automotive Marketing Specialist Application Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_address
+      label: Current Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_experience
+      label: -- Professional Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: years_experience
+      label: Years of Marketing Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: automotive_experience
+      label: Years of Automotive Industry Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: current_employment
+      label: Current Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Self-Employed
+      - Student
+      - Contract Work
+      required: true
+    - id: 11
+      name: current_company
+      label: Current or Most Recent Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_header_skills
+      label: -- Marketing Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: marketing_specialties
+      label: Areas of Marketing Expertise
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Digital Marketing
+      - Social Media Marketing
+      - Content Marketing
+      - Email Marketing
+      - SEO/SEM
+      - Paid Advertising
+      - Brand Management
+      - Market Research
+      - Event Marketing
+      required: true
+    - id: 14
+      name: automotive_knowledge
+      label: Automotive Industry Knowledge
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Limited
+      - None
+      required: true
+    - id: 15
+      name: section_header_technical
+      label: -- Technical Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: software_platforms
+      label: Marketing Software and Platforms
+      hint: Select all that you are proficient in
+      type: select_multiple
+      options:
+      - CRM (Salesforce, HubSpot)
+      - Analytics (Google Analytics)
+      - Email Marketing (MailChimp, Constant Contact)
+      - Social Media Management
+      - Marketing Automation
+      - Adobe Creative Suite
+      - Video Editing
+      - Other
+      required: true
+    - id: 17
+      name: section_header_responsibilities
+      label: -- Key Responsibilities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: relevant_accomplishments
+      label: Most Relevant Professional Accomplishments
+      hint: Describe your biggest marketing wins
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: campaign_experience
+      label: Experience with Automotive Marketing Campaigns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_header_education
+      label: -- Education and Certifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: degree
+      label: Highest Degree Attained
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - PhD
+      required: true
+    - id: 22
+      name: field_of_study
+      label: Field of Study
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: professional_certifications
+      label: Professional Certifications
+      hint: Google Ads, HubSpot, etc.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_header_motivation
+      label: -- Position Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: why_interested
+      label: Why Are You Interested in This Position
+      hint: null
+      type: text
+      options: []
+      required: true

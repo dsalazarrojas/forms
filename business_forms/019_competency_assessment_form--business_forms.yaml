@@ -1,0 +1,283 @@
+inputSchema:
+  type: object
+  properties:
+    title: Competency Assessment Form
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of assessment
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: Full name of employee being assessed
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Employee identification number
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Current position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Employee department
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - Marketing
+      - Sales
+      - Operations
+      - IT
+      - Customer Service
+      - Legal
+      - Research and Development
+      - Other
+      required: true
+    - id: 6
+      name: manager_name
+      label: Manager Name
+      hint: Name of assessing manager
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: tenure_in_role
+      label: Time in Current Role
+      hint: How long in this position
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1 to 2 years
+      - 3 to 5 years
+      - More than 5 years
+      required: true
+    - id: 8
+      name: assessment_type
+      label: Type of Assessment
+      hint: Purpose of this assessment
+      type: select_one
+      options:
+      - Annual review
+      - Promotion consideration
+      - Performance improvement
+      - Skills gap analysis
+      - Career development
+      - Other
+      required: true
+    - id: 9
+      name: technical_skills_rating
+      label: Technical Skills Rating
+      hint: Job-specific technical abilities
+      type: select_one
+      options:
+      - Expert - exceeds requirements
+      - Advanced - fully proficient
+      - Intermediate - developing well
+      - Basic - needs improvement
+      - Novice - significant gaps
+      required: true
+    - id: 10
+      name: technical_skills_comments
+      label: Technical Skills Comments
+      hint: Specific observations
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: communication_rating
+      label: Communication Skills Rating
+      hint: Verbal and written communication
+      type: select_one
+      options:
+      - Expert - exceeds requirements
+      - Advanced - fully proficient
+      - Intermediate - developing well
+      - Basic - needs improvement
+      - Novice - significant gaps
+      required: true
+    - id: 12
+      name: communication_comments
+      label: Communication Comments
+      hint: Specific observations
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: teamwork_rating
+      label: Teamwork Rating
+      hint: Collaboration and team contribution
+      type: select_one
+      options:
+      - Expert - exceeds requirements
+      - Advanced - fully proficient
+      - Intermediate - developing well
+      - Basic - needs improvement
+      - Novice - significant gaps
+      required: true
+    - id: 14
+      name: teamwork_comments
+      label: Teamwork Comments
+      hint: Specific observations
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: problem_solving_rating
+      label: Problem Solving Rating
+      hint: Analytical and critical thinking
+      type: select_one
+      options:
+      - Expert - exceeds requirements
+      - Advanced - fully proficient
+      - Intermediate - developing well
+      - Basic - needs improvement
+      - Novice - significant gaps
+      required: true
+    - id: 16
+      name: problem_solving_comments
+      label: Problem Solving Comments
+      hint: Specific observations
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: leadership_rating
+      label: Leadership Rating
+      hint: Leading self and others
+      type: select_one
+      options:
+      - Expert - exceeds requirements
+      - Advanced - fully proficient
+      - Intermediate - developing well
+      - Basic - needs improvement
+      - Novice - significant gaps
+      - Not applicable
+      required: true
+    - id: 18
+      name: leadership_comments
+      label: Leadership Comments
+      hint: Specific observations
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: adaptability_rating
+      label: Adaptability Rating
+      hint: Flexibility and change management
+      type: select_one
+      options:
+      - Expert - exceeds requirements
+      - Advanced - fully proficient
+      - Intermediate - developing well
+      - Basic - needs improvement
+      - Novice - significant gaps
+      required: true
+    - id: 20
+      name: adaptability_comments
+      label: Adaptability Comments
+      hint: Specific observations
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: time_management_rating
+      label: Time Management Rating
+      hint: Organization and prioritization
+      type: select_one
+      options:
+      - Expert - exceeds requirements
+      - Advanced - fully proficient
+      - Intermediate - developing well
+      - Basic - needs improvement
+      - Novice - significant gaps
+      required: true
+    - id: 22
+      name: time_management_comments
+      label: Time Management Comments
+      hint: Specific observations
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_focus_rating
+      label: Customer Focus Rating
+      hint: Customer service orientation
+      type: select_one
+      options:
+      - Expert - exceeds requirements
+      - Advanced - fully proficient
+      - Intermediate - developing well
+      - Basic - needs improvement
+      - Novice - significant gaps
+      - Not applicable
+      required: true
+    - id: 24
+      name: customer_focus_comments
+      label: Customer Focus Comments
+      hint: Specific observations
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: overall_competency_rating
+      label: Overall Competency Rating
+      hint: Summary assessment
+      type: select_one
+      options:
+      - Exceptional - exceeds all expectations
+      - Strong - exceeds some expectations
+      - Proficient - meets all expectations
+      - Developing - meets some expectations
+      - Needs Improvement - below expectations
+      required: true
+    - id: 26
+      name: key_strengths
+      label: Key Strengths
+      hint: Top competencies demonstrated
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: development_areas
+      label: Areas for Development
+      hint: Competencies to improve
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: development_plan
+      label: Recommended Development Plan
+      hint: Suggested actions
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: employee_comments
+      label: Employee Comments
+      hint: Employee response
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: next_review_date
+      label: Next Review Date
+      hint: Follow-up assessment date
+      type: date
+      options: []
+      required: false

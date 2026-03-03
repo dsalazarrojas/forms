@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: RV Site Reservation Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_phone
+      label: Guest Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: check_in_date
+      label: Check in Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: check_out_date
+      label: Check out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: rv_site_size
+      label: Rv Site Size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: rv_site_type
+      label: Rv Site Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: site_number
+      label: Site Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: reservation_status
+      label: Reservation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: site_availability
+      label: Site Availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

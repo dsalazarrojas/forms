@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Burger Restaurant Shift Swap Request Form
+    pages:
+    - id: 1
+      name: header_employee_details
+      label: -- Employee Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Your Full Name
+      hint: Enter your name as it appears on the roster
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id_number
+      label: Employee ID Number
+      hint: Your 4 or 5 digit staff code
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: header_original_shift
+      label: -- Original Shift Information --
+      hint: Details of the shift you want to swap
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: original_shift_date
+      label: Date of Original Shift
+      hint: Select the date you are currently scheduled for
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: original_shift_time
+      label: Start Time of Original Shift
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: swap_reason
+      label: Reason for Shift Swap
+      hint: Please provide a brief explanation
+      type: select_one
+      options:
+      - Medical Appointment
+      - Family Emergency
+      - Educational Commitment
+      - Personal Reasons
+      - Travel
+      required: true
+    - id: 8
+      name: header_replacement_details
+      label: -- Replacement Details --
+      hint: Details of the employee taking your shift
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: colleague_name
+      label: Name of Colleague Swapping With
+      hint: The person who has agreed to take your shift
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: colleague_agreement_verified
+      label: Has the colleague confirmed this swap
+      hint: Ensure you have verbal or written agreement before submitting
+      type: select_one
+      options:
+      - Yes, they have confirmed
+      - No, pending confirmation
+      required: true
+    - id: 11
+      name: header_new_shift
+      label: -- New Shift Information (Optional) --
+      hint: If you are taking one of their shifts in return
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: swapped_shift_date
+      label: Date of Shift You Are Taking
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: swapped_shift_time
+      label: Start Time of New Shift
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: manager_approval_notice
+      label: -- Important Notice --
+      hint: All swaps are pending manager approval and roster update
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: employee_signature_text
+      label: Digital Signature
+      hint: Type your full name to acknowledge the request
+      type: text
+      options: []
+      required: true

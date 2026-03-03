@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maritime Incident Report Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: incident_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_description
+      label: incident_description
+      hint: Provide a detailed description of the incident.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_type
+      label: incident_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Fire''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 6
+      name: damage_description
+      label: damage_description
+      hint: Describe any damage that occurred as a result of the incident.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: damage_amount
+      label: damage_amount
+      hint: The amount of damage caused by the incident.
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: contact_person
+      hint: Name of contact person for the incident.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: contact_info
+      hint: Contact information for the incident.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_status
+      label: incident_status
+      hint: The status of the incident.
+      type: select_one
+      options:
+      - '{''value'': ''Open''}'
+      - '{''value'': ''Closed''}'
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: Additional notes about the incident.
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: form_submitter
+      label: form_submitter
+      hint: Name of person submitting the form.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_info
+      label: submitter_info
+      hint: Contact information for the person submitting the form.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_report_date
+      label: incident_report_date
+      hint: null
+      type: date
+      options: []
+      required: false

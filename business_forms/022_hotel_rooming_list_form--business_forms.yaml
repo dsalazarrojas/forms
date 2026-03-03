@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Rooming List Form
+    pages:
+    - id: 1
+      name: form_name
+      label: Form Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: guest_address
+      label: Guest Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: departure_time
+      label: Departure Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: guest_phone
+      label: Guest Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: room_number
+      label: Room Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: total_guests
+      label: Total Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: room_rate
+      label: Room Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: room_services
+      label: Room Services
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 16
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: status
+      label: Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: room_services_options
+      label: Room Services
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 23
+      name: room_rate_notes
+      label: Room Rate Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: room_number_notes
+      label: Room Number Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: special_requests_notes
+      label: Special Requests Notes
+      hint: null
+      type: text
+      options: []
+      required: false

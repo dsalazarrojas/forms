@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: themed_birthday_party_booking_form
+    pages:
+    - id: 1
+      name: party_preferences
+      label: Party Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: party_date
+      label: party_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: party_time
+      label: party_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: party_theme
+      label: party_theme
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: number_of_guests
+      label: number_of_guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: guest_list
+      label: Guest List
+      hint: List of guests
+      type: select_multiple
+      options:
+      - john
+      - jane
+      - doe
+      required: false

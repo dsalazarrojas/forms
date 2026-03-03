@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Reservation Form
+    pages:
+    - id: 1
+      name: reservation_form
+      label: Reservation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_info
+      label: Guest Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: room_selection
+      label: Room Selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: dates_and_time
+      label: Dates and Time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false

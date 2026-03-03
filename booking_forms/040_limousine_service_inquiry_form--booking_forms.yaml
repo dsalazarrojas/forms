@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Limousine Service Inquiry Form
+    pages:
+    - id: 1
+      name: pickup_location
+      label: Pickup Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pickup_date
+      label: Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: pickup_time
+      label: Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: num_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: limousine_type
+      label: Limousine Type
+      hint: null
+      type: select_multiple
+      options:
+      - Luxury
+      - Standard
+      - Economy
+      required: false
+    - id: 7
+      name: pickup_location_note
+      label: Pickup Location Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: output_file_name
+      label: Output File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

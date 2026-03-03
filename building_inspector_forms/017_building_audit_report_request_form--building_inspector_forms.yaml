@@ -1,0 +1,277 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Audit Report Request Form
+    pages:
+    - id: 1
+      name: request_header
+      label: -- Building Audit Report Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_title
+      label: Requester title or position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requester_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization
+      label: Organization or company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: building_info
+      label: -- Building Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: building_name
+      label: Building name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: building_address
+      label: Building address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: building_type
+      label: Building type
+      hint: null
+      type: select_one
+      options:
+      - Office building
+      - Residential
+      - Educational
+      - Healthcare
+      - Commercial retail
+      - Industrial
+      - Mixed-use
+      - Government
+      - Other
+      required: true
+    - id: 11
+      name: construction_date
+      label: Year of construction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: square_footage
+      label: Total square footage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: number_of_floors
+      label: Number of floors
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: audit_scope
+      label: -- Audit Scope --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: audit_type
+      label: Type of audit requested
+      hint: null
+      type: select_one
+      options:
+      - Comprehensive building audit
+      - Energy efficiency audit
+      - Safety audit
+      - Accessibility audit
+      - Fire safety audit
+      - Compliance audit
+      - Environmental audit
+      - Other
+      required: true
+    - id: 16
+      name: audit_focus_areas
+      label: Focus areas for the audit
+      hint: null
+      type: select_multiple
+      options:
+      - Structural integrity
+      - HVAC systems
+      - Electrical systems
+      - Plumbing
+      - Fire safety
+      - Accessibility
+      - Insulation and energy
+      - Roofing
+      - Windows and doors
+      - Building envelope
+      - Security systems
+      - Mechanical systems
+      required: true
+    - id: 17
+      name: audit_objectives
+      label: Audit objectives and goals
+      hint: What specific issues or concerns
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: specific_concerns
+      label: Specific areas of concern
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: scheduling
+      label: -- Scheduling --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: preferred_date
+      label: Preferred audit date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: date_flexibility
+      label: Flexibility with date
+      hint: null
+      type: select_one
+      options:
+      - Specific date required
+      - Some flexibility - within week
+      - Flexible - within month
+      - Very flexible
+      required: true
+    - id: 22
+      name: audit_duration
+      label: Expected audit duration
+      hint: null
+      type: select_one
+      options:
+      - Half day - 4 hours
+      - Full day - 8 hours
+      - Multiple days
+      - Unknown
+      required: true
+    - id: 23
+      name: building_access
+      label: Building access available for audit
+      hint: null
+      type: select_one
+      options:
+      - Yes, any time
+      - Yes, specific hours
+      - Yes, requires prior arrangement
+      - Needs discussion
+      required: true
+    - id: 24
+      name: reports_needed
+      label: -- Reports and Deliverables --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: report_format
+      label: Preferred report format
+      hint: null
+      type: select_multiple
+      options:
+      - Written report
+      - Executive summary
+      - Detailed findings
+      - Photo documentation
+      - Video walkthrough
+      - Recommendations with costs
+      - Priority action list
+      required: true
+    - id: 26
+      name: deliverable_timeline
+      label: When is report needed?
+      hint: null
+      type: select_one
+      options:
+      - Within 1 week
+      - Within 2 weeks
+      - Within 1 month
+      - No specific deadline
+      required: true
+    - id: 27
+      name: additional_services
+      label: Additional services or consultations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: budget_considerations
+      label: Budget or cost expectations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: follow_up
+      label: -- Follow-up --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: contact_preference
+      label: Preferred contact method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Either
+      required: true
+    - id: 31
+      name: additional_notes
+      label: Additional notes or special requests
+      hint: null
+      type: text
+      options: []
+      required: false

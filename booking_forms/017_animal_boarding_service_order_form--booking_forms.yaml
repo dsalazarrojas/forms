@@ -1,0 +1,277 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Boarding Service Order Form
+    pages:
+    - id: 1
+      name: owner_name
+      label: Pet Owner Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_email
+      label: Email Address
+      hint: For booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: owner_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_address
+      label: Home Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: booking_intro
+      label: Animal Boarding Service Booking
+      hint: Reserve a spot for your pet. Please provide all required information.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: pet_name
+      label: Pet's Name
+      hint: What do you call your pet
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: pet_species
+      label: Species
+      hint: Type of animal
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Bird
+      - Rabbit
+      - Small animal
+      - Reptile
+      - Other
+      required: true
+    - id: 8
+      name: pet_breed
+      label: Breed
+      hint: Breed or mix
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: pet_age
+      label: Age
+      hint: Years old
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: pet_weight
+      label: Weight
+      hint: In pounds
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pet_color
+      label: Color and Markings
+      hint: Description
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: booking_dates
+      label: Booking Dates
+      hint: Drop-off and pick-up
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: drop_off_date
+      label: Drop-off Date
+      hint: When will you bring your pet
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: drop_off_time
+      label: Drop-off Time
+      hint: Approximate arrival time
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: pick_up_date
+      label: Pick-up Date
+      hint: When will you collect your pet
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: pick_up_time
+      label: Pick-up Time
+      hint: Approximate pick-up time
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: service_type
+      label: Boarding Service Type
+      hint: Select desired service level
+      type: select_one
+      options:
+      - Standard boarding
+      - Premium suite
+      - Deluxe accommodation
+      - Medical boarding
+      - Puppy or kitten special
+      required: true
+    - id: 18
+      name: additional_services
+      label: Additional Services
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Daily playtime sessions
+      - Grooming service
+      - Training sessions
+      - Medication administration
+      - Special feeding
+      - Webcam access
+      - None
+      required: false
+    - id: 19
+      name: feeding_schedule
+      label: Feeding Schedule
+      hint: How often does your pet eat
+      type: select_one
+      options:
+      - Once daily
+      - Twice daily
+      - Three times daily
+      - Free feeding
+      - Other
+      required: true
+    - id: 20
+      name: food_provider
+      label: Who will provide food
+      hint: Food arrangements
+      type: select_one
+      options:
+      - Owner will provide
+      - Facility will provide
+      - Split arrangement
+      required: true
+    - id: 21
+      name: food_instructions
+      label: Feeding Instructions
+      hint: Amount, brand, special requirements
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_conditions
+      label: Does your pet have any medical conditions
+      hint: Health information
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: medications
+      label: Is your pet on any medications
+      hint: Include dosage and schedule
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: veterinarian_name
+      label: Veterinarian Name and Clinic
+      hint: Primary vet contact
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: vet_phone
+      label: Veterinarian Phone
+      hint: Clinic phone number
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: behavior_traits
+      label: Behavior Traits
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Friendly with all dogs
+      - Selective with dogs
+      - Prefers no dogs
+      - Good with cats
+      - Good with children
+      - Anxious in new places
+      - Separation anxiety
+      - Resource guarding
+      - None - well adjusted
+      required: true
+    - id: 27
+      name: special_needs
+      label: Any special needs or requirements
+      hint: Additional care needs
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: If owner unavailable
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: authorization
+      label: I authorize veterinary treatment if needed
+      hint: Medical authorization
+      type: select_one
+      options:
+      - Yes - I authorize treatment
+      - Yes - contact me first
+      - No - specific instructions below
+      required: true
+    - id: 31
+      name: terms_accepted
+      label: I accept the boarding terms and conditions
+      hint: Agreement
+      type: select_one
+      options:
+      - Yes - I accept
+      - false
+      required: true
+    - id: 32
+      name: owner_signature
+      label: Owner Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: signature_date
+      label: Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

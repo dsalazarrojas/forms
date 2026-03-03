@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: energy_reporting_dashboard_access_request_form
+      label: title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reporting_energy_systems
+      label: reporting_energy_systems
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 3
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: required_fields
+      label: required_fields
+      hint: Please provide all required fields.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - Tool 1
+      - Tool 2
+      required: false
+    - id: 10
+      name: submit_button
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: cancel_button
+      label: cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: energy_reporting_system
+      label: energy_reporting_system
+      hint: Please select multiple options.
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 13
+      name: reporting_system
+      label: reporting_system
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 14
+      name: system_admin
+      label: system_admin
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: admin
+      label: admin
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: dashboard_admin
+      label: dashboard_admin
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: reporting_admin
+      label: reporting_admin
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: reporting_user
+      label: reporting_user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: system_user
+      label: system_user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: user
+      label: user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: user_admin
+      label: user_admin
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: dashboard_user
+      label: dashboard_user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: reporting_system_admin
+      label: reporting_system_admin
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: reporting_system_user
+      label: reporting_system_user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: reporting_system_user_admin
+      label: reporting_system_user_admin
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

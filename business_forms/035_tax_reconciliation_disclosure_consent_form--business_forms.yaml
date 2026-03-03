@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: tax_reconciliation_disclosure_consent_form
+    pages:
+    - id: 1
+      name: tax_reconciliation_disclosure_consent_form_page
+      label: Tax Reconciliation Disclosure Consent Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_reported_address
+      label: reported_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_physically_resides
+      label: physically_resides
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 6
+      name: client_consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 7
+      name: client_reported_tax_reported_year
+      label: reported_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: client_reported_tax_reported_period
+      label: reported_period
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Jan 01/2023 to Dec 31/2023''}'
+      - '{''value'': ''Feb 01/2024 to Mar 31/2024''}'
+      - '{''value'': ''Apr 01/2023 to Jun 30/2023''}'
+      required: true
+    - id: 9
+      name: client_reported_tax_tax_amount
+      label: tax_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: client_reported_tax_revised_amount
+      label: revised_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: client_reported_tax_tax_deductions
+      label: tax_deductions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': False}'
+      - '{''value'': True}'
+      required: true
+    - id: 12
+      name: client_reported_tax_revised_deductions
+      label: revised_deductions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: client_reported_tax_revised_tax_deductions
+      label: revised_tax_deductions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: client_reported_tax_revised_tax_refund
+      label: revised_tax_refund
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: client_reported_tax_revised_tax_reconciliation_refund
+      label: revised_tax_reconciliation_refund
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: client_reported_tax_revised_tax_reconciliation_fee
+      label: revised_tax_reconciliation_fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: client_reported_tax_tax_refund
+      label: tax_refund
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: client_reported_tax_reported_refund
+      label: reported_refund
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: client_reported_tax_reconciliation_refund
+      label: reconciliation_refund
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: client_reported_tax_reconciliation_fee
+      label: reconciliation_fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: client_reported_tax_reported_tax_deductions
+      label: reported_tax_deductions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': False}'
+      - '{''value'': True}'
+      required: true
+    - id: 22
+      name: client_reported_tax_reported_tax_refund
+      label: reported_tax_refund
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: client_reported_tax_reported_amount
+      label: reported_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: client_reported_tax_reported_tax_fee
+      label: reported_tax_fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: client_reported_tax_reported_tax
+      label: reported_tax
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': False}'
+      - '{''value'': True}'
+      required: true

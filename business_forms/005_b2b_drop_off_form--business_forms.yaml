@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: B2B Drop Off Form
+    pages:
+    - id: 1
+      name: sender_company
+      label: Sender company
+      hint: Company dropping off goods
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: receiver_company
+      label: Receiver company
+      hint: Company receiving goods
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact person at pickup
+      hint: Name and phone
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: For delivery coordination
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: item_description
+      label: Item description
+      hint: List items being dropped off
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: Number of units being dropped off
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: drop_off_date
+      label: Drop off date
+      hint: Planned drop off date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: condition_notes
+      label: Condition notes
+      hint: Note any preexisting damage
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: delivery_instructions
+      label: Delivery instructions
+      hint: Where to leave items onsite
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature_required
+      label: Signature required on receipt
+      hint: Select yes if receiver must sign
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

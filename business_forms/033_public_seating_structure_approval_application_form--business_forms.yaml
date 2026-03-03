@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Seating Structure Approval Application Form
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: seating_structure_information
+      label: Seating Structure Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: approval_time
+      label: Approval Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: approver
+      label: Approvers
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: approval_terms
+      label: Approval Terms
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 8
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 9
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 11
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: submitted_from
+      label: Submitted From
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: submitted_from_phone
+      label: Submitted From Phone
+      hint: null
+      type: text
+      options: []
+      required: false

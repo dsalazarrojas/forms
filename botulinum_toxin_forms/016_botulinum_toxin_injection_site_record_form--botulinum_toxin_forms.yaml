@@ -1,0 +1,266 @@
+inputSchema:
+  type: object
+  properties:
+    title: Botulinum Toxin Injection Site Record Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full name of patient
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_id
+      label: Patient ID
+      hint: Medical record number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: treatment_date
+      label: Treatment Date
+      hint: Date of injection
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: treating_provider
+      label: Treating Provider
+      hint: Name of physician or injector
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: product_name
+      label: Product Name
+      hint: Brand of botulinum toxin used
+      type: select_one
+      options:
+      - Botox Cosmetic
+      - Dysport
+      - Xeomin
+      - Jeuveau
+      - Other
+      required: true
+    - id: 7
+      name: lot_number
+      label: Lot Number
+      hint: Product lot number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: expiration_date
+      label: Expiration Date
+      hint: Product expiration date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: dilution_amount
+      label: Dilution Amount
+      hint: Amount of saline used for reconstitution in ml
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: total_units_used
+      label: Total Units Used
+      hint: Total units administered
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: forehead_sites
+      label: Forehead Injection Sites
+      hint: Number of injection points in forehead
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: forehead_units
+      label: Forehead Units
+      hint: Total units injected in forehead
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: glabellar_sites
+      label: Glabellar Injection Sites
+      hint: Number of injection points between eyebrows
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: glabellar_units
+      label: Glabellar Units
+      hint: Total units injected in glabellar region
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: crows_feet_sites
+      label: Crow's Feet Injection Sites
+      hint: Number of injection points around eyes
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: crows_feet_units
+      label: Crow's Feet Units
+      hint: Total units injected around eyes
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: bunny_line_sites
+      label: Bunny Line Injection Sites
+      hint: Number of injection points on nose
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: bunny_line_units
+      label: Bunny Line Units
+      hint: Total units injected in nose area
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: masseter_sites
+      label: Masseter Injection Sites
+      hint: Number of injection points in jaw muscles
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: masseter_units
+      label: Masseter Units
+      hint: Total units injected in masseter muscles
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: neck_sites
+      label: Neck Injection Sites
+      hint: Number of injection points in neck
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: neck_units
+      label: Neck Units
+      hint: Total units injected in neck
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: other_sites
+      label: Other Injection Sites
+      hint: Describe any other areas treated
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: other_units
+      label: Other Units
+      hint: Total units in other areas
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: needle_gauge
+      label: Needle Gauge
+      hint: Size of needle used
+      type: select_one
+      options:
+      - 30 gauge
+      - 31 gauge
+      - 32 gauge
+      - 33 gauge
+      required: true
+    - id: 26
+      name: anesthesia_used
+      label: Anesthesia Used
+      hint: Was any anesthesia administered
+      type: select_one
+      options:
+      - None
+      - Topical anesthetic
+      - Ice application
+      - Local injection
+      required: true
+    - id: 27
+      name: patient_tolerance
+      label: Patient Tolerance
+      hint: How well did patient tolerate procedure
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 28
+      name: immediate_side_effects
+      label: Immediate Side Effects
+      hint: Any side effects observed immediately
+      type: select_multiple
+      options:
+      - None
+      - Redness
+      - Swelling
+      - Bruising
+      - Bleeding
+      - Pain
+      - Headache
+      required: true
+    - id: 29
+      name: post_treatment_instructions
+      label: Post-Treatment Instructions Given
+      hint: Were aftercare instructions provided
+      type: select_one
+      options:
+      - Yes, verbal and written
+      - Yes, verbal only
+      - Yes, written only
+      - false
+      required: true
+    - id: 30
+      name: follow_up_scheduled
+      label: Follow-up Scheduled
+      hint: Is a follow-up appointment scheduled
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 31
+      name: follow_up_date
+      label: Follow-up Date
+      hint: Date of follow-up appointment
+      type: date
+      options: []
+      required: false
+    - id: 32
+      name: provider_signature
+      label: Provider Signature
+      hint: Electronic signature of provider
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: documentation_date
+      label: Documentation Date
+      hint: Date of record entry
+      type: date
+      options: []
+      required: true

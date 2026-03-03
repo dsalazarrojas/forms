@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alejandra Agreement
+    pages:
+    - id: 1
+      name: section_personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter legal full name as it appears on ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company name
+      hint: Organization or employer name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email address
+      hint: For contract communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: Optional secondary contact
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: agreement_type
+      label: Agreement type
+      hint: Select the best match
+      type: select_one
+      options:
+      - Standard service agreement
+      - Non disclosure agreement
+      - Consultancy agreement
+      - Other
+      required: true
+    - id: 7
+      name: start_date
+      label: Agreement start date
+      hint: Effective date of the agreement
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: duration_months
+      label: Agreement duration months
+      hint: Length in months, enter 0 for indefinite
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: key_terms
+      label: Key terms and obligations
+      hint: Brief summary of key obligations or responsibilities
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: Electronic signature name
+      hint: Type full name to sign agreement
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Design Manager Application Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone Number
+      hint: Format - (555) 555-5555
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_address
+      label: Home Address
+      hint: City, State, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_professional_experience
+      label: -- Professional Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: current_job_title
+      label: Current or Most Recent Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: years_experience_total
+      label: Total Years of Experience in Construction/Design
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: years_experience_managerial
+      label: Total Years in a Managerial Role
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: expertise_areas
+      label: Primary Areas of Expertise
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Architectural Design
+      - Structural Engineering
+      - Project Planning
+      - BIM (Building Information Modeling)
+      - Sustainable Design (LEED)
+      - Budgeting and Estimating
+      - MEP Systems
+      - Code Compliance
+      required: true
+    - id: 11
+      name: software_proficiency
+      label: Software Proficiency
+      hint: Check software you are proficient with
+      type: select_multiple
+      options:
+      - AutoCAD
+      - Revit
+      - Bluebeam
+      - Primavera P6
+      - Procore
+      - Navisworks
+      - Microsoft Project
+      - SketchUp
+      required: true
+    - id: 12
+      name: section_education_certs
+      label: -- Education and Certifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: highest_degree
+      label: Highest Level of Education Attained
+      hint: null
+      type: select_one
+      options:
+      - High School Diploma
+      - Associate's Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - PhD/Doctorate
+      required: true
+    - id: 14
+      name: major_field_of_study
+      label: Major or Field of Study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: professional_certifications
+      label: Professional Certifications
+      hint: e.g., PMP, AIA, NCARB, LEED AP
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_availability_logistics
+      label: -- Availability and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: notice_period
+      label: Notice Period at Current Employer
+      hint: When could you start if hired?
+      type: select_one
+      options:
+      - Immediately
+      - 2 Weeks
+      - 4 Weeks
+      - More than 4 Weeks
+      required: true
+    - id: 18
+      name: salary_expectation
+      label: Desired Annual Salary ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: willingness_to_travel
+      label: Willingness to Travel to Site Locations
+      hint: Percentage of time you are able to travel
+      type: select_one
+      options:
+      - 0% (No travel)
+      - Up to 25%
+      - Up to 50%
+      - More than 50%
+      required: true
+    - id: 20
+      name: cover_letter_summary
+      label: Short Summary of Why You're a Great Fit
+      hint: Max 500 characters
+      type: text
+      options: []
+      required: true

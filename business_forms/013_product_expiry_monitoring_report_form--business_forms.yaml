@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Expiry Monitoring Report Form
+    pages:
+    - id: 1
+      name: product_expiry_monitoring_report_form
+      label: product_expiry_monitoring_report_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_expiry_date
+      label: product_expiry_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: shelf_life
+      label: shelf_life
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: product_expiration_date
+      label: product_expiration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: product_expiry_status
+      label: product_expiry_status
+      hint: null
+      type: select_one
+      options:
+      - Expiring Now
+      - Not Expiring
+      required: true
+    - id: 6
+      name: product_expiry_note
+      label: product_expiry_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: product_expiry_date_note
+      label: product_expiry_date_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Order Forms
+      - Business Forms
+      required: true
+    - id: 9
+      name: product_expiry_frequency
+      label: product_expiry_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Biweekly
+      - Monthly
+      required: true
+    - id: 10
+      name: product_expiry_frequency_note
+      label: product_expiry_frequency_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: customer_note
+      label: customer_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: text
+      options: []
+      required: false

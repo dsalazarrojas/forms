@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Direct Deposit Enrollment Form
+    pages:
+    - id: 1
+      name: enrollment_form
+      label: enrollment_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: employee_id
+      hint: Enter your employee ID
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: direct_deposit_account
+      label: direct_deposit_account
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 5
+      name: bank_name
+      label: bank_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: routing_number
+      label: routing_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: account_number
+      label: account_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: bank_street_address
+      label: bank_street_address
+      hint: Physical or mailing address of the bank
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: bank_city
+      label: bank_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: bank_state
+      label: bank_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: bank_zip
+      label: bank_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: bank_phone
+      label: bank_phone
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 14
+      name: bank_contact
+      label: bank_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: direct_deposit_frequency
+      label: direct_deposit_frequency
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 16
+      name: enrollment_date
+      label: enrollment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: payroll_id
+      label: payroll_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: account_manager
+      label: account_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: bank_name_2
+      label: bank_name_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: bank_address_2
+      label: bank_address_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: bank_city_2
+      label: bank_city_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: bank_state_2
+      label: bank_state_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: bank_zip_2
+      label: bank_zip_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: bank_phone_2
+      label: bank_phone_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: bank_contact_2
+      label: bank_contact_2
+      hint: null
+      type: text
+      options: []
+      required: false

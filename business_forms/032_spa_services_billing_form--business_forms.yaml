@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spa Services Billing Form
+    pages:
+    - id: 1
+      name: spa_services_billing_form
+      label: spa_services_billing_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - Massage
+      - Facial
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_description
+      label: service_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: charges
+      label: charges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Card (Visa, Mastercard, or American Express)
+      required: false
+    - id: 9
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Paid
+      required: false
+    - id: 10
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: spa_owner
+      label: spa_owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: spa_name
+      label: spa_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: service_charge
+      label: service_charge
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: tip
+      label: tip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: total
+      label: total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: payment_id
+      label: payment_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: payment_method_id
+      label: payment_method_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: spa_id
+      label: spa_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: client_id
+      label: client_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: service_id
+      label: service_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: note_id
+      label: note_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      required: false

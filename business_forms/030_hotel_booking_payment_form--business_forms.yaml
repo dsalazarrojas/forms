@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Booking Payment Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_arrival
+      label: date_arrival
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: date_departure
+      label: date_departure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: room_type
+      label: room_type
+      hint: null
+      type: select_one
+      options:
+      - Hotel Room
+      - Suite
+      - Family Room
+      required: false
+    - id: 5
+      name: total_cost
+      label: total_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: method_payment
+      label: method_payment
+      hint: null
+      type: select_one
+      options:
+      - Card
+      - Bank Transfer
+      required: false
+    - id: 7
+      name: card_number
+      label: card_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: name_on_card
+      label: name_on_card
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: confirm
+      label: confirm_payment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: confirm_date
+      label: confirm_date
+      hint: null
+      type: text
+      options: []
+      required: false

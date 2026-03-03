@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Survey
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Your company or organization name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_name
+      label: Respondent Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_title
+      label: Your Title or Position
+      hint: Your role in the organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: respondent_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: respondent_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_type
+      label: Type of Business
+      hint: What is your business model?
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - LLC
+      - Corporation
+      - Non-profit
+      - Cooperative
+      required: true
+    - id: 7
+      name: industry
+      label: Industry or Sector
+      hint: Primary business sector
+      type: select_one
+      options:
+      - Manufacturing
+      - Retail
+      - Services
+      - Technology
+      - Healthcare
+      - Finance
+      - Education
+      - Real Estate
+      - Hospitality
+      - Other
+      required: true
+    - id: 8
+      name: years_in_business
+      label: How long has your business been operating?
+      hint: In years
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: number_of_employees
+      label: Number of Employees
+      hint: Current number of staff
+      type: select_one
+      options:
+      - 1-5
+      - 6-10
+      - 11-25
+      - 26-50
+      - 51-100
+      - 101-500
+      - 500+
+      required: true
+    - id: 10
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Approximate annual revenue
+      type: select_one
+      options:
+      - Less than $100000
+      - $100000 - $500000
+      - $500000 - $1 million
+      - $1 - $5 million
+      - $5 - $10 million
+      - $10 - $50 million
+      - Over $50 million
+      required: true
+    - id: 11
+      name: business_location
+      label: Primary Business Location
+      hint: City and state or country
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: international_operations
+      label: Do you operate internationally?
+      hint: null
+      type: select_one
+      options:
+      - Yes, extensively
+      - Yes, limited
+      - No, domestic only
+      required: true
+    - id: 13
+      name: main_products_services
+      label: Main Products or Services
+      hint: Brief description
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: primary_market
+      label: Primary Market or Customer Base
+      hint: Who are your main customers?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: competitive_advantages
+      label: What are your competitive advantages?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: major_challenges
+      label: What are your major business challenges?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Market competition
+      - Finding qualified talent
+      - Cash flow management
+      - Technology infrastructure
+      - Customer acquisition
+      - Regulatory compliance
+      - Supply chain issues
+      - Economic uncertainty
+      required: true
+    - id: 17
+      name: growth_plans
+      label: Do you have growth plans for the next 3 years?
+      hint: null
+      type: select_one
+      options:
+      - Yes, aggressive growth
+      - Yes, moderate growth
+      - Maintain current size
+      - Uncertain
+      - Planning to reduce size
+      required: true
+    - id: 18
+      name: technology_adoption
+      label: Level of technology adoption
+      hint: null
+      type: select_one
+      options:
+      - Highly advanced
+      - Modern
+      - Basic systems
+      - Minimal technology
+      - No technology
+      required: true
+    - id: 19
+      name: business_needs
+      label: What business services do you need most?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Consulting
+      - Financing
+      - Marketing support
+      - Technology solutions
+      - Training and development
+      - Legal services
+      - Accounting and bookkeeping
+      - Networking opportunities
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information you would like to share
+      type: text
+      options: []
+      required: false

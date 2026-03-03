@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: medical_reimbursement_application
+    pages:
+    - id: 1
+      name: medical_reimbursement_form
+      label: Medical Reimbursement Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_procedure
+      label: medical_procedure
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medical_provider_name
+      label: medical_provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: insurance_provider
+      label: insurance_provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: claim_status
+      label: claim_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: medical_record_number
+      label: medical_record_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: billing_doctor
+      label: billing_doctor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: claim_date
+      label: claim_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: claim_amount
+      label: claim_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false

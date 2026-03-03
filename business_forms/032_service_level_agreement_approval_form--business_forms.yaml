@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Level Agreement Approval Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Service Level Agreement Approval Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_description
+      label: Service Level Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_name
+      label: Service Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_level
+      label: Service Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Level 1''}'
+      - '{''id'': 2, ''name'': ''Level 2''}'
+      - '{''id'': 3, ''name'': ''Level 3''}'
+      required: false
+    - id: 5
+      name: service_level_agreement
+      label: Service Level Agreement
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: service_level_agreement_start
+      label: Service Level Agreement Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: service_level_agreement_end
+      label: Service Level Agreement End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: stakeholders
+      label: Stakeholders
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Stakeholder 1''}'
+      - '{''id'': 2, ''name'': ''Stakeholder 2''}'
+      - '{''id'': 3, ''name'': ''Stakeholder 3''}'
+      required: false
+    - id: 9
+      name: stakeholder_roles
+      label: Stakeholder Roles
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Role 1''}'
+      - '{''id'': 2, ''name'': ''Role 2''}'
+      - '{''id'': 3, ''name'': ''Role 3''}'
+      required: false
+    - id: 10
+      name: approver
+      label: Approver
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Approver 1''}'
+      - '{''id'': 2, ''name'': ''Approver 2''}'
+      - '{''id'': 3, ''name'': ''Approver 3''}'
+      required: false
+    - id: 11
+      name: approver_email
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: approver_phone
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: stakeholder_signature
+      label: Stakeholder Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: approver_signature
+      label: Approver Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: date_approved
+      label: Date Approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: approver_comments
+      label: Approver Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: stakeholder_comments
+      label: Stakeholder Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: service_level_agreement_approval
+      label: Service Level Agreement Approval
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Approved''}'
+      - '{''id'': 2, ''name'': ''Not Approved''}'
+      - '{''id'': 3, ''name'': ''Pending''}'
+      required: false

@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: holiday_treehouse_booking_form
+    pages:
+    - id: 1
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: guest_details
+      label: guest_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: stay_length
+      label: stay_length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: special_requests
+      label: special_requests
+      hint: null
+      type: text
+      options: []
+      required: false

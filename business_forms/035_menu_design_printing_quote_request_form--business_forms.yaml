@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Menu Design Printing Quote Request Form
+    pages:
+    - id: 1
+      name: restaurant_name
+      label: Restaurant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: menu_design_file
+      label: Menu Design File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: menu_size
+      label: Menu Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 7
+      name: color_scheme
+      label: Color Scheme
+      hint: null
+      type: select_multiple
+      options:
+      - Color 1
+      - Color 2
+      - Color 3
+      required: false
+    - id: 8
+      name: print_quality
+      label: Print Quality
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false

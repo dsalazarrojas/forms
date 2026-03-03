@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Survey
+    pages:
+    - id: 1
+      name: survey_date
+      label: Survey Date
+      hint: Date of survey
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: surveyor_name
+      label: Surveyor Name
+      hint: Who is conducting survey
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: surveyor_id
+      label: Surveyor ID
+      hint: Employee number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: location_name
+      label: Location Name
+      hint: Site or facility name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: location_address
+      label: Location Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department_surveyed
+      label: Department Surveyed
+      hint: Which department
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: survey_type
+      label: Survey Type
+      hint: Type of survey
+      type: select_one
+      options:
+      - Complete Inventory
+      - Partial Count
+      - Verification Survey
+      - Condition Assessment
+      - Disposal Review
+      - Transfer Survey
+      required: true
+    - id: 8
+      name: asset_category
+      label: Asset Category Surveyed
+      hint: What type of assets
+      type: select_one
+      options:
+      - All Categories
+      - IT Equipment
+      - Office Furniture
+      - Vehicles
+      - Machinery
+      - Building Infrastructure
+      - Tools and Equipment
+      required: true
+    - id: 9
+      name: total_assets_found
+      label: Total Assets Found
+      hint: Count of items
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: assets_in_use
+      label: Assets In Use
+      hint: Currently utilized
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: assets_idle
+      label: Assets Idle or Unused
+      hint: Not being used
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: assets_damaged
+      label: Assets Damaged
+      hint: Need repair
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: assets_missing
+      label: Assets Missing
+      hint: Cannot locate
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: utilization_rate
+      label: Utilization Rate Percentage
+      hint: Percentage in use
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: condition_excellent
+      label: Assets in Excellent Condition
+      hint: Count
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: condition_good
+      label: Assets in Good Condition
+      hint: Count
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: condition_fair
+      label: Assets in Fair Condition
+      hint: Count
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: condition_poor
+      label: Assets in Poor Condition
+      hint: Count
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: maintenance_needed
+      label: Assets Needing Maintenance
+      hint: Count
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: replacement_recommended
+      label: Assets Recommended for Replacement
+      hint: Count
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: disposal_recommended
+      label: Assets Recommended for Disposal
+      hint: Count
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: security_concerns
+      label: Are There Security Concerns
+      hint: Safety issues
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: security_details
+      label: Security Details
+      hint: Describe concerns
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: recommendations
+      label: Survey Recommendations
+      hint: Suggested actions
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: follow_up_required
+      label: Is Follow-up Required
+      hint: Additional work needed
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 26
+      name: follow_up_date
+      label: Follow-up Date
+      hint: When to return
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: site_contact_name
+      label: Site Contact Name
+      hint: Local contact person
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: site_contact_signature
+      label: Site Contact Signature
+      hint: Acknowledgment
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: surveyor_signature
+      label: Surveyor Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: survey_complete
+      label: Survey Complete
+      hint: Confirm finished
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

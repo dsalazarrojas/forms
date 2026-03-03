@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Audit Form
+    pages:
+    - id: 1
+      name: facility_id
+      label: Facility Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: warehouse_id
+      label: Warehouse Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_one
+      options:
+      - office
+      - warehouse
+      required: true
+    - id: 6
+      name: facility_status
+      label: Facility Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      required: true
+    - id: 7
+      name: audit_type
+      label: Audit Type
+      hint: null
+      type: select_one
+      options:
+      - safety
+      - compliance
+      required: true
+    - id: 8
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: inspector
+      label: Inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

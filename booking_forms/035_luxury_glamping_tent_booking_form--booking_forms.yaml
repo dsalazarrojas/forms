@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Luxury Glamping Tent Booking Form
+    pages:
+    - id: 1
+      name: booking_form
+      label: Booking Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: checkin_date
+      label: Checkin Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: checkin_time
+      label: Checkin Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: checkout_date
+      label: Checkout Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: checkout_time
+      label: Checkout Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: booking_fee
+      label: Booking Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: booking_duration
+      label: Booking Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: select_room_type
+      label: Select Room Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: select_parking_type
+      label: Select Parking Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false

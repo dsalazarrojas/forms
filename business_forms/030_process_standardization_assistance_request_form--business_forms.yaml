@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Standardization Assistance Request Form
+    pages:
+    - id: 1
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: goal
+      label: Request Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: urgency
+      label: Urgency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: change_needs
+      label: Change Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: impact
+      label: Impact
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: operational_unit
+      label: Operational Unit
+      hint: null
+      type: select_multiple
+      options:
+      - HQ
+      - Regional
+      - Local
+      - Division
+      - Team
+      required: false
+    - id: 7
+      name: submitting_team
+      label: Submitting Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - ChatJIM
+      - ChatJimmy
+      - ChatJenny
+      required: false
+    - id: 10
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjenny
+      - chatjim
+      required: false
+    - id: 14
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false

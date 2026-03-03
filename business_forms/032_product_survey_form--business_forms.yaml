@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Survey Form
+    pages:
+    - id: 1
+      name: product_survey_form_page_1
+      label: How long have you been using our products or services?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: competitor_impression
+      label: What's your impression of our company's products or services compared
+        to other competitors?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Excellent''}'
+      - '{''text'': ''Good''}'
+      - '{''text'': ''Neutral''}'
+      - '{''text'': ''Bad''}'
+      - '{''text'': ''Very Bad''}'
+      required: true
+    - id: 3
+      name: product_impression
+      label: What do you think about our products or services?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Excellent''}'
+      - '{''text'': ''Good''}'
+      - '{''text'': ''Neutral''}'
+      - '{''text'': ''Bad''}'
+      - '{''text'': ''Very Bad''}'
+      required: true
+    - id: 4
+      name: satisfaction
+      label: On a scale from 1 to 10, what's your overall satisfaction with our products
+        or services?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: overall_experience
+      label: Can you tell us about your overall experience with our products or services?
+      hint: null
+      type: text
+      options: []
+      required: true

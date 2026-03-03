@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: used_electronics_auction_registration
+    pages:
+    - id: 1
+      name: bidder_details
+      label: Bidder Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_preferences
+      label: Contact Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: terms_conditions
+      label: Terms Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: bid_interests
+      label: Bid Interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: bidder_terms
+      label: Bidder Terms
+      hint: null
+      type: select_multiple
+      options:
+      - Bidder is responsible for payment
+      - Bidder is aware of terms and conditions
+      - Bidder understands that bidding is a binding agreement
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: confirm_terms
+      label: Confirm You Agree with Terms
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: bidder_terms_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Depositary Obligations Assessment
+    pages:
+    - id: 1
+      name: depositary_obligations_assessment_page
+      label: Depositary Obligations Assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: performance_indicator
+      label: performance indicator
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: performance_indicators
+      label: performance Indicators
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: financial_institutions
+      label: financial institutions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: risk_factors
+      label: risk factors
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assessment_date
+      label: assessment date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: submit_date
+      label: submit date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: submission_status
+      label: submission status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: submission_notes
+      label: submission notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submitter
+      label: submitter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: submitter_company
+      label: submitter company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: submitted_to
+      label: submitted to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: submitted_at
+      label: submitted at
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quality Control Tracker
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: inspection_location
+      label: inspection_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: issue_category
+      label: issue_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: corrective_action
+      label: corrective_action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: evidence_link
+      label: evidence_link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: corrective_action_status
+      label: corrective_action_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false

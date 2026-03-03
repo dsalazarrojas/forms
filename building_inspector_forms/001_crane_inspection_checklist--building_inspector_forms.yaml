@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crane Inspection Checklist
+    pages:
+    - id: 1
+      name: crane_section
+      label: Crane Inspection Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: crane_type
+      label: Crane Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: crane_condition
+      label: Crane Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: crane_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: crane_equipment
+      label: Crane Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: operator_name
+      label: Operator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: safety_standards
+      label: Safety Standards
+      hint: null
+      type: text
+      options: []
+      required: false

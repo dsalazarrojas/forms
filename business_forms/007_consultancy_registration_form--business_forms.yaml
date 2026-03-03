@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consultancy Registration Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Legal name of your consulting business
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_type
+      label: Business Type
+      hint: Select your business structure
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - Limited Liability Company
+      - Corporation
+      - Nonprofit
+      - Other
+      required: true
+    - id: 3
+      name: business_registration_number
+      label: Business Registration Number
+      hint: Official registration or tax ID number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: year_established
+      label: Year Established
+      hint: Year your business was founded
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: contact_first_name
+      label: Contact First Name
+      hint: Primary contact first name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_last_name
+      label: Contact Last Name
+      hint: Primary contact last name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_position
+      label: Contact Position
+      hint: Job title of primary contact
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_email
+      label: Business Email
+      hint: Official business email address
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: business_phone
+      label: Business Phone Number
+      hint: Primary business contact number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: business_address
+      label: Business Street Address
+      hint: Physical address of your business
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: business_city
+      label: City
+      hint: City where business is located
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: business_state
+      label: State or Province
+      hint: State, province, or region
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: business_zip
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: business_country
+      label: Country
+      hint: Country of business location
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: business_website
+      label: Business Website
+      hint: URL of your business website
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: consulting_specialization
+      label: Consulting Specialization
+      hint: Primary area of consulting expertise
+      type: select_one
+      options:
+      - Management Consulting
+      - Financial Consulting
+      - IT Consulting
+      - Human Resources Consulting
+      - Marketing Consulting
+      - Strategy Consulting
+      - Operations Consulting
+      - Other
+      required: true
+    - id: 17
+      name: services_offered
+      label: Services Offered
+      hint: Select all services you provide
+      type: select_multiple
+      options:
+      - Business Strategy
+      - Process Improvement
+      - Financial Planning
+      - Risk Management
+      - Technology Implementation
+      - Training and Development
+      - Market Research
+      - Change Management
+      - Compliance Consulting
+      - Other
+      required: true
+    - id: 18
+      name: target_industries
+      label: Target Industries
+      hint: Industries you primarily serve
+      type: select_multiple
+      options:
+      - Healthcare
+      - Finance
+      - Technology
+      - Manufacturing
+      - Retail
+      - Energy
+      - Government
+      - Education
+      - Nonprofit
+      - Other
+      required: true
+    - id: 19
+      name: number_of_employees
+      label: Number of Employees
+      hint: Total number of employees in your business
+      type: select_one
+      options:
+      - 1-5
+      - 6-10
+      - 11-25
+      - 26-50
+      - 51-100
+      - 101-500
+      - 500+
+      required: false
+    - id: 20
+      name: annual_revenue
+      label: Annual Revenue Range
+      hint: Select your annual revenue bracket
+      type: select_one
+      options:
+      - Under $100,000
+      - $100,000 - $500,000
+      - $500,000 - $1,000,000
+      - $1,000,000 - $5,000,000
+      - $5,000,000 - $10,000,000
+      - Over $10,000,000
+      required: false
+    - id: 21
+      name: certifications
+      label: Professional Certifications
+      hint: List any relevant certifications held
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: insurance_coverage
+      label: Do You Have Professional Liability Insurance
+      hint: Select if you have liability coverage
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 23
+      name: references_available
+      label: Can You Provide References
+      hint: Select if you can provide client references
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 24
+      name: business_description
+      label: Business Description
+      hint: Brief description of your consulting business
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: registration_date
+      label: Registration Date
+      hint: Date of this registration
+      type: date
+      options: []
+      required: true

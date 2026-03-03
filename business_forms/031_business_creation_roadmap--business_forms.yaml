@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Creation Roadmap
+    pages:
+    - id: 1
+      name: entrepreneur_info
+      label: -- Entrepreneur Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: entrepreneur_name
+      label: Entrepreneur Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: experience_level
+      label: Business Experience Level
+      hint: Your entrepreneurship experience
+      type: select_one
+      options:
+      - First-time entrepreneur
+      - Some experience
+      - Serial entrepreneur
+      - Corporate background
+      required: true
+    - id: 6
+      name: business_idea
+      label: -- Business Idea --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: business_name
+      label: Business Name
+      hint: Proposed business name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_description
+      label: Business Description
+      hint: Elevator pitch or overview
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: industry_sector
+      label: Industry Sector
+      hint: Primary industry
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: problem_solved
+      label: Problem Your Business Solves
+      hint: What problem does it address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: target_market
+      label: Target Market
+      hint: Who is your ideal customer
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: competitive_advantage
+      label: Competitive Advantage
+      hint: What makes you unique
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: business_model
+      label: Business Model
+      hint: How will you make money
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: goals
+      label: -- Goals and Milestones --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: year_one_goal
+      label: Year One Goal
+      hint: What do you want to achieve in year 1
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: three_year_goal
+      label: Three Year Goal
+      hint: Vision for year 3
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: launch_date
+      label: Target Launch Date
+      hint: When do you plan to launch
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: key_milestones
+      label: Key Milestones
+      hint: Major milestones in first year
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: funding_requirements
+      label: -- Funding Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: startup_cost
+      label: Estimated Startup Cost
+      hint: Total amount needed to launch
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: funding_sources
+      label: Planned Funding Sources
+      hint: Where will capital come from
+      type: select_multiple
+      options:
+      - Personal savings
+      - Friends and family
+      - Bank loan
+      - Small business loan
+      - Investors
+      - Venture capital
+      - Grants
+      - Crowdfunding
+      required: true
+    - id: 22
+      name: funding_gap
+      label: Current Funding Gap
+      hint: Amount still needed
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: financial_projections
+      label: First Year Revenue Projection
+      hint: Estimated first year revenue
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: team_structure
+      label: -- Team Structure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: current_team
+      label: Current Team Members
+      hint: Who is on your team currently
+      type: text
+      options: []
+      required: false

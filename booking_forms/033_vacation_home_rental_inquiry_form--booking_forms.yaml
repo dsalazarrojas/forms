@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vacation Home Rental Inquiry Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: Enter the guest's name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inquiry_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: inquiry_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: guest_email
+      label: Guest Email
+      hint: Enter the guest's email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: guest_phone
+      label: Guest Phone
+      hint: Enter the guest's phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: guest_message
+      label: Message
+      hint: Enter your message
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: inquiry_type
+      label: Inquiry Type
+      hint: Select the type of inquiry
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: stay_duration
+      label: Stay Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: guest_country
+      label: Guest Country
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 14
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

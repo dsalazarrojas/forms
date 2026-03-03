@@ -1,0 +1,628 @@
+inputSchema:
+  type: object
+  properties:
+    title: Amusement Park Inspection Checklist
+    pages:
+    - id: 1
+      name: section_inspection_info
+      label: -- Inspection Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: inspection_type
+      label: Inspection Type
+      hint: null
+      type: select_one
+      options:
+      - Daily pre-opening
+      - Weekly inspection
+      - Monthly inspection
+      - Annual inspection
+      - Post-incident
+      - Post-maintenance
+      - Random spot check
+      required: true
+    - id: 5
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: inspector_id
+      label: Inspector ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_ride_info
+      label: -- Ride/Attraction Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: ride_name
+      label: Ride/Attraction Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: ride_id
+      label: Ride ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: ride_type
+      label: Ride Type
+      hint: null
+      type: select_one
+      options:
+      - Roller coaster
+      - Ferris wheel
+      - Carousel
+      - Drop tower
+      - Water ride
+      - Dark ride
+      - Simulator
+      - Bumper cars
+      - Train ride
+      - Other
+      required: true
+    - id: 11
+      name: manufacturer
+      label: Manufacturer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: year_installed
+      label: Year Installed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: section_structural
+      label: -- Structural Inspection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: support_structure
+      label: Support Structure
+      hint: Check for damage or corrosion
+      type: select_one
+      options:
+      - Good condition
+      - Minor issues
+      - Major issues
+      - Critical issues
+      required: true
+    - id: 15
+      name: foundation
+      label: Foundation
+      hint: Check for cracks or settling
+      type: select_one
+      options:
+      - Good condition
+      - Minor issues
+      - Major issues
+      - Critical issues
+      required: true
+    - id: 16
+      name: track_rails
+      label: Track/Rails
+      hint: Check for wear or damage
+      type: select_one
+      options:
+      - Good condition
+      - Minor wear
+      - Significant wear
+      - Damage found
+      required: true
+    - id: 17
+      name: welds_connections
+      label: Welds and Connections
+      hint: Check for cracks or failure
+      type: select_one
+      options:
+      - All intact
+      - Minor issues
+      - Major issues
+      - Critical issues
+      required: true
+    - id: 18
+      name: section_mechanical
+      label: -- Mechanical Systems --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: drive_system
+      label: Drive System
+      hint: Motors, gears, chains
+      type: select_one
+      options:
+      - Operating normally
+      - Minor issues
+      - Major issues
+      - Not operational
+      required: true
+    - id: 20
+      name: braking_system
+      label: Braking System
+      hint: All brake types
+      type: select_one
+      options:
+      - Operating normally
+      - Minor issues
+      - Major issues
+      - Not operational
+      required: true
+    - id: 21
+      name: lift_system
+      label: Lift System
+      hint: Chain, cable, hydraulic
+      type: select_one
+      options:
+      - Operating normally
+      - Minor issues
+      - Major issues
+      - Not operational
+      required: false
+    - id: 22
+      name: wheels_axles
+      label: Wheels and Axles
+      hint: Check for wear
+      type: select_one
+      options:
+      - Good condition
+      - Minor wear
+      - Significant wear
+      - Replacement needed
+      required: true
+    - id: 23
+      name: bearings
+      label: Bearings
+      hint: Check for noise or play
+      type: select_one
+      options:
+      - Good condition
+      - Minor issues
+      - Replacement needed
+      - Critical
+      required: true
+    - id: 24
+      name: section_electrical
+      label: -- Electrical Systems --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: control_system
+      label: Control System
+      hint: PLC, computer controls
+      type: select_one
+      options:
+      - Operating normally
+      - Minor issues
+      - Major issues
+      - Not operational
+      required: true
+    - id: 26
+      name: sensors
+      label: Sensors
+      hint: Position, speed, proximity
+      type: select_one
+      options:
+      - All functional
+      - Some issues
+      - Multiple failures
+      - Critical failures
+      required: true
+    - id: 27
+      name: wiring
+      label: Wiring and Cables
+      hint: Check for damage
+      type: select_one
+      options:
+      - Good condition
+      - Minor wear
+      - Significant wear
+      - Replacement needed
+      required: true
+    - id: 28
+      name: emergency_stops
+      label: Emergency Stop Systems
+      hint: All E-stop buttons
+      type: select_one
+      options:
+      - All functional
+      - Some issues
+      - Multiple failures
+      - Critical failures
+      required: true
+    - id: 29
+      name: lighting
+      label: Lighting Systems
+      hint: Operational and safety lights
+      type: select_one
+      options:
+      - All functional
+      - Some out
+      - Multiple out
+      - Critical failures
+      required: false
+    - id: 30
+      name: section_safety
+      label: -- Safety Systems --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: restraints
+      label: Passenger Restraints
+      hint: Lap bars, seatbelts, etc.
+      type: select_one
+      options:
+      - All functional
+      - Minor issues
+      - Major issues
+      - Critical failures
+      required: true
+    - id: 32
+      name: restraint_locks
+      label: Restraint Locking Mechanisms
+      hint: Check engagement
+      type: select_one
+      options:
+      - All locking properly
+      - Some issues
+      - Multiple failures
+      - Critical failures
+      required: true
+    - id: 33
+      name: safety_gates
+      label: Safety Gates and Barriers
+      hint: Loading area
+      type: select_one
+      options:
+      - All functional
+      - Minor issues
+      - Major issues
+      - Critical failures
+      required: true
+    - id: 34
+      name: emergency_exits
+      label: Emergency Exits
+      hint: Accessible and marked
+      type: select_one
+      options:
+      - All accessible
+      - Some blocked
+      - Multiple blocked
+      - Critical issue
+      required: true
+    - id: 35
+      name: evacuation_systems
+      label: Evacuation Systems
+      hint: Walkways, ladders
+      type: select_one
+      options:
+      - All functional
+      - Minor issues
+      - Major issues
+      - Not functional
+      required: true
+    - id: 36
+      name: section_vehicles
+      label: -- Ride Vehicles --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: vehicle_structure
+      label: Vehicle Structure
+      hint: Cars, seats, frames
+      type: select_one
+      options:
+      - Good condition
+      - Minor issues
+      - Major issues
+      - Critical issues
+      required: true
+    - id: 38
+      name: seat_condition
+      label: Seat Condition
+      hint: Check for damage
+      type: select_one
+      options:
+      - Good condition
+      - Minor wear
+      - Significant wear
+      - Replacement needed
+      required: true
+    - id: 39
+      name: vehicle_wheels
+      label: Vehicle Wheels
+      hint: Check for wear
+      type: select_one
+      options:
+      - Good condition
+      - Minor wear
+      - Significant wear
+      - Replacement needed
+      required: true
+    - id: 40
+      name: vehicle_couplings
+      label: Vehicle Couplings
+      hint: Connections between cars
+      type: select_one
+      options:
+      - All secure
+      - Minor issues
+      - Major issues
+      - Critical issues
+      required: true
+    - id: 41
+      name: section_operational
+      label: -- Operational Tests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 42
+      name: test_cycle
+      label: Test Cycle Completion
+      hint: Empty test runs
+      type: select_one
+      options:
+      - Passed
+      - Minor issues
+      - Major issues
+      - Failed
+      required: true
+    - id: 43
+      name: speed_check
+      label: Speed Verification
+      hint: Within parameters
+      type: select_one
+      options:
+      - Within specs
+      - Slightly off
+      - Significantly off
+      - Out of specs
+      required: true
+    - id: 44
+      name: timing_check
+      label: Timing Check
+      hint: Cycle times
+      type: select_one
+      options:
+      - Within specs
+      - Slightly off
+      - Significantly off
+      - Out of specs
+      required: true
+    - id: 45
+      name: noise_vibration
+      label: Noise and Vibration
+      hint: Unusual sounds
+      type: select_one
+      options:
+      - Normal
+      - Minor concerns
+      - Significant concerns
+      - Abnormal
+      required: true
+    - id: 46
+      name: section_environment
+      label: -- Environmental --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 47
+      name: weather_protection
+      label: Weather Protection
+      hint: Covers, drainage
+      type: select_one
+      options:
+      - Adequate
+      - Minor issues
+      - Major issues
+      - Inadequate
+      required: false
+    - id: 48
+      name: area_cleanliness
+      label: Area Cleanliness
+      hint: Queue, platform, exit
+      type: select_one
+      options:
+      - Clean
+      - Acceptable
+      - Needs cleaning
+      - Unsatisfactory
+      required: true
+    - id: 49
+      name: signage
+      label: Safety Signage
+      hint: Warnings, instructions
+      type: select_one
+      options:
+      - All present
+      - Some missing
+      - Multiple missing
+      - Inadequate
+      required: true
+    - id: 50
+      name: section_documentation
+      label: -- Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 51
+      name: maintenance_logs
+      label: Maintenance Logs
+      hint: Up to date
+      type: select_one
+      options:
+      - Complete and current
+      - Minor gaps
+      - Significant gaps
+      - Missing
+      required: true
+    - id: 52
+      name: inspection_records
+      label: Previous Inspection Records
+      hint: Available
+      type: select_one
+      options:
+      - Complete
+      - Partial
+      - Missing
+      required: true
+    - id: 53
+      name: operator_certification
+      label: Operator Certifications
+      hint: Current
+      type: select_one
+      options:
+      - All current
+      - Some expired
+      - Multiple expired
+      - Missing
+      required: true
+    - id: 54
+      name: section_findings
+      label: -- Findings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 55
+      name: deficiencies_found
+      label: Were Deficiencies Found
+      hint: null
+      type: select_one
+      options:
+      - No - All clear
+      - Yes - Minor
+      - Yes - Major
+      - Yes - Critical
+      required: true
+    - id: 56
+      name: deficiencies_description
+      label: Describe Deficiencies
+      hint: List all issues
+      type: text
+      options: []
+      required: false
+    - id: 57
+      name: corrective_actions
+      label: Corrective Actions Required
+      hint: What needs to be done
+      type: text
+      options: []
+      required: false
+    - id: 58
+      name: section_risk
+      label: -- Risk Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 59
+      name: risk_level
+      label: Overall Risk Level
+      hint: null
+      type: select_one
+      options:
+      - Low - Safe to operate
+      - Medium - Monitor closely
+      - High - Restrictions needed
+      - Critical - Do not operate
+      required: true
+    - id: 60
+      name: ride_status
+      label: Recommended Ride Status
+      hint: null
+      type: select_one
+      options:
+      - Cleared for operation
+      - Cleared with conditions
+      - Restricted operation
+      - Closed for repairs
+      - Closed for investigation
+      required: true
+    - id: 61
+      name: restrictions
+      label: Operating Restrictions
+      hint: If any
+      type: text
+      options: []
+      required: false
+    - id: 62
+      name: section_signatures
+      label: -- Signatures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 63
+      name: inspector_signature
+      label: Inspector Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 64
+      name: supervisor_review
+      label: Supervisor Review
+      hint: If required
+      type: text
+      options: []
+      required: false
+    - id: 65
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: false
+    - id: 66
+      name: next_inspection_date
+      label: Next Scheduled Inspection
+      hint: null
+      type: date
+      options: []
+      required: false

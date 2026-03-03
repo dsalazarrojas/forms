@@ -1,0 +1,264 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Demolition Permit Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Contractor or organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: application_date
+      label: Application Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: property_address
+      label: Property Address
+      hint: Full address of building to demolish
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parcel_number
+      label: Parcel Number
+      hint: Tax parcel ID
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: legal_description
+      label: Legal Description
+      hint: Property legal description
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: building_type
+      label: Building Type
+      hint: Type of structure
+      type: select_one
+      options:
+      - Single Family Residence
+      - Multi Family Residence
+      - Commercial Building
+      - Industrial Building
+      - Mixed Use
+      - Accessory Structure
+      - Other
+      required: true
+    - id: 11
+      name: year_built
+      label: Year Built
+      hint: Construction year
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: building_size
+      label: Building Size
+      hint: Square footage
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: number_of_stories
+      label: Number of Stories
+      hint: Total floors
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: demolition_type
+      label: Demolition Type
+      hint: Type of demolition
+      type: select_one
+      options:
+      - Complete Demolition
+      - Partial Demolition
+      - Interior Demolition
+      - Selective Demolition
+      - Deconstruction
+      required: true
+    - id: 15
+      name: demolition_reason
+      label: Reason for Demolition
+      hint: Why demolish
+      type: select_one
+      options:
+      - Structural Damage
+      - Fire Damage
+      - Redevelopment
+      - Safety Hazard
+      - Economic Reasons
+      - New Construction
+      - Other
+      required: true
+    - id: 16
+      name: reason_description
+      label: Reason Description
+      hint: Describe in detail
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: proposed_start_date
+      label: Proposed Start Date
+      hint: When demolition begins
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: estimated_duration
+      label: Estimated Duration
+      hint: How long will it take
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: demolition_method
+      label: Demolition Method
+      hint: Method to be used
+      type: select_one
+      options:
+      - Mechanical Demolition
+      - Implosion
+      - Manual Demolition
+      - Deconstruction
+      - Hybrid Method
+      required: true
+    - id: 20
+      name: hazardous_materials
+      label: Hazardous Materials Present
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None Known
+      - Asbestos
+      - Lead Paint
+      - Mold
+      - Underground Storage Tanks
+      - Chemical Contamination
+      - Other Hazardous Materials
+      required: true
+    - id: 21
+      name: hazardous_materials_report
+      label: Hazardous Materials Report
+      hint: Has survey been completed
+      type: select_one
+      options:
+      - Yes - Report Attached
+      - Yes - Pending
+      - No - Not Required
+      - No - Will Submit
+      required: true
+    - id: 22
+      name: utility_disconnection
+      label: Utility Disconnection
+      hint: Status of utilities
+      type: select_one
+      options:
+      - All Disconnected
+      - Partially Disconnected
+      - Scheduled for Disconnection
+      - Not Yet Arranged
+      required: true
+    - id: 23
+      name: adjacent_properties
+      label: Adjacent Properties
+      hint: Distance to nearest structures
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: dust_control_plan
+      label: Dust Control Plan
+      hint: Describe dust mitigation
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: debris_disposal
+      label: Debris Disposal Plan
+      hint: Where will debris go
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: traffic_impact
+      label: Traffic Impact
+      hint: Expected impact on traffic
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: submitted_documents
+      label: Submitted Documents
+      hint: Select all included
+      type: select_multiple
+      options:
+      - Site Plan
+      - Demolition Plan
+      - Structural Survey
+      - Hazardous Materials Report
+      - Utility Disconnection Proof
+      - Contractor License
+      - Insurance Certificate
+      - Other
+      required: true
+    - id: 28
+      name: contractor_license
+      label: Contractor License Number
+      hint: License number
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: insurance_coverage
+      label: Insurance Coverage
+      hint: Policy number
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: certification
+      label: Applicant Certification
+      hint: I certify all information is accurate
+      type: select_one
+      options:
+      - Yes - I Certify
+      - false
+      required: true

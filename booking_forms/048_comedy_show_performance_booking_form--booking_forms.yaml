@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Comedy Show Performance Booking Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Performance Booking --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_organizer
+      label: Event organizer name
+      hint: Contact person
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: event_date
+      label: Event date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: venue
+      label: Venue name
+      hint: Location of the show
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: performance_length_minutes
+      label: Performance length in minutes
+      hint: Total minutes required
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: compensation_offered
+      label: Compensation offered
+      hint: Fee or revenue share details
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: sound_and_stage
+      label: Sound and stage requirements
+      hint: Technical rider or needs
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: audience_capacity
+      label: Expected audience capacity
+      hint: Approximate number
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Anything else for the performer
+      type: text
+      options: []
+      required: false

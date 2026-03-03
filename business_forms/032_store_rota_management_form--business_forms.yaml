@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Store Rota Management Form
+    pages:
+    - id: 1
+      name: store_rota_management_form
+      label: store_rota_management_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: store_rota_shifts
+      label: store_rota_shifts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: store_rota_start_date
+      label: store_rota_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: store_rota_end_date
+      label: store_rota_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: store_rota_time
+      label: store_rota_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: store_rota_notes
+      label: store_rota_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: store_rota_manager
+      label: store_rota_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: store_rota_collector
+      label: store_rota_collector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: store_rota_status
+      label: store_rota_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''value'': ''In Progress''}'
+      - '{''id'': 11, ''value'': ''Completed''}'
+      - '{''id'': 12, ''value'': ''Cancelled''}'
+      required: false
+    - id: 10
+      name: store_rota_manager_note
+      label: store_rota_manager_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: store_rota_collector_note
+      label: store_rota_collector_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: store_shift_start_time
+      label: store_shift_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: store_shift_end_time
+      label: store_shift_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: store_rota_email
+      label: store_rota_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: store_rota_phone
+      label: store_rota_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: store_rota_availability
+      label: store_rota_availability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: store_rota_employees
+      label: store_rota_employees
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 21, ''value'': ''Manager''}'
+      - '{''id'': 22, ''value'': ''Assistant Manager''}'
+      - '{''id'': 23, ''value'': ''Supervisor''}'
+      - '{''id'': 24, ''value'': ''Team Member''}'
+      required: true
+    - id: 18
+      name: store_rota_form_submitted
+      label: store_rota_form_submitted
+      hint: Was the form submitted?
+      type: select_one
+      options:
+      - '{''id'': 26, ''value'': True}'
+      - '{''id'': 27, ''value'': False}'
+      required: false

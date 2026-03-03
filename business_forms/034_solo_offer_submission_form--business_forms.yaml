@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: solo_offer_submission_form
+    pages:
+    - id: 1
+      name: form_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: offer_details
+      label: Offer Details
+      hint: Briefly describe your proposal, including relevant experience and qualifications.
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: service_description
+      label: Service Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_price
+      label: Service Price
+      hint: The price for the service you are offering.
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: service_time
+      label: Service Time
+      hint: The amount of time required to complete the service.
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: available_dates
+      label: Available Dates
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 7
+      name: service_location
+      label: Service Location
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Office
+      - Remote
+      - Client Site
+      required: false

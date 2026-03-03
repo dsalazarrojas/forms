@@ -1,0 +1,219 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Carrier Company Packet
+    pages:
+      - id: 1
+        name: section_onboarding
+        label: -- Carrier Onboarding Packet --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: company_name
+        label: Company Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: dot_mc_number
+        label: DOT and MC Number
+        hint: e.g. DOT 1234567 MC 000000
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: contact_person
+        label: Authorized Representative
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: contact_email
+        label: Contact Email
+        hint: where to send the countersigned copy
+        type: email
+        options: []
+        required: true
+      - id: 6
+        name: section_agreement
+        label: -- Broker-Carrier Agreement --
+        hint: please review the attached contract
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: agreement_acceptance
+        label: I have read and agree to the Broker-Carrier Agreement
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 8
+        name: non_compete_ack
+        label: I acknowledge the non-solicitation and non-compete clauses
+        hint: as outlined in section 5 of the agreement
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 9
+        name: payment_terms_ack
+        label: I agree to the standard Net 30 payment terms
+        hint: choose alternative if needed
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Request QuickPay
+        required: true
+      - id: 10
+        name: section_checklist
+        label: -- Documentation Checklist --
+        hint: items to be submitted with this packet
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: w9_provided
+        label: W-9 form provided?
+        hint: required for tax purposes
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Will provide later
+        required: true
+      - id: 12
+        name: insurance_cert_provided
+        label: COI (Certificate of Insurance) provided?
+        hint: must list us as additional insured
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Will provide later
+        required: true
+      - id: 13
+        name: authority_letter_provided
+        label: Operating Authority letter provided?
+        hint: FMCSA authorization
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Will provide later
+        required: true
+      - id: 14
+        name: section_insurance_reqs
+        label: -- Insurance Requirements --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: cargo_insurance_verified
+        label: Cargo Insurance (Min 100,000 dollars) verified?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 16
+        name: auto_liability_verified
+        label: Auto Liability (Min 1,000,000 dollars) verified?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 17
+        name: section_banking
+        label: -- Banking and Payments --
+        hint: how you will receive funds
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: payment_method
+        label: Preferred Payment Method
+        hint: null
+        type: select_one
+        options:
+          - ACH or Direct Deposit
+          - Check
+          - QuickPay
+        required: true
+      - id: 19
+        name: ach_details
+        label: Bank Name and Account or Routing (if ACH selected)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: quickpay_acceptance
+        label: If QuickPay, I agree to the 2 percent processing fee
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - N/A
+        required: false
+      - id: 21
+        name: section_safety
+        label: -- Safety Declaration --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: safety_rating_declaration
+        label: Carrier declares a Satisfactory safety rating
+        hint: any change must be reported immediately
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 23
+        name: section_signature
+        label: -- Signature and Date --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: electronic_signature
+        label: Authorized Digital Signature
+        hint: Type name as digital signature
+        type: text
+        options: []
+        required: true
+      - id: 25
+        name: signature_date
+        label: Date of Signature
+        hint: null
+        type: date
+        options: []
+        required: true

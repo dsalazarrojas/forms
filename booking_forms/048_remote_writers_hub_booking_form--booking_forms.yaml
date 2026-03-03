@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Writers’ Hub Booking Form
+    pages:
+    - id: 1
+      name: booking_form
+      label: Booking Form
+      hint: null
+      type: select_multiple
+      options:
+      - Select one or multiple options
+      - Other
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: project_brief
+      label: Project Brief
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      required: false
+    - id: 5
+      name: remote_writer
+      label: Remote Writer
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_deadline_note
+      label: Project Deadline Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

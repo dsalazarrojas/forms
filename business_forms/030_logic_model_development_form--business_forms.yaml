@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Logic Model Development Form
+    pages:
+    - id: 1
+      name: goals
+      label: goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: activities
+      label: activities
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: outputs
+      label: outputs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: outcomes
+      label: outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: assumptions
+      label: assumptions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: program_context
+      label: program_context
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_goals
+      label: project goals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: program_objectives
+      label: program objectives
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: program_outcomes
+      label: program outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

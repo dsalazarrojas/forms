@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Repair Booking Form
+    pages:
+    - id: 1
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: schedule_appointment
+      label: Schedule Appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: select_repair_option
+      label: Repair Option
+      hint: null
+      type: select_one
+      options:
+      - Vehicle Service
+      - Vehicle Maintenance
+      - Vehicle Inspection
+      required: false
+    - id: 5
+      name: select_service
+      label: Select Service
+      hint: null
+      type: select_multiple
+      options:
+      - Oil Change
+      - Tire Rotation
+      - Brake Pads Replacement
+      required: false
+    - id: 6
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: service_cost
+      label: Service Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: service_time
+      label: Service Time
+      hint: null
+      type: time
+      options: []
+      required: false

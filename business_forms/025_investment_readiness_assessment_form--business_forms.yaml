@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investment Readiness Assessment Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Investment Readiness Assessment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Business Forms''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 3
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_description_short
+      label: Short Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_description_long
+      label: Long Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_investment_type
+      label: Type of Investment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Seed Funding''}'
+      - '{''value'': ''Series A''}'
+      - '{''value'': ''Series B''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 7
+      name: form_investor_type
+      label: Investor Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Venture Capitalist''}'
+      - '{''value'': ''Angel Investor''}'
+      - '{''value'': ''Venture Partner''}'
+      - '{''value'': ''Family Office''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 8
+      name: form_employees_count
+      label: Employee Count
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1-5''}'
+      - '{''value'': ''6-10''}'
+      - '{''value'': ''11-20''}'
+      - '{''value'': ''21-50''}'
+      - '{''value'': ''More than 50''}'
+      required: true
+    - id: 9
+      name: form_financials
+      label: Financials
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Less than $500,000''}'
+      - '{''value'': ''$500,000 to $2M''}'
+      - '{''value'': ''$2M to $5M''}'
+      - '{''value'': ''$5M to $10M''}'
+      - '{''value'': ''More than $10M''}'
+      required: true
+    - id: 10
+      name: form_equity
+      label: Equity Ownership
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Private Corporation''}'
+      - '{''value'': ''Partnership''}'
+      - '{''value'': ''LLC''}'
+      - '{''value'': ''Non-Profit''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 11
+      name: form_legal_entity
+      label: Legal Entity
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''S-Corp''}'
+      - '{''value'': ''C-Corp''}'
+      - '{''value'': ''Partnership''}'
+      - '{''value'': ''Sole Proprietorship''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 12
+      name: form_industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Software as a Service (SaaS)''}'
+      - '{''value'': ''E-commerce''}'
+      - '{''value'': ''Healthcare and Biotech''}'
+      - '{''value'': ''Finance and Insurance''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 13
+      name: form_location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''USA''}'
+      - '{''value'': ''Canada''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 14
+      name: form_website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_facebook
+      label: Facebook
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_linkedin
+      label: LinkedIn
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_twitter
+      label: Twitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_instagram
+      label: Instagram
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_other_info
+      label: Other Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_investor_comments
+      label: Investor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_investor_recommendation
+      label: Investor Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_investor_score
+      label: Investor Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: form_signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Signed''}'
+      - '{''value'': ''Unsigned''}'
+      required: true

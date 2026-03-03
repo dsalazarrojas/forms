@@ -1,0 +1,142 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Border Patrol Facility Inspection Form
+    pages:
+      - id: 1
+        name: inspection_details_header
+        label: -- Inspection Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: facility_name
+        label: Facility Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: facility_location
+        label: Facility Location / Sector
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: inspector_details
+        label: Inspector Name and ID
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: inspection_date
+        label: Date of Inspection
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: inspection_time
+        label: Time of Inspection
+        hint: null
+        type: time
+        options: []
+        required: true
+      - id: 7
+        name: conditions_header
+        label: -- Facility Conditions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: exterior_rating
+        label: Exterior Grounds and Perimeter Security
+        hint: null
+        type: select_one
+        options: [Satisfactory, Needs Maintenance, Urgent Repair Required]
+        required: true
+      - id: 9
+        name: interior_rating
+        label: Interior Cleanliness and Safety
+        hint: null
+        type: select_one
+        options: [Satisfactory, Needs Maintenance, Urgent Repair Required]
+        required: true
+      - id: 10
+        name: utilities_rating
+        label: Utilities - Power, Water, HVAC
+        hint: null
+        type: select_one
+        options: [All Operational, Partial Issues, Major Outage]
+        required: true
+      - id: 11
+        name: security_header
+        label: -- Compliance and Security --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: security_verifications
+        label: Security Systems Verified
+        hint: Select all that apply
+        type: select_multiple
+        options: [Surveillance Cameras, Access Control Locks, Perimeter Fencing, Communication Radios]
+        required: true
+      - id: 13
+        name: fire_safety_rating
+        label: Fire Safety and Emergency Equipment
+        hint: null
+        type: select_one
+        options: [Compliant, Non-Compliant - items missing or expired]
+        required: true
+      - id: 14
+        name: maintenance_header
+        label: -- Maintenance Needs --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: repair_description
+        label: Description of Required Repairs or Maintenance
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: overall_facility_rating
+        label: Overall Facility Rating
+        hint: null
+        type: select_one
+        options: [Pass, Conditional Pass, Fail - Immediate Action Needed]
+        required: true
+      - id: 17
+        name: review_header
+        label: -- Sign-off --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: supervisor_name
+        label: Supervisor Reviewer Name
+        hint: null
+        type: text
+        options: []
+        required: true

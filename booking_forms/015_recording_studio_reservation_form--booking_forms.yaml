@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recording Studio Reservation Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Recording Studio Reservation Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_time
+      label: Date Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: studio_info
+      label: Studio Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: musician_preference
+      label: Musician Preference
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_details
+      label: Additional Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: studio_availability
+      label: Studio Availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false

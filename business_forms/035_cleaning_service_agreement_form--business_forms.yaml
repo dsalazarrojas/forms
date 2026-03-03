@@ -1,0 +1,482 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Service Agreement Form
+    pages:
+    - id: 1
+      name: section_header_provider
+      label: -- Service Provider Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: provider_company_name
+      label: Company Name
+      hint: Cleaning service company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: provider_address
+      label: Company Address
+      hint: Business address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: provider_phone
+      label: Company Phone
+      hint: Business phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: provider_email
+      label: Company Email
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: provider_license_number
+      label: Business License Number
+      hint: License or registration number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: provider_insurance_info
+      label: Insurance Information
+      hint: Insurance company and policy number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_header_client
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: client_name
+      label: Client Name
+      hint: Full name of client
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: client_organization
+      label: Client Organization
+      hint: Company name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: client_address
+      label: Client Address
+      hint: Service address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: client_phone
+      label: Client Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: client_email
+      label: Client Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: section_header_property
+      label: -- Property Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: property_type
+      label: Property Type
+      hint: Type of property
+      type: select_one
+      options:
+      - Residential - Single Family Home
+      - Residential - Apartment or Condo
+      - Residential - Townhouse
+      - Commercial - Office Building
+      - Commercial - Retail Store
+      - Commercial - Restaurant
+      - Commercial - Medical Facility
+      - Commercial - School
+      - Industrial or Warehouse
+      - Other
+      required: true
+    - id: 16
+      name: square_footage
+      label: Approximate Square Footage
+      hint: Size of property
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: access_instructions
+      label: Property Access Instructions
+      hint: How will cleaners access the property
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: parking_instructions
+      label: Parking Instructions
+      hint: Where should cleaners park
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_header_services
+      label: -- Services to Be Provided --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: service_type
+      label: Primary Service Type
+      hint: Main type of cleaning service
+      type: select_one
+      options:
+      - Regular Recurring Cleaning
+      - One-Time Deep Cleaning
+      - Move-In or Move-Out Cleaning
+      - Post-Construction Cleaning
+      - Commercial Office Cleaning
+      - Retail Cleaning
+      - Medical Facility Cleaning
+      - Other
+      required: true
+    - id: 21
+      name: service_frequency
+      label: Service Frequency
+      hint: How often will service be provided
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - One-Time Only
+      - As Needed
+      required: true
+    - id: 22
+      name: specific_services
+      label: Specific Services Included
+      hint: Select all services included
+      type: select_multiple
+      options:
+      - Dusting All Surfaces
+      - Vacuuming Carpets and Rugs
+      - Sweeping and Mopping Floors
+      - Bathroom Cleaning and Sanitizing
+      - Kitchen Cleaning
+      - Emptying Trash Receptacles
+      - Window Cleaning (Interior)
+      - Wiping Baseboards
+      - Cleaning Light Fixtures
+      - Appliance Cleaning
+      - Bed Making
+      - Dishwashing
+      - Laundry Services
+      - Organization Services
+      - Carpet Deep Cleaning
+      - Floor Waxing or Polishing
+      - Pressure Washing
+      - Other Custom Services
+      required: true
+    - id: 23
+      name: services_excluded
+      label: Services Not Included
+      hint: Any services specifically excluded
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_header_schedule
+      label: -- Service Schedule --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: service_start_date
+      label: Service Start Date
+      hint: When will service begin
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: service_duration
+      label: Expected Service Duration
+      hint: How long is this agreement
+      type: select_one
+      options:
+      - One-Time Service
+      - 3 Months
+      - 6 Months
+      - 1 Year
+      - 2 Years
+      - Indefinite (Month-to-Month)
+      required: true
+    - id: 27
+      name: preferred_days
+      label: Preferred Service Days
+      hint: Which days for service
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      - Flexible
+      required: true
+    - id: 28
+      name: preferred_time
+      label: Preferred Service Time
+      hint: What time for service
+      type: select_one
+      options:
+      - Morning (8am - 12pm)
+      - Afternoon (12pm - 4pm)
+      - Evening (4pm - 8pm)
+      - After Hours
+      - Flexible
+      required: true
+    - id: 29
+      name: section_header_payment
+      label: -- Payment Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: service_fee
+      label: Service Fee
+      hint: Cost per cleaning session
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: billing_frequency
+      label: Billing Frequency
+      hint: How often will client be billed
+      type: select_one
+      options:
+      - Per Service
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 32
+      name: payment_due
+      label: Payment Due Date
+      hint: When is payment due
+      type: select_one
+      options:
+      - Due on Service Date
+      - Due Within 7 Days
+      - Due Within 15 Days
+      - Due Within 30 Days
+      - End of Month
+      required: true
+    - id: 33
+      name: payment_methods
+      label: Accepted Payment Methods
+      hint: How can client pay
+      type: select_multiple
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      - Debit Card
+      - Bank Transfer or ACH
+      - Online Payment Platform
+      - Invoice
+      required: true
+    - id: 34
+      name: late_fee_policy
+      label: Late Fee Policy
+      hint: Describe late fee terms
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: section_header_cancellation
+      label: -- Cancellation and Termination --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: Describe cancellation terms
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: termination_notice
+      label: Termination Notice Required
+      hint: How much notice to terminate agreement
+      type: select_one
+      options:
+      - No Notice Required
+      - 1 Week Notice
+      - 2 Weeks Notice
+      - 30 Days Notice
+      - 60 Days Notice
+      required: true
+    - id: 38
+      name: section_header_guarantees
+      label: -- Guarantees and Insurance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: satisfaction_guarantee
+      label: Satisfaction Guarantee
+      hint: Describe satisfaction guarantee
+      type: text
+      options: []
+      required: true
+    - id: 40
+      name: damage_policy
+      label: Damage or Loss Policy
+      hint: How is damage or loss handled
+      type: text
+      options: []
+      required: true
+    - id: 41
+      name: insurance_coverage
+      label: Insurance Coverage
+      hint: Describe insurance coverage
+      type: text
+      options: []
+      required: true
+    - id: 42
+      name: bonding_status
+      label: Bonding Status
+      hint: Is the company bonded
+      type: select_one
+      options:
+      - Yes - Fully Bonded
+      - No - Not Bonded
+      - Not Applicable
+      required: true
+    - id: 43
+      name: section_header_additional
+      label: -- Additional Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 44
+      name: supplies_provided_by
+      label: Cleaning Supplies Provided By
+      hint: Who provides cleaning supplies
+      type: select_one
+      options:
+      - Service Provider
+      - Client
+      - Shared Responsibility
+      required: true
+    - id: 45
+      name: equipment_provided_by
+      label: Cleaning Equipment Provided By
+      hint: Who provides equipment
+      type: select_one
+      options:
+      - Service Provider
+      - Client
+      - Shared Responsibility
+      required: true
+    - id: 46
+      name: special_requirements
+      label: Special Requirements or Restrictions
+      hint: Any special terms or conditions
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: additional_terms
+      label: Additional Terms and Conditions
+      hint: Any other terms
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: agreement_effective_date
+      label: Agreement Effective Date
+      hint: When does this agreement begin
+      type: date
+      options: []
+      required: true
+    - id: 49
+      name: agreement_expiration_date
+      label: Agreement Expiration Date
+      hint: When does this agreement end
+      type: date
+      options: []
+      required: false
+    - id: 50
+      name: section_header_signatures
+      label: -- Signatures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 51
+      name: provider_representative
+      label: Service Provider Representative
+      hint: Name of company representative
+      type: text
+      options: []
+      required: true
+    - id: 52
+      name: provider_signature
+      label: Provider Signature (Type Full Name)
+      hint: Provider electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 53
+      name: provider_signature_date
+      label: Provider Signature Date
+      hint: Date of provider signature
+      type: date
+      options: []
+      required: true
+    - id: 54
+      name: client_signature
+      label: Client Signature (Type Full Name)
+      hint: Client electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 55
+      name: client_signature_date
+      label: Client Signature Date
+      hint: Date of client signature
+      type: date
+      options: []
+      required: true

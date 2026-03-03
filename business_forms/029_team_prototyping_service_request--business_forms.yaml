@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Prototyping Service Request
+    pages:
+    - id: 1
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: service_required
+      label: Required Service
+      hint: null
+      type: select_one
+      options:
+      - 3D Printing
+      - 3D Scanning
+      - Laser Cutting
+      required: false
+    - id: 3
+      name: service_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service_deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false

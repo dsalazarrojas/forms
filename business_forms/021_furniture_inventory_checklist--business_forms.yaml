@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Furniture Inventory Checklist
+    pages:
+    - id: 1
+      name: furniture_inventory_checklist_form
+      label: Business Forms CheckList
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: furniture_asset_type
+      label: Furniture Asset Type
+      hint: null
+      type: select_one
+      options:
+      - Chair
+      - Desk
+      - Fridge
+      required: false
+    - id: 3
+      name: inventory_item_status
+      label: Status
+      hint: Select a status for the item
+      type: select_multiple
+      options:
+      - New
+      - Used
+      - Broken
+      required: false
+    - id: 4
+      name: item_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: room_name
+      label: Room Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: item_price
+      label: Item Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date_purchased
+      label: Date Purchased
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_purchased
+      label: Time Purchased
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: furniture_inventory_number
+      label: Furniture Inventory Number
+      hint: Enter the inventory number of the item
+      type: text
+      options: []
+      required: false

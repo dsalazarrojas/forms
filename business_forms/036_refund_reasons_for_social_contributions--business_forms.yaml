@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Refund Reasons For Social Contributions
+    pages:
+    - id: 1
+      name: base_page
+      label: Base Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contribution_details
+      label: Contribution Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''contribution_reason'', ''label'': ''Reason'', ''type'':
+        ''text'', ''options'': []}'
+      - '{''id'': 3, ''name'': ''contribution_date'', ''label'': ''Date'', ''type'':
+        ''date'', ''options'': []}'
+      required: false
+    - id: 3
+      name: additional_details
+      label: Additional Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: refund_reason
+      label: Refund Reason
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''reason_1'', ''label'': ''Reason 1'', ''type'': ''text'',
+        ''options'': []}'
+      - '{''id'': 2, ''name'': ''reason_2'', ''label'': ''Reason 2'', ''type'': ''text'',
+        ''options'': []}'
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false

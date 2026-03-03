@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shipping Manifest Check In Form
+    pages:
+    - id: 1
+      name: shipment_number
+      label: Shipping Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipper
+      label: Shipper
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipment_date
+      label: Shipment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: shipment_time
+      label: Shipment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipment_weight
+      label: Shipment Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipper_name
+      label: Shipper Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipment_status
+      label: Shipment Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Delivered
+      - In-transit
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: delivery_notes
+      label: Delivery Notes
+      hint: null
+      type: text
+      options: []
+      required: false

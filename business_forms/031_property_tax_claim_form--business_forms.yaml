@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Tax Claim Form
+    pages:
+    - id: 1
+      name: property_tax_claim_form
+      label: Property Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - residential
+      - commercial
+      - industrial
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tax_identification_number
+      label: Tax Identification Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: owner_name
+      label: Owner's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: owner_address
+      label: Owner's Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reasons_for_appeal
+      label: Reasons for Appeal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

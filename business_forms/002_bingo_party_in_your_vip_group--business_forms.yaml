@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bingo Party In Your VIP Group
+    pages:
+    - id: 1
+      name: welcome_note
+      label: -- Welcome to the Bingo Party! --
+      hint: Please fill out this form to receive your sample packs.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: mailing_address
+      label: Mailing Address for Sample Pack
+      hint: Street address, apartment, etc.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: party_details_header
+      label: -- Party Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: host_name
+      label: Who is your Bingo Party Host?
+      hint: null
+      type: select_one
+      options:
+      - Sarah J.
+      - Michael R.
+      - Jennifer L.
+      - Other
+      required: true
+    - id: 10
+      name: product_interests
+      label: What products are you most interested in?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Skincare
+      - Makeup
+      - Wellness
+      - Home Decor
+      required: false
+    - id: 11
+      name: vip_group_header
+      label: -- VIP Group Access --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: join_vip_request
+      label: Would you like to join our private VIP group for exclusive offers?
+      hint: null
+      type: select_one
+      options:
+      - Yes - send me the link!
+      - Already a member
+      required: true
+    - id: 13
+      name: referral_source
+      label: Who referred you to this party?
+      hint: null
+      type: text
+      options: []
+      required: false

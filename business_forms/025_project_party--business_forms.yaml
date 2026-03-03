@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Party
+    pages:
+    - id: 1
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Birthday
+      - Wedding
+      - Anniversary
+      required: false
+    - id: 2
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: party_theme
+      label: Party Theme
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: menu_type
+      label: Menu Type
+      hint: null
+      type: select_multiple
+      options:
+      - Finger Foods
+      - BBQ
+      - Hors d'oeuvres
+      required: false
+    - id: 5
+      name: setup_details
+      label: Setup Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: design_details
+      label: Design Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

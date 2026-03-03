@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unit Inspection Form
+    pages:
+    - id: 1
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: move_in_date
+      label: move_in_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: tenant_info
+      label: tenant_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: unit_condition
+      label: unit_condition
+      hint: null
+      type: select_one
+      options:
+      - Before Move In
+      - After Move In
+      - After Move Out
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In Person
+      required: false
+    - id: 10
+      name: contact_note
+      label: contact_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: appliance_status
+      label: appliances_status
+      hint: null
+      type: select_multiple
+      options:
+      - Refrigerator
+      - Oven
+      - Dishwasher
+      - Stove
+      - Microwave
+      - Air Conditioner
+      - Washer
+      - Dryer
+      - Water Heater
+      - Dishwasher
+      required: false
+    - id: 12
+      name: electrical_outlets
+      label: electrical_outlets
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Not Working
+      - Broken
+      required: false
+    - id: 13
+      name: plumbing
+      label: plumbing
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Not Working
+      - Broken
+      required: false
+    - id: 14
+      name: heating
+      label: heating
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Not Working
+      - Broken
+      required: false
+    - id: 15
+      name: air_conditioning
+      label: air_conditioning
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Not Working
+      - Broken
+      required: false
+    - id: 16
+      name: smoke_detectors
+      label: smoke_detectors
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Not Working
+      - Broken
+      required: false
+    - id: 17
+      name: fire_extinguishers
+      label: fire_extinguishers
+      hint: null
+      type: select_multiple
+      options:
+      - Present
+      - Not Present
+      - Not Required
+      required: false
+    - id: 18
+      name: fire_alarm
+      label: fire_alarm
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Not Working
+      - Broken
+      required: false
+    - id: 19
+      name: sprinkler_system
+      label: sprinkler_system
+      hint: null
+      type: select_multiple
+      options:
+      - Present
+      - Not Present
+      - Not Required
+      required: false
+    - id: 20
+      name: emergency_exits
+      label: emergency_exits
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Not Working
+      - Broken
+      required: false
+    - id: 21
+      name: fire_extinguisher_location
+      label: fire_extinguisher_location
+      hint: null
+      type: select_multiple
+      options:
+      - Present
+      - Not Present
+      - Not Required
+      required: false
+    - id: 22
+      name: fire_alarm_location
+      label: fire_alarm_location
+      hint: null
+      type: select_multiple
+      options:
+      - Present
+      - Not Present
+      - Not Required
+      required: false
+    - id: 23
+      name: smoke_detector_location
+      label: smoke_detector_location
+      hint: null
+      type: select_multiple
+      options:
+      - Present
+      - Not Present
+      - Not Required
+      required: false
+    - id: 24
+      name: safety_equipment
+      label: safety_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Present
+      - Not Present
+      - Not Required
+      required: false
+    - id: 25
+      name: fire_escape_route
+      label: fire_escape_route
+      hint: null
+      type: select_multiple
+      options:
+      - Present
+      - Not Present
+      - Not Required
+      required: false

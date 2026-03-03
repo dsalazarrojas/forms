@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: free_disney_vacation_quote
+    pages:
+    - id: 1
+      name: destination
+      label: Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: number_of_guests
+      label: Number Of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: preferred_travel_style
+      label: Preferred Travel Style
+      hint: null
+      type: select_one
+      options:
+      - Disney Cruise
+      - Disney Land
+      - Disney World
+      required: true
+    - id: 7
+      name: number_of_children
+      label: Number Of Children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: number_of_adults
+      label: Number Of Adults
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false

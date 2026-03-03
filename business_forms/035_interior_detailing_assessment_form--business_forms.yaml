@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: interior_detailing_assessment_form
+    pages:
+    - id: 1
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: select_one
+      options:
+      - Honda
+      - Toyota
+      - Ford
+      - Nissan
+      - Kia
+      - Volkswagen
+      - Mazda
+      required: false
+    - id: 2
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_mileage
+      label: Vehicle Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Fair
+      - Good
+      - Excellent
+      - Poor
+      required: false
+    - id: 5
+      name: interior_condition
+      label: Interior Condition
+      hint: null
+      type: select_one
+      options:
+      - Clean
+      - Dirty
+      - Somewhat Dirty
+      required: false
+    - id: 6
+      name: exterior_condition
+      label: Exterior Condition
+      hint: null
+      type: select_one
+      options:
+      - Clean
+      - Dirty
+      - Somewhat Dirty
+      required: false
+    - id: 7
+      name: interior_detailing_services
+      label: Interior Detailing Services
+      hint: null
+      type: select_multiple
+      options:
+      - Interior Cleaning
+      - Interior Detailing
+      - Interior Odor Removal
+      - Interior Protection
+      - Interior Protection and Cleaning
+      required: false
+    - id: 8
+      name: exterior_detailing_services
+      label: Exterior Detailing Services
+      hint: null
+      type: select_multiple
+      options:
+      - Exterior Cleaning
+      - Exterior Detailing
+      - Exterior Odor Removal
+      - Exterior Protection
+      - Exterior Protection and Cleaning
+      required: false
+    - id: 9
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: labor_cost
+      label: Labor Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: estimated_time
+      label: Estimated Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: total_value
+      label: Total Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: estimated_value
+      label: Estimated Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Sedan
+      - SUV
+      - Truck
+      - Van
+      - Bus
+      - Motorcycle
+      - ATV/UTV
+      - Boat
+      required: false

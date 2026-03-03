@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Services Payment Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Name of the individual or company paying
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: invoice_number
+      label: Invoice Number
+      hint: Refer to the invoice sent by our firm
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: billing_email
+      label: Billing Email
+      hint: Where the receipt should be sent
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: payment_for
+      label: Payment For
+      hint: Select the service category
+      type: select_one
+      options:
+      - Monthly Bookkeeping
+      - Annual Tax Return
+      - Audit Services
+      - Financial Consulting
+      - One-time Catch-up
+      required: true
+    - id: 5
+      name: payment_amount
+      label: Payment Amount
+      hint: Amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - ACH Transfer
+      - PayPal
+      - Bank Wire
+      required: true
+    - id: 7
+      name: transaction_header
+      label: -- Transaction Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: internal_reference_code
+      label: Internal Reference Code
+      hint: Optional client-side reference
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: receipt_preference
+      label: Receipt Preference
+      hint: null
+      type: select_one
+      options:
+      - Email Receipt
+      - Mailed Hardcopy
+      - No Receipt Needed
+      required: true
+    - id: 11
+      name: security_note
+      label: Payments are processed securely via our integrated payment gateway. We
+        do not store full credit card numbers on our servers.
+      hint: null
+      type: note
+      options: []
+      required: false

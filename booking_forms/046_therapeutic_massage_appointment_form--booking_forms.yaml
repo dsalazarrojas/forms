@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Therapeutic Massages Appointment Form
+    pages:
+    - id: 1
+      name: schedule_appointment
+      label: Schedule Appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: treatment_type
+      label: Treatment Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: health_information
+      label: Health Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_preferences
+      label: Client Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

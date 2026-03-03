@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: District Minibus Booking Request Form
+    pages:
+    - id: 1
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: route_details
+      label: Route Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: minibus_type
+      label: Minibus Type
+      hint: null
+      type: select_one
+      options:
+      - School
+      - Community
+      - Private
+      - Public
+      required: false
+    - id: 5
+      name: route_frequency
+      label: Route Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 6
+      name: school_id
+      label: School ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

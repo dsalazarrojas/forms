@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conflict Cost Assessment Form
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of this cost assessment
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: assessor_name
+      label: Assessor Name
+      hint: Name of person conducting assessment
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Department where conflict occurred
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: conflict_type
+      label: Type of Conflict
+      hint: Primary category of the conflict
+      type: select_one
+      options:
+      - Interpersonal Dispute
+      - Team Conflict
+      - Manager Employee Conflict
+      - Departmental Conflict
+      - Client Related Conflict
+      - Resource Dispute
+      - Values or Ethics Conflict
+      - Other
+      required: true
+    - id: 5
+      name: conflict_description
+      label: Conflict Description
+      hint: Brief description of the conflict situation
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: conflict_duration
+      label: Duration of Conflict
+      hint: How long has this conflict been ongoing
+      type: select_one
+      options:
+      - Less than 1 week
+      - 1 to 4 weeks
+      - 1 to 3 months
+      - 3 to 6 months
+      - 6 to 12 months
+      - More than 1 year
+      required: true
+    - id: 7
+      name: employees_involved
+      label: Number of Employees Involved
+      hint: Total number of people directly involved
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: management_time_spent
+      label: Management Time Spent on Conflict
+      hint: Hours spent by managers addressing this issue
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: management_hourly_rate
+      label: Average Management Hourly Rate
+      hint: Average hourly cost of management time
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: hr_time_spent
+      label: HR Time Spent on Conflict
+      hint: Hours spent by HR personnel
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: hr_hourly_rate
+      label: Average HR Hourly Rate
+      hint: Average hourly cost of HR time
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: productivity_loss_percentage
+      label: Estimated Productivity Loss
+      hint: Percentage reduction in team productivity
+      type: select_one
+      options:
+      - 0 to 10 percent
+      - 11 to 25 percent
+      - 26 to 50 percent
+      - 51 to 75 percent
+      - More than 75 percent
+      required: true
+    - id: 13
+      name: absenteeism_increase
+      label: Increase in Absenteeism
+      hint: Has conflict led to more sick days or absences
+      type: select_one
+      options:
+      - No Change
+      - Slight Increase
+      - Moderate Increase
+      - Significant Increase
+      required: true
+    - id: 14
+      name: turnover_risk
+      label: Risk of Employee Turnover
+      hint: Likelihood employees will leave due to conflict
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Very High
+      required: true
+    - id: 15
+      name: employees_considering_leaving
+      label: Number of Employees Considering Leaving
+      hint: How many have expressed intent to leave
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: recruitment_cost_estimate
+      label: Estimated Recruitment Replacement Cost
+      hint: Cost to replace employees if they leave
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: legal_costs
+      label: Legal or External Advisor Costs
+      hint: Costs for legal counsel or mediators
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: training_costs
+      label: Additional Training Costs Incurred
+      hint: Costs for conflict resolution training
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: customer_impact
+      label: Impact on Customer Relations
+      hint: Has conflict affected customer service
+      type: select_one
+      options:
+      - No Impact
+      - Minor Impact
+      - Moderate Impact
+      - Severe Impact
+      required: true
+    - id: 20
+      name: customer_complaints
+      label: Number of Customer Complaints
+      hint: Complaints related to this conflict
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: project_delays
+      label: Project Delays Attributed to Conflict
+      hint: Number of projects delayed
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: delay_cost_estimate
+      label: Estimated Cost of Delays
+      hint: Financial impact of project delays
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: morale_impact
+      label: Impact on Team Morale
+      hint: Effect on overall team spirit and engagement
+      type: select_one
+      options:
+      - No Impact
+      - Slight Negative Impact
+      - Moderate Negative Impact
+      - Severe Negative Impact
+      required: true
+    - id: 24
+      name: total_estimated_cost
+      label: Total Estimated Cost of Conflict
+      hint: Sum of all costs associated with this conflict
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: roi_resolution_investment
+      label: Recommended Investment in Resolution
+      hint: Suggested budget for resolving this conflict
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: assessment_summary
+      label: Overall Cost Assessment Summary
+      hint: Brief summary of findings
+      type: text
+      options: []
+      required: true

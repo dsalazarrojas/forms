@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: order_fulfillment_process_questionnaire
+    pages:
+    - id: 1
+      name: order_fulfillment_process
+      label: Order Fulfillment Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Existing Customer''}'
+      - '{''id'': 2, ''label'': ''New Customer''}'
+      required: false
+    - id: 3
+      name: order_details
+      label: order_details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Online Order''}'
+      - '{''id'': 2, ''label'': ''In-Person Order''}'
+      - '{''id'': 3, ''label'': ''Phone Order''}'
+      required: false
+    - id: 4
+      name: fulfillment_method
+      label: fulfillment_method
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_timeframe
+      label: delivery_timeframe
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Phone''}'
+      - '{''id'': 2, ''label'': ''Email''}'
+      required: true
+    - id: 8
+      name: customer_signature
+      label: customer_signature
+      hint: null
+      type: note
+      options: []
+      required: false

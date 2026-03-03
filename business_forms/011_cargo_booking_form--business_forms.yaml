@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cargo Booking Form
+    pages:
+    - id: 1
+      name: section_shipper
+      label: -- Shipper Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: shipper_name
+      label: Shipper's Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: shipper_company
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipper_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: shipper_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_consignee
+      label: -- Consignee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: consignee_name
+      label: Consignee's Full Name
+      hint: person receiving the shipment
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: consignee_address
+      label: Consignee Delivery Address
+      hint: Full street address, city, and country
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_cargo
+      label: -- Cargo Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: cargo_type
+      label: Type of Cargo
+      hint: null
+      type: select_one
+      options:
+      - General
+      - Perishable
+      - Hazardous
+      - Oversized
+      - Valuables
+      - Vehicles
+      required: true
+    - id: 11
+      name: cargo_description
+      label: Detailed Description of Goods
+      hint: What is being shipped?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: weight_kg
+      label: Total Weight (kg)
+      hint: Provide the total gross weight
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: volume_m3
+      label: Total Volume (m3)
+      hint: if applicable
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: num_packages
+      label: Number of Packages
+      hint: Total count of items
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: packaging_type
+      label: Packaging Type
+      hint: null
+      type: select_one
+      options:
+      - Pallets
+      - Crates
+      - Boxes
+      - Containers
+      - Drums
+      - Bags
+      required: true
+    - id: 16
+      name: section_logistics
+      label: -- Shipment Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: origin_port
+      label: Port of Origin
+      hint: city and country of departure
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: destination_port
+      label: Port of Destination
+      hint: city and country of arrival
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: shipment_mode
+      label: Preferred Mode of Transport
+      hint: null
+      type: select_one
+      options:
+      - Sea Freight
+      - Air Freight
+      - Road Freight
+      - Rail Freight
+      required: true
+    - id: 20
+      name: target_shipment_date
+      label: Target Shipment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: section_insurance
+      label: -- Insurance and Special Instructions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: insurance_required
+      label: Is insurance required?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: special_instructions
+      label: Handling instructions or special requests
+      hint: Fragile, keep cool, etc.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_confirmation
+      label: -- Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: shipper_confirmation
+      label: I confirm the cargo details are correct
+      hint: and agree to the shipping terms
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

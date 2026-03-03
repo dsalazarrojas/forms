@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shipment Manifest Correction Request Form
+    pages:
+    - id: 1
+      name: shipment_manifest_correction_request_form
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_party
+      label: Shipping Party
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''party_a''}'
+      - '{''value'': ''party_b''}'
+      required: false
+    - id: 3
+      name: shipping_party_other
+      label: Other Shipping Party
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_correction
+      label: Reason for Correction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipment_date
+      label: Ship Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: shipment_time
+      label: Ship Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: shipment_number
+      label: Shipment Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: tracking_number
+      label: Tracking Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipment_weight
+      label: Shipment Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: shipment_status
+      label: Shipment Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''pending''}'
+      - '{''value'': ''confirmed''}'
+      - '{''value'': ''delivered''}'
+      required: false
+    - id: 11
+      name: shipment_location
+      label: Shipment Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''location_a''}'
+      - '{''value'': ''location_b''}'
+      required: false
+    - id: 12
+      name: ship_from
+      label: Ship From
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: ship_to
+      label: Ship To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: ship_via
+      label: Ship Via
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''method_a''}'
+      - '{''value'': ''method_b''}'
+      - '{''value'': ''method_c''}'
+      required: false
+    - id: 15
+      name: ship_via_other
+      label: Other Ship Via
+      hint: null
+      type: text
+      options: []
+      required: false

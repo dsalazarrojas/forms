@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Registration Form
+    pages:
+    - id: 1
+      name: section_business_details
+      label: -- Business Details --
+      type: note
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Official business name
+      type: text
+      required: true
+    - id: 3
+      name: business_type
+      label: Type of Business
+      hint: Structure - sole proprietor, LLC, etc.
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - Limited Liability Company
+      - Corporation
+      - Non-Profit Organization
+      - Cooperative
+      - Other
+      required: true
+    - id: 4
+      name: business_industry
+      label: Industry or Sector
+      hint: Primary business sector
+      type: text
+      required: true
+    - id: 5
+      name: business_description
+      label: Business Description
+      hint: Brief overview of what your business does
+      type: text
+      required: true
+    - id: 6
+      name: section_owner_info
+      label: -- Owner Information --
+      type: note
+      required: false
+    - id: 7
+      name: owner_first_name
+      label: Owner First Name
+      hint: Owner's first name
+      type: text
+      required: true
+    - id: 8
+      name: owner_last_name
+      label: Owner Last Name
+      hint: Owner's last name
+      type: text
+      required: true
+    - id: 9
+      name: owner_date_of_birth
+      label: Owner Date of Birth
+      hint: Birth date
+      type: date
+      required: false
+    - id: 10
+      name: owner_id_number
+      label: Owner ID Number
+      hint: Social security number or business ID
+      type: text
+      required: false
+    - id: 11
+      name: section_business_location
+      label: -- Business Location --
+      type: note
+      required: false
+    - id: 12
+      name: street_address
+      label: Street Address
+      hint: Business street address
+      type: text
+      required: true
+    - id: 13
+      name: city
+      label: City
+      hint: City where business is located
+      type: text
+      required: true
+    - id: 14
+      name: state_province
+      label: State or Province
+      hint: State or province
+      type: text
+      required: true
+    - id: 15
+      name: postal_code
+      label: Postal Code
+      hint: Zip or postal code
+      type: text
+      required: true
+    - id: 16
+      name: country
+      label: Country
+      hint: Country of operation
+      type: text
+      required: false
+    - id: 17
+      name: section_contact_info
+      label: -- Contact Information --
+      type: note
+      required: false
+    - id: 18
+      name: primary_phone
+      label: Primary Phone Number
+      hint: Main business phone
+      type: text
+      required: true
+    - id: 19
+      name: secondary_phone
+      label: Secondary Phone Number
+      hint: Alternate contact number
+      type: text
+      required: false
+    - id: 20
+      name: email_address
+      label: Email Address
+      hint: Business email
+      type: email
+      required: true
+    - id: 21
+      name: website
+      label: Website
+      hint: Business website URL if applicable
+      type: text
+      required: false
+    - id: 22
+      name: section_startup_info
+      label: -- Startup Information --
+      type: note
+      required: false
+    - id: 23
+      name: startup_date
+      label: Business Start Date
+      hint: When is or was the business launched
+      type: date
+      required: true
+    - id: 24
+      name: startup_capital
+      label: Startup Capital
+      hint: Initial investment amount
+      type: number
+      required: false
+    - id: 25
+      name: number_of_employees
+      label: Expected Number of Employees
+      hint: Current or planned employee count
+      type: number
+      required: false
+    - id: 26
+      name: section_compliance
+      label: -- Compliance Acknowledgment --
+      type: note
+      required: false
+    - id: 27
+      name: tax_id_applied
+      label: Have You Applied for Tax ID
+      hint: Business tax identification number
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: true
+    - id: 28
+      name: licenses_permits
+      label: Required Licenses or Permits Obtained
+      hint: List any required registrations
+      type: text
+      required: false
+    - id: 29
+      name: agreement_acceptance
+      label: I agree to comply with all regulations
+      hint: Acknowledge acceptance of terms
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true

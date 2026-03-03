@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Services Intake Form
+    pages:
+    - id: 1
+      name: financial_services_intake_form_fields
+      label: Financial services intake form fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_method
+      label: Contact method
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Email
+      - Phone
+      - In person
+      - Other
+      required: false
+    - id: 4
+      name: services_needed
+      label: Services needed
+      hint: Please specify the services you are seeking
+      type: select_multiple
+      options:
+      - Financial assistance
+      - Credit counseling
+      - Budgeting
+      - Housing assistance
+      - Employment assistance
+      - Other
+      required: false
+    - id: 5
+      name: financial_history
+      label: Financial history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: expenses
+      label: Expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: assets
+      label: Assets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: financial_goals
+      label: Financial goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: financial_obligations
+      label: Financial obligations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: financial_awareness
+      label: Financial awareness
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 12
+      name: financial_services_sought
+      label: Financial services sought
+      hint: null
+      type: select_multiple
+      options:
+      - Financial assistance
+      - Credit counseling
+      - Budgeting
+      - Housing assistance
+      - Employment assistance
+      - Other
+      required: false
+    - id: 13
+      name: financial_services_provided
+      label: Financial services provided
+      hint: null
+      type: select_multiple
+      options:
+      - Financial assistance
+      - Credit counseling
+      - Budgeting
+      - Housing assistance
+      - Employment assistance
+      - Other
+      required: false
+    - id: 14
+      name: follow_up_contact
+      label: Follow-up contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_date
+      label: Follow-up date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_store_domain_update_request_form
+    pages:
+    - id: 1
+      name: domain_change_request
+      label: Domain Change Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: current_domain
+      label: current_domain
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: new_domain
+      label: new_domain
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: domain_change_type
+      label: Domain Change Type
+      hint: null
+      type: select_one
+      options:
+      - Domain Name
+      - Domain Status
+      - Domain Type
+      required: false
+    - id: 5
+      name: other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_change
+      label: Reason for Change
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: business_status
+      label: Business Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Organization
+      - Company
+      required: false
+    - id: 14
+      name: other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: business_city
+      label: Business City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: business_state
+      label: Business State
+      hint: null
+      type: select_one
+      options:
+      - State 1
+      - State 2
+      required: false
+    - id: 18
+      name: business_postal_code
+      label: Business Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: business_zip_code
+      label: Business Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: business_country
+      label: Business Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: website_url
+      label: Website URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: ip_address
+      label: IP Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: port
+      label: Port
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: timezone
+      label: Timezone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

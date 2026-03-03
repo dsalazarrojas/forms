@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: music_studio_access_form
+    pages:
+    - id: 1
+      name: musician_name
+      label: Musicians Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: instrument
+      label: Instrument
+      hint: null
+      type: select_one
+      options:
+      - Piano
+      - Violin
+      - Cello
+      required: false
+    - id: 3
+      name: student_status
+      label: Student Status
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Non-Student
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: Enter notes about this booking
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: studio_access
+      label: Studio Access
+      hint: Do you have access to the studio
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: musician_notes
+      label: Musicians Notes
+      hint: Enter notes about this musician
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: studio_notes
+      label: Studio Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Litigation Expense Authorization Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee
+      label: Employee
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Employee 1''}'
+      - '{''id'': 2, ''label'': ''Employee 2''}'
+      - '{''id'': 3, ''label'': ''Employee 3''}'
+      required: false
+    - id: 3
+      name: expense_date
+      label: Expense Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: expense_type
+      label: Expense Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Type 1''}'
+      - '{''id'': 2, ''label'': ''Type 2''}'
+      - '{''id'': 3, ''label'': ''Type 3''}'
+      required: false
+    - id: 5
+      name: expense_details
+      label: Expense Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: total_expense
+      label: Total Expense
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Approved''}'
+      - '{''id'': 2, ''label'': ''Not Approved''}'
+      - '{''id'': 3, ''label'': ''Pending''}'
+      required: false
+    - id: 8
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: approval_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hunting Lodge Accommodation Form
+    pages:
+    - id: 1
+      name: arrival_date
+      label: Arrivel Date
+      hint: 'null'
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: departure_date
+      label: Departure Date
+      hint: 'null'
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: guest_name
+      label: Guest Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: room_type
+      label: Room Types
+      hint: 'null'
+      type: select_multiple
+      options:
+      - Single room
+      - Double room
+      - Suite
+      - Twin room
+      required: false
+    - id: 8
+      name: room_amenities
+      label: Room Amenities
+      hint: 'null'
+      type: select_multiple
+      options:
+      - Free Wi-Fi
+      - Free parking
+      - Free breakfast
+      - TV in room
+      - Balcony
+      - Gym
+      - Spa
+      - Air conditioning
+      - Mini bar
+      - View
+      required: false
+    - id: 9
+      name: accommodation_type
+      label: Accommodation Type
+      hint: 'null'
+      type: select_one
+      options:
+      - Shared Accommodation
+      - Private Accommodation
+      required: false

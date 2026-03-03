@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Batting Lesson Scheduling Form
+    pages:
+    - id: 1
+      name: player_details_header
+      label: -- Player Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: player_full_name
+      label: Player Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: player_age
+      label: Player Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: skill_level_header
+      label: -- Baseball Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: current_skill_level
+      label: Current Skill Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner (Never played)
+      - Youth Recreational
+      - Travel / Select Team
+      - High School Varsity
+      - College / Professional
+      required: true
+    - id: 6
+      name: primary_focus_area
+      label: Specific Area of Focus
+      hint: What do you want to work on?
+      type: select_one
+      options:
+      - Hand-Eye Coordination
+      - Power Hitting
+      - Contact / Bat Control
+      - Bunting Technique
+      - Plate Discipline
+      required: true
+    - id: 7
+      name: scheduling_header
+      label: -- Scheduling and Booking --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: preferred_lesson_date
+      label: Requested Lesson Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: preferred_lesson_time
+      label: Preferred Time Slot
+      hint: Lessons are 60 minutes
+      type: select_one
+      options:
+      - 3:00 PM - 4:00 PM
+      - 4:00 PM - 5:00 PM
+      - 5:00 PM - 6:00 PM
+      - 6:00 PM - 7:00 PM
+      - 7:00 PM - 8:00 PM
+      required: true
+    - id: 10
+      name: preferred_instructor
+      label: Preferred Instructor (if any)
+      hint: null
+      type: select_one
+      options:
+      - Any Available Instructor
+      - Coach Miller (Power Specialist)
+      - Coach Davis (Contact Specialist)
+      - Coach Thompson (Youth Development)
+      required: false
+    - id: 11
+      name: contact_info_header
+      label: -- Contact Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Required for players under 18
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: payment_mode
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card Online
+      - Cash/Check at Lesson
+      - Prepaid Package Credit
+      required: true
+    - id: 16
+      name: cancellation_ack
+      label: I agree to the 24-hour cancellation policy
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 17
+      name: booking_timestamp
+      label: Today Date
+      hint: null
+      type: date
+      options: []
+      required: true

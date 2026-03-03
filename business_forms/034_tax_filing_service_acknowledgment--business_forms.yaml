@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Filing Service Acknowledgment
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_year
+      label: Service Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: tax_professional_name
+      label: Tax Professional Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Individual Income Tax
+      - Business Income Tax
+      - Other
+      required: false
+    - id: 5
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: consent_time
+      label: Consent Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: tax_professional_phone
+      label: Tax Professional Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_status
+      label: Consent Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

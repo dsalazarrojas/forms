@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ambers Color Street Sample Request Form
+    pages:
+    - id: 1
+      name: section_request_details
+      label: -- Sample Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: product_samples
+      label: Product samples requested
+      hint: Choose samples
+      type: select_multiple
+      options:
+      - Nail strips
+      - Polish
+      - Accessories
+      required: true
+    - id: 5
+      name: shipping_address
+      label: Shipping address
+      hint: Where to send samples
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: sample_purpose
+      label: Purpose of sample request
+      hint: e.g. personal, demo, event
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: opt_in_marketing
+      label: Opt in to marketing
+      hint: Receive offers and news
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 8
+      name: phone
+      label: Phone number
+      hint: Optional contact phone
+      type: text
+      options: []
+      required: false

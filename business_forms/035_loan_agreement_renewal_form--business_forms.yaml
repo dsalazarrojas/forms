@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: loan_agreement_renewal_form
+    pages:
+    - id: 1
+      name: loan_agreement_renewal
+      label: loan Agreement Renewal
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: borrower_info
+      label: borrower info
+      hint: null
+      type: select_multiple
+      options:
+      - Lender A
+      - Lender B
+      - Lender C
+      required: false
+    - id: 3
+      name: loan_details
+      label: Loan details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: loan_term
+      label: loan term
+      hint: null
+      type: select_one
+      options:
+      - 6 months
+      - 1 year
+      - 2 years
+      required: false
+    - id: 5
+      name: loan_status
+      label: loan status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - expired
+      required: false
+    - id: 6
+      name: borrower_signature
+      label: borrower signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: lender_signature
+      label: lender signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_renewed
+      label: Date Renewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_crew_rest_area_booking_form
+    pages:
+    - id: 1
+      name: event_crew_rest_area_booking_form
+      label: Event Crew Rest Area Booking Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: event_category
+      hint: null
+      type: select_one
+      options:
+      - event_location_1
+      - event_location_2
+      - event_location_3
+      - event_location_4
+      - event_location_5
+      - event_location_6
+      required: false
+    - id: 3
+      name: team
+      label: event_team
+      hint: null
+      type: select_multiple
+      options:
+      - Event Team 1
+      - Event Team 2
+      - Event Team 3
+      - Event Team 4
+      - Event Team 5
+      required: false
+    - id: 4
+      name: time_slot
+      label: time_slot
+      hint: null
+      type: select_multiple
+      options:
+      - 08:00 - 09:00
+      - 10:00 - 11:00
+      - 12:00 - 13:00
+      - 14:00 - 15:00
+      - 15:00 - 16:00
+      - 16:00 - 17:00
+      - 17:00 - 18:00
+      - 18:00 - 19:00
+      - 19:00 - 20:00
+      required: false
+    - id: 5
+      name: submit
+      label: submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false

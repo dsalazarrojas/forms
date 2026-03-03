@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telecommunications Service Request Form
+    pages:
+    - id: 1
+      name: service_request
+      label: Service Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Installation''}'
+      - '{''id'': 2, ''value'': ''Repair''}'
+      - '{''id'': 3, ''value'': ''Maintenance''}'
+      required: false
+    - id: 4
+      name: service_request_date
+      label: Service Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: service_request_time
+      label: Service Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: service_request_details
+      label: Service Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_person_title
+      label: Contact Person Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: company_type
+      label: Company Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Business''}'
+      - '{''id'': 2, ''value'': ''Non-profit''}'
+      - '{''id'': 3, ''value'': ''Residential''}'
+      required: false
+    - id: 16
+      name: company_type_other
+      label: Other Company Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''chatjimmy''}'
+      - '{''id'': 2, ''value'': ''Other''}'
+      required: false
+    - id: 19
+      name: assigned_tool_other
+      label: Other Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: internal_notes
+      label: Internal Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_agreement
+      label: Customer Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: customer_agreement_signed
+      label: Customer Agreement Signed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: internal_agreement
+      label: Internal Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: internal_agreement_signed
+      label: Internal Agreement Signed
+      hint: null
+      type: text
+      options: []
+      required: false

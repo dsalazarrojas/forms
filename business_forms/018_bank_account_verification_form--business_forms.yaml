@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Account Verification Form
+    pages:
+    - id: 1
+      name: applicant_consent_header
+      label: -- Part 1 - Applicant Information and Consent --
+      hint: To be completed by the account holder
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_address
+      label: Residential Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: bank_name
+      label: Name of Financial Institution
+      hint: The bank where you hold the account
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Other
+      required: true
+    - id: 6
+      name: verification_consent
+      label: Authorization to Release Information
+      hint: I authorize my bank to provide the requested verification details
+      type: select_one
+      options:
+      - I Authorize
+      - Other
+      required: true
+    - id: 7
+      name: bank_official_header
+      label: -- Part 2 - Bank Official Verification --
+      hint: To be completed by a bank representative
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: account_status
+      label: Current Account Status
+      hint: null
+      type: select_one
+      options:
+      - Active and in Good Standing
+      - Restricted
+      - Closed
+      required: true
+    - id: 9
+      name: account_open_date
+      label: Date Account was Opened
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: current_balance
+      label: Current Account Balance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: average_balance_6mo
+      label: Average Balance (Last 6 Months)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: ns_fund_history
+      label: Has there been any Non-Sufficient Funds (NSF) activity in the last 12
+        months?
+      hint: null
+      type: select_one
+      options:
+      - No NSF Activity
+      - 1-2 Instances
+      - 3 or More Instances
+      required: true
+    - id: 13
+      name: official_name
+      label: Bank Official Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: official_title
+      label: Bank Official Title
+      hint: e.g., Branch Manager, Customer Service Rep
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: official_phone
+      label: Bank Phone Number for Verification
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: verification_timestamp
+      label: Date of Verification
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: bank_stamp_note
+      label: Official Bank Stamp (if available)
+      hint: Please ensure the physical copy is stamped if required
+      type: note
+      options: []
+      required: false

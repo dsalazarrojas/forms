@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Duty Log Form
+    pages:
+    - id: 1
+      name: duty_log_form
+      label: duty_log
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_time
+      label: start_time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: end_time
+      label: end_time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: task_id
+      label: task_id
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: task_type
+      label: task_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: incident_type
+      label: incident_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: duty_date
+      label: duty_date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chemical Release Form
+    pages:
+    - id: 1
+      name: reporter_name
+      label: Reporter Name
+      hint: Full name of person reporting the release
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reporter_contact
+      label: Reporter Contact Email
+      hint: Business email for follow up
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: facility_name
+      label: Facility Name
+      hint: Name of business or site where release occurred
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: chemical_name
+      label: Chemical Name
+      hint: Common or trade name of the chemical released
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: quantity_released
+      label: Quantity Released
+      hint: Estimate amount released in liters or kilograms
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: release_date
+      label: Release Date
+      hint: Date when the release occurred
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: release_time
+      label: Release Time
+      hint: Time of the incident if known
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: immediate_actions_taken
+      label: Immediate Actions Taken
+      hint: Describe containment, evacuation, or mitigation measures
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: affected_area
+      label: Affected Area
+      hint: Location within facility or surrounding area
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: safety_contacts_notified
+      label: Safety Contacts Notified
+      hint: Names or departments notified about the release
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

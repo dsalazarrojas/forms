@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Luxury Travel Booking Form
+    pages:
+    - id: 1
+      name: travel_agency
+      label: What is the travel agency?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: destination
+      label: Destination
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: travel_type
+      label: Type of travel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: travel_dates
+      label: When do you want to travel?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: travel_duration
+      label: How long do you want to travel?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: payment_method
+      label: How would you like to pay?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: payment_details
+      label: Payment details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: special_requests
+      label: Special requests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: payment_status
+      label: Payment status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 13
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: booking_status
+      label: Booking status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 15
+      name: customer_notes
+      label: Customer notes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: customer_notes
+      label: More customer notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: travel_agency_notes
+      label: Travel agency notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: travel_agency_notes
+      label: More travel agency notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: travel_agency_phone_number
+      label: Travel agency phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: travel_agency_email
+      label: Travel agency email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: travel_agency_address
+      label: Travel agency address
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: travel_agency
+      label: Travel agency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: confirmation_email
+      label: Confirmation email
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: travel_type
+      label: Type of travel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: travel_agency_phone_number
+      label: Agency Phone
+      hint: null
+      type: text
+      options: []
+      required: false

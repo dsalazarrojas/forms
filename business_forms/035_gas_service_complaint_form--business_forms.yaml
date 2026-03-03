@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gas Service Complaint Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: complaint_details
+      label: complaint details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: complaint_type
+      label: complaint type
+      hint: null
+      type: select_one
+      options:
+      - Gas Service Interruption
+      - No Gas Flow
+      - No Gas Scent
+      - Other
+      required: true
+    - id: 4
+      name: complaint_location
+      label: complaint location
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Business
+      - Outside
+      required: true
+    - id: 5
+      name: gas_meter_serial_number
+      label: gas meter serial number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: gas_meter_meter_id
+      label: gas meter id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_address
+      label: contact address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: customer_service_request
+      label: customer service request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: customer_service_request_attachments
+      label: customer service request attachments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_user
+      label: assigned user
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - Other
+      required: true
+    - id: 13
+      name: assigned_user_note
+      label: assigned user note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Resolved
+      - Pending
+      required: true
+    - id: 15
+      name: updated_by
+      label: updated by
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - Other
+      required: true
+    - id: 16
+      name: updated_on
+      label: updated on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: created_by
+      label: created by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: created_on
+      label: created on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: updated_on_timestamp
+      label: updated on timestamp
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: created_on_timestamp
+      label: created on timestamp
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: assigned_user
+      label: assigned user
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - Other
+      required: true
+    - id: 23
+      name: created_by_user
+      label: created by user
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - Other
+      required: true
+    - id: 24
+      name: updated_by_user
+      label: updated by user
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - Other
+      required: true
+    - id: 25
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

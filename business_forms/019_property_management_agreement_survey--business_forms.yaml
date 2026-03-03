@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Management Agreement Survey
+    pages:
+    - id: 1
+      name: property_management_service_quality
+      label: What's the quality of our property management service?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfactory
+      - Satisfactory
+      - Average
+      - Unsatisfactory
+      required: false
+    - id: 2
+      name: property_manangement_services_reliability
+      label: How reliable are the property management services?
+      hint: Rate the reliability of our services from 1 to 10
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: communication
+      label: How well are you communicated with regarding the property?
+      hint: Describe how well were you communicated with
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: overall_satisfaction
+      label: What's your overall satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfactory
+      - Satisfactory
+      - Average
+      - Unsatisfactory
+      required: false
+    - id: 5
+      name: property_manament_service_value
+      label: What value do you believe we provided
+      hint: Rate the value we provided from 1 to 10
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: property_manament_service_cost
+      label: How would rate the cost of our property manegment service
+      hint: Rate the cost of our service from 1 to 10
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 7
+      name: tenant_suggestions
+      label: Any suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_information
+      label: Contact information
+      hint: null
+      type: email
+      options: []
+      required: false

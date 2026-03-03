@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Career Fair Interview Booking Form
+    pages:
+      - id: 1
+        name: booking_header
+        label: -- Interview Booking --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: candidate_name
+        label: Candidate name
+        hint: Full name of interviewee
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: company
+        label: Company booking interview
+        hint: Employer conducting interview
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: position_applied_for
+        label: Position applied for
+        hint: Job title
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: preferred_interview_date
+        label: Preferred interview date
+        hint: Select date for interview
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: preferred_interview_time
+        label: Preferred interview time
+        hint: Time slot preference
+        type: time
+        options: []
+        required: false
+      - id: 7
+        name: interview_format
+        label: Interview format
+        hint: Choose format
+        type: select_one
+        options:
+          - In person
+          - Virtual
+          - Phone
+        required: true
+      - id: 8
+        name: resume_link
+        label: Resume link or attachment
+        hint: URL or note about resume
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: contact_email
+        label: Contact email for confirmation
+        hint: For scheduling and changes
+        type: email
+        options: []
+        required: true
+      - id: 10
+        name: additional_notes
+        label: Additional notes
+        hint: Any other relevant information
+        type: text
+        options: []
+        required: false

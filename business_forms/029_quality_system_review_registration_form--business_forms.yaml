@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quality System Review Registration Form
+    pages:
+    - id: 1
+      name: review_request_input
+      label: review_request_input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: review_type
+      label: review_type
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 4
+      name: preferred_date
+      label: preferred_date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 6
+      name: review_requestor
+      label: review_requestor
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: reviewer
+      label: reviewer
+      hint: null
+      type: text
+      options: []
+      required: false

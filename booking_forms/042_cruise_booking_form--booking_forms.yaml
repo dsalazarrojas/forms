@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cruise Booking Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: travel_agent
+      label: Travel Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: trip_length
+      label: Trip Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: cruise_type
+      label: Cruise Type
+      hint: null
+      type: select_multiple
+      options:
+      - Caribbean
+      - Europe
+      - Asia
+      required: false
+    - id: 8
+      name: ship_name
+      label: Ship Name
+      hint: null
+      type: text
+      options: []
+      required: false

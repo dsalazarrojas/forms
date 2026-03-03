@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Contract Specialist Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: years_experience
+      label: Years Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contract_type
+      label: Contract Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: false
+    - id: 8
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - Single Family
+      - Multi Family
+      - Townhome
+      - Condo
+      required: false
+    - id: 9
+      name: desired_contract_start_date
+      label: Desired Contract Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: available_contract_end_date
+      label: Available Contract End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: job_preferences
+      label: Job Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contract_location
+      label: Contract Location
+      hint: null
+      type: text
+      options: []
+      required: false

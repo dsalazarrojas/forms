@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brewery Export Documentation Order Form
+    pages:
+    - id: 1
+      name: brewery_name
+      label: Brewery Name
+      hint: Your brewery business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: brewery_address
+      label: Brewery Address
+      hint: Physical location
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: Your name or designated contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Business phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: order_date
+      label: Order Date
+      hint: Date of this documentation request
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: export_destination
+      label: Export Destination Country
+      hint: Country where beer is being sent
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: importer_name
+      label: Importer or Distributor Name
+      hint: Name of receiving company
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: importer_address
+      label: Importer Address
+      hint: Address of importing company
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: shipment_date
+      label: Expected Shipment Date
+      hint: When will shipment depart
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: shipment_method
+      label: Shipment Method
+      hint: How will beer be shipped
+      type: select_one
+      options:
+      - Ocean container
+      - Air cargo
+      - Road transport
+      - Rail transport
+      - Combination
+      required: true
+    - id: 12
+      name: port_of_export
+      label: Port of Export
+      hint: Departure port or terminal
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: port_of_entry
+      label: Port of Entry
+      hint: Destination port or terminal
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: products_list
+      label: Beer Products in Shipment
+      hint: List beer brands and quantities
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: shipment_volume
+      label: Total Shipment Volume
+      hint: Volume in barrels or liters
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: total_value
+      label: Total Shipment Value USD
+      hint: FOB or CIF value
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: documents_needed
+      label: Required Documentation
+      hint: Select required documents
+      type: select_multiple
+      options:
+      - Commercial invoice
+      - Bill of lading
+      - Packing list
+      - Certificate of origin
+      - Health certificate
+      - Phytosanitary certificate
+      - Customs declaration
+      - Insurance certificate
+      required: true
+    - id: 18
+      name: special_regulations
+      label: Special Regulatory Requirements
+      hint: Any country-specific regulations
+      type: select_multiple
+      options:
+      - Alcohol labeling compliance
+      - Tariff classifications
+      - Import licenses needed
+      - Sanitary requirements
+      - Quota restrictions
+      - None that we know of
+      required: false
+    - id: 19
+      name: insurance_coverage
+      label: Insurance Coverage Needed
+      hint: Will shipment be insured
+      type: select_one
+      options:
+      - Yes, full coverage
+      - Yes, partial coverage
+      - No insurance
+      - Importer to arrange
+      required: false
+    - id: 20
+      name: incoterms
+      label: Incoterms
+      hint: International commercial terms
+      type: select_one
+      options:
+      - FOB - Free on board
+      - CIF - Cost Insurance Freight
+      - DDP - Delivered duty paid
+      - CIP - Carriage and insurance paid
+      - EXW - Ex works
+      - Other
+      required: true
+    - id: 21
+      name: timeline
+      label: Timeline for Documentation
+      hint: When are documents needed
+      type: select_one
+      options:
+      - Within 1 week
+      - Within 2 weeks
+      - Before shipment
+      - Standard processing
+      - Flexible
+      required: false
+    - id: 22
+      name: additional_requirements
+      label: Additional Requirements
+      hint: Any special instructions
+      type: text
+      options: []
+      required: false

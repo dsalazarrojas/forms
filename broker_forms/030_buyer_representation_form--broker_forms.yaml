@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Buyer Representation Form
+    pages:
+    - id: 1
+      name: buyer_name
+      label: Buyer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: buyer_address
+      label: Current Address
+      hint: Your residence
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: buyer_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: buyer_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: buyer_zip
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: buyer_phone
+      label: Phone Number
+      hint: Primary contact
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: buyer_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: cobuyer_info
+      label: Co-Buyer Information
+      hint: If applicable, provide details
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agent_name
+      label: Real Estate Agent Name
+      hint: Agent representing you
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: agent_company
+      label: Brokerage Company
+      hint: Broker company name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: agent_phone
+      label: Agent Phone Number
+      hint: Agent contact
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: agent_email
+      label: Agent Email
+      hint: Agent contact email
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: representation_type
+      label: Type of Representation
+      hint: Select representation level
+      type: select_one
+      options:
+      - Exclusive Buyer Agent
+      - Limited Buyer Agent
+      - Transaction Broker
+      - Other
+      required: true
+    - id: 14
+      name: agreement_date
+      label: Agreement Date
+      hint: Start date of representation
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: agreement_duration
+      label: Duration of Agreement
+      hint: How long is the agreement valid
+      type: select_one
+      options:
+      - 30 days
+      - 60 days
+      - 90 days
+      - 6 months
+      - 1 year
+      - Other
+      required: true
+    - id: 16
+      name: property_target
+      label: Target Property Details
+      hint: Specific property or area
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: exclusive_agent
+      label: Exclusive Agent Clause
+      hint: Agent is exclusive representation
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: consent_to_represent
+      label: I Consent to Agent Representation
+      hint: Must agree to representation
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 19
+      name: signature_date
+      label: Signature Date
+      hint: Date of agreement
+      type: date
+      options: []
+      required: true

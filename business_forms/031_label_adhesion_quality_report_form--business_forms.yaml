@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: label_adhesion_quality_report_form
+    pages:
+    - id: 1
+      name: header
+      label: Label Adhesion Quality Report Form
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: label_adhesion_test_location
+      label: Location of Label Adhesion Test
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: label_adhesion_test_result
+      label: Label Adhesion Test Result
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: label_adhesion_test_result_description
+      label: Label Adhesion Test Result Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_label_size
+      label: Product Label Size
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: product_label_color
+      label: Product Label Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tested_by
+      label: Tested By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: tested_on
+      label: Tested On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: tested_by_title
+      label: Tested By Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tested_by_department
+      label: Tested By Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: prophets
+      label: Prophets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: attachment_type
+      label: Attachment Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: attachment_url
+      label: Attachment Url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: attachment_title
+      label: Attachment Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: attachment_description
+      label: Attachment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: attachment_size
+      label: Attachment Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: attachment_data
+      label: Attachment Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: label_adhesion_test_notes
+      label: Label Adhesion Test Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: attachment_url_type
+      label: Attachment Url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: attachment_data_type
+      label: Attachment Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: attachment_size_type
+      label: Attachment Size
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trading Strategy Settings Form
+    pages:
+    - id: 1
+      name: trader_name
+      label: Trader Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: trading_strategy
+      label: Trading Strategy
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: time_frame
+      label: Time Frame
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: market_data
+      label: Market Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false

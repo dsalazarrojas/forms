@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Photography Booking Form
+    pages:
+    - id: 1
+      name: wedding_photography_booking_form_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wedding_photography_booking_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: wedding_photography_booking_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: wedding_photography_booking_form_date
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: wedding_photography_booking_form_time
+      label: Time of Event
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: wedding_photography_booking_form_event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Wedding
+      - Other
+      required: false
+    - id: 7
+      name: wedding_photography_booking_form_guests_count
+      label: Guests Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: wedding_photography_booking_form_special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: wedding_photography_booking_form_terms_agreed
+      label: Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: wedding_photography_booking_form_submit
+      label: Send
+      hint: null
+      type: text
+      options: []
+      required: false

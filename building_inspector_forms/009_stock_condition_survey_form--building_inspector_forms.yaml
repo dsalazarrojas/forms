@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: stock_condition_survey_form
+    pages:
+    - id: 1
+      name: general_inspections
+      label: General Inspections
+      hint: null
+      type: select_one
+      options:
+      - Inspect the inventory
+      - Inspect the stockroom
+      - Inspect the warehouse
+      required: false
+    - id: 2
+      name: condition_check_list
+      label: Condition Check List
+      hint: null
+      type: select_multiple
+      options:
+      - Check for water damage
+      - Check for fire damage
+      - Check for mold growth
+      - Check for pest infestation
+      - Check for other
+      required: false
+    - id: 3
+      name: damage_description
+      label: Damage Description
+      hint: A brief description of the damage
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: damage_grade
+      label: Damage Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: damage_grade_note
+      label: Damage Grade Note
+      hint: Additional information about the damage
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: condition_check_list_1
+      label: Additional Condition Checks
+      hint: null
+      type: select_multiple
+      options:
+      - Check for stains
+      - Check for tears
+      - Check for other
+      required: false
+    - id: 7
+      name: condition_check_list_2
+      label: Additional Condition Checks 2
+      hint: null
+      type: select_multiple
+      options:
+      - Check for rust
+      - Check for scratches
+      - Check for dents
+      - Check for discoloration
+      required: false
+    - id: 8
+      name: stock_location
+      label: Stock Location
+      hint: Where was the stock located
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_purchase
+      label: Date of Purchase
+      hint: When was the stock purchased
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: quantity
+      label: Quantity
+      hint: How many items were inspected
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: inspector_name
+      label: Inspector Name
+      hint: Name of the inspector
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: stock_condition_survey_form_category
+      label: Stock Condition Survey Form Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: stock_condition_survey_form_subcategory
+      label: Stock Condition Survey Form Subcategory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: stock_condition_survey_form_description
+      label: Stock Condition Survey Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: stock_condition_survey_form_category
+      label: Stock Condition Survey Form Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: stock_condition_survey_form_subcategory
+      label: Stock Condition Survey Form Subcategory
+      hint: null
+      type: text
+      options: []
+      required: false

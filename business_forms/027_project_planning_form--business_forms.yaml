@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Planning Form
+    pages:
+    - id: 1
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_manager
+      label: project_manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Manager A'', ''value'': 1}'
+      - '{''id'': 2, ''name'': ''Manager B'', ''value'': 2}'
+      required: false
+    - id: 3
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: priority
+      label: priority
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''High'', ''value'': 1}'
+      - '{''id'': 2, ''name'': ''Low'', ''value'': 2}'
+      - '{''id'': 3, ''name'': ''Medium'', ''value'': 3}'
+      required: false
+    - id: 6
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''On Track'', ''value'': 1}'
+      - '{''id'': 2, ''name'': ''Delayed'', ''value'': 2}'
+      - '{''id'': 3, ''name'': ''Cancelled'', ''value'': 3}'
+      required: false
+    - id: 8
+      name: project_type
+      label: project_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Software Development'', ''value'': 1}'
+      - '{''id'': 2, ''name'': ''Research and Development'', ''value'': 2}'
+      - '{''id'': 3, ''name'': ''Marketing'', ''value'': 3}'
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: project_lead
+      label: project_lead
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: status_update
+      label: status_update
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: team_members
+      label: team_members
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: task_status
+      label: task_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Not Started'', ''value'': 1}'
+      - '{''id'': 2, ''name'': ''In Progress'', ''value'': 2}'
+      - '{''id'': 3, ''name'': ''Done'', ''value'': 3}'
+      required: false
+    - id: 16
+      name: task_type
+      label: task_type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: task_priority
+      label: task_priority
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: task_hours
+      label: task_hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: task_start_date
+      label: task_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: task_end_date
+      label: task_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: task_status_update
+      label: task_status_update
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: task_notes
+      label: task_notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: project_lead_email
+      label: project_lead_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 24
+      name: project_lead_phone
+      label: project_lead_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: project_lead
+      label: project_lead
+      hint: null
+      type: text
+      options: []
+      required: true

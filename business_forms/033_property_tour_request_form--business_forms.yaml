@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_tour_request_form
+    pages:
+    - id: 1
+      name: user_first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: user_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_street
+      label: street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: property_city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: property_state
+      label: state
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: property_zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: property_status
+      label: property_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: agent_name
+      label: agent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: agent_phone
+      label: agent_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: property_notes
+      label: property_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: agent_notes
+      label: agent_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: tour_date
+      label: tour_date
+      hint: null
+      type: date
+      options: []
+      required: false

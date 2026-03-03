@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Account Status And Listings Check
+    pages:
+    - id: 1
+      name: section_requester_info
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company or Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: role
+      label: Your Role
+      hint: null
+      type: select_one
+      options:
+      - Account owner
+      - Authorized representative
+      - Staff member
+      - Customer
+      - Other
+      required: true
+    - id: 7
+      name: section_account_info
+      label: -- Account Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: account_id
+      label: Account ID or Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - Business account
+      - Personal account
+      - Merchant account
+      - Vendor account
+      - Other
+      required: true
+    - id: 10
+      name: current_status_expected
+      label: Expected Current Account Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Suspended
+      - Pending verification
+      - Closed
+      - Unknown
+      required: true
+    - id: 11
+      name: section_listings
+      label: -- Listings Check --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: listing_platform
+      label: Platform or Directory for Listing Check
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Company website
+      - Google Business Profile
+      - Industry directory
+      - Marketplace platform
+      - Social media
+      - Other
+      required: true
+    - id: 13
+      name: listing_id
+      label: Listing ID or URL (if known)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: listing_issue
+      label: Issue with Listing
+      hint: null
+      type: select_one
+      options:
+      - Listing not appearing
+      - Incorrect information displayed
+      - Duplicate listing
+      - Listing marked inactive
+      - No issue - Just verifying
+      - Other
+      required: true
+    - id: 15
+      name: issue_description
+      label: Description of the Issue
+      hint: Provide details about the account status or listing concern
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: urgency
+      label: Urgency
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: true
+    - id: 17
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

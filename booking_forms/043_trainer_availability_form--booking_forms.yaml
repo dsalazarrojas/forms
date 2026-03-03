@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trainer Availability Form
+    pages:
+    - id: 1
+      name: schedule
+      label: Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: schedule_start_time
+      label: Schedule Start Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: schedule_end_time
+      label: Schedule End Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: specialties
+      label: Specialties
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location_preferences
+      label: Location Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: trainer_id
+      label: Trainer ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: conflict
+      label: Conflict
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 10
+      name: conflicts
+      label: Conflicts
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false

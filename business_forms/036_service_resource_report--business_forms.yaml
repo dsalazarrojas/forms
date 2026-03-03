@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: service_resource_report
+    pages:
+    - id: 1
+      name: service_resource
+      label: service_resource
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: report_date
+      label: report_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: report_type
+      label: report_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: resource_count
+      label: resource_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: resource_value
+      label: resource_value
+      hint: null
+      type: number
+      options: []
+      required: false

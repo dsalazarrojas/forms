@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Club Reservation Form
+    pages:
+    - id: 1
+      name: member_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will send confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For reservation reminders
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: membership_id
+      label: Membership ID
+      hint: Your book club member ID
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: meeting_to_reserve
+      label: Meeting to Reserve
+      hint: Select the meeting you want to attend
+      type: select_one
+      options:
+      - March 15 2026 at 2pm
+      - March 29 2026 at 2pm
+      - April 12 2026 at 2pm
+      - April 26 2026 at 2pm
+      - May 10 2026 at 2pm
+      - May 24 2026 at 2pm
+      required: true
+    - id: 6
+      name: meeting_location
+      label: Meeting Location
+      hint: Where will the meeting be held
+      type: select_one
+      options:
+      - Main Library Room A
+      - Main Library Room B
+      - Community Center
+      - Coffee Shop Downtown
+      - Online Virtual
+      - Rotating Location
+      required: true
+    - id: 7
+      name: number_of_guests
+      label: Number of Guests
+      hint: How many guests will accompany you
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: guest_names
+      label: Guest Names
+      hint: List names of guests if applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rsvp_status
+      label: RSVP Status
+      hint: Will you be attending
+      type: select_one
+      options:
+      - Yes Attending
+      - No Cannot Attend
+      - Maybe Tentative
+      required: true
+    - id: 10
+      name: book_title
+      label: Current Book Title
+      hint: Title of book being discussed
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: reading_progress
+      label: Your Reading Progress
+      hint: How much of the book have you read
+      type: select_one
+      options:
+      - Not Started
+      - 25 percent Complete
+      - 50 percent Complete
+      - 75 percent Complete
+      - Fully Complete
+      required: true
+    - id: 12
+      name: bringing_snacks
+      label: Will You Bring Snacks or Drinks
+      hint: For potluck style meetings
+      type: select_one
+      options:
+      - Yes I will bring something
+      - No I cannot this time
+      - Not Applicable
+      required: false
+    - id: 13
+      name: snack_details
+      label: What Will You Bring
+      hint: Describe what you plan to bring
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any dietary restrictions we should know
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - None
+      required: false
+    - id: 15
+      name: discussion_topic_request
+      label: Topics You Want to Discuss
+      hint: Any specific topics or questions
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: transportation_needed
+      label: Do You Need Transportation Assistance
+      hint: Select if you need a ride
+      type: select_one
+      options:
+      - Yes I need a ride
+      - No I have transportation
+      - I can offer rides to others
+      required: false
+    - id: 17
+      name: special_requests
+      label: Special Requests or Accommodations
+      hint: Any special needs or requests
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reminder_preference
+      label: How Would You Like Reminders
+      hint: Select your reminder preference
+      type: select_one
+      options:
+      - Email Only
+      - Text Message Only
+      - Both Email and Text
+      - No Reminders
+      required: true
+    - id: 19
+      name: reservation_date
+      label: Reservation Date
+      hint: Date of this reservation
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: cancellation_policy_ack
+      label: I Understand the Cancellation Policy
+      hint: By selecting yes you acknowledge the policy
+      type: select_one
+      options:
+      - Yes I understand
+      - No I do not understand
+      required: true

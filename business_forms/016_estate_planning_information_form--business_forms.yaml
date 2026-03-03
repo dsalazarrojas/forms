@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: estate_planning_information_form
+    pages:
+    - id: 1
+      name: estate_plan_details
+      label: Estate Plan Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: beneficiaries
+      label: Beneficiaries
+      hint: null
+      type: select_multiple
+      options:
+      - Beneficiary 1
+      - Beneficiary 2
+      - Beneficiary 3
+      required: false
+    - id: 3
+      name: assets
+      label: Assets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: estate_documents
+      label: Estate Documents
+      hint: List of estate planning documents, such as wills and trusts.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: asset_distribution_plan
+      label: Asset Distribution Plan
+      hint: null
+      type: select_one
+      options:
+      - Plan 1
+      - Plan 2
+      - Plan 3
+      required: false
+    - id: 6
+      name: asset_values
+      label: Asset Values
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: asset_types
+      label: Asset Types
+      hint: List of asset types, such as real estate and investments.
+      type: select_multiple
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false
+    - id: 8
+      name: asset_locations
+      label: Asset Locations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: asset_values_range
+      label: Asset Value Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: estate_plan_status
+      label: Estate Plan Status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: false

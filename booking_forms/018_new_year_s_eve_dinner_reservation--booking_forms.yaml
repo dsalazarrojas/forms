@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: new_year_s_eve_dinner_reservation
+    pages:
+    - id: 1
+      name: new_year_s_eve_dinner_reservation
+      label: New Years Eve Dinner Reservation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_details
+      label: Guest Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: party_size
+      label: Party Size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: reservation_time
+      label: Reservation Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: special_request
+      label: Special Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: guest_phone
+      label: Guest Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: special_request
+      label: Special Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false

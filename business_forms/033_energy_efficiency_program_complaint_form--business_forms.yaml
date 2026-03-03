@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Energy Efficiency Program Complaint Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: complainant_details
+      label: Complainant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: complaint_description
+      label: Complaint Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Jimmy''}'
+      - '{''label'': ''John''}'
+      - '{''label'': ''Bob''}'
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: complaint_type
+      label: Complaint Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Heating''}'
+      - '{''label'': ''Cooling''}'
+      - '{''label'': ''Lighting''}'
+      required: false
+    - id: 8
+      name: complaint_date
+      label: Complaint Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: complaint_time
+      label: Complaint Time
+      hint: null
+      type: time
+      options: []
+      required: false

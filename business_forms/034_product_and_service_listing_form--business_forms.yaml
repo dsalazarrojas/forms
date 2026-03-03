@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product And Service Listing Form
+    pages:
+    - id: 1
+      name: service_name
+      label: service_name
+      hint: Enter the name of the service or product
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pricing
+      label: pricing
+      hint: Enter the price or price range for the service or product
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: service_image
+      label: service_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_video
+      label: service_video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inquiry_email
+      label: inquiry_email
+      hint: Enter a valid email address to receive the inquiry
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: inquiry_phone
+      label: inquiry_phone
+      hint: Enter the phone number to receive the inquiry
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: inquiry_message
+      label: inquiry_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: inquiry_submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Moving Service Quotation Form
+    pages:
+    - id: 1
+      name: address
+      label: home_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: move_date
+      label: move_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: moving_type
+      label: moving_type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - International
+      required: true
+    - id: 4
+      name: number_of_movers
+      label: number_of_movers
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: move_distance
+      label: move_distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: moving_company
+      label: moving_company
+      hint: null
+      type: select_multiple
+      options:
+      - Local
+      - Long_Distance
+      required: true
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: customer_note
+      label: customer_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: company_email
+      label: company_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: company_phone
+      label: company_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: company_note
+      label: company_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: move_details
+      label: move_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: company_license
+      label: company_license
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_license
+      label: customer_license
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: quote_details
+      label: quote_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: quote_value
+      label: quote_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: terms_and_conditions
+      label: terms_and_conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: signature
+      label: signature
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and agree to the terms and conditions
+      - I do not wish to sign
+      required: true
+    - id: 24
+      name: quote_number
+      label: quote_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

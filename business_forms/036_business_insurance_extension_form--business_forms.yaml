@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Insurance Extension Form
+    pages:
+    - id: 1
+      name: section_policy_identification_extension
+      label: -- Policy Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: current_policy_number_extension
+      label: Current Policy Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: insured_business_name_extension
+      label: Insured Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: extension_request_type_choice
+      label: Extension Type
+      hint: What aspect of the policy are you looking to extend
+      type: select_one
+      options:
+      - Time Extension (Policy Duration)
+      - Coverage Limit Extension
+      - Additional Insured Extension
+      - Geographic Extension
+      required: true
+    - id: 5
+      name: reason_for_extension_request_text
+      label: Reason for Extension
+      hint: Please provide a detailed explanation for this request
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_requested_modifications
+      label: -- Requested Modifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: new_proposed_end_date_extension
+      label: New Proposed End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: additional_coverage_amount_requested
+      label: Requested Additional Coverage Amount (USD)
+      hint: Enter the increase in liability or property limit
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: new_risk_details_description
+      label: Details of New Risks or Operations
+      hint: Describe any new activities since the policy started
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: extension_primary_contact_name
+      label: Primary Contact for Extension
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: extension_contact_email_address
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: claims_during_policy_confirmation
+      label: Have any claims been filed during the current policy term
+      hint: null
+      type: select_one
+      options:
+      - No claims filed
+      - Yes, claims in progress
+      - Yes, claims settled
+      required: true
+    - id: 13
+      name: extension_request_date_signed
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: extension_auth_signature
+      label: Authorized Representative Signature
+      hint: Type full name to certify the request
+      type: text
+      options: []
+      required: true

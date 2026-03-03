@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trade Amendment Form
+    pages:
+    - id: 1
+      name: trade_amendment_form
+      label: Trade Amendment Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_amendment
+      label: Date Of Amendment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: countries_involved
+      label: Countries Involved
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: parties_involved
+      label: Parties Involved
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: amendment_summary
+      label: Amendment Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: changes_to_terms
+      label: Changes To Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: reason_for_amendment
+      label: Reason For Amendment
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: holiday_cruise_reservation_form
+    pages:
+    - id: 1
+      name: destination
+      label: Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: departure_date
+      label: Departure date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: departure_time
+      label: Departure time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: departure_time_zone
+      label: Time zone
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''EST''}'
+      - '{''value'': ''EDT''}'
+      - '{''value'': ''CDT''}'
+      - '{''value'': ''PDT''}'
+      required: false
+    - id: 5
+      name: travel_agent
+      label: Travel Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: travel_documents
+      label: Travel Documents
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''passport''}'
+      - '{''value'': ''id''}'
+      - '{''value'': ''driver_license''}'
+      - '{''value'': ''health_insurance''}'
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''credit_card''}'
+      - '{''value'': ''bank_transfer''}'
+      - '{''value'': ''wire_transfer''}'
+      required: false
+    - id: 11
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: confirm_reservations
+      label: Confirm Reservations
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 14
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 15
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false

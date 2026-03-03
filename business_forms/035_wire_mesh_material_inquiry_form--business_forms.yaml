@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: wire_mesh_material_inquiry_form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: material_type
+      label: Material Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Wire Mesh''}'
+      - '{''id'': 2, ''value'': ''Aluminum''}'
+      - '{''id'': 3, ''value'': ''Copper''}'
+      required: false
+    - id: 3
+      name: specifications
+      label: Specifications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Wire Thickness''}'
+      - '{''id'': 2, ''value'': ''Mesh Opening''}'
+      required: false
+    - id: 4
+      name: price_range
+      label: Price Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inquiry_type
+      label: Inquiry Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Material Inquiry''}'
+      - '{''id'': 2, ''value'': ''Price Inquiry''}'
+      required: false
+    - id: 7
+      name: available_at
+      label: Available At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

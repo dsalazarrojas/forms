@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Kitchen Prep Checklist
+    pages:
+    - id: 1
+      name: morning_routine
+      label: Morning Routine
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lunch_break
+      label: Lunch Break
+      hint: null
+      type: select_multiple
+      options:
+      - Break 1
+      - Break 2
+      - Break 3
+      - No Break
+      required: true
+    - id: 3
+      name: dinner_prep
+      label: Dinner Prep
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: kitchen_cleaning
+      label: Kitchen Cleaning
+      hint: null
+      type: select_one
+      options:
+      - Before Prep
+      - After Prep
+      - Both
+      required: true
+    - id: 5
+      name: trash_recycling
+      label: Trash/Recycling
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - Jane
+      required: true
+    - id: 8
+      name: kitchen_name
+      label: Kitchen Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - Jane
+      - Other
+      required: true
+    - id: 12
+      name: notes_submitted_by
+      label: Notes Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - Jane
+      - Other
+      required: true
+    - id: 13
+      name: kitchen_status
+      label: Kitchen Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: true
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: kitchen_number
+      label: Kitchen Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: kitchen_area
+      label: Kitchen Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: kitchen_type
+      label: Kitchen Type
+      hint: null
+      type: select_one
+      options:
+      - Commercial
+      - Residential
+      - Other
+      required: true
+    - id: 21
+      name: kitchen_location
+      label: Kitchen Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: kitchen_equipment
+      label: Kitchen Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: kitchen_capacity
+      label: Kitchen Capacity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: kitchen_size
+      label: Kitchen Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: kitchen_layout
+      label: Kitchen Layout
+      hint: null
+      type: text
+      options: []
+      required: false

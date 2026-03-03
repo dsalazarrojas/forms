@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Shipping Location Details
+    pages:
+    - id: 1
+      name: shipping_location_name
+      label: Shipping Location Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: region
+      label: Region
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_location_note
+      label: Shipping Location Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: shipping_location_phone
+      label: Shipping Location Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipping_location_email
+      label: Shipping Location Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''chatjimmy'', ''value'': ''chatjimmy''}'
+      - '{''id'': 2, ''label'': ''other'', ''value'': ''other''}'
+      required: false
+    - id: 11
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''user1'', ''value'': ''user1''}'
+      - '{''id'': 2, ''label'': ''user2'', ''value'': ''user2''}'
+      - '{''id'': 3, ''label'': ''user3'', ''value'': ''user3''}'
+      required: false

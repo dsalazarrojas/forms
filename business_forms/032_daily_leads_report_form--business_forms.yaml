@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Leads Report Form
+    pages:
+    - id: 1
+      name: assigned_leads
+      label: assigned_leads
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: actions_taken
+      label: actions_taken
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: lead_status
+      label: lead_status
+      hint: null
+      type: select_one
+      options:
+      - Lead Status
+      - New Lead
+      - New Lead (New)
+      - New Lead (Follow up)
+      - New Lead (Follow up 2)
+      - New Lead (Follow up 3)
+      - Lead Qualified
+      - Lead Qualified (Follow up)
+      - Lead Qualified (Follow up 2)
+      - Lead Qualified (Follow up 3)
+      required: false
+    - id: 4
+      name: lead_source
+      label: lead_source
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Chat
+      - Web
+      - Trade Show
+      - Event
+      - Other
+      required: false
+    - id: 5
+      name: lead_source_details
+      label: lead_source_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lead_owner
+      label: lead_owner
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_details
+      label: follow_up_details
+      hint: null
+      type: text
+      options: []
+      required: false

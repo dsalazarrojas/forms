@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asbestos Inspection Report Form
+    pages:
+    - id: 1
+      name: inspector_name
+      label: Inspector Name
+      hint: Full name of certified inspector
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inspector_license
+      label: Inspector License Number
+      hint: Certification or license ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspection_date
+      label: Date of Inspection
+      hint: When was the inspection conducted
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: property_address
+      label: Property Address
+      hint: Full address of inspected property
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_type
+      label: Property Type
+      hint: Select the type of property
+      type: select_one
+      options:
+      - Residential Single Family
+      - Residential Multi Family
+      - Commercial Office
+      - Commercial Retail
+      - Industrial
+      - School or Educational
+      - Healthcare Facility
+      - Government Building
+      required: true
+    - id: 6
+      name: year_built
+      label: Year Property Was Built
+      hint: Approximate year of construction
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: building_square_footage
+      label: Building Square Footage
+      hint: Total area of the property
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: areas_inspected
+      label: Areas Inspected
+      hint: Select all areas that were inspected
+      type: select_multiple
+      options:
+      - Basement
+      - Attic
+      - Garage
+      - Crawl Space
+      - Walls and Drywall
+      - Flooring
+      - Ceiling Tiles
+      - Pipe Insulation
+      - HVAC Ducts
+      - Exterior Siding
+      - Roofing Materials
+      required: true
+    - id: 9
+      name: asbestos_suspected
+      label: Is Asbestos Suspected
+      hint: Based on visual inspection
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Uncertain - Testing Required
+      required: true
+    - id: 10
+      name: material_condition
+      label: Condition of Suspected Materials
+      hint: Describe the state of materials found
+      type: select_one
+      options:
+      - Good - No Damage
+      - Fair - Minor Damage
+      - Poor - Significant Damage
+      - Friable - Crumbling
+      - Not Applicable
+      required: true
+    - id: 11
+      name: samples_collected
+      label: Number of Samples Collected
+      hint: Total samples taken for lab testing
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: sample_locations
+      label: Sample Collection Locations
+      hint: Describe where each sample was taken
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: lab_name
+      label: Testing Laboratory Name
+      hint: Where will samples be analyzed
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: expected_results_date
+      label: Expected Results Date
+      hint: When will lab results be available
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: immediate_danger
+      label: Is There Immediate Danger
+      hint: Does the property pose immediate health risk
+      type: select_one
+      options:
+      - Yes - Evacuation Recommended
+      - Yes - Area Restriction Required
+      - No - Standard Precautions
+      - Unable to Determine
+      required: true
+    - id: 16
+      name: recommendations
+      label: Inspector Recommendations
+      hint: Summary of recommended actions
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: follow_up_required
+      label: Is Follow-up Inspection Required
+      hint: Will additional inspection be needed
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: photos_attached
+      label: Number of Photos Attached
+      hint: Include photo documentation count
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: inspector_signature
+      label: Inspector Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: report_complete
+      label: Report Status
+      hint: Confirm report is complete
+      type: select_one
+      options:
+      - Complete
+      - Pending Lab Results
+      - Incomplete
+      required: true

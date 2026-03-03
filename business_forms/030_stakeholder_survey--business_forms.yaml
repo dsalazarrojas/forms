@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stakeholder Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: areas_of_improvement
+      label: Areas of improvement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: stakeholder_survey_questions
+      label: Stakeholder Survey Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: areas_of_improvement_1
+      label: What are the areas of improvement that you feel are most important to
+        the organization?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Important
+      - Not Important
+      required: false
+    - id: 5
+      name: areas_of_improvement_2
+      label: Can we improve our communication style or tone?
+      hint: null
+      type: select_one
+      options:
+      - '{''Communication style'': ''Too formal''}'
+      - '{''Communication style'': ''Too informal''}'
+      - '{''Communication style'': ''Just right''}'
+      required: false
+    - id: 6
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false

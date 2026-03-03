@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Distribution Label Revision Request Form
+    pages:
+    - id: 1
+      name: manufacturer_name
+      label: manufacturer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: distributor_name
+      label: distributor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_description
+      label: product_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: change_description
+      label: change_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: new_label_version
+      label: new_label_version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: files
+      label: files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: reason_for_change
+      label: reason_for_change
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: date_of_last_revision
+      label: date_of_last_revision
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: date_of_next_revision
+      label: date_of_next_revision
+      hint: null
+      type: date
+      options: []
+      required: false

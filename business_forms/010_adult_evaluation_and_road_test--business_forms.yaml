@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adult Evaluation And Road Test
+    pages:
+    - id: 1
+      name: candidate_first_name
+      label: First Name
+      hint: Candidate's first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: candidate_last_name
+      label: Last Name
+      hint: Candidate's last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: candidate_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: candidate_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: test_date
+      label: Test Date
+      hint: Date of evaluation
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: test_time
+      label: Test Time
+      hint: Start time of evaluation
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Name of person conducting evaluation
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_type
+      label: Vehicle Type Used
+      hint: Type of vehicle for road test
+      type: select_one
+      options:
+      - Sedan
+      - SUV
+      - Truck
+      - Compact Car
+      - Van
+      - Other
+      required: true
+    - id: 9
+      name: license_class
+      label: License Class Being Tested
+      hint: Class of driver license
+      type: select_one
+      options:
+      - Class D
+      - Class E
+      - Class F
+      - Class G
+      - Other
+      required: true
+    - id: 10
+      name: pre_test_vision
+      label: Pre-test Vision Check
+      hint: Vision test result
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Recheck Required
+      required: true
+    - id: 11
+      name: starting_procedure
+      label: Starting Procedure Score
+      hint: Rate ability to start vehicle
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Fail
+      required: true
+    - id: 12
+      name: steering_control
+      label: Steering Control Score
+      hint: Rate steering ability
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Fail
+      required: true
+    - id: 13
+      name: acceleration_braking
+      label: Acceleration and Braking Score
+      hint: Rate smooth acceleration and braking
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Fail
+      required: true
+    - id: 14
+      name: gear_shifting
+      label: Gear Shifting Score
+      hint: Rate ability to shift gears smoothly
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Fail
+      required: true
+    - id: 15
+      name: clutch_control
+      label: Clutch Control Score
+      hint: Rate clutch operation if manual transmission
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Fail
+      required: false
+    - id: 16
+      name: signal_usage
+      label: Signal and Turn Usage Score
+      hint: Rate proper signaling
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Fail
+      required: true
+    - id: 17
+      name: mirror_checking
+      label: Mirror Checking Score
+      hint: Rate frequency of mirror checks
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Fail
+      required: true
+    - id: 18
+      name: lane_discipline
+      label: Lane Discipline Score
+      hint: Rate ability to maintain lane position
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Fail
+      required: true
+    - id: 19
+      name: traffic_awareness
+      label: Traffic Awareness Score
+      hint: Rate awareness of other vehicles
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Fail
+      required: true
+    - id: 20
+      name: parking_score
+      label: Parking Score
+      hint: Rate parking ability
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Fail
+      required: true
+    - id: 21
+      name: overall_performance
+      label: Overall Performance Rating
+      hint: Final assessment score
+      type: select_one
+      options:
+      - Pass
+      - Conditional Pass
+      - Needs Retesting
+      - Fail
+      required: true
+    - id: 22
+      name: evaluator_comments
+      label: Evaluator Comments
+      hint: Additional notes from evaluation
+      type: text
+      options: []
+      required: false

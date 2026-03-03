@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outdoor Movie Night Booking Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ticket_type
+      label: Ticket Type
+      hint: null
+      type: select_multiple
+      options:
+      - Ticket A
+      - Ticket B
+      - Ticket C
+      required: false
+    - id: 6
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: movie_title
+      label: Movie Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: movie_rating
+      label: Movie Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: number_of_tickets
+      label: Number of Tickets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: ticket_price
+      label: Ticket Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: ticket_availability
+      label: Ticket Availability
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Sold Out
+      - Pending
+      required: false
+    - id: 16
+      name: attendee_age
+      label: Attendee Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: attendee_interests
+      label: Attendee Interests
+      hint: null
+      type: select_one
+      options:
+      - Music
+      - Food
+      - Movies
+      required: false
+    - id: 18
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: event_organizer_email
+      label: Event Organizer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: ticket_sales_channel
+      label: Ticket Sales Channel
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - On-site
+      - Both
+      required: false

@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Booking Enquiry Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: We will respond to this email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your business or organization name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: booking_type
+      label: What would you like to book
+      hint: Type of booking inquiry
+      type: select_one
+      options:
+      - Accommodation
+      - Tour package
+      - Event venue
+      - Transportation
+      - Restaurant reservation
+      - Other service
+      required: true
+    - id: 6
+      name: preferred_date
+      label: Preferred Date
+      hint: When do you need the booking
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: duration_or_time
+      label: Duration or Time Required
+      hint: How long or what time
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: number_of_people
+      label: Number of People
+      hint: How many people will be involved
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: budget_range
+      label: Budget Range
+      hint: Your approximate budget
+      type: select_one
+      options:
+      - Under $500
+      - $500 - $1,000
+      - $1,000 - $2,500
+      - $2,500 - $5,000
+      - $5,000+
+      - Not specified
+      required: false
+    - id: 10
+      name: specific_requirements
+      label: Specific Requirements or Preferences
+      hint: Any special requests or requirements
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: enquiry_details
+      label: Details of Your Enquiry
+      hint: Tell us more about what you need
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How would you like us to contact you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - SMS
+      - WhatsApp
+      required: true
+    - id: 13
+      name: availability_status
+      label: How flexible are you with dates
+      hint: Your flexibility with dates
+      type: select_one
+      options:
+      - Fixed dates
+      - Some flexibility
+      - Very flexible
+      required: true
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information you would like to share
+      type: text
+      options: []
+      required: false

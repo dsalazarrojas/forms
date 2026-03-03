@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Film Pitch Presentation Booking Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: production_company
+      label: Production Company
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''ABC Production''}'
+      - '{''label'': ''DEF Productions''}'
+      - '{''label'': ''GHI Productions''}'
+      required: false
+    - id: 3
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: presenter_details
+      label: Presenter Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: presenter_booking
+      label: Presenter Booking
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''8:00 AM''}'
+      - '{''label'': ''9:00 AM''}'
+      - '{''label'': ''10:00 AM''}'
+      required: false
+    - id: 7
+      name: event_booking
+      label: Event Booking
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Closed''}'
+      - '{''label'': ''In Progress''}'
+      required: false
+    - id: 9
+      name: production_status
+      label: Production Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Closed''}'
+      - '{''label'': ''In Progress''}'
+      required: false
+    - id: 10
+      name: presenter
+      label: Presenter
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Jane Doe''}'
+      - '{''label'': ''John Smith''}'
+      required: false
+    - id: 11
+      name: production_company
+      label: Production Company
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''ABC Production''}'
+      - '{''label'': ''DEF Production''}'
+      - '{''label'': ''GHI Production''}'
+      required: false
+    - id: 12
+      name: event
+      label: Event
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Film Festival''}'
+      - '{''label'': ''Film Market''}'
+      - '{''label'': ''Film Pitch''}'
+      required: false
+    - id: 13
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Animation''}'
+      - '{''label'': ''Live Action''}'
+      - '{''label'': ''Documentary''}'
+      required: false
+    - id: 14
+      name: project_length
+      label: Project Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: presentation_date
+      label: Presentation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: production_start_date
+      label: Production Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: production_end_date
+      label: Production End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: presentation_time
+      label: Presentation Time
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Closed''}'
+      - '{''label'': ''In Progress''}'
+      required: false
+    - id: 21
+      name: production_status
+      label: Production Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Closed''}'
+      - '{''label'': ''In Progress''}'
+      required: false
+    - id: 22
+      name: presenter
+      label: Presenter
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Jane Doe''}'
+      - '{''label'': ''John Smith''}'
+      required: false
+    - id: 23
+      name: production_company
+      label: Production Company
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''ABC Production''}'
+      - '{''label'': ''DEF Production''}'
+      - '{''label'': ''GHI Production''}'
+      required: false
+    - id: 24
+      name: event
+      label: Event
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Film Festival''}'
+      - '{''label'': ''Film Market''}'
+      - '{''label'': ''Film Pitch''}'
+      required: false
+    - id: 25
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Animation''}'
+      - '{''label'': ''Live Action''}'
+      - '{''label'': ''Documentary''}'
+      required: false

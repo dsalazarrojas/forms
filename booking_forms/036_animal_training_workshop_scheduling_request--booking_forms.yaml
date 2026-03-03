@@ -1,0 +1,309 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Training Workshop Scheduling Request
+    pages:
+    - id: 1
+      name: requester_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: Name of organization hosting workshop
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_type
+      label: Organization Type
+      hint: What kind of organization
+      type: select_one
+      options:
+      - Animal Shelter
+      - Dog Training Business
+      - Rescue Organization
+      - Educational Institution
+      - Corporate Team Building
+      - Community Center
+      - Other
+      required: true
+    - id: 6
+      name: section_workshop_details
+      label: -- Workshop Details --
+      hint: Information about the workshop
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: workshop_type
+      label: Type of Training Workshop
+      hint: What kind of workshop you need
+      type: select_one
+      options:
+      - Basic Dog Obedience
+      - Advanced Behavior Training
+      - Puppy Training
+      - Reactive Dog Training
+      - Agility Training
+      - Service Dog Training
+      - Shelter Staff Training
+      - Other
+      required: true
+    - id: 8
+      name: workshop_duration
+      label: Desired Workshop Duration
+      hint: How long the workshop should be
+      type: select_one
+      options:
+      - Half day (4 hours)
+      - Full day (8 hours)
+      - Two days
+      - Weekend workshop
+      - Custom duration
+      required: true
+    - id: 9
+      name: expected_participants
+      label: Expected Number of Participants
+      hint: How many people will attend
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: participant_skill_level
+      label: Participant Skill Level
+      hint: Experience level of attendees
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Mixed
+      required: true
+    - id: 11
+      name: dog_requirements
+      label: Dogs for Workshop
+      hint: Bringing dogs to workshop
+      type: select_one
+      options:
+      - Participants bring their own dogs
+      - Facility provides dogs
+      - Mix of both
+      - Not applicable
+      required: true
+    - id: 12
+      name: section_scheduling
+      label: -- Preferred Scheduling --
+      hint: When you want the workshop
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: preferred_date_range_start
+      label: Preferred Start Date
+      hint: Earliest available date
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: preferred_date_range_end
+      label: Latest Acceptable Date
+      hint: Latest date that works
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: preferred_time_of_day
+      label: Preferred Time of Day
+      hint: Morning, afternoon, or evening
+      type: select_one
+      options:
+      - Early Morning (6-9am)
+      - Morning (9am-12pm)
+      - Afternoon (12-3pm)
+      - Late Afternoon (3-6pm)
+      - Evening (6pm+)
+      - Flexible
+      required: true
+    - id: 16
+      name: preferred_day_of_week
+      label: Preferred Days of Week
+      hint: Which days work best
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 17
+      name: section_location
+      label: -- Location Information --
+      hint: Where the workshop will be held
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: location_type
+      label: Workshop Location Type
+      hint: Where the workshop will happen
+      type: select_one
+      options:
+      - Your facility
+      - My facility
+      - Virtual
+      - Outdoor location
+      - Other location
+      required: true
+    - id: 19
+      name: facility_address
+      label: Your Facility Address
+      hint: Street address
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: facility_size
+      label: Facility Size and Amenities
+      hint: Space and resources available
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: parking_available
+      label: Parking Available
+      hint: Yes or no
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Limited
+      required: false
+    - id: 22
+      name: section_content
+      label: -- Workshop Content Preferences --
+      hint: What to cover in the workshop
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: topics_to_cover
+      label: Specific Topics to Cover
+      hint: What should be included
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: learning_objectives
+      label: Learning Objectives
+      hint: What you hope participants learn
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: specialized_needs
+      label: Specialized Needs or Requests
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: section_logistics
+      label: -- Logistics and Accommodations --
+      hint: Other practical considerations
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: meals_needed
+      label: Meals or Refreshments Needed
+      hint: Will food be provided
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Provide your own
+      required: false
+    - id: 28
+      name: accommodation_needed
+      label: Overnight Accommodation Needed
+      hint: Will participants need lodging
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Some participants
+      required: false
+    - id: 29
+      name: accessibility_requirements
+      label: Accessibility Requirements
+      hint: Any accommodations for attendees
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: budget_range
+      label: Budget Range for Workshop
+      hint: What you can spend
+      type: select_one
+      options:
+      - Under $1000
+      - $1000-$2500
+      - $2500-$5000
+      - $5000-$10000
+      - $10000+
+      - Flexible
+      required: false
+    - id: 31
+      name: section_trainer_preferences
+      label: -- Trainer Preferences --
+      hint: What you are looking for in a trainer
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: trainer_experience_level
+      label: Desired Trainer Experience
+      hint: Years of experience needed
+      type: select_one
+      options:
+      - Entry Level
+      - Intermediate (5-10 years)
+      - Advanced (10+ years)
+      - Certified Professional
+      - No preference
+      required: false
+    - id: 33
+      name: trainer_specialization
+      label: Trainer Specialization Preferred
+      hint: Specific expertise needed
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Any other information
+      type: text
+      options: []
+      required: false

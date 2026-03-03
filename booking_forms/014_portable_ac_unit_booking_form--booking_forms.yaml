@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Portable AC Unit Booking Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: unit_type
+      label: Unit Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: unit_size
+      label: Unit Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: special_request
+      label: Special Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 10
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: unit_status
+      label: Unit Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Unavailable
+      - Reserved
+      required: false
+    - id: 12
+      name: customer_type
+      label: Customer Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: unit_address
+      label: Unit Address
+      hint: null
+      type: text
+      options: []
+      required: false

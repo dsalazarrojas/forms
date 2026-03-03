@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Certificate Request Form
+    pages:
+    - id: 1
+      name: user_business
+      label: is your business or company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vendor_type
+      label: what type of vendor or entity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: upload_certificate
+      label: upload your certificate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supporting_documents
+      label: supporting documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: upload_additional_documents
+      label: upload additional documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_name
+      label: business name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: insurance_type
+      label: what kind of insurance
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 8
+      name: certificate_request
+      label: certificate request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: certificate_issue_date
+      label: certificate issue date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: certificate_effective_date
+      label: certificate effective date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: certificate_expire_date
+      label: certificate expire date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: upload_proof_of_insurance
+      label: upload proof of insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: upload_proof_of_insurance2
+      label: upload proof of insurance 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: upload_proof_of_insurance3
+      label: upload proof of insurance 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: upload_proof_of_insurance4
+      label: upload proof of insurance 4
+      hint: null
+      type: text
+      options: []
+      required: false

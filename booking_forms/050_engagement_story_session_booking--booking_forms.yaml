@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Engagement Story Session Booking
+    pages:
+    - id: 1
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_dates
+      label: Schedule Session
+      hint: null
+      type: select_multiple
+      options:
+      - '2024-01-01'
+      - '2024-01-02'
+      - '2024-01-03'
+      required: false
+    - id: 3
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: photographer
+      label: Photographer
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      required: false
+    - id: 5
+      name: client
+      label: Client
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: booking_notes
+      label: Booking Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: session_location
+      label: Session Location
+      hint: null
+      type: select_multiple
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: false
+    - id: 10
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

@@ -1,0 +1,241 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Continuity Plan Checklist Template
+    pages:
+      - id: 1
+        name: checklist_header
+        label: -- Business Continuity Plan Checklist --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: review_date
+        label: Checklist Review Date
+        hint: Date of this checklist completion
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: reviewer_name
+        label: Reviewed By
+        hint: Name of reviewer
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: department_name
+        label: Department or Division
+        hint: Which department is this for
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: planning_elements
+        label: -- Planning Elements --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: vision_defined
+        label: Business Continuity Vision Defined
+        hint: Is BC vision documented
+        type: select_one
+        options:
+          - Yes
+          - No
+          - In Progress
+        required: true
+      - id: 7
+        name: goals_established
+        label: BC Goals and Objectives Established
+        hint: Are goals clearly defined
+        type: select_one
+        options:
+          - Yes
+          - No
+          - In Progress
+        required: true
+      - id: 8
+        name: scope_defined
+        label: Scope of BC Plan Defined
+        hint: Is scope documented
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Needs Revision
+        required: true
+      - id: 9
+        name: assessment
+        label: -- Risk and Business Impact Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: risk_assessment
+        label: Risk Assessment Completed
+        hint: Identified key risks
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Partial
+        required: true
+      - id: 11
+        name: business_impact_analysis
+        label: Business Impact Analysis (BIA) Done
+        hint: Analyzed impact of disruptions
+        type: select_one
+        options:
+          - Yes
+          - No
+          - In Progress
+        required: true
+      - id: 12
+        name: critical_function_analysis
+        label: Critical Function Analysis Completed
+        hint: Identified critical operations
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Partial
+        required: true
+      - id: 13
+        name: continuity_team
+        label: -- Continuity Team --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: team_established
+        label: BC Team Established
+        hint: Team appointed and trained
+        type: select_one
+        options:
+          - Yes
+          - No
+          - In Formation
+        required: true
+      - id: 15
+        name: roles_defined
+        label: Roles and Responsibilities Defined
+        hint: Clear role assignments
+        type: select_one
+        options:
+          - Yes, detailed
+          - Yes, basic
+          - No
+        required: true
+      - id: 16
+        name: contact_tree
+        label: Contact Tree/Notification List
+        hint: Emergency contact procedures
+        type: select_one
+        options:
+          - Yes, current
+          - Yes, outdated
+          - No
+        required: true
+      - id: 17
+        name: recovery_strategies
+        label: -- Recovery Strategies --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: strategies_documented
+        label: Recovery Strategies Documented
+        hint: RTO and RPO defined
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Partial
+        required: true
+      - id: 19
+        name: backup_facilities
+        label: Backup Facilities Secured
+        hint: Alternate work sites identified
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Planned
+        required: true
+      - id: 20
+        name: data_protection
+        label: Data Protection and Backup
+        hint: Backup procedures in place
+        type: select_one
+        options:
+          - Yes, comprehensive
+          - Yes, partial
+          - No
+        required: true
+      - id: 21
+        name: testing
+        label: -- Testing and Exercises --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: plan_tested
+        label: Plan Has Been Tested
+        hint: Tested with full simulation
+        type: select_one
+        options:
+          - Yes, recently
+          - Yes, over 1 year ago
+          - No
+        required: true
+      - id: 23
+        name: test_results_documented
+        label: Test Results Documented
+        hint: Findings recorded
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Partial
+        required: true
+      - id: 24
+        name: training_completed
+        label: Staff Training Completed
+        hint: Team trained on procedures
+        type: select_one
+        options:
+          - Yes, comprehensive
+          - Yes, basic
+          - No
+        required: true
+      - id: 25
+        name: overall_status
+        label: Overall Checklist Status
+        hint: Current plan readiness
+        type: select_one
+        options:
+          - Fully Ready
+          - Mostly Ready
+          - Partially Ready
+          - Needs Work
+          - Not Ready
+        required: true

@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Short Film Production Reservation Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_description
+      label: project-description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: equipment
+      label: equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: start_date
+      label: start-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: end-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: start-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: end-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: contact_name
+      label: contact-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: contact-email
+      hint: Contact E-Mail
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: contact-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_note
+      label: contact-note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_user
+      label: assigned-user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: project_notes
+      label: project-notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: location_notes
+      label: location-notes
+      hint: null
+      type: text
+      options: []
+      required: false

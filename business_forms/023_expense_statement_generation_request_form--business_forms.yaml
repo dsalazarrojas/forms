@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Statement Generation Request Form
+    pages:
+    - id: 1
+      name: expense_statement_form
+      label: expense_statement_generation_request_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: period_from
+      label: period_from
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: period_to
+      label: period_to
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: expense_type
+      label: expense_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Company expense''}'
+      - '{''id'': 2, ''label'': ''Personal expense''}'
+      required: false
+    - id: 7
+      name: category
+      label: expense_category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Travel''}'
+      - '{''id'': 2, ''label'': ''Food''}'
+      - '{''id'': 3, ''label'': ''Accommodation''}'
+      - '{''id'': 4, ''label'': ''Entertainment''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: expense_amount
+      label: expense_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: receipt_attachment
+      label: upload_reimbursement_receipt
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit_button
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: employee_signature
+      label: employee_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: manager_signature
+      label: manager_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: date_signed
+      label: date_signed
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Author Bio Form
+    pages:
+    - id: 1
+      name: submission_date
+      label: Submission Date
+      hint: When you are submitting your bio
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: author_name
+      label: Author Name
+      hint: Your full name or pen name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: author_email
+      label: Email Address
+      hint: Your professional email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: author_phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: writing_genre
+      label: Primary Writing Genre
+      hint: What do you primarily write
+      type: select_one
+      options:
+      - Fiction
+      - Non-Fiction
+      - Poetry
+      - Journalism
+      - Academic
+      - Self-Help
+      - Business
+      - Children Literature
+      - Other
+      required: true
+    - id: 6
+      name: years_writing
+      label: Years of Writing Experience
+      hint: How long have you been writing
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: books_published
+      label: Number of Books Published
+      hint: How many books have you published
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: publications_featured
+      label: Publications Where Work Appears
+      hint: Magazines, journals, websites, etc
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: awards_recognition
+      label: Awards and Recognition
+      hint: Any literary awards received
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: education_background
+      label: Educational Background
+      hint: Relevant degrees or training
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: professional_credentials
+      label: Professional Credentials
+      hint: Any relevant certifications
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: professional_interests
+      label: Professional Interests and Expertise
+      hint: Areas of expertise or interest
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: bio_short
+      label: Short Bio - 50 words
+      hint: Brief bio for author boxes
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: bio_medium
+      label: Medium Bio - 150 words
+      hint: Standard bio for publications
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: bio_long
+      label: Long Bio - 300 words
+      hint: Detailed bio if needed
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: website_url
+      label: Personal Website or Blog
+      hint: Your website URL
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: social_media_twitter
+      label: Twitter Handle
+      hint: Your Twitter/X handle
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: social_media_linkedin
+      label: LinkedIn Profile
+      hint: Your LinkedIn URL
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: social_media_instagram
+      label: Instagram Handle
+      hint: Your Instagram username
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: social_media_other
+      label: Other Social Media
+      hint: Other professional profiles
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: author_photo
+      label: Author Photo Available
+      hint: Do you have a photo for bio
+      type: select_one
+      options:
+      - Yes - Will Attach
+      - Yes - Already Provided
+      - No - Not Available
+      - Will Provide Later
+      required: true
+    - id: 22
+      name: photo_permission
+      label: Photo Usage Permission
+      hint: We can use your photo in bios
+      type: select_one
+      options:
+      - Yes - Permitted
+      - No - Not Permitted
+      - With Attribution Only
+      required: false
+    - id: 23
+      name: contact_consent
+      label: Contact Permission
+      hint: May we contact you about opportunities
+      type: select_one
+      options:
+      - Yes - Contact Me
+      - No - Do Not Contact
+      required: true

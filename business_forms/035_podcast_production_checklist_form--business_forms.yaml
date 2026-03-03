@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: podcast_production_checklist_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: podcast_description
+      label: Podcast Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: select_one
+      options:
+      - General
+      - Specific
+      required: true
+    - id: 4
+      name: episode_duration
+      label: Episode Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: release_schedule
+      label: Release Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 6
+      name: podcast_length
+      label: Podcast Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: audio_format
+      label: Audio Format
+      hint: null
+      type: select_one
+      options:
+      - MP3
+      - WAV
+      required: false
+    - id: 8
+      name: audio_bitrate
+      label: Audio Bitrate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: podcast_cover_art
+      label: Podcast Cover Art
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: social_media
+      label: Social Media
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      required: false
+    - id: 11
+      name: podcast_host
+      label: Podcast Host
+      hint: null
+      type: select_one
+      options:
+      - Host
+      - Co-Host
+      - Guest
+      required: true
+    - id: 12
+      name: recording_equipment
+      label: Recording Equipment
+      hint: null
+      type: select_one
+      options:
+      - External
+      - Internal
+      required: false
+    - id: 13
+      name: recording_location
+      label: Recording Location
+      hint: null
+      type: select_one
+      options:
+      - Studio
+      - Home
+      - Other
+      required: false
+    - id: 14
+      name: podcast_release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: episode_number
+      label: Episode Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: episode_title
+      label: Episode Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: episode_description
+      label: Episode Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: podcast_tagline
+      label: Podcast Tagline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: podcast_description
+      label: Podcast Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: podcast_category
+      label: Podcast Category
+      hint: null
+      type: select_multiple
+      options:
+      - General
+      - Entertainment
+      required: false
+    - id: 21
+      name: release_time
+      label: Release Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: recording_date
+      label: Recording Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: episode_date
+      label: Episode Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: episode_time
+      label: Episode Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: recording_time
+      label: Recording Time
+      hint: null
+      type: time
+      options: []
+      required: false

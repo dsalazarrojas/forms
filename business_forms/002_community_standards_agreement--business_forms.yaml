@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Standards Agreement
+    pages:
+    - id: 1
+      name: member_full_name
+      label: Full Legal Name
+      hint: As it appears on official documents
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: member_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: member_phone
+      label: Phone Number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: membership_id
+      label: Membership ID Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: membership_type
+      label: Type of Membership
+      hint: Select your membership category
+      type: select_one
+      options:
+      - Full Member
+      - Associate Member
+      - Student Member
+      - Senior Member
+      - Family Member
+      - Corporate Member
+      - Trial Member
+      required: true
+    - id: 6
+      name: join_date
+      label: Membership Start Date
+      hint: When did you join the community?
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_read_standards
+      label: -- Community Standards Overview --
+      hint: Please read the following carefully
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: read_code_of_conduct
+      label: I have read and understand the Code of Conduct
+      hint: This includes all behavioral expectations
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: read_privacy_policy
+      label: I have read and understand the Privacy Policy
+      hint: How we handle your personal information
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: read_communication_guidelines
+      label: I have read and understand the Communication Guidelines
+      hint: Rules for respectful and constructive dialogue
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: agree_respectful_behavior
+      label: I agree to treat all community members with respect and dignity
+      hint: Regardless of background, beliefs, or opinions
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 12
+      name: agree_no_harassment
+      label: I agree to refrain from harassment, discrimination, or bullying
+      hint: Creating a safe space for everyone
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 13
+      name: agree_constructive_communication
+      label: I agree to communicate constructively and professionally
+      hint: Even during disagreements
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 14
+      name: agree_confidentiality
+      label: I agree to respect confidentiality when required
+      hint: Not sharing private information without consent
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 15
+      name: agree_report_violations
+      label: I agree to report violations of community standards
+      hint: Helping maintain a positive environment
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 16
+      name: understand_consequences
+      label: I understand that violations may result in membership termination
+      hint: Including loss of access and privileges
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 17
+      name: additional_acknowledgments
+      label: Are there any additional standards you wish to acknowledge?
+      hint: Optional personal commitments
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: agreement_date
+      label: Date of Agreement
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: agreement_time
+      label: Time of Agreement
+      hint: Current time
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: electronic_signature
+      label: Electronic Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true

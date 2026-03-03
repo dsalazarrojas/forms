@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Agent Booking Form
+    pages:
+    - id: 1
+      name: travel_agent_booking_form
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: travel_agent_details
+      label: Travel Agent Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_agent_name
+      label: Travel Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: travel_agent_phone
+      label: Travel Agent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: booking_details
+      label: Booking Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: travel_agent_comment
+      label: Travel Agent Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: client_confirmation
+      label: Client Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 14
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: select_multiple
+      options:
+      - Submit
+      - Save for Later
+      - Cancel
+      required: false

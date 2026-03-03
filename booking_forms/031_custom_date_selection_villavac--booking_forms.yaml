@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Date Selection VillaVac
+    pages:
+    - id: 1
+      name: villavac_form_data
+      label: villavac_form_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: villavac_custom_date
+      label: villavac_custom_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: villavac_price
+      label: villavac_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: villavac_price_currency
+      label: villavac_price_currency
+      hint: null
+      type: select_one
+      options:
+      - EUR
+      - USD
+      - GBP
+      - JPY
+      - CNY
+      required: false
+    - id: 5
+      name: villavac_payment_method
+      label: villavac_payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      - Cash
+      required: false
+    - id: 6
+      name: villavac_payment_method_other
+      label: villavac_payment_method_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: villavac_note
+      label: villavac_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: villavac_email
+      label: villavac_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: villavac_phone
+      label: villavac_phone
+      hint: null
+      type: text
+      options: []
+      required: false

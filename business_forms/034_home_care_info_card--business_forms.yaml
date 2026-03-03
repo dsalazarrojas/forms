@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Care Info Card
+    pages:
+    - id: 1
+      name: home_care_info_card_page
+      label: Home Care Info Card
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_data
+      label: client_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_info
+      label: client_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''phone''}'
+      - '{''value'': ''email''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 5
+      name: contact_method_other
+      label: contact_method_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: fax
+      label: fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: home_visit
+      label: home_visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: next_visit
+      label: next_visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_info
+      label: medical_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medication
+      label: medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: allergy
+      label: allergy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medication_allergy
+      label: medication_allergy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: home_visit_status
+      label: home_visit_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''completed''}'
+      - '{''value'': ''pending''}'
+      - '{''value'': ''not_visited''}'
+      required: false
+    - id: 22
+      name: home_visit_status_other
+      label: home_visit_status_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: visit_details
+      label: visit_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''completed''}'
+      - '{''value'': ''pending''}'
+      - '{''value'': ''not_completed''}'
+      required: false
+    - id: 25
+      name: follow_up_status_other
+      label: follow_up_status_other
+      hint: null
+      type: text
+      options: []
+      required: false

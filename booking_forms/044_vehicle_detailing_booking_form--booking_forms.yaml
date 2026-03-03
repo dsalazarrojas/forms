@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Detailing Booking Form
+    pages:
+    - id: 1
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: select_one
+      options:
+      - Ford
+      - Toyota
+      - Honda
+      - Nissan
+      - Kia
+      required: false
+    - id: 3
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_colour
+      label: Vehicle Colour
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Black
+      required: false
+    - id: 5
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Wash
+      - Polish
+      - Detail
+      - Paint
+      - Repair
+      required: false
+    - id: 11
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_registration
+      label: Vehicle Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_postal_code
+      label: Customer Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_city
+      label: Customer City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_province
+      label: Customer Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_country
+      label: Customer Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_zip
+      label: Customer Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vehicle_vin
+      label: Vehicle VIN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: appointment_note
+      label: Appointment Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Truck
+      - Motorcycle
+      - Van
+      - Boat
+      required: false
+    - id: 24
+      name: customer_vehicle_type
+      label: Customer Vehicle Type
+      hint: null
+      type: select_multiple
+      options:
+      - Car
+      - Truck
+      - Motorcycle
+      - Van
+      - Boat
+      required: false
+    - id: 25
+      name: service_cost
+      label: Service Cost
+      hint: null
+      type: number
+      options: []
+      required: false

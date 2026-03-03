@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Irrigation System Maintenance Inspection Form
+    pages:
+    - id: 1
+      name: irrigation_system_id
+      label: Irrigation System Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: inspector_id
+      label: Inspector Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: system_name
+      label: System Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: system_status
+      label: System Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''name'': ''Active''}'
+      - '{''id'': 1, ''name'': ''Inactive''}'
+      - '{''id'': 2, ''name'': ''Maintenance Required''}'
+      required: false
+    - id: 6
+      name: pump_id
+      label: Pump Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: pump_location
+      label: Pump Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: pump_capacity
+      label: Pump Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: pump_status
+      label: Pump Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''name'': ''Active''}'
+      - '{''id'': 1, ''name'': ''Inactive''}'
+      - '{''id'': 2, ''name'': ''Maintenance Required''}'
+      required: false
+    - id: 10
+      name: valve_id
+      label: Valve Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: valve_location
+      label: Valve Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: valve_status
+      label: Valve Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''name'': ''Active''}'
+      - '{''id'': 1, ''name'': ''Inactive''}'
+      - '{''id'': 2, ''name'': ''Maintenance Required''}'
+      required: false
+    - id: 13
+      name: controller_id
+      label: Controller Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: controller_status
+      label: Controller Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''name'': ''Active''}'
+      - '{''id'': 1, ''name'': ''Inactive''}'
+      - '{''id'': 2, ''name'': ''Maintenance Required''}'
+      required: false
+    - id: 15
+      name: sprinkler_id
+      label: Sprinkler Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: sprinkler_location
+      label: Sprinkler Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: sprinkler_capacity
+      label: Sprinkler Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: sprinkler_status
+      label: Sprinkler Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''name'': ''Active''}'
+      - '{''id'': 1, ''name'': ''Inactive''}'
+      - '{''id'': 2, ''name'': ''Maintenance Required''}'
+      required: false
+    - id: 19
+      name: main_pump_id
+      label: Main Pump Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: main_pump_location
+      label: Main Pump Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: main_pump_status
+      label: Main Pump Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''name'': ''Active''}'
+      - '{''id'': 1, ''name'': ''Inactive''}'
+      - '{''id'': 2, ''name'': ''Maintenance Required''}'
+      required: false
+    - id: 22
+      name: check_date
+      label: Check Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: check_user_id
+      label: Check User Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: check_notes
+      label: Check Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: check_status
+      label: Check Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''name'': ''Complete''}'
+      - '{''id'': 1, ''name'': ''Incomplete''}'
+      - '{''id'': 2, ''name'': ''Maintenance Required''}'
+      required: false

@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Room Reservation Access Form
+    pages:
+    - id: 1
+      name: user
+      label: user
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_start
+      label: date_start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_start
+      label: time_start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: date_end
+      label: date_end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_end
+      label: time_end
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: room
+      label: room
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: user_email
+      label: user_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: user_phone
+      label: user_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: preferred_room
+      label: preferred_room
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 11
+      name: room_availability
+      label: room_availability
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 12
+      name: date_format
+      label: date_format
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 13
+      name: time_format
+      label: time_format
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: timezone
+      label: timezone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: user_email
+      label: user_email
+      hint: null
+      type: email
+      options: []
+      required: false

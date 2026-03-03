@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Postproduction Editing Booking Form
+    pages:
+    - id: 1
+      name: section_requestor
+      label: -- Requestor and Project Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requestor_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: production_title
+      label: Project or Production Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: production_type
+      label: Type of Production
+      hint: null
+      type: select_one
+      options:
+      - Feature Film
+      - Short Film
+      - Podcast Series
+      - Radio Commercial
+      - Social Media Video
+      - Corporate Presentation
+      - Music Video
+      required: true
+    - id: 5
+      name: section_editing_details
+      label: -- Editing Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: services_requested
+      label: Services Requested
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Dialogue Cleaning and Editing
+      - Noise Reduction (Denoise/Dereverb)
+      - Sound Design and Foley
+      - ADR Recording/Sync
+      - Music Placement/Supervision
+      - Final Stereo Mix
+      - 5.1 Surround Mix
+      required: true
+    - id: 7
+      name: total_duration_minutes
+      label: Total Duration of Audio (Minutes)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: source_format
+      label: Source File Format
+      hint: null
+      type: select_one
+      options:
+      - Pro Tools Session
+      - OMF/AAF (from Premiere/Final Cut)
+      - Stems (Individual WAV files)
+      - Single Mixed Track
+      required: true
+    - id: 9
+      name: section_schedule
+      label: -- Schedule and Delivery --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: expected_start_date
+      label: Expected Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: expected_finish_date
+      label: Deadline for Final Delivery
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: files_location_link
+      label: Link to Project Files
+      hint: URL to cloud storage
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: special_instructions
+      label: Specific Creative Instructions
+      hint: e.g., Style of sound design, mood of the mix
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

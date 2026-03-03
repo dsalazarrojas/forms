@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Studio Broadcast Booking Form
+    pages:
+    - id: 1
+      name: booking_form
+      label: Booking Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: booking_dates
+      label: booking_dates
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: broadcast_date
+      label: broadcast_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: broadcast_time
+      label: broadcast_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: broadcast_duration
+      label: broadcast_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: broadcast_type
+      label: broadcast_type
+      hint: null
+      type: select_one
+      options:
+      - Broadcasting
+      - Live
+      - Pre-recorded
+      required: false
+    - id: 9
+      name: broadcast_details
+      label: broadcast_details
+      hint: null
+      type: text
+      options: []
+      required: false

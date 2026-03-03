@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Work Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company or Organization
+      hint: Leave blank if personal request
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_type
+      label: Type of Artwork Requested
+      hint: null
+      type: select_one
+      options:
+      - Illustration
+      - Mural
+      - Digital Design
+      - Painting
+      - Branding/Logo
+      - Other
+      required: true
+    - id: 5
+      name: project_description
+      label: Detailed Project Description
+      hint: Please include subject matter and style
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: target_dimensions
+      label: Target Dimensions
+      hint: e.g. 5x7 feet, 1920x1080 pixels
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: material_preferences
+      label: Material or Software Preferences
+      hint: e.g. Oil, Watercolor, Photoshop
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: budget_range
+      label: Expected Budget Range
+      hint: Provide a maximum in USD
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: desired_deadline
+      label: Desired Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: usage_rights
+      label: Intended Usage Rights
+      hint: null
+      type: select_one
+      options:
+      - Personal Use Only
+      - Commercial Use
+      - Full Copyright Transfer
+      required: true

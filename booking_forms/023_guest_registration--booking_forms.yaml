@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Registration
+    pages:
+    - id: 1
+      name: guest_registration_form
+      label: guest_registration_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: guest_name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guest_email
+      label: guest_email
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: checkin_date
+      label: checkin_date
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: checkin_time
+      label: checkin_time
+      hint: 'null'
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: guest_phone
+      label: guest_phone
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: guest_note
+      label: guest_note
+      hint: 'null'
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: guest_checkin_date
+      label: guest_checkin_date
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: guest_checkin_time
+      label: guest_checkin_time
+      hint: 'null'
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: guest_checkout_date
+      label: guest_checkout_date
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: guest_checkout_time
+      label: guest_checkout_time
+      hint: 'null'
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: guest_room
+      label: guest_room
+      hint: 'null'
+      type: select_one
+      options:
+      - Guest Room 1
+      - Guest Room 2
+      - Guest Room 3
+      required: false
+    - id: 13
+      name: guest_stay_length
+      label: guest_stay_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: guest_stay_type
+      label: guest_stay_type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false
+    - id: 15
+      name: guest_rate
+      label: guest_rate
+      hint: null
+      type: select_one
+      options:
+      - Rate 1
+      - Rate 2
+      - Rate 3
+      required: false

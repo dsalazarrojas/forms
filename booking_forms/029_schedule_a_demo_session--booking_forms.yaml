@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Schedule A Demo Session
+    pages:
+    - id: 1
+      name: demo_session_request
+      label: Demo Session Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: selected_demos
+      label: Selected Demos
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Demo Session 1''}'
+      - '{''value'': ''Demo Session 2''}'
+      - '{''value'': ''Demo Session 3''}'
+      required: false
+    - id: 3
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: meeting_duration
+      label: Meeting Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

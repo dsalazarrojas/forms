@@ -1,0 +1,311 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Compensation Benchmark Data Request Form
+    pages:
+      - id: 1
+        name: request_date
+        label: Request Date
+        hint: Date of submission
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: requester_name
+        label: Requester Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: requester_email
+        label: Requester Email
+        hint: Your email address
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: requester_title
+        label: Requester Title
+        hint: Your job title
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: department
+        label: Department
+        hint: Your department
+        type: select_one
+        options:
+          - Human Resources
+          - Finance
+          - Compensation
+          - Executive
+          - Business Unit
+          - Other
+        required: true
+      - id: 6
+        name: request_type
+        label: Type of Benchmark Data
+        hint: What data are you requesting
+        type: select_one
+        options:
+          - Salary survey data
+          - Market pricing analysis
+          - Industry compensation trends
+          - Geographic differential data
+          - Executive compensation
+          - Benefits benchmarking
+          - Total rewards comparison
+          - Custom analysis
+        required: true
+      - id: 7
+        name: job_roles
+        label: Job Roles to Benchmark
+        hint: Which positions need benchmarking
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: job_levels
+        label: Job Levels
+        hint: Select applicable levels
+        type: select_multiple
+        options:
+          - Entry Level
+          - Junior
+          - Mid-Level
+          - Senior
+          - Lead or Principal
+          - Manager
+          - Senior Manager
+          - Director
+          - Executive
+        required: true
+      - id: 9
+        name: industry_focus
+        label: Industry Focus
+        hint: Which industries to compare
+        type: select_multiple
+        options:
+          - Technology
+          - Healthcare
+          - Finance
+          - Manufacturing
+          - Retail
+          - Professional Services
+          - Education
+          - Government
+          - Non-profit
+          - Other
+        required: true
+      - id: 10
+        name: geographic_scope
+        label: Geographic Scope
+        hint: Locations to include
+        type: select_one
+        options:
+          - National - US only
+          - North America
+          - Europe
+          - Asia Pacific
+          - Global
+          - Specific regions
+        required: true
+      - id: 11
+        name: specific_locations
+        label: Specific Locations
+        hint: List cities or regions if specific
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: company_size
+        label: Company Size for Comparison
+        hint: Peer company size
+        type: select_one
+        options:
+          - Startups - under 50
+          - Small - 50 to 200
+          - Medium - 200 to 1000
+          - Large - 1000 to 5000
+          - Enterprise - over 5000
+          - All sizes
+        required: true
+      - id: 13
+        name: data_sources
+        label: Preferred Data Sources
+        hint: Which survey sources
+        type: select_multiple
+        options:
+          - Radford
+          - Mercer
+          - Willis Towers Watson
+          - Aon Hewitt
+          - Payscale
+          - Salary.com
+          - Glassdoor
+          - LinkedIn Salary
+          - Any available source
+        required: true
+      - id: 14
+        name: data_elements
+        label: Data Elements Needed
+        hint: What specific data points
+        type: select_multiple
+        options:
+          - Base salary percentiles
+          - Bonus targets
+          - Equity compensation
+          - Total cash compensation
+          - Total direct compensation
+          - Benefits value
+          - Pay ranges
+          - Market trends
+        required: true
+      - id: 15
+        name: percentile_focus
+        label: Percentile Focus
+        hint: Which market percentiles
+        type: select_multiple
+        options:
+          - 25th percentile
+          - 50th percentile - median
+          - 75th percentile
+          - 90th percentile
+          - All percentiles
+        required: true
+      - id: 16
+        name: purpose
+        label: Purpose of Request
+        hint: How will data be used
+        type: select_one
+        options:
+          - Annual compensation review
+          - New role creation
+          - Promotion decisions
+          - Market adjustment
+          - Budget planning
+          - Executive compensation
+          - Merger or acquisition
+          - Other
+        required: true
+      - id: 17
+        name: urgency
+        label: Request Urgency
+        hint: When do you need this
+        type: select_one
+        options:
+          - Within 1 week
+          - Within 2 weeks
+          - Within 1 month
+          - Within quarter
+          - No specific deadline
+        required: true
+      - id: 18
+        name: deadline_date
+        label: Required By Date
+        hint: When is this needed
+        type: date
+        options: []
+        required: true
+      - id: 19
+        name: budget_code
+        label: Budget Code
+        hint: If applicable for paid data
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: stakeholders
+        label: Other Stakeholders
+        hint: Who else needs this data
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: previous_requests
+        label: Have you requested before
+        hint: Prior benchmark requests
+        type: select_one
+        options:
+          - No - first request
+          - Yes - within past year
+          - Yes - over a year ago
+        required: true
+      - id: 22
+        name: format_preference
+        label: Preferred Format
+        hint: How do you want data delivered
+        type: select_one
+        options:
+          - Excel spreadsheet
+          - PDF report
+          - PowerPoint summary
+          - Interactive dashboard
+          - No preference
+        required: true
+      - id: 23
+        name: presentation_needed
+        label: Do you need a presentation
+        hint: Walkthrough of findings
+        type: select_one
+        options:
+          - Yes - formal presentation
+          - Yes - brief overview
+          - No - data only
+        required: true
+      - id: 24
+        name: confidentiality_level
+        label: Confidentiality Level
+        hint: Data sensitivity
+        type: select_one
+        options:
+          - Public - can share broadly
+          - Internal - company only
+          - Confidential - leadership only
+          - Highly confidential - restricted
+        required: true
+      - id: 25
+        name: additional_requirements
+        label: Additional Requirements
+        hint: Any special needs
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: approval_status
+        label: Approval Status
+        hint: For compensation team use
+        type: select_one
+        options:
+          - Pending approval
+          - Approved
+          - Denied
+          - More information needed
+        required: false
+      - id: 27
+        name: assigned_to
+        label: Assigned To
+        hint: Compensation analyst assigned
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other information
+        type: text
+        options: []
+        required: false

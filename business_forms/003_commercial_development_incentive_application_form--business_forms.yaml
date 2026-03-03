@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Development Incentive Application Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_address
+      label: Project address
+      hint: Address of proposed development
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_contact
+      label: Applicant contact name
+      hint: Primary contact for this application
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Email for application correspondence
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact phone number
+      hint: Optional direct phone
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_description
+      label: Brief project description
+      hint: Summary of development and goals
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: estimated_total_cost
+      label: Estimated total project cost
+      hint: Enter whole numbers in local currency
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: incentive_requested
+      label: Incentive requested
+      hint: Describe the type and amount of incentive sought
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: number_of_jobs_created
+      label: Number of jobs expected to be created
+      hint: Enter whole number estimate
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: anticipated_start_date
+      label: Anticipated project start date
+      hint: Expected commencement date
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: supporting_documents
+      label: Supporting documents provided
+      hint: List documents e g plans permits financing
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: certification_and_signature
+      label: Certification and digital signature intent
+      hint: Applicant certifies accuracy and agrees to terms
+      type: select_one
+      options:
+      - I certify the information is accurate
+      - I do not certify
+      required: true

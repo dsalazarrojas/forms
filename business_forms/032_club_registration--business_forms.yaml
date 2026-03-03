@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Registration
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_contact
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: club_interest
+      label: Club of Interest
+      hint: Which club are you registering for
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: registration_type
+      label: Registration Type
+      hint: Select your registration
+      type: select_one
+      options:
+      - New Member
+      - Renewal
+      - Guest
+      - Alumni
+      required: true
+    - id: 8
+      name: membership_level
+      label: Membership Level
+      hint: Select your membership type
+      type: select_one
+      options:
+      - Basic
+      - Standard
+      - Premium
+      - VIP
+      - Lifetime
+      required: true
+    - id: 9
+      name: membership_fee
+      label: Membership Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: event_participation
+      label: Interested in Event Participation
+      hint: Which events interest you
+      type: select_multiple
+      options:
+      - Monthly Meetings
+      - Annual Gala
+      - Workshops
+      - Networking Events
+      - Volunteer Opportunities
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Check
+      - Cash
+      - Bank Transfer
+      required: true
+    - id: 12
+      name: additional_family
+      label: Additional Family Members
+      hint: Are other family members joining
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: special_accommodations
+      label: Special Accommodations
+      hint: Any accessibility needs
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Word of Mouth
+      - Social Media
+      - Website
+      - Email
+      - Advertisement
+      - Other
+      required: false
+    - id: 15
+      name: terms_agreement
+      label: I Agree to Membership Terms
+      hint: Must agree to continue
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

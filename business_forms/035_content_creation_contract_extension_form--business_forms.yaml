@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Creation Contract Extension Form
+    pages:
+    - id: 1
+      name: section_original_contract
+      label: -- Original Contract Details --
+      hint: Please provide the original contract's information below.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: original_contract_id
+      label: Original Contract Identification Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: creator_name
+      label: Content Creator Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_extension_terms
+      label: -- Extension Terms and Deliverables --
+      hint: Please share new terms and deliverables for the extension.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: extension_start_date
+      label: Extension Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: extension_end_date
+      label: Extension End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: new_deliverables_description
+      label: Description of New Deliverables
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: extension_compensation_amount
+      label: Compensation for the Extension
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_confirmation
+      label: -- Confirmation and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: extension_agreement_signed
+      label: Extension Agreement Signed?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: signature_confirmation
+      label: I confirm that the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 13
+      name: privacy_agreement
+      label: I have read and agree to the privacy policy regarding my data
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: date_of_extension
+      label: Date of Extension Agreement
+      hint: null
+      type: date
+      options: []
+      required: true

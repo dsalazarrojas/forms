@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contingency Plan Report Form
+    pages:
+    - id: 1
+      name: report_intro_header
+      label: -- Contingency Strategy Report --
+      hint: Documenting potential risks and planned response strategies
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: department_name
+      label: Department/Business Unit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: report_date
+      label: Report Creation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: risk_identification_header
+      label: -- Risk Identification --
+      hint: Define the threat being planned for
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: risk_category
+      label: Primary Risk Category
+      hint: null
+      type: select_one
+      options:
+      - Natural Disaster (Flood, Storm, Fire)
+      - Cyber Attack or Data Breach
+      - Global Pandemic/Health Crisis
+      - Supply Chain Disruption
+      - Utility Failure (Power, Water, IT)
+      - Financial/Economic Crisis
+      required: true
+    - id: 6
+      name: risk_probability
+      label: Probability of Occurrence
+      hint: 1 = Very Low, 5 = Very High
+      type: select_one
+      options:
+      - 1 - Improbable
+      - 2 - Unlikely
+      - 3 - Moderate
+      - 4 - Probable
+      - 5 - Highly Probable
+      required: true
+    - id: 7
+      name: impact_level_header
+      label: -- Business Impact Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: estimated_downtime
+      label: Estimated Maximum Acceptable Downtime (Hours)
+      hint: How long can the business survive without this function
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: impact_description
+      label: Describe the Impact on Operations
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: mitigation_steps_header
+      label: -- Mitigation and Response --
+      hint: Action steps to be taken
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: primary_response_strategy
+      label: Primary Mitigation Strategy
+      hint: What is the main action to reduce risk
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: alternative_work_site
+      label: Is an alternative work site identified
+      hint: null
+      type: select_one
+      options:
+      - Yes - Physical Location Ready
+      - Yes - Remote Work Fully Enabled
+      - No - In Development
+      required: true
+    - id: 13
+      name: resource_needs
+      label: Critical Resources Required for Recovery
+      hint: e.g., Generators, Backup Servers, Specialized Staff
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: last_testing_date
+      label: Date of Last Simulation/Test
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: report_author
+      label: Report Prepared By
+      hint: null
+      type: text
+      options: []
+      required: true

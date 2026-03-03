@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Floor Survey
+    pages:
+    - id: 1
+      name: building_type
+      label: building type
+      hint: null
+      type: select_one
+      options:
+      - residential
+      - commercial
+      - industrial
+      required: false
+    - id: 2
+      name: location_id
+      label: location id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: location_name
+      label: location name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: building_name
+      label: building name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: floor_number
+      label: floor number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: room_number
+      label: room number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: building_inspector_name
+      label: building inspector name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: building_inspector_license_number
+      label: building inspector license number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: building_inspector_phone
+      label: building inspector phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: building_inspector_email
+      label: building inspector email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: building_inspector_notes
+      label: building inspector notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: building_inspector_assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - chatbot
+      - chatjimmy
+      required: false

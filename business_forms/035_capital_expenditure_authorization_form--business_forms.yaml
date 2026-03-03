@@ -1,0 +1,314 @@
+inputSchema:
+  type: object
+  properties:
+    title: Capital Expenditure Authorization Form
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Capital Expenditure Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: Request authorization for capital expenditures. Provide detailed information
+        for finance approval.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: requester_info_header
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: position_title
+      label: Position Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: manager_name
+      label: Direct Manager Name
+      hint: Manager's name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: expenditure_info_header
+      label: -- Expenditure Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: expenditure_type
+      label: Type of Expenditure
+      hint: Select one
+      type: select_one
+      options:
+      - Equipment purchase
+      - Technology/IT
+      - Infrastructure
+      - Facility improvement
+      - Vehicle
+      - Software/License
+      - Furniture
+      - Other
+      required: true
+    - id: 14
+      name: project_title
+      label: Project Title
+      hint: Brief title
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: project_description
+      label: Project Description
+      hint: Detailed description
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: business_justification
+      label: Business Justification
+      hint: Why is this expenditure needed
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: expected_benefits
+      label: Expected Benefits and ROI
+      hint: Describe benefits
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: cost_info_header
+      label: -- Cost Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: estimated_cost
+      label: Estimated Total Cost
+      hint: Dollar amount
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: cost_breakdown
+      label: Cost Breakdown
+      hint: Itemized costs
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: funding_source
+      label: Funding Source
+      hint: Select one
+      type: select_one
+      options:
+      - Operating budget
+      - Capital budget
+      - Grant funding
+      - Loan/Financing
+      - External funding
+      - Other
+      required: true
+    - id: 22
+      name: budget_available
+      label: Budget Status
+      hint: Select one
+      type: select_one
+      options:
+      - Fully funded from existing budget
+      - Partially funded, request allocation
+      - Not yet budgeted
+      - Contingency allocation
+      required: true
+    - id: 23
+      name: cost_center
+      label: Cost Center/Account Code
+      hint: For tracking
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: vendor_info_header
+      label: -- Vendor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: vendor_quotes
+      label: Number of Vendor Quotes Obtained
+      hint: Select one
+      type: select_one
+      options:
+      - 1 quote
+      - 2 quotes
+      - 3 plus quotes
+      - Not yet obtained
+      required: true
+    - id: 26
+      name: preferred_vendor
+      label: Preferred Vendor
+      hint: Vendor name
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: procurement_method
+      label: Procurement Method
+      hint: Select one
+      type: select_one
+      options:
+      - Competitive bidding
+      - Sole source
+      - Emergency purchase
+      - Blanket order
+      - Other
+      required: true
+    - id: 28
+      name: timeline_header
+      label: -- Timeline and Priority --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: requested_start_date
+      label: Requested Start/Purchase Date
+      hint: When is this needed
+      type: date
+      options: []
+      required: true
+    - id: 30
+      name: completion_date
+      label: Expected Completion/Installation Date
+      hint: When should it be complete
+      type: date
+      options: []
+      required: false
+    - id: 31
+      name: priority_level
+      label: Priority Level
+      hint: Select one
+      type: select_one
+      options:
+      - Critical - Immediate
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 32
+      name: approval_info_header
+      label: -- Approval Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: manager_approval_status
+      label: Manager Approval Status
+      hint: Select one
+      type: select_one
+      options:
+      - Approved
+      - Pending approval
+      - Not yet requested
+      required: true
+    - id: 34
+      name: budget_officer_input
+      label: Budget Officer Input/Review
+      hint: Optional notes
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: authorization_limit
+      label: Does This Require Executive Approval?
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, requires executive approval
+      - No, manager approval sufficient
+      - Unsure
+      required: true
+    - id: 36
+      name: insurance_implications
+      label: Any Insurance Implications?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: false
+    - id: 37
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: confirmation
+      label: I confirm that all information provided is accurate
+      hint: Required
+      type: select_one
+      options:
+      - Yes, I confirm
+      - 'No'
+      required: true

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Improvement Report Form
+    pages:
+    - id: 1
+      name: product_improvement_report_form
+      label: Product Improvement Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_id
+      label: Product Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: improvement_suggestion
+      label: Improvement Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submit_issue
+      label: Submit Issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_category
+      label: Product Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_subcategory
+      label: Subcategory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: suggest_improvement
+      label: Suggest Improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_one
+      options:
+      - Technical Issue
+      - Product Feature
+      - Service Issue
+      required: true
+    - id: 13
+      name: issue_priority
+      label: Issue Priority
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 14
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: issue_category
+      label: Issue Category
+      hint: null
+      type: select_one
+      options:
+      - Bug
+      - Feature Request
+      - Design Issue
+      - Service Issue
+      required: true
+    - id: 16
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: submitter_ip
+      label: Submitter IP
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: submitter_browser
+      label: Submitter Browser
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: issue_submitter
+      label: Issue Submitter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: product_version
+      label: Product Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: product_version_type
+      label: Product Version Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_agree
+      label: Agree
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: submitter_agree_other
+      label: Other (if yes, please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_agree_other_reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false

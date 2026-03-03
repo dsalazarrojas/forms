@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Room Subscription Form
+    pages:
+    - id: 1
+      name: subscriber_name
+      label: Subscriber Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: subscription_type
+      label: Subscription Type
+      hint: Choose your plan
+      type: select_one
+      options:
+      - Daily Access Pass
+      - Weekly Subscription
+      - Monthly Subscription
+      - Quarterly Subscription
+      - Annual Subscription
+      - Pay Per Use
+      required: true
+    - id: 8
+      name: preferred_rooms
+      label: Preferred Rooms
+      hint: First choices
+      type: select_multiple
+      options:
+      - Executive Board Room
+      - Conference Room A
+      - Conference Room B
+      - Training Room
+      - Meeting Room 1
+      - Meeting Room 2
+      - Any Available
+      required: true
+    - id: 9
+      name: subscription_start
+      label: Subscription Start Date
+      hint: When to begin
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: subscription_end
+      label: Subscription End Date
+      hint: When to end
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: typical_usage_days
+      label: Typical Usage Days
+      hint: When will you use
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 12
+      name: typical_usage_hours
+      label: Typical Usage Hours
+      hint: Time of day
+      type: select_multiple
+      options:
+      - Morning 8 AM to 12 PM
+      - Afternoon 12 PM to 5 PM
+      - Evening 5 PM to 9 PM
+      - Full Day
+      required: false
+    - id: 13
+      name: average_meeting_size
+      label: Average Meeting Size
+      hint: Number of attendees
+      type: select_one
+      options:
+      - 1-5 People
+      - 6-10 People
+      - 11-20 People
+      - 21-30 People
+      - 31-50 People
+      - Over 50 People
+      required: true
+    - id: 14
+      name: primary_use
+      label: Primary Use
+      hint: Main purpose
+      type: select_one
+      options:
+      - Client Meetings
+      - Internal Meetings
+      - Training Sessions
+      - Interviews
+      - Video Conferences
+      - Workshops
+      - Other
+      required: true
+    - id: 15
+      name: equipment_included
+      label: Equipment Package
+      hint: What you need included
+      type: select_one
+      options:
+      - Basic Package
+      - Standard Package
+      - Premium Package
+      - Custom Package
+      required: true
+    - id: 16
+      name: equipment_details
+      label: Equipment Details
+      hint: Specify needs
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: catering_option
+      label: Catering Option
+      hint: Food service
+      type: select_one
+      options:
+      - No Catering
+      - Coffee and Tea Service
+      - Light Refreshments
+      - Full Catering Package
+      required: true
+    - id: 18
+      name: support_services
+      label: Support Services
+      hint: Additional help
+      type: select_multiple
+      options:
+      - IT Support
+      - Administrative Support
+      - Setup Assistance
+      - Technical Support
+      - None Required
+      required: false
+    - id: 19
+      name: billing_contact
+      label: Billing Contact Name
+      hint: For invoices
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: billing_email
+      label: Billing Email
+      hint: Send invoices here
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: billing_address
+      label: Billing Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: How to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Company Invoice
+      - Check
+      required: true
+    - id: 23
+      name: promo_code
+      label: Promotional Code
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Referral source
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Colleague
+      - Advertisement
+      - Previous Customer
+      - Other
+      required: false
+    - id: 25
+      name: special_requests
+      label: Special Requests
+      hint: Any other needs
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: terms_accepted
+      label: I Accept Subscription Terms
+      hint: Agree to terms
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true

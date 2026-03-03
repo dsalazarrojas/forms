@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Tool Requisition Form
+    pages:
+    - id: 1
+      name: section_requestor_info
+      label: -- Requestor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requestor_name
+      label: Requestor Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department or Team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_tool_details
+      label: -- Tool Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: tool_name
+      label: Tool Name
+      hint: Name of the tool being requested
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: tool_category
+      label: Tool Category
+      hint: null
+      type: select_one
+      options:
+      - Video analysis software
+      - Performance tracking
+      - Communication tools
+      - Training equipment
+      - Assessment tools
+      - Other
+      required: true
+    - id: 9
+      name: tool_description
+      label: Tool Description
+      hint: Describe the tool and its features
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: quantity_needed
+      label: Quantity Needed
+      hint: How many units?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_justification
+      label: -- Justification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: business_justification
+      label: Business Justification
+      hint: Why is this tool needed?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: expected_benefits
+      label: Expected Benefits
+      hint: How will this improve coaching?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: target_users
+      label: Target Users
+      hint: Who will use this tool?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_budget
+      label: -- Budget Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: estimated_cost
+      label: Estimated Cost Per Unit
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: total_cost
+      label: Total Estimated Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: budget_code
+      label: Budget Code or Cost Center
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_timing
+      label: -- Timing and Priority --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: needed_by_date
+      label: Needed By Date
+      hint: When is this required?
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: priority_level
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - Urgent
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 22
+      name: section_approval
+      label: -- Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: supervisor_name
+      label: Supervisor or Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: Is your supervisor aware?
+      type: select_one
+      options:
+      - Approved
+      - Pending approval
+      - Not yet discussed
+      required: true

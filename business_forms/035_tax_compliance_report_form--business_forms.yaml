@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Compliance Report Form
+    pages:
+    - id: 1
+      name: business_entity
+      label: Business Entity
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Business Corporation
+      - Partnership
+      - Sole Proprietorship
+      - Limited Liability Partnership
+      - Limited Liability Company (LLC)
+      required: false
+    - id: 2
+      name: business_entity_type
+      label: Business Entity Type
+      hint: null
+      type: select_multiple
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - LLC
+      - Corporation
+      - Non-US Citizen
+      required: false
+    - id: 3
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: tax_return_type
+      label: Tax Return Type
+      hint: null
+      type: select_one
+      options:
+      - Federal
+      - State
+      - Local
+      required: false
+    - id: 5
+      name: tax_filing_status
+      label: Tax Filing Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Joint
+      - Head of Household
+      required: false
+    - id: 6
+      name: tax_return_due_date
+      label: Tax Return Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: tax_return_filing_date
+      label: Tax Return Filing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

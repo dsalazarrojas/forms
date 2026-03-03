@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: AlumierMD X Jotform Consultation Form 2021
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: For consultation confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: consultation_date
+      label: Preferred Consultation Date
+      hint: When would you like to meet
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: consultation_time
+      label: Preferred Time
+      hint: Morning, afternoon, or evening
+      type: select_one
+      options:
+      - 9 AM - 12 PM
+      - 12 PM - 3 PM
+      - 3 PM - 6 PM
+      - 6 PM - 9 PM
+      required: true
+    - id: 7
+      name: age_group
+      label: Age Group
+      hint: Your age range
+      type: select_one
+      options:
+      - 18 - 25
+      - 26 - 35
+      - 36 - 45
+      - 46 - 55
+      - 56 - 65
+      - 65+
+      required: false
+    - id: 8
+      name: skin_type
+      label: Skin Type
+      hint: Your skin type
+      type: select_one
+      options:
+      - Normal
+      - Dry
+      - Oily
+      - Combination
+      - Sensitive
+      required: true
+    - id: 9
+      name: primary_skin_concern
+      label: Primary Skin Concern
+      hint: Main reason for consultation
+      type: select_one
+      options:
+      - Acne
+      - Aging and Wrinkles
+      - Hyperpigmentation
+      - Dull Skin
+      - Sensitivity
+      - Texture Issues
+      - Other
+      required: true
+    - id: 10
+      name: secondary_concerns
+      label: Secondary Concerns
+      hint: Other skin concerns
+      type: select_multiple
+      options:
+      - Dark Circles
+      - Redness
+      - Oiliness
+      - Dryness
+      - Rosacea
+      - Eczema
+      - Sun Damage
+      required: false
+    - id: 11
+      name: skincare_routine
+      label: Describe Current Skincare Routine
+      hint: What you currently use
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: product_allergies
+      label: Known Product Allergies or Sensitivities
+      hint: Any ingredients to avoid
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: skincare_goals
+      label: Skincare Goals
+      hint: What you hope to achieve
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: budget_range
+      label: Budget Range for Products
+      hint: How much willing to invest
+      type: select_one
+      options:
+      - Under $50
+      - $50 - $100
+      - $100 - $200
+      - $200 - $500
+      - Over $500
+      required: false
+    - id: 15
+      name: skincare_experience
+      label: Skincare Product Experience
+      hint: How familiar are you with skincare
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Very Experienced
+      required: true
+    - id: 16
+      name: professional_treatments
+      label: Professional Treatments Received
+      hint: Facials, peels, lasers, etc
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medications
+      label: Current Medications
+      hint: Any medications that may affect skin
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: sun_exposure
+      label: Sun Exposure Level
+      hint: How much time in sun
+      type: select_one
+      options:
+      - Minimal
+      - Moderate
+      - Frequent
+      - Very Frequent
+      required: false
+    - id: 19
+      name: heard_about_us
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Google Search
+      - Instagram
+      - Friend Recommendation
+      - Other Social Media
+      - Advertisement
+      - Other
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional Notes or Questions
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bookkeeping Discovery Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: respondent_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_name
+      label: Business Name
+      hint: Name of your business
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_type
+      label: Type of Business
+      hint: What industry are you in
+      type: select_one
+      options:
+      - Retail
+      - Service
+      - Professional
+      - E-commerce
+      - Manufacturing
+      - Construction
+      - Healthcare
+      - Non-profit
+      - Other
+      required: true
+    - id: 6
+      name: business_age
+      label: How long have you been in business
+      hint: Years or months
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: current_revenue
+      label: Annual Revenue Range
+      hint: Approximate annual revenue
+      type: select_one
+      options:
+      - Under $100,000
+      - $100,000 - $500,000
+      - $500,000 - $1,000,000
+      - $1,000,000 - $5,000,000
+      - Over $5,000,000
+      required: true
+    - id: 8
+      name: monthly_transactions
+      label: Monthly Transaction Volume
+      hint: Approximate number
+      type: select_one
+      options:
+      - 0-50
+      - 50-100
+      - 100-250
+      - 250-500
+      - 500-1000
+      - 1000+
+      required: true
+    - id: 9
+      name: accounting_pain_points
+      label: Current Accounting Pain Points
+      hint: What are your biggest challenges
+      type: select_multiple
+      options:
+      - Lack of financial visibility
+      - Cash flow management
+      - Time-consuming manual processes
+      - Tax compliance concerns
+      - Accounting software issues
+      - Inaccurate record-keeping
+      - Cannot find tax deductions
+      required: true
+    - id: 10
+      name: current_bookkeeping
+      label: Current Bookkeeping System
+      hint: How do you handle accounting now
+      type: select_one
+      options:
+      - No system
+      - Manual spreadsheets
+      - Basic accounting software
+      - Advanced accounting software
+      - Internal bookkeeper
+      - External accountant
+      required: true
+    - id: 11
+      name: employees
+      label: Number of Employees
+      hint: How many people work for you
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: payroll_complexity
+      label: Payroll Complexity
+      hint: Do you have payroll needs
+      type: select_one
+      options:
+      - No payroll
+      - Simple payroll
+      - Complex payroll
+      - Multi-state payroll
+      required: true
+    - id: 13
+      name: growth_plans
+      label: Growth Plans for Next Year
+      hint: Are you planning to grow
+      type: select_one
+      options:
+      - No growth expected
+      - Slight growth
+      - Moderate growth
+      - Significant growth
+      - Not sure
+      required: true
+    - id: 14
+      name: service_priorities
+      label: Service Priorities
+      hint: What matters most to you
+      type: select_multiple
+      options:
+      - Accuracy
+      - Cost efficiency
+      - Time savings
+      - Tax optimization
+      - Financial insights
+      - Compliance
+      - Customer service
+      required: true
+    - id: 15
+      name: discovery_call_ready
+      label: Ready for Discovery Call
+      hint: Would you like to schedule a call
+      type: select_one
+      options:
+      - Yes, very interested
+      - Maybe
+      - Not at this time
+      required: true

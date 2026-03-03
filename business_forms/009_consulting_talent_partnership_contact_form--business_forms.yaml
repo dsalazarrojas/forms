@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Talent Partnership Contact Form
+    pages:
+    - id: 1
+      name: section_company_info
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Enter your company's full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: industry
+      label: Industry
+      hint: What industry does your company operate in?
+      type: select_one
+      options:
+      - Technology
+      - Finance
+      - Healthcare
+      - Retail
+      - Education
+      - Manufacturing
+      - Other
+      required: true
+    - id: 4
+      name: company_website
+      label: Company Website
+      hint: Enter the URL of your website
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_partnership_details
+      label: -- Partnership Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: partnership_type
+      label: Type of Partnership Interested In
+      hint: Select one or more
+      type: select_multiple
+      options:
+      - Talent Acquisition
+      - Workforce Planning
+      - Specialized Consulting
+      - Training and Development
+      - Executive Search
+      required: true
+    - id: 7
+      name: primary_goals
+      label: Primary Partnership Goals
+      hint: What are you looking to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: estimated_talent_needs
+      label: Estimated Talent Needs
+      hint: How many roles are you looking to fill?
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: section_contact_details
+      label: -- Contact Person Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_person_name
+      label: Contact Person Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: job_title
+      label: Job Title
+      hint: Your current position in the company
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: email_address
+      label: Email Address
+      hint: We will use this to contact you
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone_number
+      label: Phone Number
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we get in touch?
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - LinkedIn
+      required: true
+    - id: 15
+      name: inquiry_details
+      label: Inquiry Details
+      hint: Please provide more information about your inquiry
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submission_date
+      label: Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

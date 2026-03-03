@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: resort_stay_intake_form
+    pages:
+    - id: 1
+      name: guest_info
+      label: Guest Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_multiple
+      options:
+      - Single
+      - Double
+      - Suite
+      required: false
+    - id: 6
+      name: room_count
+      label: Room Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: guest_count
+      label: Guest Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_staff
+      label: Assigned Staff
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - jess
+      - john
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: room_services
+      label: Room Services
+      hint: null
+      type: select_multiple
+      options:
+      - Breakfast
+      - Wi-Fi
+      - Parking
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

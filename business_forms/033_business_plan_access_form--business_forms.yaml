@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Plan Access Form
+    pages:
+    - id: 1
+      name: entrepreneur_name
+      label: Entrepreneur Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: entrepreneur_email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: entrepreneur_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Business name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_website
+      label: Company Website
+      hint: URL if available
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_stage
+      label: Business Stage
+      hint: Current stage of business
+      type: select_one
+      options:
+      - Idea Stage
+      - MVP/Prototype
+      - Pre-revenue
+      - Early Revenue
+      - Growth Stage
+      - Established
+      required: true
+    - id: 7
+      name: business_description
+      label: Business Description
+      hint: What does your business do?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: funding_sought
+      label: Funding Amount Sought
+      hint: How much do you need?
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: access_requester_type
+      label: Type of Requester
+      hint: Who is requesting access?
+      type: select_one
+      options:
+      - Investor
+      - Business Partner
+      - Consultant
+      - Lender/Bank
+      - Mentor/Advisor
+      - Other
+      required: true
+    - id: 10
+      name: requester_name
+      label: Requester Name
+      hint: Name of person requesting access
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: requester_email
+      label: Requester Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: requester_company
+      label: Requester Company
+      hint: Organization requesting access
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: requester_interest
+      label: Interest in Business
+      hint: Why do you want the plan?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: confidentiality_agreement
+      label: Willing to Sign NDA?
+      hint: Non-disclosure agreement
+      type: select_one
+      options:
+      - true
+      - false
+      - Need to Review
+      required: true
+    - id: 15
+      name: plan_sections_needed
+      label: Plan Sections Needed
+      hint: Which sections do you need?
+      type: select_multiple
+      options:
+      - Executive Summary
+      - Market Analysis
+      - Financial Projections
+      - Marketing Strategy
+      - Operations Plan
+      - Management Team
+      - Use of Funds
+      required: false
+    - id: 16
+      name: access_duration
+      label: Duration of Access Needed
+      hint: How long do you need access?
+      type: select_one
+      options:
+      - 30 days
+      - 60 days
+      - 90 days
+      - Ongoing
+      required: false
+    - id: 17
+      name: additional_requirements
+      label: Additional Requirements
+      hint: Any other conditions?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: agreement_confirmation
+      label: I agree to the access terms
+      hint: Confirm agreement
+      type: select_one
+      options:
+      - Yes, I Agree
+      - false
+      required: true

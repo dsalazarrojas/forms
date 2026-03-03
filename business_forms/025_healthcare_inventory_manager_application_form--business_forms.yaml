@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: healthcare_inventory_manager_application_form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: item_description
+      label: Item Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: supplier
+      label: Supplier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_ordered
+      label: Date Ordered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: item_status
+      label: Item Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Available for pickup
+      - In stock
+      - Low stock
+      - Out of stock
+      required: false
+    - id: 10
+      name: last_ordered_by
+      label: Last Ordered By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: last_ordered_date
+      label: Last Ordered Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: last_received_by
+      label: Last Received By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: last_received_date
+      label: Last Received Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: stock_level
+      label: Stock Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: reorder_threshold
+      label: Reorder Threshold
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: supplier_email
+      label: Supplier Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: supplier_phone
+      label: Supplier Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: supplier_address
+      label: Supplier Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: item_location
+      label: Item Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: item_category
+      label: Item Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: item_subcategory
+      label: Item Subcategory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: supplier_notes
+      label: Supplier Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: item_notes
+      label: Item Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: stockroom
+      label: Stockroom
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: warehouse
+      label: Warehouse
+      hint: null
+      type: text
+      options: []
+      required: false

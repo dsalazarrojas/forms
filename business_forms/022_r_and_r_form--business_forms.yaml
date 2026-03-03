@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: r_and_r_form
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: award_date
+      label: award_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: award_type
+      label: award_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Team Lead Award'', ''value'': ''team_lead''}'
+      - '{''id'': 2, ''label'': ''Manager Award'', ''value'': ''manager''}'
+      - '{''id'': 3, ''label'': "President''s Award", ''value'': ''president''}'
+      required: true
+    - id: 4
+      name: award_justification
+      label: award_justification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_title
+      label: employee_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: employee_department
+      label: employee_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: award_value
+      label: award_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: nomination_date
+      label: nomination_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: nomination_status
+      label: nomination_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Pending'', ''value'': ''pending''}'
+      - '{''id'': 2, ''label'': ''Approved'', ''value'': ''approved''}'
+      - '{''id'': 3, ''label'': ''Denied'', ''value'': ''denied''}'
+      required: true
+    - id: 13
+      name: manager_comments
+      label: manager_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: employee_comments
+      label: employee_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: award_recipient
+      label: award_recipient
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Employee'', ''value'': ''employee''}'
+      - '{''id'': 2, ''label'': ''Team'', ''value'': ''team''}'
+      - '{''id'': 3, ''label'': ''Department'', ''value'': ''department''}'
+      required: true
+    - id: 16
+      name: recognition_date
+      label: recognition_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: recognition_type
+      label: recognition_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Monetary'', ''value'': ''monetary''}'
+      - '{''id'': 2, ''label'': ''Non-Monetary'', ''value'': ''non_monetary''}'
+      required: true
+    - id: 18
+      name: recognition_value
+      label: recognition_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: recognition_status
+      label: recognition_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Not Yet Recognized'', ''value'': ''not_yet_recognized''}'
+      - '{''id'': 2, ''label'': ''Already Recognized'', ''value'': ''already_recognized''}'
+      required: false
+    - id: 20
+      name: form_submitted_by
+      label: form_submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_submitted_by_email
+      label: form_submitted_by_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: form_completed_by
+      label: form_completed_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_completed_by_email
+      label: form_completed_by_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: form_version
+      label: form_version
+      hint: null
+      type: text
+      options: []
+      required: false

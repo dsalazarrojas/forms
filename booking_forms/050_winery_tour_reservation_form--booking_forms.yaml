@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Winery Tour Reservation Form
+    pages:
+    - id: 1
+      name: tour_date
+      label: Tour Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: tour_time
+      label: Tour Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: guest_phone
+      label: Guest Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: winery_address
+      label: Winery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: num_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reservation_time
+      label: Tour Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Cash
+      - Check
+      required: false
+    - id: 11
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: winery_notes
+      label: Winery Notes
+      hint: null
+      type: note
+      options: []
+      required: false

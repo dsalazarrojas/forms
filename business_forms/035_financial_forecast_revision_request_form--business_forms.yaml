@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Forecast Revision Request Form
+    pages:
+    - id: 1
+      name: financial_forecast_revision_request
+      label: Financial Forecast Revision Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: revision_date
+      label: Revision Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: revision_details
+      label: Revision Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: finance_team_review
+      label: Finance Team Review
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: finance_team_review_hint
+      label: Select Finance Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

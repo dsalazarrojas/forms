@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_taxi_booking_form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: second_page
+      label: second_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_page
+      label: payment_page
+      hint: Payment information
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_info
+      label: payment_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: payment_method_select
+      label: payment_method_select
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: payment_gateway
+      label: payment_gateway
+      hint: Payment Gateway
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: payment_gateway_select
+      label: payment_gateway_select
+      hint: null
+      type: select_multiple
+      options:
+      - option4
+      - option5
+      required: false
+    - id: 9
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: fare
+      label: fare
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: payment_currency
+      label: payment_currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

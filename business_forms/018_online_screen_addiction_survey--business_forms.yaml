@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_screen_addiction_survey
+    pages:
+    - id: 1
+      name: screen_use
+      label: Screen Use
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: screen_type
+      label: Screen Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: time_spent
+      label: Time Spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: screen_use_harms
+      label: Screen Use Harms
+      hint: null
+      type: select_one
+      options:
+      - Screen addiction harms
+      - Social media addiction
+      - Online game addiction
+      - Mobile phone addiction
+      - Internet addiction
+      - Video game addiction
+      - Computer addiction
+      - Other screen addiction
+      required: false
+    - id: 5
+      name: online_behaviors
+      label: Online Behaviors
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: family_involvement
+      label: Family Involvement
+      hint: null
+      type: text
+      options: []
+      required: false

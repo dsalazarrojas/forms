@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: About Me Form
+    pages:
+    - id: 1
+      name: section_header_basic_info
+      label: -- Basic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 7
+      name: address
+      label: Current address
+      hint: Street, city, state, zip code
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_header_personal
+      label: -- Personal Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: occupation
+      label: Current occupation or job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employer_or_school
+      label: Employer or school name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: hobbies_interests
+      label: Hobbies and interests
+      hint: List your main hobbies or interests
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: languages_spoken
+      label: Languages spoken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_header_social
+      label: -- Social and Contact Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: preferred_contact_method
+      label: Preferred method of contact
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - No preference
+      required: false
+    - id: 15
+      name: social_media_handle
+      label: Social media handle or profile link
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: fun_fact
+      label: Share a fun fact about yourself
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: goals_or_aspirations
+      label: What are your personal or professional goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: anything_else
+      label: Anything else you would like others to know about you
+      hint: null
+      type: text
+      options: []
+      required: false

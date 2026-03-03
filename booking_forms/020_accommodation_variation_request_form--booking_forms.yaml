@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accommodation Variation Request Form
+    pages:
+    - id: 1
+      name: section_guest_info
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Full Name
+      hint: As it appears on your booking confirmation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: booking_reference
+      label: Booking Reference Number
+      hint: Found in your confirmation email
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_current_booking
+      label: -- Current Booking Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: current_check_in
+      label: Current Check-In Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: current_check_out
+      label: Current Check-Out Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: current_room_type
+      label: Current Room Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_requested_changes
+      label: -- Requested Changes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: change_type
+      label: Type of Change Requested
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Change check-in date
+      - Change check-out date
+      - Change room type
+      - Add guests
+      - Remove guests
+      - Add special services
+      - Cancel booking
+      - Other
+      required: true
+    - id: 12
+      name: new_check_in
+      label: New Check-In Date (if changing)
+      hint: Leave blank if not changing
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: new_check_out
+      label: New Check-Out Date (if changing)
+      hint: Leave blank if not changing
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: new_room_type
+      label: New Room Type Requested (if changing)
+      hint: null
+      type: select_one
+      options:
+      - Standard single
+      - Standard double
+      - Deluxe room
+      - Suite
+      - Family room
+      - No change
+      required: false
+    - id: 15
+      name: updated_guest_count
+      label: Updated Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: reason_for_change
+      label: Reason for the Requested Change
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: additional_services
+      label: Additional Services Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Airport transfer
+      - Extra bed
+      - Meal plan
+      - Parking
+      - Late check-out
+      - Early check-in
+      - None
+      required: false
+    - id: 18
+      name: special_requests
+      label: Additional Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false

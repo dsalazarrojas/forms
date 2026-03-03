@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Invoice Approval Tracking Form
+    pages:
+    - id: 1
+      name: business_forms
+      label: business_forms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_forms
+      label: order_forms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: approval_forms
+      label: approval_forms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tracking_statuses
+      label: tracking_statuses
+      hint: null
+      type: select_one
+      options:
+      - Invoices Approved
+      - Invoices Rejected
+      - Invoices Pending
+      required: false
+    - id: 5
+      name: essential_info
+      label: essential_information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: collection_date
+      label: collection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: approved_by
+      label: approved_by
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Team Member
+      - External Partner
+      required: false
+    - id: 8
+      name: organized_documentation
+      label: organized_documentation
+      hint: null
+      type: select_multiple
+      options:
+      - Organized in a spreadsheet
+      - Organized in a database
+      - Other
+      required: false
+    - id: 9
+      name: essential_info_2
+      label: essential_information_2
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: worksite_inspection_form
+    pages:
+    - id: 1
+      name: general_information
+      label: Site Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: site_inspection_checklist
+      label: Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: worksite_inspection_notes
+      label: Notes
+      hint: Write any notable events or issues
+      type: text
+      options: []
+      required: false

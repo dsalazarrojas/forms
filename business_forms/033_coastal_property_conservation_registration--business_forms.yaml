@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coastal Property Conservation Registration
+    pages:
+    - id: 1
+      name: section_owner_info
+      label: -- Property Owner Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: owner_name
+      label: Owner Name
+      hint: Full name of property owner
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: owner_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: mailing_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_property_details
+      label: -- Property Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: county
+      label: County
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: property_acreage
+      label: Total Property Acreage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: acres_to_conserve
+      label: Acres to be Conserved
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: parcel_number
+      label: Parcel Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_property_description
+      label: -- Property Description --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: habitat_type
+      label: Primary Habitat Type
+      hint: null
+      type: select_one
+      options:
+      - Wetland
+      - Salt marsh
+      - Beach or dune
+      - Coastal forest
+      - Grassland
+      - Mixed
+      - Other
+      required: true
+    - id: 14
+      name: sensitive_areas
+      label: Sensitive or Protected Areas
+      hint: Describe any critical habitats
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: current_use
+      label: Current Land Use
+      hint: How is property currently used?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_conservation_goals
+      label: -- Conservation Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: conservation_objectives
+      label: Conservation Objectives
+      hint: What do you want to conserve?
+      type: select_multiple
+      options:
+      - Habitat protection
+      - Water quality
+      - Public access
+      - Cultural resources
+      - Agricultural land
+      - Wildlife corridors
+      - Climate resilience
+      - Other
+      required: true
+    - id: 18
+      name: detailed_goals
+      label: Detailed Conservation Goals
+      hint: Describe your conservation vision
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: section_conservation_method
+      label: -- Conservation Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: conservation_method
+      label: Proposed Conservation Method
+      hint: null
+      type: select_one
+      options:
+      - Conservation easement
+      - Land donation
+      - Stewardship agreement
+      - Public ownership
+      - Other
+      required: true
+    - id: 21
+      name: method_details
+      label: Method Details
+      hint: Provide specifics about chosen method
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: section_timeline
+      label: -- Timeline and Implementation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: implementation_timeline
+      label: Implementation Timeline
+      hint: When should conservation start?
+      type: select_one
+      options:
+      - Immediate
+      - Within 6 months
+      - Within 1 year
+      - Within 2 years
+      - To be determined
+      required: true
+    - id: 24
+      name: budget_available
+      label: Budget Available for Conservation
+      hint: Estimated funding
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

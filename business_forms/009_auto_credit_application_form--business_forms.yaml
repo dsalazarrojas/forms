@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Credit Application Form
+    pages:
+    - id: 1
+      name: personal_id_header
+      label: -- Personal Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ssn_tax_id
+      label: SSN or Tax ID
+      hint: Required for credit check
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: dob
+      label: Date of Birth
+      hint: Use MM-DD-YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Personal or work email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Mobile or home phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: housing_info_header
+      label: -- Housing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_address
+      label: Current Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: housing_status
+      label: Housing Status
+      hint: Do you own or rent?
+      type: select_one
+      options:
+      - Own
+      - Rent
+      - Live with Family
+      required: true
+    - id: 10
+      name: years_at_address
+      label: Years at Current Address
+      hint: How long have you lived there?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: employment_income_header
+      label: -- Employment and Income --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: employer_name
+      label: Employer Name
+      hint: Current place of work
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: gross_monthly_income
+      label: Gross Monthly Income
+      hint: Amount before taxes
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: months_at_job
+      label: Months at Current Job
+      hint: Time spent with current employer
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: credit_details_header
+      label: -- Credit Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: down_payment_amount
+      label: Down Payment Amount
+      hint: How much will you pay upfront?
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: trade_in_intended
+      label: Trade-in Intended
+      hint: Do you have a vehicle to trade in?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: authorize_credit_check
+      label: Authorize Credit Check
+      hint: I authorize the dealership to check my credit history
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

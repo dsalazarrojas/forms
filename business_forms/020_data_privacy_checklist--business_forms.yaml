@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Privacy Checklist
+    pages:
+    - id: 1
+      name: data_privacy_checklist_business_forms
+      label: Data Privacy Checklist
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: data_handling_practices
+      label: data_handling_practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_info_safeguarding
+      label: customer_info_safeguarding
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: data_privacy_checklist_description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false

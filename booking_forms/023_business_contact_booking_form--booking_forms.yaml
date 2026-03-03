@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Contact Booking Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Your email for contact confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Your phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Your company affiliation
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: booking_details
+      label: -- Booking Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_purpose
+      label: Purpose of Contact
+      hint: Why are you scheduling this meeting
+      type: select_one
+      options:
+      - Product Demo
+      - Service Inquiry
+      - Partnership Discussion
+      - Technical Support
+      - Sales Inquiry
+      - General Question
+      - Feedback
+      - Other
+      required: true
+    - id: 9
+      name: preferred_date
+      label: Preferred Contact Date
+      hint: When would you like to be contacted
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: preferred_time
+      label: Preferred Contact Time
+      hint: What time works best for you
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: time_zone
+      label: Time Zone
+      hint: Your time zone
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_method
+      label: Preferred Contact Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Video Call
+      - In-Person Meeting
+      - Chat
+      required: true
+    - id: 13
+      name: meeting_details
+      label: -- Meeting Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: meeting_duration
+      label: Expected Meeting Duration
+      hint: How long do you need
+      type: select_one
+      options:
+      - 15 minutes
+      - 30 minutes
+      - 1 hour
+      - 90 minutes
+      - 2 hours
+      - Other
+      required: true
+    - id: 15
+      name: attendees_count
+      label: Number of Attendees
+      hint: How many people will attend
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: other_attendees
+      label: Other Attendees
+      hint: Names of other people attending
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: topic_description
+      label: -- Topic Description --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: discussion_topic
+      label: Discussion Topic
+      hint: What would you like to discuss
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: specific_goals
+      label: Specific Goals for Meeting
+      hint: What do you want to accomplish
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: background_info
+      label: Background Information
+      hint: Any relevant context or background
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: special_requirements
+      label: -- Special Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: equipment_needs
+      label: Equipment or Technology Needs
+      hint: Any special equipment needed
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: location
+      label: Meeting Location
+      hint: If in-person, where to meet
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

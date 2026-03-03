@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Entity Registration Form
+    pages:
+    - id: 1
+      name: business_information
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_dba
+      label: Doing Business As (DBA)
+      hint: Any other business names
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_type
+      label: Business Type
+      hint: Structure of entity
+      type: select_one
+      options:
+      - Sole Proprietor
+      - Partnership
+      - Corporation
+      - LLC
+      - Non-Profit
+      - Other
+      required: true
+    - id: 5
+      name: incorporation_date
+      label: Date of Incorporation
+      hint: When was it formed?
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: tax_id
+      label: Tax ID or EIN
+      hint: Federal tax identification
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: industry_classification
+      label: Primary Industry
+      hint: Main business activity
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_description
+      label: Business Description
+      hint: What does your business do?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: owner_information
+      label: -- Owner Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: owner_name
+      label: Owner Name
+      hint: Full name of owner
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: ownership_percentage
+      label: Ownership Percentage
+      hint: What percent ownership?
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: owner_ssn
+      label: Owner SSN (Last 4 Digits)
+      hint: For identification purposes
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_information
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: business_address
+      label: Business Address
+      hint: Physical address
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: state
+      label: State
+      hint: State code
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: zip_code
+      label: Zip Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: phone_number
+      label: Phone Number
+      hint: Business phone
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: email_address
+      label: Email Address
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: website
+      label: Website
+      hint: Business website URL
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: employees_count
+      label: Number of Employees
+      hint: Total employees
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: annual_revenue
+      label: Estimated Annual Revenue
+      hint: Approximate annual revenue
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Order Fulfillment Monitoring Form
+    pages:
+    - id: 1
+      name: order_fulfillment_monitoring_form_1
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_fulfillment_monitoring_form_2
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: order_fulfillment_monitoring_form_3
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: order_fulfillment_monitoring_form_4
+      label: Shipping Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_fulfillment_prophets
+      label: Prophets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: inventory_level
+      label: Inventory Level
+      hint: Enter the current inventory level
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: fulfillment_status
+      label: Fulfillment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: fulfillment_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: fulfillment_date
+      label: prophets
+      hint: Fulfillment Date
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: fulfillment_time
+      label: Fulfillment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: shipping_tracking_number
+      label: Shipping Tracking Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: fulfillment_notes
+      label: Fulfillment Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: fulfillment_status_reason
+      label: Fulfillment Status Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: shipping
+      label: shipping
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: tracking_status
+      label: Tracking Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: shipping_carrier
+      label: Shipping Carrier
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: estimated_arrival_date
+      label: Estimated Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: actual_arrival_date
+      label: Actual Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: fulfillment_cost
+      label: Fulfillment Cost
+      hint: Estimated Fulfillment Cost
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calculate Number Of Days Grey And Responsive
+    pages:
+    - id: 1
+      name: customer_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: booking_type
+      label: Booking Type
+      hint: What are you booking
+      type: select_one
+      options:
+      - Hotel reservation
+      - Vacation rental
+      - Event venue
+      - Equipment rental
+      - Service appointment
+      - Other
+      required: true
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: Check-in or start date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: Check-out or end date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: calculation_note
+      label: Days Calculation
+      hint: Number of days will be calculated automatically
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: number_of_guests
+      label: Number of Guests
+      hint: How many people
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: room_or_unit_type
+      label: Room or Unit Type
+      hint: What type are you booking
+      type: select_one
+      options:
+      - Standard
+      - Deluxe
+      - Suite
+      - Studio
+      - One bedroom
+      - Two bedroom
+      - Other
+      required: false
+    - id: 10
+      name: special_requests
+      label: Special Requests
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: flexible_dates
+      label: Are Your Dates Flexible
+      hint: Can you adjust your dates
+      type: select_one
+      options:
+      - Yes, very flexible
+      - Somewhat flexible
+      - No, dates are fixed
+      required: false
+    - id: 12
+      name: cancellation_policy
+      label: Cancellation Policy Acknowledgment
+      hint: Do you understand cancellation terms
+      type: select_one
+      options:
+      - Yes, I understand
+      - Need more information
+      required: false
+    - id: 13
+      name: payment_preference
+      label: Payment Preference
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Pay now
+      - Pay at arrival
+      - Deposit now, balance later
+      required: false
+    - id: 14
+      name: additional_services
+      label: Additional Services
+      hint: Any extras needed
+      type: select_multiple
+      options:
+      - None
+      - Breakfast
+      - Airport transfer
+      - Late checkout
+      - Early checkin
+      - Cleaning service
+      - Other
+      required: false
+    - id: 15
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Where did you find us
+      type: select_one
+      options:
+      - Website
+      - Search engine
+      - Social media
+      - Referral
+      - Travel agent
+      - Other
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

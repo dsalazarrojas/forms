@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Housing Allocation Booking Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Surname
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: accommodation_type
+      label: Accommodation Type
+      hint: null
+      type: select_multiple
+      options:
+      - Shared Accommodation
+      - Single Room
+      - Double prophets
+      required: true
+    - id: 7
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: room_number
+      label: Room Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: building_name
+      label: Building Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: room_details
+      label: Room Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: accommodation_manager
+      label: Accommodation Manager
+      hint: null
+      type: select_one
+      options:
+      - Mr. Smith
+      - Ms. Johnson
+      - Dr. Jones
+      required: true
+    - id: 14
+      name: accommodation_type_manager
+      label: Accommodation Manager
+      hint: null
+      type: select_one
+      options:
+      - Mr. Johnson
+      - Ms. Brown
+      required: true
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: agreement_signed
+      label: Agreement Signed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

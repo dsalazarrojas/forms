@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fleet Services Billing Form
+    pages:
+    - id: 1
+      name: billing_details
+      label: billing_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_details
+      label: vehicle_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 5
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_due_date
+      label: payment_due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Partially Paid
+      - Unpaid
+      required: false
+    - id: 8
+      name: payment_notes
+      label: payment_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: client_email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: false

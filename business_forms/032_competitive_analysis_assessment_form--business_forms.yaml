@@ -1,0 +1,134 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Competitive Analysis Assessment Form
+    pages:
+      - id: 1
+        name: assessment_header_biz
+        label: -- Competitive Position Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: target_competitor_name_assess
+        label: Name of Competitor Analyzed
+        hint: Specify the main company being assessed
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: competitor_product_category
+        label: Competitor Primary Product Category
+        hint: e.g., Cloud Storage, CRM Software, Energy Drinks
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: market_share_estimate
+        label: Estimated Competitor Market Share
+        hint: Percentage of the market held by this competitor
+        type: select_one
+        options:
+          - Dominant Player (50%+)
+          - Major Competitor (25-50%)
+          - Significant Player (10-25%)
+          - Niche / Small Player (<10%)
+        required: true
+      - id: 5
+        name: competitor_strength_one
+        label: Primary Competitor Strength
+        hint: Select the most significant advantage they have
+        type: select_one
+        options:
+          - Brand Recognition / Reputation
+          - Lower Pricing / Cost Leadership
+          - Superior Product Quality / Innovation
+          - Extensive Distribution Network
+          - Exceptional Customer Service
+          - High Customer Loyalty
+        required: true
+      - id: 6
+        name: competitor_weakness_one
+        label: Primary Competitor Weakness
+        hint: Select their most vulnerable area
+        type: select_one
+        options:
+          - High Pricing
+          - Limited Product Features
+          - Poor Customer Support
+          - Weak Online Presence
+          - Aging Technology / Infrastructure
+          - Narrow Geographic Reach
+        required: true
+      - id: 7
+        name: product_rating_v_competitor
+        label: How does our product compare to theirs?
+        hint: Internal assessment of product quality
+        type: select_one
+        options:
+          - Our product is significantly better
+          - Our product is slightly better
+          - Products are comparable
+          - Their product is slightly better
+          - Their product is significantly better
+        required: true
+      - id: 8
+        name: pricing_competitiveness_rating
+        label: Our Pricing Competitiveness
+        hint: How competitive are we on price against them?
+        type: select_one
+        options:
+          - We are the cheaper option
+          - Prices are similar
+          - We are the premium (more expensive) option
+        required: true
+      - id: 9
+        name: competitor_marketing_strategy_obs
+        label: Observed Marketing Strategy
+        hint: Briefly describe how they attract customers
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: brand_perception_comparison
+        label: Brand Perception in the Market
+        hint: Public image comparison
+        type: select_one
+        options:
+          - We have a stronger brand
+          - Brands are equally strong
+          - Competitor has a stronger brand
+        required: true
+      - id: 11
+        name: strategic_recommendation_biz
+        label: Recommended Strategic Response
+        hint: What should we do based on this analysis?
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: assessment_author_name
+        label: Analyst Name
+        hint: Person who conducted this assessment
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: assessment_date_final
+        label: Date of Assessment
+        hint: Today's date
+        type: date
+        options: []
+        required: true

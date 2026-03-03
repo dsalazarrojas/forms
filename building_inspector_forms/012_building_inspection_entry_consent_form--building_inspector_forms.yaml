@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Inspection Entry Consent Form
+    pages:
+    - id: 1
+      name: inspection_notice
+      label: -- Inspection Notice --
+      hint: Landlord or property manager will conduct building inspection
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tenant_name
+      label: Tenant Name
+      hint: Full name of tenant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_address
+      label: Property Address
+      hint: Address of rental property
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: unit_number
+      label: Unit Number
+      hint: Apartment or unit number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tenant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: tenant_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: inspection_date
+      label: Proposed Inspection Date
+      hint: When inspection will occur
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: inspection_time
+      label: Inspection Time
+      hint: Proposed time
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: inspection_purpose
+      label: Purpose of Inspection
+      hint: Reason for entry
+      type: select_one
+      options:
+      - Routine Maintenance
+      - Repair Request
+      - Safety Inspection
+      - Move-Out Inspection
+      - Pest Control
+      - Property Assessment
+      - Other
+      required: true
+    - id: 10
+      name: estimated_duration
+      label: Estimated Duration
+      hint: How long will inspection take
+      type: select_one
+      options:
+      - Less than 30 minutes
+      - 30 minutes to 1 hour
+      - 1-2 hours
+      - 2-3 hours
+      - More than 3 hours
+      required: false
+    - id: 11
+      name: inspector_name
+      label: Inspector or Contractor Name
+      hint: Who will conduct inspection
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: consent_acknowledgment
+      label: -- Consent Acknowledgment --
+      hint: I acknowledge and understand the above inspection details
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: consent_agreement
+      label: I Consent to the Inspection
+      hint: Do you agree to allow entry
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      - Need to Reschedule
+      required: true
+    - id: 14
+      name: alternative_time
+      label: If Rescheduling, Preferred Time
+      hint: Alternative inspection time
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: special_access_notes
+      label: Special Access Instructions
+      hint: Key location, gate code, etc
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: concerns
+      label: Any Concerns or Restrictions
+      hint: Please list any concerns
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: signature_date
+      label: Date of Consent
+      hint: When signing this form
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: acknowledgement
+      label: I understand my rights regarding this inspection
+      hint: Confirmation of understanding
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Have Questions
+      required: true

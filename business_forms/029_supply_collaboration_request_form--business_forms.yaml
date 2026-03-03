@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supply Collaboration Request Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Supply Collaboration Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supplier
+      label: supplier
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: contact_number
+      label: contact-number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: request_date
+      label: request-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: delivery_time
+      label: delivery-time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: unit_price
+      label: unit-price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: total_price
+      label: total-price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: supplier_notes
+      label: supplier-notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

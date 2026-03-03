@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Call Submission Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Artist Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artist_name
+      label: Artist Name or Pseudonym
+      hint: How do you want to be credited?
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: legal_name
+      label: Legal Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: artist_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: artist_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: artist_website
+      label: Website or Portfolio URL
+      hint: Link to your work online
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: social_media
+      label: Social Media Handles or Pages
+      hint: Instagram, Facebook, etc.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_header_2
+      label: -- Artist Category and Medium --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: primary_medium
+      label: Primary Art Medium
+      hint: What type of art do you create?
+      type: select_one
+      options:
+      - Painting
+      - Sculpture
+      - Drawing
+      - Photography
+      - Printmaking
+      - Ceramics
+      - Glass
+      - Metalwork
+      - Digital Art
+      - Mixed Media
+      - Performance Art
+      - Installation
+      - Video
+      - Other
+      required: true
+    - id: 10
+      name: secondary_mediums
+      label: Secondary Mediums (if applicable)
+      hint: Other art forms you work with
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_header_3
+      label: -- Artist Statement and Bio --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: artist_statement
+      label: Artist Statement
+      hint: Describe your artistic practice and vision
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: artist_bio
+      label: Artist Biography
+      hint: 200-300 word biography
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: years_practicing
+      label: Years Actively Creating Art
+      hint: How long have you been an artist?
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: section_header_4
+      label: -- Submission Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submission_title
+      label: Title of Submission
+      hint: Name of the work or project
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: submission_description
+      label: Description of Submission
+      hint: Detailed description of the work
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: submission_dimensions
+      label: Dimensions or Scale
+      hint: Size of the work if applicable
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_header_5
+      label: -- Experience and Exhibition History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: exhibition_history
+      label: Previous Exhibition History
+      hint: List major exhibitions or shows
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: awards_recognition
+      label: Awards or Recognition
+      hint: Grants, fellowships, or awards received
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_header_6
+      label: -- Call Details and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: call_name
+      label: Artist Call Name or Event
+      hint: Which call is this submission for?
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: agree_terms
+      label: I Agree to the Call Terms and Conditions
+      hint: Confirm you accept the submission guidelines
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 25
+      name: additional_statement
+      label: Additional Comments or Questions
+      hint: Any other information for the call organizers
+      type: text
+      options: []
+      required: false

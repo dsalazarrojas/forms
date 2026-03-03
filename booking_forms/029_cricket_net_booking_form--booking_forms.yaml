@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: cricket_net_booking_form
+    pages:
+    - id: 1
+      name: net_type
+      label: select_one
+      hint: null
+      type: select_one
+      options:
+      - cricket net
+      - cricket pitch
+      - practice facility
+      - pitch
+      required: false
+    - id: 2
+      name: booking_start_time
+      label: select_one
+      hint: null
+      type: select_one
+      options:
+      - 9:00 am
+      - 9:30 am
+      - 10:00 am
+      - 10:30 am
+      required: false
+    - id: 3
+      name: booking_duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: net_availability
+      label: net_availability
+      hint: null
+      type: select_one
+      options:
+      - booked
+      - available
+      - maintenance
+      - private booking
+      required: false
+    - id: 5
+      name: player_name
+      label: player_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: booking_comment
+      label: booking_comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: booking_comment_2
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false

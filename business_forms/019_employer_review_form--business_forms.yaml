@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employer Review Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: staff_rating
+      label: Staff Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: overall_performance
+      label: Overall Performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: development_opportunities
+      label: Development Opportunities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: reviewer_info
+      label: Reviewer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reviewer_position
+      label: Reviewer Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: reviewer_notes
+      label: Reviewer Notes
+      hint: null
+      type: text
+      options: []
+      required: false

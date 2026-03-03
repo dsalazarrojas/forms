@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: ergonomic_office_furniture_order_form
+    pages:
+    - id: 1
+      name: user_name
+      label: user_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: delivery_city
+      label: delivery_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_state
+      label: delivery_state
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''California''}'
+      - '{''id'': 2, ''name'': ''New York''}'
+      required: true
+    - id: 7
+      name: delivery_zip
+      label: delivery_zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: order_type
+      label: order_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Chair''}'
+      - '{''id'': 2, ''name'': ''Desk''}'
+      - '{''id'': 3, ''name'': ''Table''}'
+      required: true
+    - id: 9
+      name: furniture_quantity
+      label: furniture_quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false

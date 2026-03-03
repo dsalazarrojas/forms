@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Approve Application Form
+    pages:
+    - id: 1
+      name: applicant_details_header
+      label: -- Applicant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For application status notification
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Mobile or home number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: Applicants must be 18 or older
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: employment_info_header
+      label: -- Employment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_employer
+      label: Current Employer
+      hint: Name of the company you work for
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: monthly_income
+      label: Monthly Income
+      hint: Gross income before taxes
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: years_at_current_job
+      label: Years at Current Job
+      hint: Total years with your current employer
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: employment_status
+      label: Employment Status
+      hint: Select your primary status
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Self-employed
+      - Unemployed
+      required: true
+    - id: 12
+      name: application_details_header
+      label: -- Application Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: application_type
+      label: Application Type
+      hint: What are you applying for?
+      type: select_one
+      options:
+      - Personal Loan
+      - Credit Card
+      - Membership
+      - Account Opening
+      required: true
+    - id: 14
+      name: requested_amount
+      label: Requested Amount
+      hint: Enter the amount if applicable
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: purpose_of_application
+      label: Purpose of Application
+      hint: Briefly describe why you are applying
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: credit_score_estimate
+      label: Credit Score Estimate
+      hint: Select your estimated score range
+      type: select_one
+      options:
+      - Excellent (750+)
+      - Good (700-749)
+      - Fair (650-699)
+      - Poor (Below 650)
+      required: true
+    - id: 17
+      name: agree_to_terms
+      label: Agree to Terms
+      hint: Do you agree to the application terms and conditions?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

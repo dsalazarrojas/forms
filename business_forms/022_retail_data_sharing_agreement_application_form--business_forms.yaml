@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Data Sharing Agreement Application Form
+    pages:
+    - id: 1
+      name: retail_data_sharing_agreement_application_form_page_1
+      label: Retail Partner Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: data_types
+      label: Data Types
+      hint: null
+      type: select_multiple
+      options:
+      - Product Information
+      - Order History
+      - Customer Data
+      required: false
+    - id: 3
+      name: data_sharing_purposes
+      label: Data Sharing Purposes
+      hint: null
+      type: select_one
+      options:
+      - Business Development
+      - Marketing Research
+      - Product Development
+      required: false
+    - id: 4
+      name: data_sharing_agreement
+      label: Data Sharing Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: retail_partner
+      label: Retail Partner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

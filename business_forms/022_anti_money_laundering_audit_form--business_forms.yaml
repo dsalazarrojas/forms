@@ -1,0 +1,85 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anti Money Laundering Audit Form
+    pages:
+    - id: 1
+      name: section_audit_information
+      label: -- Audit Information --
+      hint: Record basic audit metadata
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: auditor_name
+      label: Auditor name
+      hint: Lead auditor for this review
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: audit_period_start
+      label: Audit period start date
+      hint: Beginning of review window
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: audit_period_end
+      label: Audit period end date
+      hint: End of review window
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: risk_level_assessed
+      label: Risk level assessed
+      hint: Overall AML risk identified
+      type: select_one
+      options:
+        - Low
+        - Moderate
+        - High
+        - Critical
+      required: true
+    - id: 6
+      name: findings_summary
+      label: Summary of key findings
+      hint: Brief description of major issues found
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: recommended_actions
+      label: Recommended corrective actions
+      hint: Action items to remediate identified gaps
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: compliance_officer_acknowledgement
+      label: Compliance officer acknowledgement
+      hint: Confirmation that recommendations were received
+      type: select_one
+      options:
+        - Acknowledged
+        - Not acknowledged
+      required: false
+    - id: 9
+      name: follow_up_deadline
+      label: Follow up deadline
+      hint: Date by which actions should be completed
+      type: date
+      options: []
+      required: false

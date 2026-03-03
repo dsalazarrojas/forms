@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Check Out Form
+    pages:
+    - id: 1
+      name: item_name
+      label: Item Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_quantity
+      label: Item Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: item_location
+      label: Item Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: item_status
+      label: Item Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Available''}'
+      - '{''value'': ''Checked Out''}'
+      required: false
+    - id: 5
+      name: date_checked_out
+      label: Date Checked Out
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: checked_by
+      label: Checked By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

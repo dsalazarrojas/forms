@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Service Request Form 2
+    pages:
+    - id: 1
+      name: request_form
+      label: Request form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_form
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: problem_category
+      label: Category of problem
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: further_explanation
+      label: Further explanation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

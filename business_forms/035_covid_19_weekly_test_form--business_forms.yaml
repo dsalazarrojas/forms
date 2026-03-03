@@ -1,0 +1,218 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Weekly Test Form
+    pages:
+    - id: 1
+      name: weekly_patient_header
+      label: -- Employee or Patient Information --
+      hint: Please provide your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: weekly_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: weekly_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: weekly_employee_id
+      Label: Employee or Patient ID
+      hint: Your ID number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: weekly_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: weekly_phone
+      Label: Phone Number
+      hint: Your phone number
+      type: phone
+      options: []
+      required: false
+    - id: 7
+      name: weekly_department
+      label: Department or Division
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: weekly_test_info_header
+      Label: -- Weekly Test Information --
+      hint: Details about this week's test
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: weekly_test_date
+      label: Test Date
+      hint: Date the test was performed
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: weekly_test_week
+      Label: Week Number
+      hint: Which week this test is for
+      type: integer
+      options: []
+      required: true
+    - id: 11
+      name: weekly_test_type
+      label: Type of Test Performed
+      hint: What type of COVID-19 test
+      type: select_one
+      options:
+        - Rapid Antigen Test
+        - PCR Test
+        - At-Home Test
+        - Antibody Test
+        - Other
+      required: true
+    - id: 12
+      name: weekly_test_location
+      Label: Testing Location
+      hint: Where was the test performed
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: weekly_test_result_header
+      label: -- Test Result --
+      hint: Your test result
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: weekly_test_result
+      Label: Test Result
+      hint: What was your result
+      type: select_one
+      options:
+        - Negative
+        - Positive
+        - Inconclusive
+        - Invalid
+        - Pending
+      required: true
+    - id: 15
+      name: weekly_test_date_taken
+      label: Date Result Received
+      hint: When you got the result
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: weekly_symptoms_header
+      Label: -- Symptoms Assessment --
+      hint: Any symptoms at time of test
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: weekly_had_symptoms
+      label: Did You Have Any Symptoms
+      hint: Symptoms at time of test
+      type: select_one
+      options:
+        - No symptoms
+        - Mild symptoms
+        - Moderate symptoms
+        - Severe symptoms
+      required: true
+    - id: 18
+      name: weekly_symptoms_list
+      Label: Symptoms Experienced
+      hint: If applicable, describe symptoms
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: weekly_isolation_header
+      label: -- Isolation or Quarantine Status --
+      hint: Your current isolation status
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: weekly_isolation_status
+      Label: Current Isolation or Quarantine Status
+      hint: Are you isolating
+      type: select_one
+      options:
+        - Not isolating
+        - Self-isolating
+        - Quarantining
+        - Under medical orders
+      required: true
+    - id: 21
+      name: weekly_work_status
+      label: Current Work Status
+      hint: Are you working
+      type: select_one
+      options:
+        - Working on-site
+        - Working remotely
+        - On paid leave
+        - On unpaid leave
+        - Not working
+      required: true
+    - id: 22
+      name: weekly_close_contacts_header
+      Label: -- Close Contacts --
+      hint: Contact with positive cases
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: weekly_close_contacts
+      label: Had Close Contact with Positive Case This Week
+      hint: Contact with COVID-19 positive person
+      type: select_one
+      options:
+        - No contact
+        - Yes, at home
+        - Yes, at work
+        - Yes, elsewhere
+      required: true
+    - id: 24
+      name: weekly_notes
+      Label: Additional Notes or Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: weekly_submission_date
+      label: Date of Submission
+      hint: Date this form is being submitted
+      type: date
+      options: []
+      required: true

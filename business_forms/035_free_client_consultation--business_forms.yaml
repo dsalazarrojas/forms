@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: free_client_consultation
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: appointment_duration
+      label: Appointment Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - French
+      - Spanish
+      - Mandarin
+      required: false
+    - id: 9
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_multiple
+      options:
+      - Small Business
+      - Large Business
+      - Corporation
+      required: false
+    - id: 10
+      name: business_hours
+      label: Business Hours
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: consultant
+      label: Consultant
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jack
+      required: false
+    - id: 12
+      name: appointment_notes
+      label: Appointment Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: client_comments
+      label: Client Comments
+      hint: null
+      type: note
+      options: []
+      required: false

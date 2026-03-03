@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Principal On Site Project Manager Application Form
+    pages:
+    - id: 1
+      name: project_info
+      label: Project Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: candidate_info
+      label: Candidate Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Select One''}'
+      - '{''id'': 2, ''label'': ''Select Two''}'
+      - '{''id'': 3, ''label'': ''Select Three''}'
+      required: false
+    - id: 4
+      name: education
+      label: Education
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Education One''}'
+      - '{''id'': 2, ''label'': ''Education Two''}'
+      required: false
+    - id: 5
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

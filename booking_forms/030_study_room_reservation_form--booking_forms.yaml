@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Study Room Reservation Form
+    pages:
+    - id: 1
+      name: booking_start_date
+      label: Booking Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: booking_end_date
+      label: Booking End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: room_choice
+      label: Room
+      hint: Choose a study room
+      type: select_one
+      options:
+      - Room 1
+      - Room 2
+      - Room 3
+      required: false
+    - id: 4
+      name: booking_duration
+      label: Booking Duration
+      hint: Select the booking duration in hours
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: Select the booking start time
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: Select the booking end time
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: booking_status
+      label: Booking Status
+      hint: Select booking status
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: study_room_reservation_form_comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: faculty_id
+      label: Faculty/Staff ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false

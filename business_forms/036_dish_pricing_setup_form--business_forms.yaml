@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: dish_pricing_setup_form
+    pages:
+    - id: 1
+      name: dish_name
+      label: Dish Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Disabled
+      - Removed
+      required: false
+    - id: 4
+      name: price_updated_by
+      label: Price Updated By
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 5
+      name: price_update_date
+      label: Price Update Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: dish_description
+      label: Dish Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: price_updated_time
+      label: Price Updated Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - Jane
+      - Joe
+      required: false
+    - id: 10
+      name: assigned_user_name
+      label: Assigned User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_user_email
+      label: Assigned User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: assigned_user_phone
+      label: Assigned User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: created_by
+      label: created_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: created_date
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: updated_by
+      label: updated_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: created_by_user
+      label: Created By User
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - Jane
+      - Joe
+      required: false
+    - id: 18
+      name: updated_by_user
+      label: Updated By User
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - Jane
+      - Joe
+      required: false
+    - id: 19
+      name: created_time
+      label: Created Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: updated_time
+      label: Updated Time
+      hint: null
+      type: time
+      options: []
+      required: false

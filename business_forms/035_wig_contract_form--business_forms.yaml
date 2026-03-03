@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wig Contract Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contract_type
+      label: Contract Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 5
+      name: terms_of_service
+      label: terms of service
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: agreement_signed
+      label: Agreement Signed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: contract_date
+      label: Contract Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contract_signed_date
+      label: Contract Signed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: contract_signed_by
+      label: Contract Signed By
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate-survey
+    pages:
+    - id: 1
+      name: corporate_survey_business_forms
+      label: corporate survey business forms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: corporate_survey_category
+      label: corporate survey category
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 3
+      name: corporate_survey_description
+      label: corporate survey description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: corporate_survey_title
+      label: corporate survey title
+      hint: null
+      type: text
+      options: []
+      required: false

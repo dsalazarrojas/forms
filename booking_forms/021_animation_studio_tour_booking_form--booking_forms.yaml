@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animation Studio Tour Booking Form
+    pages:
+    - id: 1
+      name: visitor_header
+      label: -- Visitor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visitor_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: visitor_email
+      label: Email Address
+      hint: For tour confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: visitor_phone
+      label: Phone Number
+      hint: Contact number for reminders
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: visitor_organization
+      label: School or Organization
+      hint: Your school, company, or group
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: group_info_header
+      label: -- Group Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: group_size
+      label: Number of People in Group
+      hint: How many will be attending
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: group_type
+      label: Type of Group
+      hint: What type of visitors
+      type: select_one
+      options:
+      - School Field Trip
+      - University Students
+      - Industry Professionals
+      - Family or Friends
+      - Corporate Group
+      - Animation Club or Society
+      - General Public
+      - Other
+      required: true
+    - id: 9
+      name: age_group_breakdown
+      label: Age Groups Represented
+      hint: Age range of participants
+      type: select_multiple
+      options:
+      - Children (under 13)
+      - Teenagers (13-18)
+      - Young Adults (19-25)
+      - Adults (26-50)
+      - Seniors (50+)
+      required: false
+    - id: 10
+      name: tour_date_header
+      label: -- Tour Date and Time --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: preferred_tour_date
+      label: Preferred Tour Date
+      hint: Select your preferred date
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: preferred_time
+      label: Preferred Tour Time
+      hint: What time works best
+      type: select_one
+      options:
+      - 9:00 AM - 10:30 AM
+      - 10:30 AM - 12:00 PM
+      - 12:00 PM - 1:30 PM
+      - 2:00 PM - 3:30 PM
+      - 3:30 PM - 5:00 PM
+      - Flexible times
+      required: true
+    - id: 13
+      name: tour_type_header
+      label: -- Tour Type Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: tour_type
+      label: Type of Tour
+      hint: Select the tour experience
+      type: select_one
+      options:
+      - General Studio Tour
+      - Animation Department Focus
+      - VFX and Compositing Department
+      - Character Design Studio
+      - Voice Acting and Sound Design
+      - Motion Capture and Technology
+      - Post-Production Facilities
+      - Custom Tour
+      required: true
+    - id: 15
+      name: tour_duration
+      label: Preferred Tour Duration
+      hint: How long would you like
+      type: select_one
+      options:
+      - 30 minutes
+      - 1 hour
+      - 1.5 hours
+      - 2 hours
+      - 2.5 hours
+      - 3 hours
+      required: true
+    - id: 16
+      name: special_interests_header
+      label: -- Special Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: special_interests
+      label: Areas of Special Interest
+      hint: Select what you want to focus on
+      type: select_multiple
+      options:
+      - Storyboarding Process
+      - Character Animation
+      - Visual Effects
+      - Software and Tools
+      - Voice Acting
+      - Production Pipeline
+      - Industry Career Paths
+      - Creative Inspiration
+      required: false
+    - id: 18
+      name: specific_departments
+      label: Any Specific Departments to Visit
+      hint: Special departments of interest
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: accessibility_header
+      label: -- Accessibility and Special Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: accessibility_needs
+      label: Any Accessibility or Special Needs
+      hint: Describe any accommodations needed
+      type: select_multiple
+      options:
+      - Wheelchair Accessibility
+      - Mobility Assistance
+      - Hearing Assistance
+      - Vision Assistance
+      - Dietary Requirements
+      - Other Accommodations
+      required: false
+    - id: 21
+      name: accessibility_notes
+      label: Additional Details
+      hint: Please describe any special needs
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_header
+      label: -- Tour Leader Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: tour_leader_name
+      label: Group Leader or Educator Name
+      hint: Person responsible for group
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: tour_leader_phone
+      label: Tour Leader Phone Number
+      hint: Direct contact for the leader
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_requests
+      label: Additional Requests or Comments
+      hint: Any other information we should know
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spiritual Center Tour Booking Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Spiritual Center Tour
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: tour_duration
+      label: Tour Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Cash''}'
+      - '{''id'': 2, ''label'': ''Credit Card''}'
+      - '{''id'': 3, ''label'': ''PayPal''}'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: confirm_visit
+      label: Confirm Visit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 12
+      name: tour_type
+      label: Tour Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Guided''}'
+      - '{''id'': 2, ''label'': ''Self Guided''}'
+      - '{''id'': 3, ''label'': ''Combination''}'
+      required: false
+    - id: 13
+      name: special_request
+      label: Special Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tour_capacity
+      label: Tour Capacity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: special_request_2
+      label: Special Request 2
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Storage Order Form
+    pages:
+    - id: 1
+      name: storage_request
+      label: Storage Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_details
+      label: Item Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: storage_type
+      label: Storage Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Regular Storage''}'
+      - '{''value'': ''Archive Storage''}'
+      - '{''value'': ''Temperature-Controlled Storage''}'
+      required: false
+    - id: 4
+      name: item_name
+      label: Item Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: item_description
+      label: Item Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: storage_location
+      label: Storage Location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''A''}'
+      - '{''value'': ''B''}'
+      - '{''value'': ''C''}'
+      required: false
+    - id: 8
+      name: date_needed
+      label: Date Needed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_needed
+      label: Time Needed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false

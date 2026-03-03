@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compliance Statement Filing Application Form
+    pages:
+    - id: 1
+      name: applicant_full_name
+      label: Applicant Full Name
+      hint: Legal name of the person or entity filing
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: Name of the organization being represented
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_registration_number
+      label: Business Registration Number
+      hint: Official registration or tax ID number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_address
+      label: Business Address
+      hint: Complete physical address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: City or locality
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state_province
+      label: State or Province
+      hint: State, province, or region
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: country
+      label: Country
+      hint: Country of operation
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Germany
+      - France
+      - Other
+      required: true
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: Primary email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: Primary phone number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: filing_type
+      label: Filing Type
+      hint: Type of compliance statement being filed
+      type: select_one
+      options:
+      - Annual Compliance Statement
+      - Quarterly Compliance Statement
+      - Initial Compliance Statement
+      - Amendment to Previous Filing
+      - Final Compliance Statement
+      - Other
+      required: true
+    - id: 12
+      name: compliance_period_start
+      label: Compliance Period Start Date
+      hint: Start date of the compliance period
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: compliance_period_end
+      label: Compliance Period End Date
+      hint: End date of the compliance period
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: industry_classification
+      label: Industry Classification
+      hint: Primary industry sector
+      type: select_one
+      options:
+      - Financial Services
+      - Healthcare
+      - Technology
+      - Manufacturing
+      - Retail
+      - Energy
+      - Transportation
+      - Telecommunications
+      - Professional Services
+      - Other
+      required: true
+    - id: 15
+      name: number_of_employees
+      label: Number of Employees
+      hint: Total number of employees in organization
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-200
+      - 201-500
+      - 501-1000
+      - 1001-5000
+      - 5000+
+      required: true
+    - id: 16
+      name: regulatory_frameworks
+      label: Applicable Regulatory Frameworks
+      hint: Select all that apply to your organization
+      type: select_multiple
+      options:
+      - SOX (Sarbanes-Oxley)
+      - GDPR
+      - HIPAA
+      - PCI DSS
+      - ISO 27001
+      - OSHA
+      - EPA Regulations
+      - Industry Specific Regulations
+      - Other
+      required: true
+    - id: 17
+      name: compliance_officer_name
+      label: Compliance Officer Name
+      hint: Name of designated compliance officer
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: statement_summary
+      label: Compliance Statement Summary
+      hint: Brief summary of compliance status
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: violations_disclosed
+      label: Violations Disclosed
+      hint: Were there any compliance violations during this period
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: corrective_actions_taken
+      label: Corrective Actions Taken
+      hint: Describe any corrective actions if violations occurred
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: supporting_documentation
+      label: Supporting Documentation Attached
+      hint: Will you be attaching supporting documents
+      type: select_one
+      options:
+      - Yes, documents will be uploaded
+      - No additional documents
+      required: true
+    - id: 22
+      name: certification_statement
+      label: Certification Statement
+      hint: I certify that the information provided is accurate and complete
+      type: select_one
+      options:
+      - I certify and agree
+      - I do not certify
+      required: true
+    - id: 23
+      name: authorized_signature
+      label: Authorized Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true

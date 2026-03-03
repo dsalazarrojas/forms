@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Market Satisfaction Survey
+    pages:
+    - id: 1
+      name: market_satisfaction_survey_page
+      label: What do you think about the customer support team?
+      hint: null
+      type: select_multiple
+      options:
+      - very good
+      - good
+      - neutral
+      - bad
+      - very bad
+      required: true
+    - id: 2
+      name: customer_satisfaction_level
+      label: customer_satisfaction_level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: product_quality_rating
+      label: Product Quality Rating
+      hint: Rate our product out of 5 stars.
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: time_spent_survey
+      label: How much time do you usually spend in our store?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: overall_satisfaction_rating
+      label: Overall Satisfaction Rating
+      hint: null
+      type: select_one
+      options:
+      - very good
+      - good
+      - neutral
+      - bad
+      - very bad
+      required: true
+    - id: 6
+      name: customer_satisfaction_level_note
+      label: customer_satisfaction_level_note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: product_quality_note
+      label: product_quality_note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: store_visit_frequency
+      label: Store Visit Frequency
+      hint: null
+      type: select_one
+      options:
+      - often
+      - occasionally
+      - rarely
+      required: true
+    - id: 9
+      name: employee_friendliness
+      label: employee_friendliness
+      hint: null
+      type: select_one
+      options:
+      - very friendly
+      - friendly
+      - neutral
+      - unfriendly
+      - very unfriendly
+      required: true
+    - id: 10
+      name: product_price_range_note
+      label: product_price_range_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: customer_satisfaction_level_note
+      label: customer_satisfaction_level_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: store_visit_frequency
+      label: Store Visit Frequency
+      hint: null
+      type: select_one
+      options:
+      - often
+      - occasionally
+      - rarely
+      required: false
+    - id: 13
+      name: employee_friendliness
+      label: employee_friendliness
+      hint: null
+      type: select_one
+      options:
+      - very friendly
+      - friendly
+      - neutral
+      - unfriendly
+      - very unfriendly
+      required: false
+    - id: 14
+      name: store_visit_frequency
+      label: Store Visit Frequency
+      hint: null
+      type: select_one
+      options:
+      - often
+      - occasionally
+      - rarely
+      required: false
+    - id: 15
+      name: employee_friendliness
+      label: employee_friendliness
+      hint: null
+      type: select_one
+      options:
+      - very friendly
+      - friendly
+      - neutral
+      - unfriendly
+      - very unfriendly
+      required: false
+    - id: 16
+      name: customer_satisfaction_level_note
+      label: customer_satisfaction_level_note
+      hint: null
+      type: note
+      options: []
+      required: false

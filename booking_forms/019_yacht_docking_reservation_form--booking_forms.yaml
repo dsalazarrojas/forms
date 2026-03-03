@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Yacht Docking Reservation Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: marina_name
+      label: Marina Name
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''marina1''}'
+      - '{''value'': ''marina2''}'
+      - '{''value'': ''marina3''}'
+      required: false
+    - id: 5
+      name: slip_size
+      label: Slip Size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''small''}'
+      - '{''value'': ''medium''}'
+      - '{''value'': ''large''}'
+      required: false
+    - id: 6
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: reservation_time
+      label: Reservation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: details
+      label: Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Level Agreement Change Request Form
+    pages:
+    - id: 1
+      name: service_level_agreement_change_request_form
+      label: Service Level Agreement Change Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - Consulting Forms
+      - Business Forms
+      required: true
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false

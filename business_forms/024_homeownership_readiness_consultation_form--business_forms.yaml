@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homeownership Readiness Consultation Form
+    pages:
+    - id: 1
+      name: form_section_one
+      label: first_time_homebuyer
+      hint: null
+      type: select_multiple
+      options:
+      - First time homebuyer
+      - First time investor
+      - Both first time homebuyer and first time investor
+      required: false
+    - id: 2
+      name: gross_income
+      label: gross_income
+      hint: null
+      type: select_one
+      options:
+      - Under 40K
+      - 40K-60K
+      - 60K-80K
+      - 80K-100K
+      - 100K+
+      required: false
+    - id: 3
+      name: assets
+      label: liquid_assets
+      hint: Enter all liquid assets, such as stocks, bonds, and cash accounts.
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: debts
+      label: debts
+      hint: Enter all debts.
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: credit_score
+      label: credit_score
+      hint: null
+      type: select_one
+      options:
+      - 620-639
+      - 640-659
+      - 660-679
+      - 680-699
+      - 700-749
+      - 750-799
+      - 800-850
+      - 851-899
+      - 900-949
+      - 950-999
+      required: false
+    - id: 6
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Disabled
+      - Retired
+      - In-school
+      required: false
+    - id: 7
+      name: co_borrower_income
+      label: co_borrower_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: property_type
+      label: primary_residence
+      hint: null
+      type: select_one
+      options:
+      - Primary Residence
+      - Investment
+      - Second Home
+      required: false
+    - id: 9
+      name: property_value
+      label: property_value
+      hint: Enter the value of the property, including any other assets.
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: property_mortgage
+      label: property_mortgage
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      - Yes, but with a second mortgage
+      required: false
+    - id: 11
+      name: rental_property
+      label: rental_income
+      hint: Enter the gross rental income, if any.
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: down_payment
+      label: down_payment
+      hint: Enter the down payment.
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: closing_costs
+      label: closing_costs
+      hint: Enter closing costs.
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: closing_date
+      label: closing_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: credit_score_1
+      label: credit_score_1
+      hint: null
+      type: select_one
+      options:
+      - 620-639
+      - 640-659
+      - 660-679
+      - 680-699
+      - 700-749
+      - 750-799
+      - 800-850
+      - 851-899
+      - 900-949
+      - 950-999
+      required: false
+    - id: 16
+      name: credit_score_2
+      label: credit_score_2
+      hint: null
+      type: select_one
+      options:
+      - 620-639
+      - 640-659
+      - 660-679
+      - 680-699
+      - 700-749
+      - 750-799
+      - 800-850
+      - 851-899
+      - 900-949
+      - 950-999
+      required: false
+    - id: 17
+      name: co_borrower_income_2
+      label: co_borrower_income_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: primary_use
+      label: primary_use
+      hint: null
+      type: select_one
+      options:
+      - Primary Residence
+      - Investment
+      - Second Home
+      required: false
+    - id: 19
+      name: primary_use_2
+      label: primary_use_2
+      hint: null
+      type: select_one
+      options:
+      - Primary Residence
+      - Investment
+      - Second Home
+      required: false
+    - id: 20
+      name: debt_to_income
+      label: debt_to_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: cash_flow
+      label: cash_flow
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: co_borrower_income_3
+      label: co_borrower_income_3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: debt_to_income_2
+      label: debt_to_income_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: co_borrower_income_4
+      label: co_borrower_income_4
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: form_section_two
+      label: form_section_two
+      hint: null
+      type: note
+      options: []
+      required: false

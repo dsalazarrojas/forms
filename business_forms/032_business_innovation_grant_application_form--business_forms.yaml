@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Innovation Grant Application Form
+    pages:
+    - id: 1
+      name: section_applicant_identity_grant
+      label: -- Applicant and Business Identity --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: lead_applicant_full_name_grant
+      label: Lead Applicant Name
+      hint: Primary point of contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_legal_name_grant_app
+      label: Business Legal Name
+      hint: Registered name of the entity
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: grant_category_selection_type
+      label: Grant Category
+      hint: Select the category most relevant to your project
+      type: select_one
+      options:
+      - Sustainable Technology
+      - Digital Transformation
+      - Community Impact / Social Innovation
+      - Product R&D
+      - Market Expansion / Internationalization
+      required: true
+    - id: 5
+      name: project_title_grant_app
+      label: Project Title
+      hint: A concise name for your innovation project
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_innovation_proposal_details
+      label: -- Innovation Proposal --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: problem_statement_innovation_grant
+      label: Problem Statement
+      hint: What specific challenge is this project addressing
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: proposed_innovation_desc_grant
+      label: Proposed Innovation Description
+      hint: Explain your solution and why it is innovative
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: expected_impact_metrics_selection
+      label: Expected Impact Areas
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Increased Revenue
+      - Job Creation
+      - Carbon Footprint Reduction
+      - Improved Operational Efficiency
+      - New Market Access
+      required: true
+    - id: 10
+      name: project_timeline_months_estimate
+      label: Project Timeline (Months)
+      hint: Total duration from start to completion
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_budget_sustainability
+      label: -- Budget and Sustainability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: total_budget_request_grant_amount
+      label: Total Budget Request (USD)
+      hint: The grant amount you are applying for
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: matching_funds_availability_status
+      label: Matching Funds Available
+      hint: Does the business have additional capital for this project
+      type: select_one
+      options:
+      - Yes, 50% or more matching
+      - Yes, 25% - 49% matching
+      - Yes, less than 25% matching
+      - No matching funds available
+      required: true
+    - id: 14
+      name: core_team_qualifications_summary
+      label: Core Team Qualifications
+      hint: Briefly describe the expertise of key personnel
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: project_sustainability_plan_desc
+      label: Sustainability Plan
+      hint: How will the project continue after grant funding ends
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: grant_app_submission_date_final
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

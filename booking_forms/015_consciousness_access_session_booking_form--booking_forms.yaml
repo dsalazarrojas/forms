@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consciousness Access Session Booking Form
+    pages:
+    - id: 1
+      name: section_booking_details
+      label: -- Session Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: session_type
+      label: Type of Session Requested
+      hint: null
+      type: select_one
+      options:
+      - Individual Consciousness Scan
+      - Group Facilitation
+      - Deep Dive Intensive
+      - Introductory Consultation
+      required: true
+    - id: 3
+      name: preferred_date
+      label: Preferred Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: preferred_time
+      label: Preferred Time of Day
+      hint: null
+      type: select_one
+      options:
+      - Morning (8am - 12pm)
+      - Afternoon (12pm - 5pm)
+      - Evening (5pm - 8pm)
+      required: true
+    - id: 5
+      name: section_client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: For booking confirmation and reminders
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_intention
+      label: -- Session Focus --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: primary_focus_area
+      label: What is your primary focus for this session?
+      hint: null
+      type: select_multiple
+      options:
+      - Clarity and Decision Making
+      - Stress Reduction
+      - Spiritual Growth
+      - Creative Blocks
+      - Emotional Balancing
+      - Other
+      required: true
+    - id: 11
+      name: previous_experience
+      label: Have you had a Consciousness Access session before?
+      hint: null
+      type: select_one
+      options:
+      - Yes, with this practitioner
+      - Yes, with another practitioner
+      - No, this is my first time
+      required: true
+    - id: 12
+      name: special_requests
+      label: Any special requests or information the facilitator should know?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_payment_terms
+      label: -- Booking Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: cancellation_policy_agreement
+      label: I agree to the 24-hour cancellation policy
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 15
+      name: session_fee_acknowledgment
+      label: I acknowledge the session fee and payment terms
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true

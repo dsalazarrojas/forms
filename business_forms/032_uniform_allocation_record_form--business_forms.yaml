@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Uniform Allocation Record Form
+    pages:
+    - id: 1
+      name: issued_to
+      label: issued to
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: employee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: item_type
+      label: item type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: item_description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: item_quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: issued_by
+      label: issued by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: issued_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: returned_date
+      label: returned date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: reason_returned
+      label: reason returned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Lost
+      - Damaged
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 14
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - employee
+      required: false
+    - id: 15
+      name: submitted_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: approved_by
+      label: approved by
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - manager
+      required: false
+    - id: 17
+      name: approved_date
+      label: approved date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: modified_by
+      label: modified by
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - employee
+      required: false
+    - id: 19
+      name: modified_date
+      label: modified date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: deleted_by
+      label: deleted by
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - manager
+      required: false
+    - id: 21
+      name: deleted_date
+      label: deleted date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: deleted_comments
+      label: deleted comments
+      hint: null
+      type: text
+      options: []
+      required: false

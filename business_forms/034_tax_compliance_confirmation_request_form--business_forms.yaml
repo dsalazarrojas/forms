@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Compliance Confirmation Request Form
+    pages:
+    - id: 1
+      name: tax_compliance_confirmation_request_form
+      label: Confirm Tax Compliance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: tax_status
+      label: What is the current tax status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''1'', ''label'': ''In Compliance''}'
+      - '{''id'': ''2'', ''label'': ''Not Compliant''}'
+      - '{''id'': ''3'', ''label'': ''Unknown''}'
+      required: true
+    - id: 3
+      name: signature_date
+      label: Signature Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Upload supporting documents if applicable.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: individual_business_name
+      label: Individual Business Name
+      hint: Enter individual business name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: business_license_number
+      label: Business License Number
+      hint: Enter business license number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: Enter address
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: Contact Name
+      hint: Enter contact name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: supporting_documents_upload
+      label: Upload Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: file_name
+      label: File Name
+      hint: Enter file name
+      type: text
+      options: []
+      required: false

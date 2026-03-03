@@ -1,0 +1,50 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: organization_info
+      label: Organization Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sponsor_info
+      label: Sponsor Info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''Sponsor 1'', ''name'': ''Sponsor 1''}'
+      - '{''id'': ''Sponsor 2'', ''name'': ''Sponsor 2''}'
+      - '{''id'': ''Sponsor 3'', ''name'': ''Sponsor 3''}'
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: Enter your contact information
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: agreement
+      label: Sponsorship Agreement
+      hint: Please select your desired agreement
+      type: select_multiple
+      options:
+      - '{''id'': ''Agreement 1'', ''name'': ''Agreement 1''}'
+      - '{''id'': ''Agreement 2'', ''name'': ''Agreement 2''}'
+      - '{''id'': ''Agreement 3'', ''name'': ''Agreement 3''}'
+      required: false

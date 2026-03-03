@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Completion Form Template
+    pages:
+    - id: 1
+      name: job_completion_form_template
+      label: Job Completion Form Template
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_completion_date
+      label: job_completion_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: job_completion_time
+      label: job_completion_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_hours_worked
+      label: job_hours_worked
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: job_employer_signature
+      label: job_employer_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_employee_signature
+      label: job_employee_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_completion_date_employer
+      label: job_completion_date_employer
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: job_completion_time_employer
+      label: job_completion_time_employer
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: job_confirmation
+      label: job_confirmation
+      hint: null
+      type: select_one
+      options:
+      - Job completed with no issues
+      - Job completed with some issues
+      - Not yet completed
+      required: true
+    - id: 11
+      name: job_completion_notes
+      label: job_completion_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: job_completion_signature_employer
+      label: job_completion_signature_employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: job_completion_signature_employee
+      label: job_completion_signature_employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: job_completion_signature_date_employer
+      label: job_completion_signature_date_employer
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: job_completion_signature_time_employer
+      label: job_completion_signature_time_employer
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: job_completion_signature_date_employee
+      label: job_completion_signature_date_employee
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: job_completion_signature_time_employee
+      label: job_completion_signature_time_employee
+      hint: null
+      type: time
+      options: []
+      required: false

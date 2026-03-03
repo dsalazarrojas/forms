@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Reservation Extension Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: check_in_date
+      label: Check In Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: check_out_date
+      label: Check Out Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: extension_length
+      label: Extension Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Single''}'
+      - '{''value'': ''Double''}'
+      - '{''value'': ''Suite''}'
+      required: true
+    - id: 6
+      name: extension_reason
+      label: Extension Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''Email''}'
+      - '{''value'': ''In Person''}'
+      required: true
+    - id: 10
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true

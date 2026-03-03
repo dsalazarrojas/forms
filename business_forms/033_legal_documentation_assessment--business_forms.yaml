@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: legal_documentation_assessment
+    pages:
+    - id: 1
+      name: business_legal_document_needs
+      label: Business Legal Document Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: legal_document_type
+      label: Legal Document Type
+      hint: null
+      type: select_one
+      options:
+      - Legal Document
+      - Business Registration
+      - Non-Resident Alien
+      - Will
+      - Living Will
+      - Power of Attorney
+      - Other
+      required: false
+    - id: 3
+      name: legal_document_purpose
+      label: Legal Document Purpose
+      hint: null
+      type: select_multiple
+      options:
+      - To create a will
+      - To create a trust
+      - To create a power of attorney
+      - To create a business registration
+      - Other
+      required: false
+    - id: 4
+      name: legal_document_location
+      label: Legal Document Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: legal_document_effective_date
+      label: Legal Document Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: legal_document_effective_time
+      label: Legal Document Effective Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: legal_document_revision_date
+      label: Legal Document Revision Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: legal_document_revision_time
+      label: Legal Document Revision Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: legal_document_issuer_name
+      label: Legal Document Issuer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: legal_document_issuer_title
+      label: Legal Document Issuer Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: legal_document_issuer_address
+      label: Legal Document Issuer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: legal_document_issuer_phone
+      label: Legal Document Issuer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: legal_document_issuer_email
+      label: Legal Document Issuer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: legal_document_issuer_note
+      label: Legal Document Issuer Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: legal_document_issuer_fax
+      label: Legal Document Issuer Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: legal_document_issuer_website
+      label: Legal Document Issuer Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: legal_document_revision_name
+      label: Legal Document Revision Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: legal_document_revision_title
+      label: Legal Document Revision Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: legal_document_revision_address
+      label: Legal Document Revision Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: legal_document_revision_phone
+      label: Legal Document Revision Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: legal_document_revision_email
+      label: Legal Document Revision Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: legal_document_revision_note
+      label: Legal Document Revision Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: legal_document_revision_fax
+      label: Legal Document Revision Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: legal_document_revision_website
+      label: Legal Document Revision Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: legal_document_revision_status
+      label: Legal Document Revision Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Completed
+      - Cancelled
+      required: false

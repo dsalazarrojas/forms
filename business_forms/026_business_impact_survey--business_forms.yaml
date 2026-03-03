@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Impact Survey
+    pages:
+    - id: 1
+      name: section_org_readiness
+      label: -- Organizational Readiness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name_impact_survey
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: operational_readiness_rating_impact
+      label: Operational Readiness Rating
+      hint: How prepared is your organization for an unexpected disruption (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: section_vulnerability_assessment
+      label: -- Vulnerability Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: critical_business_functions_selection
+      label: Critical Business Functions
+      hint: Which functions must be maintained at all times
+      type: select_multiple
+      options:
+      - IT / Communication Systems
+      - Customer Support
+      - Sales and Revenue Generation
+      - Logistics / Supply Chain
+      - Human Resources / Payroll
+      - Research and Development
+      required: true
+    - id: 6
+      name: infrastructure_vulnerability_assessment
+      label: Infrastructure Vulnerability Assessment
+      hint: Rate your reliance on physical infrastructure
+      type: select_one
+      options:
+      - High (Dependent on specific location)
+      - Moderate (Hybrid/Partially mobile)
+      - Low (Fully distributed/Cloud-based)
+      required: true
+    - id: 7
+      name: potential_impact_48h_downtime
+      label: Potential Impact of 48-hour Downtime
+      hint: Select the most likely outcome of a 2-day disruption
+      type: select_one
+      options:
+      - Catastrophic financial loss
+      - Significant operational delay
+      - Moderate customer inconvenience
+      - Minimal impact (easily recoverable)
+      required: true
+    - id: 8
+      name: section_mitigation_risk
+      label: -- Mitigation and Risk Management --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: mitigation_strategy_awareness_score
+      label: Mitigation Strategy Awareness
+      hint: Are employees aware of disaster recovery procedures (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: supply_chain_dependency_level_impact
+      label: Supply Chain Dependency Level
+      hint: null
+      type: select_one
+      options:
+      - Critical (Single failure stops operations)
+      - High (Significant reliance on key vendors)
+      - Moderate (Alternative suppliers available)
+      - Low (Mostly self-sufficient)
+      required: true
+    - id: 11
+      name: risk_assessment_confidence_score
+      label: Risk Assessment Confidence
+      hint: How confident are you in your current risk data (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: primary_threat_concern_text
+      label: Primary Threat Concern
+      hint: e.g. Cyber attack, Natural disaster, Economic shift
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: previous_disruption_experience_summary
+      label: Previous Disruption Experience
+      hint: Briefly describe any major past disruptions
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: estimated_recovery_time_objective_hours
+      label: Recovery Time Objective (Hours)
+      hint: Maximum acceptable downtime for critical functions
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: impact_survey_submission_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: interior_design_checklist_form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_info
+      label: Client Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: budget_info
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: style_info
+      label: Style
+      hint: null
+      type: select_one
+      options:
+      - Modern
+      - Contemporary
+      - Traditional
+      - Mid-Century
+      required: false
+    - id: 6
+      name: goals
+      label: Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Improve functionality
+      - Aesthetics
+      - Budget-friendliness
+      - Timeless design
+      required: false
+    - id: 7
+      name: schedule
+      label: Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: preferred_designers
+      label: Preferred Designers
+      hint: null
+      type: select_multiple
+      options:
+      - Designer A
+      - Designer B
+      - Designer C
+      required: false

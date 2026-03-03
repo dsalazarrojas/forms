@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book A Room Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: arrival_date
+      label: Check-In Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: departure_date
+      label: Check-Out Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: number_of_nights
+      label: Number of Nights
+      hint: Calculated from dates
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: number_of_guests
+      label: Number of Guests
+      hint: Total people in party
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: number_of_children
+      label: Number of Children
+      hint: Age 12 and under
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - Single Room
+      - Double Room
+      - Twin Room
+      - Suite
+      - Deluxe Room
+      - Standard Room
+      - Economy Room
+      - Studio
+      required: true
+    - id: 11
+      name: bed_type_preference
+      label: Bed Type Preference
+      hint: null
+      type: select_one
+      options:
+      - Single Bed
+      - Double Bed
+      - Twin Beds
+      - Queen Bed
+      - King Bed
+      - No Preference
+      required: true
+    - id: 12
+      name: smoking_preference
+      label: Smoking Preference
+      hint: null
+      type: select_one
+      options:
+      - Non-Smoking
+      - Smoking
+      - No Preference
+      required: true
+    - id: 13
+      name: floor_preference
+      label: Floor Preference
+      hint: null
+      type: select_one
+      options:
+      - Ground Floor
+      - Mid-Floor
+      - High Floor
+      - No Preference
+      required: false
+    - id: 14
+      name: room_view_preference
+      label: Room View Preference
+      hint: null
+      type: select_one
+      options:
+      - City View
+      - Garden View
+      - Ocean View
+      - Mountain View
+      - No Preference
+      - Not Available
+      required: false
+    - id: 15
+      name: special_requests
+      label: Special Requests
+      hint: Late checkout, accessibility, etc
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: ADA requirements
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: amenities_desired
+      label: Desired Room Amenities
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - WiFi
+      - Air Conditioning
+      - TV
+      - Refrigerator
+      - Microwave
+      - Kitchenette
+      - Coffee Maker
+      - Safe
+      - Desk
+      - Parking
+      required: false
+    - id: 18
+      name: parking_needed
+      label: Parking Required
+      hint: null
+      type: select_one
+      options:
+      - Yes - Covered
+      - Yes - Uncovered
+      - No Parking Needed
+      required: true
+    - id: 19
+      name: breakfast_preference
+      label: Breakfast Preference
+      hint: null
+      type: select_one
+      options:
+      - Include Breakfast
+      - No Breakfast
+      - Breakfast Not Available
+      required: false
+    - id: 20
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Bank Transfer
+      - Check
+      - PayPal
+      required: true
+    - id: 21
+      name: promotional_code
+      label: Promotional Code
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: special_occasions
+      label: Special Occasion
+      hint: Birthday, honeymoon, anniversary
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

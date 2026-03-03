@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: cross_functional_collaboration_request_form
+    pages:
+    - id: 1
+      name: project_details
+      label: project_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_members
+      label: team_members
+      hint: null
+      type: select_multiple
+      options:
+      - team_member1
+      - team_member2
+      - team_member3
+      required: false
+    - id: 3
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: project_start_date
+      label: project_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_end_date
+      label: project_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_start_time
+      label: project_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: project_end_time
+      label: project_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: department_involved
+      label: department_involved
+      hint: null
+      type: select_multiple
+      options:
+      - department1
+      - department2
+      - department3
+      required: false
+    - id: 9
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_budget
+      label: project_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: project_goal
+      label: project_goal
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: dish-co2-impact-search
+    pages:
+    - id: 1
+      name: dish_name
+      label: Dish Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cuisine
+      label: Cuisine
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: ingredient_list
+      label: Ingredient List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: ingredient_quantity
+      label: Ingredient Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: ingredient_unit
+      label: Ingredient Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: ingredient_sourcing
+      label: Ingredient Sourcing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: calculation_options
+      label: Calculation Options
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High Impact'', ''value'': ''high''}'
+      - '{''label'': ''Medium Impact'', ''value'': ''medium''}'
+      - '{''label'': ''Low Impact'', ''value'': ''low''}'
+      required: true
+    - id: 8
+      name: estimated_co2
+      label: Estimated CO2 Impact
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: unit_of_measure
+      label: Unit of Measure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: co2_emissions_reduction_per_unit
+      label: CO2 Emissions Reduction per Unit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Worker Timesheet And Tracking Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: lunch_break
+      label: Lunch Break
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: total_hours_worked
+      label: Total Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: clock_in
+      label: Clock In
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: clock_out
+      label: Clock Out
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: break_start_time
+      label: Break Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: break_end_time
+      label: Break End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: clock_in_break_start_time
+      label: Clock In Break Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: clock_in_break_end_time
+      label: Clock In Break End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: total_break_hours
+      label: Total Break Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: clock_out_break_start_time
+      label: Clock Out Break Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: clock_out_break_end_time
+      label: Clock Out Break End Time
+      hint: null
+      type: time
+      options: []
+      required: false

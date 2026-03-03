@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Calendar Tool Requisition Form
+    pages:
+    - id: 1
+      name: section_requester_info
+      label: -- Requester Details --
+      hint: Please provide your information below.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_id
+      label: Requester Identification Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_tool_details
+      label: -- Tool and Resource Details --
+      hint: Please provide details for the tool or resource requested.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: tool_name
+      label: Tool or Resource Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: tool_description
+      label: Description of the Tool or Resource
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: tool_category
+      label: Tool Category
+      hint: null
+      type: select_one
+      options:
+      - SEO
+      - Social Media
+      - Content Management
+      - Project Management
+      - Analytics
+      - Design
+      - Other
+      required: true
+    - id: 8
+      name: reason_for_requisition
+      label: Justification for the Requisition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_budget_timeline
+      label: -- Budget and Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: estimated_cost
+      label: Estimated Cost of the Tool or Resource
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: requested_start_date
+      label: Requested Start Date for Tool Use
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: section_confirmation
+      label: -- Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: requisition_form_completed
+      label: Requisition Form Completed?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

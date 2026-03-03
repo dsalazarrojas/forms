@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: return_authorization_consent_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_return_info
+      label: Product Return Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: return_reason
+      label: Return Reason
+      hint: null
+      type: select_one
+      options:
+      - Product Defective
+      - Order Not Received
+      - Order Not as Described
+      - Order Not Wanted
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: return_notes
+      label: Return Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: authorized_signature
+      label: Authorized Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_returned
+      label: Date Returned
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: product_id
+      label: Product ID
+      hint: null
+      type: number
+      options: []
+      required: false

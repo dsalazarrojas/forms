@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Transformation Plan Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: objectives
+      label: Objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: focus_areas
+      label: Focus Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Area 1
+      - Area 2
+      - Area 3
+      required: false
+    - id: 4
+      name: timelines
+      label: Timelines
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: budgets
+      label: Budgets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: proposal
+      label: Proposal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attachments
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reviewers
+      label: Reviewers
+      hint: null
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      - Jim Doe
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Jim Doe
+      required: false
+    - id: 11
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: submitted_time_zone
+      label: Submitted Time Zone
+      hint: null
+      type: select_one
+      options:
+      - UTC
+      - EST
+      - EST-05
+      required: false
+    - id: 14
+      name: submitted_country
+      label: Submitted Country
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - Canada
+      - Mexico
+      required: false
+    - id: 15
+      name: submitted_ip_address
+      label: Submitted IP Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_city
+      label: Submitted City
+      hint: null
+      type: text
+      options: []
+      required: false

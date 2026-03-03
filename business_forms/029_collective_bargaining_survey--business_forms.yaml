@@ -1,0 +1,317 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Collective Bargaining Survey
+    pages:
+      - id: 1
+        name: employee_name
+        label: Your Name
+        hint: Optional for anonymity
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: employee_id
+        label: Employee ID
+        hint: If providing
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: department
+        label: Department
+        hint: Your department
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: job_title
+        label: Job Title
+        hint: Your position
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: union_membership
+        label: Union Membership Status
+        hint: Are you a union member
+        type: select_one
+        options:
+          - Yes Active Member
+          - Yes Member
+          - No But Eligible
+          - Not Eligible
+          - Prefer Not to Say
+        required: true
+      - id: 6
+        name: local_number
+        label: Union Local Number
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: years_employed
+        label: Years with Company
+        hint: Length of employment
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1-3 years
+          - 3-5 years
+          - 5-10 years
+          - 10-15 years
+          - 15-20 years
+          - Over 20 years
+        required: true
+      - id: 8
+        name: years_union_member
+        label: Years as Union Member
+        hint: If applicable
+        type: select_one
+        options:
+          - Not a Member
+          - Less than 1 year
+          - 1-3 years
+          - 3-5 years
+          - 5-10 years
+          - Over 10 years
+        required: false
+      - id: 9
+        name: contract_awareness
+        label: How Familiar Are You with Current CBA
+        hint: Collective Bargaining Agreement
+        type: select_one
+        options:
+          - Very Familiar
+          - Somewhat Familiar
+          - Slightly Familiar
+          - Not Familiar At All
+        required: true
+      - id: 10
+        name: contract_satisfaction
+        label: Overall Satisfaction with Current CBA
+        hint: How satisfied are you
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 11
+        name: wages_satisfaction
+        label: Satisfaction with Wages and Pay
+        hint: Pay rate satisfaction
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 12
+        name: benefits_satisfaction
+        label: Satisfaction with Benefits
+        hint: Health insurance, retirement, etc
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 13
+        name: hours_satisfaction
+        label: Satisfaction with Work Hours
+        hint: Schedule and hours
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 14
+        name: overtime_satisfaction
+        label: Satisfaction with Overtime Policies
+        hint: OT pay and availability
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 15
+        name: vacation_satisfaction
+        label: Satisfaction with Vacation Time
+        hint: PTO and vacation
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 16
+        name: sick_leave_satisfaction
+        label: Satisfaction with Sick Leave
+        hint: Sick time policies
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 17
+        name: working_conditions_satisfaction
+        label: Satisfaction with Working Conditions
+        hint: Workplace environment
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 18
+        name: safety_satisfaction
+        label: Satisfaction with Safety Measures
+        hint: Workplace safety
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 19
+        name: grievance_process_satisfaction
+        label: Satisfaction with Grievance Process
+        hint: Handling of complaints
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 20
+        name: union_representation_satisfaction
+        label: Satisfaction with Union Representation
+        hint: How union represents you
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+          - Not Applicable
+        required: true
+      - id: 21
+        name: priority_issues
+        label: Priority Issues for Next Negotiation
+        hint: Select top priorities
+        type: select_multiple
+        options:
+          - Higher Wages
+          - Better Health Benefits
+          - More Vacation Time
+          - Better Retirement Benefits
+          - Improved Working Conditions
+          - More Flexible Schedules
+          - Job Security
+          - Training Opportunities
+          - Better Grievance Process
+          - Overtime Policies
+        required: true
+      - id: 22
+        name: wage_increase_priority
+        label: Importance of Wage Increase
+        hint: How important
+        type: select_one
+        options:
+          - Highest Priority
+          - High Priority
+          - Moderate Priority
+          - Low Priority
+          - Not a Priority
+        required: true
+      - id: 23
+        name: strike_opinion
+        label: Opinion on Strike Action if Needed
+        hint: Would you support
+        type: select_one
+        options:
+          - Strongly Support
+          - Somewhat Support
+          - Neutral
+          - Somewhat Oppose
+          - Strongly Oppose
+        required: true
+      - id: 24
+        name: communication_satisfaction
+        label: Satisfaction with Union Communication
+        hint: How well informed you are
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 25
+        name: meeting_attendance
+        label: How Often Do You Attend Union Meetings
+        hint: Meeting participation
+        type: select_one
+        options:
+          - Always
+          - Most of the Time
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 26
+        name: union_involvement
+        label: Interest in More Union Involvement
+        hint: Would you like to be more involved
+        type: select_one
+        options:
+          - Yes Very Interested
+          - Somewhat Interested
+          - Neutral
+          - Not Interested
+        required: true
+      - id: 27
+        name: additional_comments
+        label: Additional Comments or Suggestions
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

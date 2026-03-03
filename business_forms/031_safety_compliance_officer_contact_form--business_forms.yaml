@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety & Compliance Officer Contact Form
+    pages:
+    - id: 1
+      name: contact_form
+      label: contact_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: safety_concerns
+      label: Safety Concerns
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': 1}'
+      - '{''id'': 2, ''label'': False, ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Unsure'', ''value'': 3}'
+      required: false
+    - id: 3
+      name: incident_report
+      label: Incident Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: compliance_questions
+      label: Compliance Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Phone'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Email'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Chat'', ''value'': 3}'
+      required: false
+    - id: 6
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: reporting_officer_name
+      label: Reporting Officer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reporting_officer_phone
+      label: Reporting Officer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reporting_officer_email
+      label: Reporting Officer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: reporting_officer_location
+      label: Reporting Officer Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reporting_officer_department
+      label: Reporting Officer Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Engineering'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Operations'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Management'', ''value'': 3}'
+      required: false
+    - id: 12
+      name: reporting_officer_job_title
+      label: Reporting Officer Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reporting_officer_contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Phone'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Email'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''In Person'', ''value'': 3}'
+      required: false

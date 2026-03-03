@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Compliance Review For Brokers
+    pages:
+    - id: 1
+      name: broker_info_header
+      label: -- Broker Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: broker_name
+      label: Broker Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: broker_id
+      label: Broker ID or License Number
+      hint: Your license or ID number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: firm_name
+      label: Brokerage Firm Name
+      hint: Your firm
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: compliance_period_header
+      label: -- Compliance Period --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: review_year
+      label: Review Year
+      hint: Year of compliance review
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: review_date
+      label: Review Submission Date
+      hint: Date of this review
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: regulatory_compliance_header
+      label: -- Regulatory Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: fiduciary_duty_compliance
+      label: Fiduciary Duty Compliance
+      hint: Are you compliant with fiduciary duties
+      type: select_one
+      options:
+      - Fully Compliant
+      - Substantially Compliant
+      - Partially Compliant
+      - Non-Compliant
+      - Under Review
+      required: true
+    - id: 12
+      name: conduct_rules_compliance
+      label: Code of Conduct and Rules
+      hint: Compliance with conduct rules
+      type: select_one
+      options:
+      - Fully Compliant
+      - Substantially Compliant
+      - Partially Compliant
+      - Non-Compliant
+      - Under Review
+      required: true
+    - id: 13
+      name: disclosure_compliance
+      label: Disclosure Requirements
+      hint: Compliance with disclosure rules
+      type: select_one
+      options:
+      - Fully Compliant
+      - Substantially Compliant
+      - Partially Compliant
+      - Non-Compliant
+      - Under Review
+      required: true
+    - id: 14
+      name: client_protection_header
+      label: -- Client Protection and Security --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: client_funds_handling
+      label: Client Funds Handling
+      hint: Secure handling of client funds
+      type: select_one
+      options:
+      - Fully Compliant
+      - Substantially Compliant
+      - Partially Compliant
+      - Non-Compliant
+      - Under Review
+      required: true
+    - id: 16
+      name: privacy_protection
+      label: Privacy and Data Protection
+      hint: Protection of client data
+      type: select_one
+      options:
+      - Fully Compliant
+      - Substantially Compliant
+      - Partially Compliant
+      - Non-Compliant
+      - Under Review
+      required: true
+    - id: 17
+      name: conflict_of_interest
+      label: Conflict of Interest Management
+      hint: Disclosure and handling of conflicts
+      type: select_one
+      options:
+      - Fully Compliant
+      - Substantially Compliant
+      - Partially Compliant
+      - Non-Compliant
+      - Under Review
+      required: true
+    - id: 18
+      name: violations_header
+      label: -- Violations and Incidents --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: regulatory_violations
+      label: Any Regulatory Violations This Year
+      hint: Were there violations
+      type: select_one
+      options:
+      - No violations
+      - Minor violation reported and resolved
+      - Multiple violations reported
+      - Pending investigation
+      - Unresolved violations
+      required: true
+    - id: 20
+      name: violation_description
+      label: Violation Details
+      hint: If violations occurred, describe
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: corrective_actions
+      label: Corrective Actions Taken
+      hint: How violations were addressed
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: training_header
+      label: -- Training and Education --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: compliance_training
+      label: Compliance Training Completed
+      hint: Required training completed
+      type: select_one
+      options:
+      - All training completed
+      - Most training completed
+      - Some training completed
+      - Training in progress
+      - Training not started
+      required: true
+    - id: 24
+      name: training_topics
+      label: Training Topics Completed
+      hint: Select all completed
+      type: select_multiple
+      options:
+      - Regulatory Requirements
+      - Ethical Standards
+      - Anti-Money Laundering
+      - Know Your Customer
+      - Client Protection
+      - Data Security
+      - Other
+      required: false
+    - id: 25
+      name: attestation_header
+      label: -- Attestation --
+      hint: null
+      type: note
+      options: []
+      required: false

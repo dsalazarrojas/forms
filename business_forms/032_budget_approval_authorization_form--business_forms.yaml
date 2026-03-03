@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budget Approval Authorization Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: fiscal_year
+      label: Fiscal Year
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: budget_category
+      label: Budget Category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: total_amount_requested
+      label: Total Amount Requested
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: project_description
+      label: Project or Expense Description
+      hint: What is this budget for
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: business_justification
+      label: Business Justification
+      hint: Why is this budget needed
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: expected_outcomes
+      label: Expected Outcomes or ROI
+      hint: Measurable benefits
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: timeline
+      label: Project Timeline
+      hint: Start and end dates
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: funding_source
+      label: Proposed Funding Source
+      hint: Budget line item or account
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Pending Review
+      - Under Review
+      - Approved
+      - Rejected
+      - Approved with Modifications
+      required: true
+    - id: 14
+      name: approver_name
+      label: Approver Name
+      hint: Manager or Director
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: approver_title
+      label: Approver Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: approval_comments
+      label: Approval Comments or Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: budget_cap
+      label: Approved Budget Amount
+      hint: Final authorized amount
+      type: number
+      options: []
+      required: false

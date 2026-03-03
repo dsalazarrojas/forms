@@ -1,0 +1,108 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Color Street Sample
+    pages:
+      - id: 1
+        name: section_sample_intro
+        label: -- Request Your Color Street Sample --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: sample_requester_name
+        label: Your Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: sample_requester_email
+        label: Your Email
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: sample_requester_address
+        label: Your Mailing Address
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: section_preferences
+        label: -- Your Nail Preferences --
+        hint: help us pick the best sample for you
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: favorite_colors
+        label: What are your favorite colors or styles?
+        hint: e.g., Pinks, Blues, Glitters, Solids
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: have_tried_before
+        label: Have you ever tried Color Street before?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 8
+        name: current_nail_routine
+        label: What is your current nail routine?
+        hint: null
+        type: select_one
+        options:
+          - Salon Manicures
+          - DIY Polish at Home
+          - Gel/Acrylics
+          - Nothing/Natural
+        required: false
+      - id: 9
+        name: section_followup
+        label: -- Stay Connected --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: join_mailing_list
+        label: Would you like to join my VIP mailing list for deals?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 11
+        name: referral_source
+        label: How did you hear about me?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: sample_notes
+        label: Any special requests for your sample?
+        hint: null
+        type: text
+        options: []
+        required: false

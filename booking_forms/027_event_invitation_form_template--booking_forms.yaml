@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Invitation Form Template
+    pages:
+    - id: 1
+      name: event_invitation_form_template
+      label: event_invitation_form_template
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: rsvp
+      label: rsvp
+      hint: null
+      type: select_multiple
+      options:
+      - 'No'
+      - 'Yes'
+      required: false

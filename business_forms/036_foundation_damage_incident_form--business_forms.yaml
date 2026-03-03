@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: foundation-damage-incident-form
+    pages:
+    - id: 1
+      name: incident_summary
+      label: Incident Summary
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_found
+      label: Date Found
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: location_found
+      label: Location Found
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: damage_description
+      label: Damage Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contractor_info
+      label: Contractor Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: repair_status
+      label: Repair Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Completed
+      required: true
+    - id: 7
+      name: insurance_claim
+      label: Insurance Claim
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 10
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: claim_total
+      label: Claim Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: incident_images
+      label: Incident Images
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_video
+      label: Incident Video
+      hint: null
+      type: text
+      options: []
+      required: false

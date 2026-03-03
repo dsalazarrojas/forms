@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Invoice Checklist Form
+    pages:
+    - id: 1
+      name: customer_invoices_form
+      label: Customer Invoices
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: business_details
+      label: Business Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tax_identification_number
+      label: Tax Identification Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_methods
+      label: Payment Methods
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

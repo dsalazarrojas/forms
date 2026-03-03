@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: recruitment_software_requisition_form
+    pages:
+    - id: 1
+      name: requisition_form
+      label: requisition_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: requisition_details
+      label: requisition_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: required_documents
+      label: required_documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: software_solutions
+      label: software_solutions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: evaluation_criteria
+      label: evaluation_criteria
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: budget_allocation
+      label: budget_allocation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: timeline
+      label: timeline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

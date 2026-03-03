@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Face Mask Requirement Survey
+    pages:
+    - id: 1
+      name: business_forms
+      label: Business Forms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: face_mask_requirement
+      label: Face Mask Requirement
+      hint: null
+      type: select_one
+      options:
+      - Face Mask Requirement - Yes
+      - Face Mask Requirement - No
+      - Face Mask Requirement - Not Required
+      required: false
+    - id: 3
+      name: face_mask_type
+      label: Face Mask Type
+      hint: null
+      type: select_multiple
+      options:
+      - Surgical Mask
+      - Cloth Mask
+      - Other
+      required: false
+    - id: 4
+      name: face_mask_frequency
+      label: Face Mask Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Always
+      - Most of the Time
+      - Some of the Time
+      - Never
+      required: false
+    - id: 5
+      name: work_area
+      label: Work Area
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: face_mask_worn
+      label: Face Mask Worn
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: face_mask_rejection_reasons
+      label: Face Mask Rejection Reasons
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: face_mask_recommendation
+      label: Face Mask Recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: face_mask_additional_comments
+      label: Face Mask Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

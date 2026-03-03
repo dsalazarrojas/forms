@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Building Code Compliance Audit Form
+    pages:
+    - id: 1
+      name: audit_date
+      label: Audit Date
+      hint: Date of compliance audit
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: auditor_name
+      label: Auditor Name
+      hint: Name of person conducting audit
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: auditor_credentials
+      label: Auditor Credentials
+      hint: License or certification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_name
+      label: Project Name
+      hint: Name of construction project
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_address
+      label: Project Address
+      hint: Full site address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: permit_number
+      label: Building Permit Number
+      hint: Associated permit number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: construction_type
+      label: Construction Type
+      hint: Type of construction project
+      type: select_one
+      options:
+      - Residential Single Family
+      - Residential Multi-Family
+      - Commercial
+      - Industrial
+      - Institutional
+      - Mixed Use
+      required: true
+    - id: 8
+      name: project_phase
+      label: Current Project Phase
+      hint: Stage of construction
+      type: select_one
+      options:
+      - Foundation
+      - Framing
+      - Rough-In (MEP)
+      - Insulation
+      - Drywall
+      - Finishing
+      - Final Inspection
+      required: true
+    - id: 9
+      name: foundation_compliance
+      label: Foundation Code Compliance
+      hint: Does foundation meet code requirements
+      type: select_one
+      options:
+      - Compliant
+      - Non-Compliant
+      - Not Applicable
+      - Not Yet Inspected
+      required: true
+    - id: 10
+      name: structural_compliance
+      label: Structural Code Compliance
+      hint: Does structural work meet code
+      type: select_one
+      options:
+      - Compliant
+      - Non-Compliant
+      - Not Applicable
+      - Not Yet Inspected
+      required: true
+    - id: 11
+      name: electrical_compliance
+      label: Electrical Code Compliance
+      hint: Does electrical work meet NEC
+      type: select_one
+      options:
+      - Compliant
+      - Non-Compliant
+      - Not Applicable
+      - Not Yet Inspected
+      required: true
+    - id: 12
+      name: plumbing_compliance
+      label: Plumbing Code Compliance
+      hint: Does plumbing work meet code
+      type: select_one
+      options:
+      - Compliant
+      - Non-Compliant
+      - Not Applicable
+      - Not Yet Inspected
+      required: true
+    - id: 13
+      name: hvac_compliance
+      label: HVAC Code Compliance
+      hint: Does HVAC work meet code
+      type: select_one
+      options:
+      - Compliant
+      - Non-Compliant
+      - Not Applicable
+      - Not Yet Inspected
+      required: true
+    - id: 14
+      name: fire_safety_compliance
+      label: Fire Safety Compliance
+      hint: Does fire safety meet code
+      type: select_one
+      options:
+      - Compliant
+      - Non-Compliant
+      - Not Applicable
+      - Not Yet Inspected
+      required: true
+    - id: 15
+      name: accessibility_compliance
+      label: Accessibility Compliance
+      hint: Does project meet ADA requirements
+      type: select_one
+      options:
+      - Compliant
+      - Non-Compliant
+      - Not Applicable
+      - Not Yet Inspected
+      required: true
+    - id: 16
+      name: energy_code_compliance
+      label: Energy Code Compliance
+      hint: Does project meet energy efficiency codes
+      type: select_one
+      options:
+      - Compliant
+      - Non-Compliant
+      - Not Applicable
+      - Not Yet Inspected
+      required: true
+    - id: 17
+      name: violations_found
+      label: Code Violations Found
+      hint: Number of violations identified
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: violation_details
+      label: Violation Details
+      hint: Describe each violation found
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: corrective_action_required
+      label: Corrective Action Required
+      hint: What actions must be taken
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reinspection_required
+      label: Reinspection Required
+      hint: Is follow-up inspection needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: reinspection_date
+      label: Reinspection Date
+      hint: Scheduled date if applicable
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: overall_status
+      label: Overall Compliance Status
+      hint: Final determination
+      type: select_one
+      options:
+      - Approved
+      - Approved with Conditions
+      - Conditional Approval
+      - Denied
+      - Pending Corrections
+      required: true
+    - id: 23
+      name: auditor_comments
+      label: Auditor Comments
+      hint: Additional notes or observations
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: auditor_signature
+      label: Auditor Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true

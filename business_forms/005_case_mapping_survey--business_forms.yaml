@@ -1,0 +1,94 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Case Mapping Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Respondent name
+        hint: Your full name for follow up
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: organization
+        label: Organization name
+        hint: Company or team
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: case_title
+        label: Case title or identifier
+        hint: Short descriptive title
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: case_stage
+        label: Case stage
+        hint: Current phase of the case lifecycle
+        type: select_one
+        options:
+          - Intake
+          - Investigation
+          - Active management
+          - Closed
+        required: true
+      - id: 5
+        name: stakeholders_involved
+        label: Stakeholders involved
+        hint: List teams or individuals
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: key_challenges
+        label: Key challenges
+        hint: Main obstacles affecting progress
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: expected_outcomes
+        label: Expected outcomes
+        hint: Desired resolution or metrics
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: priority_level
+        label: Priority level
+        hint: Operational priority
+        type: select_one
+        options:
+          - Low
+          - Medium
+          - High
+          - Critical
+        required: true
+      - id: 9
+        name: recommended_next_steps
+        label: Recommended next steps
+        hint: Suggested actions and owners
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: supporting_documents
+        label: Supporting documents available
+        hint: List document names and locations
+        type: text
+        options: []
+        required: false

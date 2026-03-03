@@ -1,0 +1,76 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Financial Reporting Tool Request Form
+    pages:
+    - id: 1
+      name: request_for_financial_reporting
+      label: Request for Financial Reporting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reporting_tool_type
+      label: Report Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Balance''}'
+      - '{''id'': 2, ''name'': ''Cash Flow''}'
+      - '{''id'': 3, ''name'': ''Income Statement''}'
+      required: false
+    - id: 3
+      name: reporting_period
+      label: Reporting Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: frequency_of_reporting
+      label: Frequency of Reporting
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Quarterly''}'
+      - '{''id'': 2, ''name'': ''Bi-Annual''}'
+      - '{''id'': 3, ''name'': ''Annually''}'
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''chatjimmy''}'
+      - '{''id'': 3, ''name'': ''chatjimmy''}'
+      required: false
+    - id: 6
+      name: reporting_frequency
+      label: Reporting Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Daily''}'
+      - '{''id'': 2, ''name'': ''Weekly''}'
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_quote_request
+    pages:
+    - id: 1
+      name: booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: departure_city
+      label: departure_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: departure_country
+      label: departure_country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: travel_type
+      label: travel_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: arrival_city
+      label: arrival_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: arrival_country
+      label: arrival_country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: travel_class
+      label: travel_class
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: budget
+      label: budget
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: travel_date_range
+      label: Travel Date Range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: travel_duration
+      label: travel_duration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: travel_frequency
+      label: travel_frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: return_type
+      label: return_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: travel_frequency_count
+      label: travel_frequency_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: travel_type_details
+      label: travel_type_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: travel_currency
+      label: travel_currency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: travel_currency_symbol
+      label: travel_currency_symbol
+      hint: null
+      type: text
+      options: []
+      required: false

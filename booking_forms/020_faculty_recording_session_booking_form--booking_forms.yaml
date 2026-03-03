@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faculty Recording Session Booking Form
+    pages:
+    - id: 1
+      name: faculty_recording_session_booking_form_page_1
+      label: Booking Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: faculty_recording_session_booking_form_page_2
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: recording_session_booking_form_participants
+      label: Participant List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: faculty_recording_session_booking_form_session_details
+      label: Session Details
+      hint: null
+      type: select_one
+      options:
+      - Faculty Development
+      - Faculty Presentation
+      - Other (Specify)
+      required: true
+    - id: 5
+      name: faculty_recording_session_booking_form_session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: faculty_recording_session_booking_form_session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: faculty_recording_session_booking_form_session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: faculty_recording_session_booking_form_booking_status
+      label: Booking Status
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Not Available
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leather Craft Workshop Booking Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workshop_type
+      label: workshop_type
+      hint: null
+      type: select_one
+      options:
+      - Leather Crafting Workshop
+      - Leather Cutting
+      - Leather Finishing
+      required: false
+    - id: 6
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: participant_notes
+      label: participant_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: organizer_name
+      label: organizer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: organizer_email
+      label: organizer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: organizer_phone
+      label: organizer_phone
+      hint: null
+      type: text
+      options: []
+      required: false

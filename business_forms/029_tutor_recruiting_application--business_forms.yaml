@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tutor Recruiting Application
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter a valid email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: goal
+      label: Goal
+      hint: Want a professional to help you with your goal?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: instrument
+      label: Instrument
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 8
+      name: available_days
+      label: Available Days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 9
+      name: preferred_time
+      label: Preferred Time
+      hint: None
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: preferred_duration
+      label: Preferred Duration
+      hint: None
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: true

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Schedule Collection Request
+    pages:
+    - id: 1
+      name: schedule_collection_request
+      label: Schedule Collection Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pickup_date
+      label: Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: pickup_time
+      label: Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: pickup_location
+      label: Pickup Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Phone''}'
+      - '{''id'': 2, ''label'': ''Email''}'
+      - '{''id'': 3, ''label'': ''In-person''}'
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: pickup_date_2
+      label: Pickup Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: pickup_time_2
+      label: Pickup Time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: pickup_location_2
+      label: Pickup Location 2
+      hint: null
+      type: text
+      options: []
+      required: false

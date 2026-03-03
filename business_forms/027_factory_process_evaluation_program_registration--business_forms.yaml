@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Process Evaluation Program Registration
+    pages:
+    - id: 1
+      name: company_details
+      label: Company Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: objectives
+      label: Objectives
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_dates
+      label: Preferred Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: evaluation_type
+      label: Evaluation Type
+      hint: null
+      type: select_one
+      options:
+      - Evaluation
+      - Review
+      - Assessment
+      required: true
+    - id: 7
+      name: evaluation_scope
+      label: Evaluation Scope
+      hint: null
+      type: select_multiple
+      options:
+      - Factory
+      - Process
+      - Program
+      - All
+      required: true
+    - id: 8
+      name: evaluation_frequency
+      label: Evaluation Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      - As Needed
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: company_type
+      label: Company Type
+      hint: null
+      type: select_multiple
+      options:
+      - Limited
+      - Partnership
+      - Corporation
+      - Sole Owner
+      required: true
+    - id: 12
+      name: evaluation_method
+      label: Evaluation Method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - In-person
+      - Online
+      required: true
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Complaint Form
+    pages:
+    - id: 1
+      name: building_inspections_complaints
+      label: Building Inspections Complaints
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_reported
+      label: Date Reported
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: description_of_problem
+      label: Description of Problem
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location_of_problem
+      label: Location of Problem
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy2
+      - chatjimmy3
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: Provide a valid email
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false

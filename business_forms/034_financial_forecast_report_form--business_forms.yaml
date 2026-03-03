@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: financialForecastReportForm
+    pages:
+    - id: 1
+      name: financial_forecast
+      label: Financial Forecast
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: month
+      label: Month
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: revenue
+      label: Revenue
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: profit
+      label: Profit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: loss
+      label: Loss
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: financial_institution
+      label: Financial Institution
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 11
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

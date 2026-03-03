@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Inventory Form
+    pages:
+    - id: 1
+      name: asset_info_header
+      label: -- Asset Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: asset_name
+      label: Asset Name
+      hint: Enter the full name or description of the asset
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: asset_category
+      label: Asset Category
+      hint: Select the most appropriate category
+      type: select_one
+      options:
+      - IT Equipment
+      - Furniture and Fixtures
+      - Vehicles
+      - Machinery and Tools
+      - Office Supplies
+      required: true
+    - id: 4
+      name: serial_number
+      label: Serial Number
+      hint: Manufacturer unique identifier
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: model_number
+      label: Model Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: purchase_header
+      label: -- Acquisition Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: purchase_date
+      label: Purchase Date
+      hint: When was the asset acquired
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: purchase_price
+      label: Purchase Price
+      hint: Enter amount in local currency
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: vendor_name
+      label: Vendor or Supplier
+      hint: Where was the asset purchased from
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: management_header
+      label: -- Asset Management --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: current_location
+      label: Current Location
+      hint: Specific office, room, or site
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: assigned_employee
+      label: Assigned Employee
+      hint: Person responsible for the asset
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: asset_condition
+      label: Asset Condition
+      hint: Current physical state
+      type: select_one
+      options:
+      - New
+      - Good
+      - Fair
+      - Poor
+      - Non-Functional
+      required: true
+    - id: 14
+      name: maintenance_schedule
+      label: Maintenance Schedule
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      - As Needed
+      required: false
+    - id: 15
+      name: last_inspection_date
+      label: Last Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

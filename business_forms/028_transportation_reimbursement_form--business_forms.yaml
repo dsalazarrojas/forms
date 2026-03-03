@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transportation Reimbursement Form
+    pages:
+    - id: 1
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: origin
+      label: Origin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: destination
+      label: Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: mode_of_travel
+      label: Mode of Travel
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Car''}'
+      - '{''id'': 2, ''label'': ''Train''}'
+      - '{''id'': 3, ''label'': ''Bus''}'
+      - '{''id'': 4, ''label'': ''Bike''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: mileage
+      label: Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: expense_date
+      label: Expense Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: reimbursement_amount
+      label: Reimbursement Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''John''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      required: false
+    - id: 11
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false

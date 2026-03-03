@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: treasury_statement_delivery_request_form
+    pages:
+    - id: 1
+      name: treasury_statement_delivery_request_form_page_1
+      label: delivery_request_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: delivery_method
+      label: delivery_method
+      hint: null
+      type: select_one
+      options:
+      - bank_statement
+      - email
+      - phone
+      required: true
+    - id: 3
+      name: delivery_period
+      label: delivery_period
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - biweekly
+      - monthly
+      required: true
+    - id: 4
+      name: account_number
+      label: account_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_department
+      label: contact_department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_title
+      label: contact_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: account_statement
+      label: account_statement
+      hint: null
+      type: select_one
+      options:
+      - statement_period
+      - statement_frequency
+      - statement_status
+      required: true
+    - id: 11
+      name: delivery_status
+      label: delivery_status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - in_progress
+      - completed
+      required: true
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: confirm
+      label: confirm
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: confirm_email
+      label: confirm_email
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: confirm_phone
+      label: confirm_phone
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: treasury_department
+      label: treasury_department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: treasury_team
+      label: treasury_team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: finance_department
+      label: finance_department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: request_id
+      label: request_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: form_version
+      label: form_version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: submit_date
+      label: submit_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: submit_time
+      label: submit_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: treasury_statement_delivery
+      label: treasury_statement_delivery
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: notes_treasury
+      label: notes_treasury
+      hint: null
+      type: text
+      options: []
+      required: true

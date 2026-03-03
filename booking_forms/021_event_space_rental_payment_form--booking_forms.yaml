@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Space Rental Payment Form
+    pages:
+    - id: 1
+      name: event_space_rental_payment_form
+      label: Form Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_space_date
+      label: Event Date
+      hint: Select a date for your event
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_space_time
+      label: Event Time
+      hint: Select the time for your event
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: event_space_duration
+      label: Event Duration
+      hint: Select a duration for your event
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: event_space_name
+      label: Event Space Name
+      hint: Select your event space name
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Space 1''}'
+      - '{''id'': 2, ''name'': ''Space 2''}'
+      - '{''id'': 3, ''name'': ''Space 3''}'
+      required: false
+    - id: 6
+      name: event_host_name
+      label: Host Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_space_capacity
+      label: Event Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: event_space_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_space_address
+      label: Event Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_space_city
+      label: Event City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_space_state
+      label: Event State
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''CA''}'
+      - '{''id'': 2, ''name'': ''NY''}'
+      - '{''id'': 3, ''name'': ''FL''}'
+      required: false
+    - id: 12
+      name: event_space_postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_space_country
+      label: Event Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_space_price
+      label: Event Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: event_space_total_amount
+      label: Event Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: event_space_payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Terms 1''}'
+      - '{''id'': 2, ''name'': ''Terms 2''}'
+      - '{''id'': 3, ''name'': ''Terms 3''}'
+      required: false
+    - id: 17
+      name: event_space_discount
+      label: Event Discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: event_space_discount_type
+      label: Discount Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Type 1''}'
+      - '{''id'': 2, ''name'': ''Type 2''}'
+      - '{''id'': 3, ''name'': ''Type 3''}'
+      required: false
+    - id: 19
+      name: event_space_discount_value
+      label: Discount Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: event_space_payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Card 1''}'
+      - '{''id'': 2, ''name'': ''Cash''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 21
+      name: event_space_payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Paid''}'
+      - '{''id'': 2, ''name'': ''Pending''}'
+      - '{''id'': 3, ''name'': ''Not Paid''}'
+      required: false
+    - id: 22
+      name: event_space_payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: event_space_additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: event_space_total_paid
+      label: Total Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: event_host_email
+      label: Host Email
+      hint: null
+      type: email
+      options: []
+      required: false

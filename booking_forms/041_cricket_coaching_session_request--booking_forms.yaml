@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cricket Coaching Session Request
+    pages:
+    - id: 1
+      name: session_request
+      label: Request a Session
+      hint: null
+      type: select_one
+      options:
+      - Cricket Academy (Academy X, Location Y)
+      - Cricket Club (Club Z, Location W)
+      - Private Coach (Coach A, Location B)
+      required: false
+    - id: 2
+      name: schedule_session
+      label: Schedule Session
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: note
+      options: []
+      required: false

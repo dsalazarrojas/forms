@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Train Freight Inspection Form
+    pages:
+    - id: 1
+      name: first_page
+      label: freight_train_information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: second_page
+      label: train_operator_information
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: third_page
+      label: train_car_details
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: fourth_page
+      label: safety_standards
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: fifth_page
+      label: notes_and_comments
+      hint: null
+      type: note
+      options: []
+      required: false

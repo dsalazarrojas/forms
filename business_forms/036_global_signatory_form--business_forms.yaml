@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Signatory Form
+    pages:
+    - id: 1
+      name: form_global_signatory_form_business_forms_1
+      label: form_global_signatory_form_business_forms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_global_signatory_form_business_forms_2
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_global_signatory_form_business_forms_3
+      label: consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_global_signatory_form_business_forms_4
+      label: digital_signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: form_global_signatory_form_business_forms_5
+      label: approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: form_global_signatory_form_business_forms_6
+      label: confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: form_global_signatory_form_business_forms_7
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: form_global_signatory_form_business_forms_8
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

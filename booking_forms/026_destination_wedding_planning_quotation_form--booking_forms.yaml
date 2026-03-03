@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Destination Wedding Planning Quotation Form
+    pages:
+    - id: 1
+      name: destination_wedding_planning
+      label: Destination Wedding Planning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: couples_details
+      label: Couples Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: venue_and_date
+      label: Venue and Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - Wedding Planner
+      - Photographer
+      - Videographer
+      required: false
+    - id: 5
+      name: travel
+      label: Travel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: accommodations
+      label: Accommodations
+      hint: null
+      type: select_multiple
+      options:
+      - Hotel
+      - Villa
+      - Resort
+      required: false
+    - id: 7
+      name: food_and_drink
+      label: Food and Drink
+      hint: null
+      type: select_multiple
+      options:
+      - Catering
+      - Bar
+      - Restaurant
+      required: false
+    - id: 8
+      name: wedding_theme
+      label: Wedding Theme
+      hint: null
+      type: select_one
+      options:
+      - Beach
+      - Rustic
+      - Formal
+      required: false
+    - id: 9
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

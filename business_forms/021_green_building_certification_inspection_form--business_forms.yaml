@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: green_building_certification_inspection_form
+    pages:
+    - id: 1
+      name: user_input
+      label: user_input
+      hint: null
+      type: select_multiple
+      options:
+      - Building type
+      - Building size
+      required: false
+    - id: 2
+      name: building_type
+      label: building_type
+      hint: null
+      type: select_one
+      options:
+      - Single-family dwelling
+      - Apartment building
+      - Commercial building
+      - Industrial building
+      required: false
+    - id: 3
+      name: building_size
+      label: building_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: sustainability_rating
+      label: sustainability_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: efficiency_rating
+      label: efficiency_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: energy_efficiency
+      label: energy_efficiency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: water_efficiency
+      label: water_efficiency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: waste_management
+      label: waste_management
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: energy_use
+      label: energy_use
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: building_location
+      label: building_location
+      hint: null
+      type: select_one
+      options:
+      - Urban
+      - Rural
+      - Suburban
+      required: false
+    - id: 11
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: inspector_notes
+      label: inspector_notes
+      hint: null
+      type: note
+      options: []
+      required: false

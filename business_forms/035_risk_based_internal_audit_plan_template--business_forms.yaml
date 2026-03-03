@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Based Internal Audit Plan Template
+    pages:
+    - id: 1
+      name: audit_cycle
+      label: Audit Cycle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: audit_cycle_date
+      label: Audit Cycle
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: coverage_scope
+      label: Coverage Scope
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: risks_reportable_risks
+      label: Risks Reportable Risks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: audit_objectives
+      label: Audit Objectives
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: risk_based_audit_plan
+      label: Risk-Based Audit Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: audit_process
+      label: Audit Process
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 9
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: risk_assessment
+      label: Risk Assessment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: risk_summary
+      label: Risk Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: risk_level_description
+      label: Risk Level Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: risk_level_frequency
+      label: Risk Level Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: risk_level_priority
+      label: Risk Level Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: risk_level_impact
+      label: Risk Level Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: risk_level_likelihood
+      label: Risk Level Likelihood
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: audit_plan_status
+      label: Audit Plan Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: audit_plan_revision
+      label: Audit Plan Revision
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: audit_cycle_status
+      label: Audit Cycle Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: audit_cycle_completion_status
+      label: Audit Cycle Completion Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 21
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: completion_date
+      label: Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: completion_status
+      label: Completion Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

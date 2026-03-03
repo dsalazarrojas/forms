@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: model_request_form
+    pages:
+    - id: 1
+      name: form_info
+      label: form information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: body_size
+      label: body size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: photo1
+      label: photo 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: photo2
+      label: photo 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: applicant_info
+      label: applicant information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: contact
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: photoswipe
+      label: photoswipe
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: noteswipe
+      label: noteswipe
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: body_size_unit
+      label: body size unit
+      hint: null
+      type: select_one
+      options:
+      - inch
+      - cm
+      - foot
+      required: true
+    - id: 13
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: photo3
+      label: photo 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: photo4
+      label: photo 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: photo5
+      label: photo 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: photo6
+      label: photo 6
+      hint: null
+      type: text
+      options: []
+      required: false

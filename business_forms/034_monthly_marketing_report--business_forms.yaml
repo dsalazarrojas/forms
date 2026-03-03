@@ -1,0 +1,94 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Marketing Report
+    pages:
+    - id: 1
+      name: marketing_report_month
+      label: What are your goals for this report?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: marketing_report_month_goals
+      label: What are your goals for this report
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: marketing_report_date_start
+      label: What is the start date of the report period?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: marketing_report_date_end
+      label: What is the end date of the report period?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: marketing_report_target_audience
+      label: Who is the target audience for this report?
+      hint: null
+      type: select_multiple
+      options:
+      - Marketing
+      - Sales
+      - Customers
+      - Other
+      required: true
+    - id: 6
+      name: marketing_report_target_audience_other
+      label: Is your target audience other?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: marketing_report_key_performance_metrics
+      label: Which key performance metrics do you want to track?
+      hint: null
+      type: select_multiple
+      options:
+      - Sales
+      - Revenue
+      - Cost of Goods Sold
+      - Other
+      required: true
+    - id: 8
+      name: marketing_report_key_performance_metrics_other
+      label: Is there another metric you'd like to track?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: marketing_report_key_performance_metrics_other_metric
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: marketing_report_comments
+      label: Additional comments?
+      hint: null
+      type: note
+      options: []
+      required: false

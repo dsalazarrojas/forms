@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stakeholder Dispute Claim Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: dispute_status
+      label: Dispute Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Resolved
+      - Pending
+      required: false
+    - id: 9
+      name: resolution_outcome
+      label: Resolution Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: resolution_comments
+      label: Resolution Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: dispute_date
+      label: Dispute Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: true

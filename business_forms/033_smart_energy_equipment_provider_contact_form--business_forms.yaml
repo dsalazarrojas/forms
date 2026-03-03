@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Energy Equipment Provider Contact Form
+    pages:
+    - id: 1
+      name: lead_details
+      label: Lead Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_requirements
+      label: Project Requirements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: project_location
+      label: Project Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: lead_qualifier
+      label: Lead Qualifier
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: lead_owner
+      label: Lead Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: lead_description
+      label: Lead Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: project_details
+      label: Project Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

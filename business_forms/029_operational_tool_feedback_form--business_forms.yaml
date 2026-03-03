@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: operational_tool_feedback_form
+    pages:
+    - id: 1
+      name: tool_id
+      label: Operational Tool
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: feedback_type
+      label: What type of feedback
+      hint: null
+      type: select_one
+      options:
+      - Feedback
+      - Suggestions
+      - Questions
+      required: false
+    - id: 3
+      name: question
+      label: Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

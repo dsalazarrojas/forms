@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brokers Open Feedback Form
+    pages:
+    - id: 1
+      name: agent_name
+      label: Agent Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: brokerage
+      label: Brokerage Company
+      hint: Name of your real estate brokerage
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Your professional email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_address
+      label: Property Address
+      hint: Address of the property viewed
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: open_house_date
+      label: Open House Date
+      hint: Date of the broker open event
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: overall_impression
+      label: Overall Impression
+      hint: Rate your overall impression of the property
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 8
+      name: property_condition
+      label: Property Condition Rating
+      hint: How would you rate the property condition
+      type: select_one
+      options:
+      - Move-in Ready
+      - Minor Repairs Needed
+      - Moderate Repairs Needed
+      - Major Repairs Needed
+      - Fixer Upper
+      required: true
+    - id: 9
+      name: pricing_feedback
+      label: Pricing Feedback
+      hint: Your opinion on the listing price
+      type: select_one
+      options:
+      - Priced Too High
+      - Priced Slightly High
+      - Priced Appropriately
+      - Priced Slightly Low
+      - Priced Too Low
+      required: true
+    - id: 10
+      name: showing_experience
+      label: Showing Experience
+      hint: Rate the showing process
+      type: select_one
+      options:
+      - Very Smooth
+      - Smooth
+      - Neutral
+      - Difficult
+      - Very Difficult
+      required: true
+    - id: 11
+      name: client_suitability
+      label: Would You Show This to Clients
+      hint: Is this property suitable for your clients
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Maybe
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 12
+      name: best_features
+      label: Best Features
+      hint: What stood out positively
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: concerns
+      label: Concerns or Issues
+      hint: Any concerns you noticed
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: recommended_improvements
+      label: Recommended Improvements
+      hint: Suggestions for the seller
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: estimated_showings
+      label: Estimated Showings Interest
+      hint: How many showings do you expect
+      type: select_one
+      options:
+      - 0-2
+      - 3-5
+      - 6-10
+      - 11-15
+      - 15+
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: would_recommend
+      label: Would You Recommend This Listing
+      hint: To other agents
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false

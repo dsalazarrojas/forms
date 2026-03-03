@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: lean_manufacturing_consultant_contact_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consultant_name
+      label: Consultant
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - Jane
+      required: false
+    - id: 9
+      name: consultation_type
+      label: Consultation Type
+      hint: null
+      type: select_multiple
+      options:
+      - Consulting
+      - Coaching
+      - Training
+      required: false
+    - id: 10
+      name: service_location
+      label: Service Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: service_language
+      label: Service Language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

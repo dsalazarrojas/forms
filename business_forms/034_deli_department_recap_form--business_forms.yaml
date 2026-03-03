@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Deli Department Recap Form
+    pages:
+    - id: 1
+      name: user
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''sales''}'
+      - '{''id'': 2, ''name'': ''support''}'
+      - '{''id'': 3, ''name'': ''marketing''}'
+      - '{''id'': 4, ''name'': ''customer service''}'
+      required: false
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: additional_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: note_2
+      label: more_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: department_2
+      label: department_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 6, ''name'': ''sales''}'
+      - '{''id'': 7, ''name'': ''support''}'
+      - '{''id'': 8, ''name'': ''marketing''}'
+      - '{''id'': 9, ''name'': ''customer service''}'
+      required: false
+    - id: 11
+      name: department_3
+      label: department_3
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''name'': ''sales''}'
+      - '{''id'': 12, ''name'': ''support''}'
+      - '{''id'': 13, ''name'': ''marketing''}'
+      - '{''id'': 14, ''name'': ''customer service''}'
+      required: false
+    - id: 12
+      name: note_3
+      label: note_3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: note_4
+      label: note prophets
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: department_4
+      label: department_4
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 16, ''name'': ''sales''}'
+      - '{''id'': 17, ''name'': ''support''}'
+      - '{''id'': 18, ''name'': ''marketing''}'
+      required: false
+    - id: 15
+      name: department_5
+      label: department_5
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 20, ''name'': ''sales''}'
+      - '{''id'': 21, ''name'': ''support''}'
+      - '{''id'': 22, ''name'': ''marketing''}'
+      - '{''id'': 23, ''name'': ''customer service''}'
+      required: false
+    - id: 16
+      name: department_6
+      label: department_6
+      hint: null
+      type: date
+      options: []
+      required: false

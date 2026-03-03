@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: equipment_rental_authorization_form
+    pages:
+    - id: 1
+      name: rental_date
+      label: Rental Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: equipment_description
+      label: Equipment Description
+      hint: Provide detailed information about the equipment being rented.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - equipment_type_1
+      - equipment_type_2
+      required: false
+    - id: 4
+      name: rental_term
+      label: Rental Term
+      hint: null
+      type: select_one
+      options:
+      - rental_term_1
+      - rental_term_2
+      - rental_term_3
+      - rental_term_4
+      - rental_term_5
+      required: false
+    - id: 5
+      name: rental_term_length
+      label: Rental Term Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_one
+      options:
+      - equipment_status_1
+      - equipment_status_2
+      - equipment_status_3
+      required: false
+    - id: 7
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: note
+      options: []
+      required: false

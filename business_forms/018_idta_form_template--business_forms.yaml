@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: idta_form_template
+    pages:
+    - id: 1
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: color_scheme
+      label: color_scheme
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''label'': ''Option 2'', ''value'': ''value2''}'
+      required: false
+    - id: 5
+      name: heading
+      label: heading
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: declaration_of_accuracy
+      label: declaration_of_accuracy
+      hint: null
+      type: text
+      options: []
+      required: false

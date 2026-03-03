@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Demographic Survey
+    pages:
+    - id: 1
+      name: business_information
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Your company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: years_established
+      label: Years in Business
+      hint: How long established?
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: business_type
+      label: Type of Business
+      hint: What type?
+      type: select_one
+      options:
+      - Sole Proprietor
+      - Partnership
+      - Corporation
+      - LLC
+      - Non-Profit
+      - Franchise
+      - Other
+      required: true
+    - id: 5
+      name: industry
+      label: Industry Sector
+      hint: Primary business sector
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: geographic_location
+      label: Geographic Location
+      hint: Primary location
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_demographics
+      label: -- Business Demographics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: employee_count
+      label: Number of Employees
+      hint: Total employees
+      type: select_one
+      options:
+      - 1 person
+      - 2 - 5
+      - 6 - 10
+      - 11 - 25
+      - 26 - 50
+      - 51 - 100
+      - 100+
+      required: true
+    - id: 9
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Approximate annual revenue
+      type: select_one
+      options:
+      - Under 50k
+      - 50k - 250k
+      - 250k - 1M
+      - 1M - 5M
+      - 5M - 10M
+      - 10M+
+      required: true
+    - id: 10
+      name: market_coverage
+      label: Market Coverage
+      hint: Geographic reach
+      type: select_one
+      options:
+      - Local
+      - Regional
+      - National
+      - International
+      required: true
+    - id: 11
+      name: customer_demographics
+      label: -- Customer Demographics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: target_customer_age
+      label: Target Customer Age Range
+      hint: Primary age group
+      type: select_one
+      options:
+      - Under 18
+      - 18 - 25
+      - 25 - 35
+      - 35 - 50
+      - 50 - 65
+      - 65+
+      - All Ages
+      required: true
+    - id: 13
+      name: customer_income
+      label: Target Customer Income Level
+      hint: Income range
+      type: select_one
+      options:
+      - Under 30k
+      - 30k - 60k
+      - 60k - 100k
+      - 100k - 150k
+      - 150k+
+      - Varies
+      required: false
+    - id: 14
+      name: customer_education
+      label: Target Customer Education Level
+      hint: Education background
+      type: select_one
+      options:
+      - High School
+      - Some College
+      - Bachelor Degree
+      - Graduate Degree
+      - Varies
+      required: false
+    - id: 15
+      name: customer_gender
+      label: Customer Gender Distribution
+      hint: Primary gender served
+      type: select_one
+      options:
+      - Primarily Male
+      - Primarily Female
+      - Mixed
+      - No Gender Focus
+      required: false
+    - id: 16
+      name: primary_customer_types
+      label: Primary Customer Types
+      hint: Who are your main customers?
+      type: select_multiple
+      options:
+      - Consumers
+      - Small Businesses
+      - Large Businesses
+      - Government
+      - Non-Profits
+      - Institutions
+      required: true
+    - id: 17
+      name: ownership_demographics
+      label: -- Ownership Demographics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: owner_age
+      label: Primary Owner Age
+      hint: Age of primary owner
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: owner_gender
+      label: Primary Owner Gender
+      hint: Gender of primary owner
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      required: false
+    - id: 20
+      name: minority_owned
+      label: Minority or Women-Owned Business
+      hint: Is business minority or women-owned?
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: false

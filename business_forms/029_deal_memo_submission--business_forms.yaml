@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Deal Memo Submission
+    pages:
+    - id: 1
+      name: terms
+      label: Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sales_contact
+      label: Sales Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: legal_contact
+      label: Legal Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: deal_details
+      label: Deal Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: deal_terms
+      label: Deal Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: terms
+      label: Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: acknowledgment
+      label: Acknowledgment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: acknowledgment_date
+      label: Acknowledgment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: deal_value
+      label: Deal Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: deal_status
+      label: Deal Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: deal_type
+      label: Deal Type
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Purchase
+      - Lease
+      required: false
+    - id: 14
+      name: deal_terms_notes
+      label: Deal Terms Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: acknowledgment_terms
+      label: Acknowledgment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: deal_terms_notes
+      label: Deal Terms Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by_user
+      label: Submitted By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: submitted_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false

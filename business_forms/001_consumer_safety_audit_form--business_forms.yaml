@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consumer Safety Audit Form
+    pages:
+    - id: 1
+      name: audit_information
+      label: Audit Information
+      hint: Basic details about this safety audit
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: audit_date
+      label: Audit Date
+      hint: Date when the audit is conducted
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: auditor_name
+      label: Auditor Name
+      hint: Full name of the person conducting the audit
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department_audited
+      label: Department Audited
+      hint: Department or area being audited
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: audit_type
+      label: Audit Type
+      hint: Select the type of safety audit
+      type: select_one
+      options:
+      - Routine Safety Inspection
+      - Compliance Audit
+      - Incident Investigation
+      - Pre-operational Review
+      - Annual Comprehensive Audit
+      required: true
+    - id: 6
+      name: product_category
+      label: Product Category
+      hint: Category of products being audited
+      type: select_one
+      options:
+      - Food and Beverages
+      - Consumer Electronics
+      - Personal Care Products
+      - Children Products
+      - Home Appliances
+      - Other
+      required: true
+    - id: 7
+      name: safety_compliance_checklist
+      label: Safety Compliance Checklist
+      hint: General safety compliance status
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: regulatory_compliance
+      label: Regulatory Compliance Status
+      hint: Overall compliance with safety regulations
+      type: select_one
+      options:
+      - Fully Compliant
+      - Mostly Compliant
+      - Partially Compliant
+      - Non-Compliant
+      - Not Applicable
+      required: true
+    - id: 9
+      name: safety_documentation
+      label: Safety Documentation Available
+      hint: Are all safety documents up to date
+      type: select_one
+      options:
+      - Yes - Complete
+      - Yes - Needs Minor Updates
+      - Incomplete
+      - Missing
+      required: true
+    - id: 10
+      name: hazard_identification
+      label: Hazards Identified
+      hint: Number of hazards found during audit
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: hazard_severity
+      label: Highest Hazard Severity
+      hint: Most severe hazard category identified
+      type: select_one
+      options:
+      - Critical
+      - Major
+      - Moderate
+      - Minor
+      - None
+      required: true
+    - id: 12
+      name: product_quality_assessment
+      label: Product Quality Assessment
+      hint: Evaluate product quality standards
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: quality_control_status
+      label: Quality Control Status
+      hint: Current state of quality control processes
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 14
+      name: defect_rate
+      label: Current Defect Rate Percentage
+      hint: Percentage of defective products
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: customer_complaints
+      label: Customer Complaints This Quarter
+      hint: Number of safety-related complaints
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: corrective_actions
+      label: Corrective Actions
+      hint: Actions needed to address findings
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: immediate_actions_required
+      label: Immediate Actions Required
+      hint: List any actions needed immediately
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: corrective_action_deadline
+      label: Corrective Action Deadline
+      hint: Deadline for completing corrective actions
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: responsible_person
+      label: Responsible Person
+      hint: Person responsible for implementing corrections
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: follow_up_required
+      label: Follow-up Audit Required
+      hint: Is a follow-up audit needed
+      type: select_one
+      options:
+      - Yes - Within 30 days
+      - Yes - Within 60 days
+      - Yes - Within 90 days
+      - false
+      required: true
+    - id: 21
+      name: overall_audit_score
+      label: Overall Audit Score
+      hint: Rating from 1-10
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other observations or recommendations
+      type: text
+      options: []
+      required: false

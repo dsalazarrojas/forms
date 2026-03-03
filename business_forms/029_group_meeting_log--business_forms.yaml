@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Meeting Log
+    pages:
+    - id: 1
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: meeting_status
+      label: Meeting Status
+      hint: null
+      type: select_one
+      options:
+      - Ongoing
+      - Upcoming
+      - Finished
+      required: false
+    - id: 4
+      name: attendees
+      label: Attendees
+      hint: List all members who attend this meeting
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: absent_members
+      label: Absent Members
+      hint: List all members who are absent
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: Describe the meeting topic
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: task_list
+      label: Task List
+      hint: List all tasks that need to be done
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up
+      label: Follow up
+      hint: Add follow up tasks if there are any
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: Additional notes about the meeting
+      type: note
+      options: []
+      required: false

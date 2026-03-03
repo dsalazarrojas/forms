@@ -1,0 +1,271 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Venue Inquiry Form
+    pages:
+    - id: 1
+      name: inquirer_name
+      label: Your Full Name
+      hint: Contact person
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Company or institution
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_type
+      label: Event Type
+      hint: What kind of event
+      type: select_one
+      options:
+      - Conference
+      - Convention
+      - Trade Show
+      - Corporate Meeting
+      - Association Meeting
+      - Educational Event
+      - Other
+      required: true
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: Name of your event
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: preferred_dates
+      label: Preferred Dates
+      hint: Date range
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: alternate_dates
+      label: Alternate Dates
+      hint: Flexible options
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: expected_attendees
+      label: Expected Number of Attendees
+      hint: Estimated count
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: number_of_rooms
+      label: Number of Meeting Rooms
+      hint: Breakout rooms needed
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: main_ballroom
+      label: Main Ballroom Required
+      hint: Large session space
+      type: select_one
+      options:
+      - Yes Required
+      - No Not Needed
+      - Unsure
+      required: true
+    - id: 13
+      name: exhibition_space
+      label: Exhibition Space
+      hint: Booth area needed
+      type: select_one
+      options:
+      - Yes Required
+      - No Not Needed
+      - Maybe
+      required: true
+    - id: 14
+      name: exhibition_sq_ft
+      label: Exhibition Square Footage
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: catering_requirements
+      label: Catering Requirements
+      hint: Food and beverage
+      type: select_one
+      options:
+      - Full Service Required
+      - Light Refreshments Only
+      - External Catering
+      - No Catering Needed
+      required: true
+    - id: 16
+      name: av_requirements
+      label: AV Requirements
+      hint: Audio visual needs
+      type: select_one
+      options:
+      - Full AV Package
+      - Basic AV
+      - Minimal AV
+      - Will Use External Vendor
+      required: true
+    - id: 17
+      name: accommodation_rooms
+      label: Hotel Rooms Needed
+      hint: Room block
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: accommodation_nights
+      label: Number of Nights
+      hint: Room block duration
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget
+      type: select_one
+      options:
+      - Under $10000
+      - $10000-$25000
+      - $25000-$50000
+      - $50000-$100000
+      - Over $100000
+      - To Be Determined
+      required: true
+    - id: 20
+      name: special_requirements
+      label: Special Requirements
+      hint: Accessibility or other needs
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: setup_styles
+      label: Preferred Setup Styles
+      hint: Room arrangements
+      type: select_multiple
+      options:
+      - Theater
+      - Classroom
+      - Boardroom
+      - Banquet
+      - Cocktail
+      - U-Shape
+      - Hollow Square
+      required: false
+    - id: 22
+      name: parking_requirements
+      label: Parking Requirements
+      hint: Number of spaces
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: transportation_needs
+      label: Transportation Needs
+      hint: Shuttles or transfers
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: previous_venue
+      label: Have You Used This Venue Before
+      hint: Past experience
+      type: select_one
+      options:
+      - Yes Multiple Times
+      - Yes Once
+      - No First Time
+      required: false
+    - id: 25
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Referral source
+      type: select_one
+      options:
+      - Website
+      - Recommendation
+      - Previous Event
+      - Advertisement
+      - Event Planner
+      - Other
+      required: false
+    - id: 26
+      name: decision_timeline
+      label: Decision Timeline
+      hint: When will you decide
+      type: select_one
+      options:
+      - Within 1 Month
+      - Within 3 Months
+      - Within 6 Months
+      - Over 6 Months
+      - Just Researching
+      required: true
+    - id: 27
+      name: site_visit
+      label: Would You Like a Site Visit
+      hint: Tour the venue
+      type: select_one
+      options:
+      - Yes Please Arrange
+      - Maybe
+      - No Not Needed
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: follow_up_preference
+      label: Preferred Follow-Up Method
+      hint: How to contact
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Either
+      required: true
+    - id: 30
+      name: inquiry_confirmation
+      label: I Confirm This Inquiry is Accurate
+      hint: Verify submission
+      type: select_one
+      options:
+      - I Confirm
+      - Need to Revise
+      required: true

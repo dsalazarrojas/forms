@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Morale Survey
+    pages:
+    - id: 1
+      name: page_1
+      label: Employee Experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: Workplace
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: page_3
+      label: Leadership
+      hint: null
+      type: select_multiple
+      options:
+      - Team Lead
+      - Manager
+      - Director
+      required: true
+    - id: 4
+      name: page_4
+      label: Work Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: page_5
+      label: Work Life Balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: page_6
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: false

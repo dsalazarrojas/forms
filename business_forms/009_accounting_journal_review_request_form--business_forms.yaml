@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Journal Review Request Form
+    pages:
+    - id: 1
+      name: preparer_name
+      label: Preparer Name
+      hint: Person who created the entry
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: entry_date
+      label: Entry Date
+      hint: Date the entry was recorded
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: journal_entry_id
+      label: Journal Entry ID
+      hint: System-generated ID or Reference
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: total_debit_amount
+      label: Total Debit Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: total_credit_amount
+      label: Total Credit Amount
+      hint: Should match debit amount
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: description_of_entry
+      label: Description of Entry
+      hint: Purpose of the transaction
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: affected_accounts
+      label: Affected Accounts
+      hint: Select all categories impacted
+      type: select_multiple
+      options:
+      - Cash
+      - Accounts Receivable
+      - Inventory
+      - Fixed Assets
+      - Accounts Payable
+      - Accrued Liabilities
+      required: true
+    - id: 8
+      name: review_urgency
+      label: Review Urgency
+      hint: null
+      type: select_one
+      options:
+      - Routine
+      - Month-End Close
+      - Year-End Close
+      - Urgent Correction
+      required: true
+    - id: 9
+      name: doc_header
+      label: -- Supporting Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: doc_instruction
+      label: Ensure all relevant invoices or calculations are attached to the entry
+        in the system. If manual files are needed, please deliver them to the reviewer.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: reviewer_notification_email
+      label: Reviewer Notification Email
+      hint: Who should be notified of this request?
+      type: email
+      options: []
+      required: true

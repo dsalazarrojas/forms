@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Museum Auditorium Rental Application Form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_schedule
+      label: Schedule
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: event_dates
+      label: Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_organizer
+      label: Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization
+      hint: null
+      type: select_one
+      options:
+      - Community Group
+      - School
+      - Other
+      required: false
+    - id: 6
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm
+      label: Confirm
+      hint: null
+      type: text
+      options: []
+      required: false

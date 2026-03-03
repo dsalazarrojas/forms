@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Buy Your Tickets Today With Moneris
+    pages:
+    - id: 1
+      name: ticket_purchaser_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: ticket_purchaser_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: ticket_purchaser_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_name
+      label: Event Name
+      hint: Name of the event you are attending
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: When is the event?
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_time
+      label: Event Start Time
+      hint: What time does it begin?
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: ticket_type
+      label: Ticket Type
+      hint: Select the type of ticket you want
+      type: select_one
+      options:
+      - General admission
+      - VIP or premium
+      - Student
+      - Seniors or discounted
+      - Group package
+      - Family bundle
+      - Early bird special
+      required: true
+    - id: 8
+      name: number_of_tickets
+      label: Number of Tickets
+      hint: How many tickets do you need?
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: seat_preference
+      label: Seat or Section Preference (if applicable)
+      hint: null
+      type: select_one
+      options:
+      - Front section
+      - Middle section
+      - Back section
+      - Balcony
+      - Accessible seating
+      - No preference
+      required: false
+    - id: 10
+      name: ticket_price
+      label: Price Per Ticket
+      hint: Cost in USD or local currency
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: total_cost
+      label: Total Cost (Before Fees)
+      hint: Subtotal
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: parking_required
+      label: Parking or Permit Required
+      hint: Do you need parking?
+      type: select_one
+      options:
+      - Yes, add parking pass
+      - No parking needed
+      - Unsure
+      required: false
+    - id: 13
+      name: special_accommodations
+      label: Special Accommodations or Requests
+      hint: Accessible seating, dietary needs, etc.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: first_time_attendee
+      label: Is This Your First Time Attending?
+      hint: null
+      type: select_one
+      options:
+      - Yes, first time
+      - No, attended before
+      required: false
+    - id: 15
+      name: additional_attendee_names
+      label: Names of Other Attendees
+      hint: If purchasing multiple tickets
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: billing_address
+      label: Billing Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: billing_city_state
+      label: City, State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: billing_postal_code
+      label: Postal Code
+      hint: ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: newsletter_signup
+      label: Subscribe to Event Updates
+      hint: Receive news and announcements
+      type: select_one
+      options:
+      - Yes, subscribe me
+      - No, do not subscribe
+      required: false
+    - id: 20
+      name: promotional_code
+      label: Promotional or Discount Code (if applicable)
+      hint: Enter code if you have one
+      type: text
+      options: []
+      required: false

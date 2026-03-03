@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: legalConsultationBookingForm
+    pages:
+    - id: 1
+      name: law_firm_name
+      label: Firm Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consultation_date
+      label: consultation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: client_email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: client_phone
+      label: client_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consultation_type
+      label: consultation_type
+      hint: null
+      type: select_multiple
+      options:
+      - Lawyer Consultation
+      - Paralegal Consultation
+      - Other
+      required: false
+    - id: 7
+      name: consultation_duration
+      label: consultation_duration
+      hint: null
+      type: select_one
+      options:
+      - '15'
+      - '30'
+      - '60'
+      required: false
+    - id: 8
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: note
+      options: []
+      required: false

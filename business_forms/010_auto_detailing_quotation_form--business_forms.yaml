@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Detailing Quotation Form
+    pages:
+    - id: 1
+      name: contact_details_header
+      label: -- Contact Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For quote delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_specs_header
+      label: -- Vehicle Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_make_model
+      label: Vehicle Make and Model
+      hint: e.g. BMW X5
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_type
+      label: Vehicle Type
+      hint: Helps us determine size and pricing
+      type: select_one
+      options:
+      - Sedan
+      - Coupe
+      - SUV
+      - Truck
+      - Van
+      required: true
+    - id: 8
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: Current state of the vehicle
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Extremely Dirty
+      required: true
+    - id: 9
+      name: service_selection_header
+      label: -- Service Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: detailing_services
+      label: Detailing Services Required
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Interior Detail
+      - Exterior Detail
+      - Full Detail
+      - Ceramic Coating
+      - Engine Bay Cleaning
+      - Headlight Restoration
+      required: true
+    - id: 11
+      name: service_location
+      label: Service Location
+      hint: Do you want to come to us or have us come to you?
+      type: select_one
+      options:
+      - At Workshop
+      - Mobile - At My Location
+      required: true
+    - id: 12
+      name: specific_requests_or_stains
+      label: Specific Requests or Stains
+      hint: Note any specific issues like pet hair or coffee stains
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: preferred_date
+      label: Preferred Date
+      hint: Requested date for service
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: preferred_time
+      label: Preferred Time
+      hint: Requested time for service
+      type: time
+      options: []
+      required: false

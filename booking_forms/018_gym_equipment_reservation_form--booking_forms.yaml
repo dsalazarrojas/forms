@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: gym_equipment_reservation_form
+    pages:
+    - id: 1
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: equipment_id
+      label: equipment_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: equipment_name
+      label: equipment_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: user_id
+      label: user_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reservation_status
+      label: reservation_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Reserved''}'
+      - '{''id'': 2, ''label'': ''Available''}'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm_reservation
+      label: confirm_reservation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Confirm''}'
+      - '{''id'': 2, ''label'': ''Not Confirm''}'
+      required: false
+    - id: 12
+      name: confirm_reservation_note
+      label: confirm_reservation_note
+      hint: null
+      type: text
+      options: []
+      required: false

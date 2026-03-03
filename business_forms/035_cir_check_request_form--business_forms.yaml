@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cir Check Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Full Name
+      hint: Person making the request
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: Church, charity, or nonprofit
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_type
+      label: Organization Type
+      hint: null
+      type: select_one
+      options:
+      - Church
+      - Charity
+      - Nonprofit
+      - Foundation
+      - School
+      - Other
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For correspondence
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Organization Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: tax_id
+      label: Tax ID or EIN Number
+      hint: For verification
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: request_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: check_amount
+      label: Requested Check Amount
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: purpose
+      label: Purpose of Donation Request
+      hint: What will funds be used for
+      type: select_one
+      options:
+      - General operations
+      - Building fund
+      - Community outreach
+      - Education programs
+      - Relief efforts
+      - Youth programs
+      - Other
+      required: true
+    - id: 11
+      name: purpose_detail
+      label: Please Describe Purpose in Detail
+      hint: More information about fund usage
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: program_description
+      label: Program or Project Description
+      hint: What program will benefit
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: beneficiaries
+      label: Who Will Benefit
+      hint: Describe the beneficiaries
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: timeline
+      label: Project Timeline
+      hint: Start and end dates
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: budget_total
+      label: Total Project Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: other_funding
+      label: Other Funding Sources
+      hint: Are there other donors
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: other_funding_detail
+      label: Please List Other Funding Sources
+      hint: If yes
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: previous_donations
+      label: Have You Received Donations Before
+      hint: From this foundation
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: references
+      label: Professional References
+      hint: Name and contact info
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: supporting_documents
+      label: Supporting Documents Available
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 501(c)(3) letter
+      - Annual report
+      - Financial statements
+      - Program budget
+      - Letters of support
+      - None
+      required: true
+    - id: 21
+      name: follow_up
+      label: May We Contact You for More Information
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Any Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: signature
+      label: Authorized Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

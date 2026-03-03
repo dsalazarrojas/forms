@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: monthly_appointment_scheduling_form
+    pages:
+    - id: 1
+      name: month_year
+      label: Select a Month and Year
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: date_range
+      label: Choose a Date Range
+      hint: Select a start and end date for the appointment
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: time_range
+      label: Time Slots
+      hint: Select your preferred time slot
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false

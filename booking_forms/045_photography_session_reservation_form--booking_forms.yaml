@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: photography_session_reservation_form
+    pages:
+    - id: 1
+      name: photographer_details
+      label: Client Information
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_details
+      label: Session Details
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact
+      label: Contact
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Select Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Select Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Studio Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photographer_details
+      label: Photographer Details
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: client_notes
+      label: Client Notes
+      hint: 'null'
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: special_instructions
+      label: Special Instructions
+      hint: 'null'
+      type: text
+      options: []
+      required: false

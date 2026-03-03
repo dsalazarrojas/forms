@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Site Covid 19 Protocol Form
+    pages:
+    - id: 1
+      name: screening_date
+      label: Screening Date
+      hint: Date of health screening
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: screening_time
+      label: Screening Time
+      hint: Time of screening
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: worker_name
+      label: Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: Your employee number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Your employer
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: site_location
+      label: Site Location
+      hint: Which construction site
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: temperature
+      label: Temperature Reading
+      hint: Temperature in Fahrenheit
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: fever_present
+      label: Do You Have a Fever
+      hint: Temperature over 100.4 F
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: cough_present
+      label: Do You Have a New or Worsening Cough
+      hint: Select yes or no
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: shortness_of_breath
+      label: Do You Have Shortness of Breath
+      hint: Or difficulty breathing
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: chills_present
+      label: Have You Had Chills
+      hint: Or repeated shaking
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: muscle_pain
+      label: Do You Have Muscle Pain
+      hint: Or body aches
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: headache_present
+      label: Do You Have a Headache
+      hint: New or worsening
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: sore_throat
+      label: Do You Have a Sore Throat
+      hint: New or worsening
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: loss_of_taste_smell
+      label: Loss of Taste or Smell
+      hint: New loss
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: close_contact_exposure
+      label: Close Contact with Confirmed Case
+      hint: In the past 14 days
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: positive_test
+      label: Tested Positive for COVID-19
+      hint: In the past 14 days
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: waiting_for_results
+      label: Waiting for Test Results
+      hint: Are you awaiting results
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: vaccination_status
+      label: COVID-19 Vaccination Status
+      hint: Select your status
+      type: select_one
+      options:
+      - Fully Vaccinated
+      - Partially Vaccinated
+      - Not Vaccinated
+      - Prefer Not to Say
+      required: false
+    - id: 23
+      name: booster_received
+      label: Booster Dose Received
+      hint: Have you received a booster
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Eligible
+      required: false
+    - id: 24
+      name: screening_result
+      label: Screening Result
+      hint: Are you cleared to enter
+      type: select_one
+      options:
+      - Cleared to Enter
+      - Not Cleared - See Supervisor
+      - Not Cleared - Medical Attention
+      required: true
+    - id: 25
+      name: site_induction_completed
+      label: Site Induction Completed
+      hint: Have you completed site induction
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: planned_destination
+      label: Planned Destination After Site
+      hint: Where will you go after leaving
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: worker_signature
+      label: Worker Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: screener_name
+      label: Screener Name
+      hint: Name of person conducting screening
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: screener_signature
+      label: Screener Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true

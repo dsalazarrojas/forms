@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_store_platform_issue_contact_form
+    pages:
+    - id: 1
+      name: issue_description
+      label: Issue Description
+      hint: Please enter a detailed description of your issue
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issue_category
+      label: Issue Category
+      hint: null
+      type: select_multiple
+      options:
+      - Product Issues
+      - Account Issues
+      - Payment Issues
+      required: false
+    - id: 3
+      name: issue_details
+      label: Issue Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Information
+      hint: Provide your contact email or phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: issue_screenshot
+      label: Issue Screenshot
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: issue_attachment
+      label: Issue Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: issue_video
+      label: Issue Video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: issue_audio
+      label: Issue Audio
+      hint: Please provide audio file
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: issue_location
+      label: Issue Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: issue_device
+      label: Issue Device
+      hint: null
+      type: select_one
+      options:
+      - Mobile
+      - Desktop
+      - Tablet
+      required: false
+    - id: 12
+      name: issue_browser
+      label: Issue Browser
+      hint: null
+      type: select_one
+      options:
+      - Chrome
+      - Firefox
+      - Safari
+      required: false
+    - id: 13
+      name: issue_os
+      label: Issue OS
+      hint: null
+      type: select_one
+      options:
+      - Windows
+      - macOS
+      - Linux
+      required: false
+    - id: 14
+      name: issue_version
+      label: Issue Version
+      hint: null
+      type: select_one
+      options:
+      - v8.0
+      - v9.1
+      - v10.0
+      required: false
+    - id: 15
+      name: issue_platform
+      label: Issue Platform
+      hint: null
+      type: select_one
+      options:
+      - Android
+      - iOS
+      - Web
+      required: false
+    - id: 16
+      name: issue_language
+      label: Issue Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      required: false

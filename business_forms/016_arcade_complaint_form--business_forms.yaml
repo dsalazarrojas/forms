@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arcade Complaint Form
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: For follow-up communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Optional for follow-up
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: visit_date
+      label: Date of Visit
+      hint: When did the issue occur?
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: visit_time
+      label: Time of Visit
+      hint: Approximate time of issue
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: section_complaint_details
+      label: -- Complaint Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: complaint_category
+      label: Complaint Category
+      hint: null
+      type: select_one
+      options:
+      - Equipment malfunction
+      - Billing issue
+      - Staff conduct
+      - Facility cleanliness
+      - Unfair practice
+      - Safety concern
+      - Other
+      required: true
+    - id: 9
+      name: machine_name
+      label: Game or Machine Name (if applicable)
+      hint: Which game had the issue?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: complaint_description
+      label: Detailed Description of Complaint
+      hint: What exactly happened?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: money_lost
+      label: Money Lost (if applicable)
+      hint: Amount in dollars
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: witness_present
+      label: Were there witnesses?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 13
+      name: section_resolution
+      label: -- Desired Resolution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: resolution_type
+      label: What resolution would satisfy you?
+      hint: null
+      type: select_one
+      options:
+      - Refund
+      - Replacement play
+      - Replacement item
+      - Apology
+      - Other remedy
+      required: true
+    - id: 15
+      name: resolution_amount
+      label: Resolution Amount
+      hint: Dollar amount requested
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: section_preferences
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - In-person
+      required: true
+    - id: 18
+      name: timeline_preference
+      label: When would you like a response?
+      hint: null
+      type: select_one
+      options:
+      - ASAP
+      - Within 24 hours
+      - Within 1 week
+      - No preference
+      required: false

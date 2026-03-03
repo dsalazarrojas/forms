@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Innovation Process Evaluation Request Form
+    pages:
+    - id: 1
+      name: innovation_process_evaluation_request_form
+      label: Innovation Process Evaluation Request Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_score
+      label: evaluation_score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: company_phone
+      label: company_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company_website
+      label: company_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company_address
+      label: company_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: evaluation_type
+      label: evaluation_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Filing Service Quotation Form
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - Individual Tax Filing
+      - Business Tax Filing
+      - Estate Tax Filing
+      required: false
+    - id: 3
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: select_one
+      options:
+      - '2020'
+      - '2021'
+      - '2022'
+      required: false
+    - id: 4
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Federal
+      - State
+      - Local
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 10
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 11
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 12
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: client_organization
+      label: Client Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: client_relationship
+      label: Client Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: completed_date
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 21
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Closed
+      required: false
+    - id: 22
+      name: client_status
+      label: Client Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Non Active
+      required: false
+    - id: 23
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 24
+      name: completed_at
+      label: Completed At
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wageloch Incident Improvement Report
+    pages:
+    - id: 1
+      name: incident
+      label: Incident
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: nonconformance
+      label: nonconformance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: opportunity
+      label: Opportunity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: category_iso
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - ISO27001
+      - ISO9001
+      - Other
+      required: true
+    - id: 8
+      name: category_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: incident_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: incident_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: incident_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - Physical
+      - Cyber
+      - Other
+      required: true
+    - id: 14
+      name: incident_severity
+      label: Severity
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 15
+      name: incident_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Pending
+      required: true
+    - id: 16
+      name: incident_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 17
+      name: incident_escalation
+      label: Escalation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_reopened
+      label: Reopened
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: incident_closed_date
+      label: Close Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 21
+      name: incident_reporter
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: incident_owners
+      label: Owners
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: incident_respondents
+      label: Respondents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: incident_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: incident_reviewers
+      label: Reviewers
+      hint: null
+      type: text
+      options: []
+      required: false

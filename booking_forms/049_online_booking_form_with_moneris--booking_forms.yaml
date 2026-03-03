@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Booking Form With Moneris
+    pages:
+    - id: 1
+      name: traveller_information
+      label: Traveller Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: arrival_and_departure
+      label: Arrival and Departure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pickup_address
+      label: Pick up Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Moneris
+      - Another Method
+      required: false
+    - id: 5
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date_and_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: integration_method
+      label: Integration Method
+      hint: null
+      type: select_multiple
+      options:
+      - Calendar
+      - CRM
+      - Spreadsheets
+      required: false

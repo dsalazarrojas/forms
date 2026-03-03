@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street Template - Lauren Roberts
+    pages:
+    - id: 1
+      name: section_lauren_intro
+      label: -- Lauren Roberts - Shop My Stash --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: lauren_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: lauren_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: lauren_shipping
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_lauren_stock
+      label: -- Select from Available Sets --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: lauren_sets_list
+      label: List the set names you want to order
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: lauren_total_sets
+      label: Total number of sets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: lauren_b3g1_status
+      label: B3G1 applied?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: section_lauren_billing
+      label: -- Billing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: lauren_payment_method
+      label: How will you pay?
+      hint: null
+      type: select_one
+      options:
+      - Venmo
+      - PayPal
+      - Facebook Pay
+      required: true
+    - id: 11
+      name: lauren_payment_user
+      label: Payment Username
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: lauren_delivery
+      label: Delivery Choice
+      hint: null
+      type: select_one
+      options:
+      - Standard Shipping ($4.00)
+      - Priority Shipping ($8.50)
+      - Lauren's Porch Pick-up (Free)
+      required: true
+    - id: 13
+      name: lauren_host_credit
+      label: Hostess Name (if for a party)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: lauren_business_interest
+      label: Interested in the Stylist opportunity?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 15
+      name: lauren_comments
+      label: Message for Lauren
+      hint: null
+      type: text
+      options: []
+      required: false

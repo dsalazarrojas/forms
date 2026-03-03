@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Early Pregnancy Ultrasound Appointment Request
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_date
+      label: Choose Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: ultrasound_type
+      label: Ultrasound Type
+      hint: null
+      type: select_one
+      options:
+      - Pregnancy Test
+      - Dating Scan
+      - Nuchal Translucency
+      required: true
+    - id: 4
+      name: ultrasound_time
+      label: Ultrasound Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: scheduling
+      label: Scheduling
+      hint: null
+      type: select_multiple
+      options:
+      - 7:00 am
+      - 8:00 am
+      - 9:00 am
+      - 1:00 pm
+      - 2:00 pm
+      - 3:00 pm
+      required: true
+    - id: 6
+      name: doctor_info
+      label: Doctor Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: patient_comments
+      label: Patient Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: booking_info
+      label: Booking Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_details
+      label: Patient Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: next_appointment
+      label: Next Appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: doctor_info_2
+      label: Doctor Info 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: insurance_info
+      label: Insurance Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_dob
+      label: Patient DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: booking_time
+      label: Booking Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: doctor_phone
+      label: Doctor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: doctor_dob
+      label: Doctor DOB
+      hint: null
+      type: date
+      options: []
+      required: false

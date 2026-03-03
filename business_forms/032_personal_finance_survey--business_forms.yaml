@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Finance Survey
+    pages:
+    - id: 1
+      name: family_income
+      label: family_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: monthly_savings
+      label: monthly_savings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: financial_goals
+      label: financial_goals
+      hint: null
+      type: select_multiple
+      options:
+      - Goal 1
+      - Goal 2
+      - Goal 3
+      required: false
+    - id: 4
+      name: investment_return
+      label: investment_return
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: debt
+      label: debt
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      required: false
+    - id: 6
+      name: credit_card_balance
+      label: credit_card_balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: savings_goal
+      label: savings_goal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: financial_institutions
+      label: financial_institutions
+      hint: null
+      type: select_multiple
+      options:
+      - bank
+      - credit union
+      - brokerage
+      required: false
+    - id: 10
+      name: emergency_fund
+      label: emergency_fund
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: financial_independence
+      label: financial_independence
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      required: false

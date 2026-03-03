@@ -1,0 +1,302 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bicycle Tune Up Appointment Form
+    pages:
+    - id: 1
+      name: section_header_customer
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For appointment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: For appointment updates
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_bike
+      label: -- Bicycle Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: bike_brand
+      label: Bicycle Brand
+      hint: Manufacturer name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: bike_model
+      label: Bicycle Model
+      hint: Model number or name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: bike_type
+      label: Bicycle Type
+      hint: What kind of bike?
+      type: select_one
+      options:
+      - Road bike
+      - Mountain bike
+      - Hybrid bike
+      - BMX bike
+      - Cruiser bike
+      - Fixed gear
+      - E-bike
+      - Other
+      required: true
+    - id: 10
+      name: bike_color
+      label: Bicycle Color
+      hint: For identification
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_header_issues
+      label: -- Issues and Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: main_concerns
+      label: Main Concerns or Issues
+      hint: What needs attention?
+      type: select_multiple
+      options:
+      - General tune-up
+      - Brake adjustment
+      - Gear shifting issues
+      - Chain maintenance
+      - Tire problems
+      - Wheel alignment
+      - Handlebar adjustment
+      - Seat adjustment
+      - Noise or squeaking
+      - Drivetrain issues
+      - Other concerns
+      required: true
+    - id: 13
+      name: issue_description
+      label: Detailed Description of Issues
+      hint: Please explain what's wrong
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: brake_concern
+      label: Brake Concern (if applicable)
+      hint: Any specific brake issues?
+      type: select_one
+      options:
+      - Weak braking
+      - Noise or squealing
+      - Uneven braking
+      - Disc brake misalignment
+      - Rim brake misalignment
+      - Not applicable
+      required: false
+    - id: 15
+      name: gear_concern
+      label: Gear or Drivetrain Concern (if applicable)
+      hint: Any shifting issues?
+      type: select_one
+      options:
+      - Shifting difficulty
+      - Chain skipping
+      - Chain noise
+      - Chain dropped
+      - Cable tension issue
+      - Not applicable
+      required: false
+    - id: 16
+      name: section_header_services
+      label: -- Service Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: service_level
+      label: Service Level Desired
+      hint: Which tune-up level?
+      type: select_one
+      options:
+      - Basic tune-up - 30 min
+      - Standard tune-up - 1 hour
+      - Full tune-up - 1.5-2 hours
+      - Complete overhaul - 2+ hours
+      - Not sure - recommend for me
+      required: true
+    - id: 18
+      name: parts_replacement
+      label: Open to Parts Replacement
+      hint: Will you authorize replacement if needed?
+      type: select_one
+      options:
+      - Yes, replace as needed
+      - Yes, but ask first
+      - Only if critical
+      - No, just adjustment
+      - Not sure
+      required: true
+    - id: 19
+      name: budget
+      label: Budget Range
+      hint: What can you spend?
+      type: select_one
+      options:
+      - Under $50
+      - $50 - $100
+      - $100 - $150
+      - $150 - $200
+      - Over $200
+      - No specific limit
+      required: false
+    - id: 20
+      name: section_header_appointment
+      label: -- Appointment Scheduling --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: preferred_date
+      label: Preferred Appointment Date
+      hint: When do you want to come in?
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: preferred_time
+      label: Preferred Appointment Time
+      hint: What time works best?
+      type: select_one
+      options:
+      - Early morning (8am-10am)
+      - Late morning (10am-12pm)
+      - Early afternoon (12pm-2pm)
+      - Late afternoon (2pm-4pm)
+      - Evening (4pm-6pm)
+      - Any time available
+      - Flexible
+      required: true
+    - id: 23
+      name: turnaround_need
+      label: Turnaround Time Needed
+      hint: When do you need it back?
+      type: select_one
+      options:
+      - Same day if possible
+      - Next day
+      - Within 3 days
+      - Within 1 week
+      - No specific deadline
+      - ASAP - emergency
+      required: true
+    - id: 24
+      name: section_header_service_history
+      label: -- Service History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: last_service
+      label: When Was Last Service Performed
+      hint: Approximately when?
+      type: select_one
+      options:
+      - Never serviced
+      - Within 3 months
+      - 3-6 months ago
+      - 6-12 months ago
+      - Over 1 year ago
+      - Unknown
+      required: true
+    - id: 26
+      name: usage_frequency
+      label: Frequency of Bike Use
+      hint: How often do you ride?
+      type: select_one
+      options:
+      - Daily
+      - 3-5 times per week
+      - 1-2 times per week
+      - Few times per month
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 27
+      name: section_header_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: special_requests
+      label: Special Requests or Preferences
+      hint: Any specific requests?
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: bike_lockup_needed
+      label: Do You Need Bike Lockup/Storage
+      hint: Will you wait or pick up later?
+      type: select_one
+      options:
+      - Will wait for the bike
+      - Need to pick up later
+      - Will arrange pickup
+      - Unsure
+      required: true
+    - id: 30
+      name: contact_preference
+      label: Contact Preference for Updates
+      hint: How should we contact you?
+      type: select_one
+      options:
+      - Phone call
+      - Text message
+      - Email
+      - Either is fine
+      required: true
+    - id: 31
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

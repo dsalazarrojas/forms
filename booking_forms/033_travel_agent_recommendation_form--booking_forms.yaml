@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Agent Recommendation Form
+    pages:
+    - id: 1
+      name: destination
+      label: Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_travel_style
+      label: Travel Style
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Family Friendly''}'
+      - '{''label'': ''Adventure prophets''}'
+      - '{''label'': ''Business Travel''}'
+      required: false
+    - id: 3
+      name: activity
+      label: Activity
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Hiking''}'
+      - '{''label'': ''Foodie''}'
+      - '{''label'': ''Beach''}'
+      required: false
+    - id: 4
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: travel_agent
+      label: Travel Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

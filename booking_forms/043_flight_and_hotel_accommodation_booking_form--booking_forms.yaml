@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flight And Hotel Accommodation Booking Form
+    pages:
+    - id: 1
+      name: respond_to_meeting_invitation
+      label: Respond to meeting invitation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: book_flight_prophets
+      label: Book flight
+      hint: null
+      type: select_multiple
+      options:
+      - United States
+      - Canada
+      - Mexico
+      required: true
+    - id: 3
+      name: get_hotel_accommodation_prophets
+      label: Get hotel accommodation prospects
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: flight_number
+      label: Flight number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: hotel_number
+      label: Hotel number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: travel_prophets
+      label: Travel dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: Start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: end_date
+      label: End date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: travel_prophets
+      label: Travel purpose
+      hint: null
+      type: select_one
+      options:
+      - Meeting
+      - Business
+      - Leisure
+      required: true
+    - id: 10
+      name: flight_cost
+      label: Flight cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: hotel_cost
+      label: Hotel cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: travel_cost
+      label: Travel cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: meeting_location
+      label: Meeting location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: meeting_date
+      label: Meeting date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: flight_details
+      label: Flight details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: hotel_details
+      label: Hotel details
+      hint: null
+      type: text
+      options: []
+      required: false

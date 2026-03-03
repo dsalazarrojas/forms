@@ -1,0 +1,204 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Component Checklist Form
+    pages:
+      - id: 1
+        name: checklist_id
+        label: Checklist ID
+        hint: Unique identifier for this checklist
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: project_name
+        label: Project Name
+        hint: Name of the project
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: project_manager
+        label: Project Manager
+        hint: Name of project manager
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: checklist_date
+        label: Checklist Date
+        hint: Date of this checklist
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: phase
+        label: Project Phase
+        hint: Current project phase
+        type: select_one
+        options:
+          - Planning
+          - Design
+          - Development
+          - Testing
+          - Deployment
+          - Maintenance
+          - Closure
+        required: true
+      - id: 6
+        name: component_hardware
+        label: Hardware Components Verified
+        hint: All hardware components accounted for
+        type: select_one
+        options:
+          - Yes, Complete
+          - Partially Complete
+          - Not Applicable
+          - No, Missing Items
+        required: true
+      - id: 7
+        name: hardware_items
+        label: Hardware Items List
+        hint: List hardware components checked
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: component_software
+        label: Software Components Verified
+        hint: All software components accounted for
+        type: select_one
+        options:
+          - Yes, Complete
+          - Partially Complete
+          - Not Applicable
+          - No, Missing Items
+        required: true
+      - id: 9
+        name: software_items
+        label: Software Items List
+        hint: List software components checked
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: component_documentation
+        label: Documentation Components Verified
+        hint: All documentation components accounted for
+        type: select_one
+        options:
+          - Yes, Complete
+          - Partially Complete
+          - Not Applicable
+          - No, Missing Items
+        required: true
+      - id: 11
+        name: documentation_items
+        label: Documentation Items List
+        hint: List documentation components checked
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: component_materials
+        label: Materials Components Verified
+        hint: All material components accounted for
+        type: select_one
+        options:
+          - Yes, Complete
+          - Partially Complete
+          - Not Applicable
+          - No, Missing Items
+        required: true
+      - id: 13
+        name: materials_items
+        label: Materials Items List
+        hint: List material components checked
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: component_services
+        label: Service Components Verified
+        hint: All service components accounted for
+        type: select_one
+        options:
+          - Yes, Complete
+          - Partially Complete
+          - Not Applicable
+          - No, Missing Items
+        required: true
+      - id: 15
+        name: services_items
+        label: Services Items List
+        hint: List service components checked
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: quality_checks_completed
+        label: Quality Checks Completed
+        hint: Have all quality checks been performed
+        type: select_one
+        options:
+          - Yes, All Complete
+          - In Progress
+          - Not Started
+        required: true
+      - id: 17
+        name: missing_components
+        label: Missing Components
+        hint: List any missing components
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: action_items
+        label: Action Items
+        hint: List required actions for missing components
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: responsible_person
+        label: Responsible Person
+        hint: Person responsible for completing checklist
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: completion_status
+        label: Completion Status
+        hint: Overall checklist status
+        type: select_one
+        options:
+          - Complete - All Items Verified
+          - Partially Complete
+          - In Progress
+          - Not Started
+        required: true
+      - id: 21
+        name: completion_date
+        label: Expected Completion Date
+        hint: When will checklist be complete
+        type: date
+        options: []
+        required: false
+      - id: 22
+        name: additional_notes
+        label: Additional Notes
+        hint: Any other relevant information
+        type: text
+        options: []
+        required: false

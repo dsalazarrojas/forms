@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Visual Art Catalog Update Request Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artwork_title
+      label: Artwork Title
+      hint: Enter title of artwork
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: artwork_description
+      label: Artwork Description
+      hint: Briefly describe the artwork
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: artwork_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Abstract
+      - Architecture
+      - Conceptual
+      - Fine Art
+      - Graphic Art
+      - Illustrations
+      - Mixed Media
+      - Photography
+      - Printmaking
+      - Sculpture
+      required: false
+    - id: 5
+      name: artwork_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - Painting
+      - Print
+      - Digital
+      - Sculpture
+      - Mixed Media
+      - Other
+      required: false
+    - id: 6
+      name: artwork_file_upload
+      label: Upload Artwork File
+      hint: Drag and drop your artwork file or browse for file
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: artwork_file_url
+      label: Artwork File URL
+      hint: If you don't have a file, enter URL of artwork
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

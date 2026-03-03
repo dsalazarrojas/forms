@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Accommodation Request Form
+    pages:
+    - id: 1
+      name: student_acc_request_form
+      label: Student Accommodation Request Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_type
+      label: Student Type
+      hint: Student Type
+      type: select_one
+      options:
+      - Undergraduate
+      - Postgraduate
+      - Other
+      - Exchange Student
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: accommodation_type
+      label: Accommodation Type
+      hint: null
+      type: select_multiple
+      options:
+      - Single Room
+      - Shared Room
+      - Flat
+      - House
+      required: false
+    - id: 9
+      name: accommodation_type_other
+      label: Accommodation Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: accommodation_number
+      label: Accommodation Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: accommodation_start_date
+      label: Accommodation Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: accommodation_end_date
+      label: Accommodation End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: accommodation_status
+      label: Accommodation Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - UnAvailable
+      - Reserved
+      required: false
+    - id: 14
+      name: accommodation_status_other
+      label: Accommodation Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: accommodation_comment
+      label: Accommodation Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reservation_note
+      label: Reservation Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: student_note
+      label: Student Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: staff_note
+      label: Staff Note
+      hint: null
+      type: text
+      options: []
+      required: false

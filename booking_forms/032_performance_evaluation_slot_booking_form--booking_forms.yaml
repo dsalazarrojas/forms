@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Evaluation Slot Booking Form
+    pages:
+    - id: 1
+      name: form_start
+      label: PerformanceEvaluationSlotBookingForm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Performance Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: manager
+      label: Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Manager 1''}'
+      - '{''id'': 2, ''label'': ''Manager 2''}'
+      - '{''id'': 3, ''label'': ''Manager 3''}'
+      required: false
+    - id: 6
+      name: reviewee
+      label: Reviewee
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Reviewee 1''}'
+      - '{''id'': 2, ''label'': ''Reviewee 2''}'
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: slot_duration
+      label: Slot Duration
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''15 minutes''}'
+      - '{''id'': 2, ''label'': ''30 minutes''}'
+      - '{''id'': 3, ''label'': ''60 minutes''}'
+      required: false
+    - id: 11
+      name: slot_frequency
+      label: Slot Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Once''}'
+      - '{''id'': 2, ''label'': ''Daily''}'
+      - '{''id'': 3, ''label'': ''Weekly''}'
+      required: false
+    - id: 12
+      name: slot_time_of_day
+      label: Slot Time of Day
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Morning''}'
+      - '{''id'': 2, ''label'': ''Afternoon''}'
+      - '{''id'': 3, ''label'': ''Evening''}'
+      required: false
+    - id: 13
+      name: slot_date
+      label: Slot Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reviewee_phone
+      label: Reviewee
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': 1234567890}'
+      - '{''id'': 2, ''label'': 9876543210}'
+      required: false
+    - id: 16
+      name: manager_phone
+      label: Manager
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': 1234567890}'
+      - '{''id'': 2, ''label'': 9876543210}'
+      required: false
+    - id: 17
+      name: reviewee_email
+      label: Reviewee
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''email1@example.com''}'
+      - '{''id'': 2, ''label'': ''email2@example.com''}'
+      required: false
+    - id: 18
+      name: manager_email
+      label: Manager
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''email1@example.com''}'
+      - '{''id'': 2, ''label'': ''email2@example.com''}'
+      required: false
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: manager
+      label: Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Manager 1''}'
+      - '{''id'': 2, ''label'': ''Manager 2''}'
+      required: false
+    - id: 21
+      name: reviewee
+      label: Reviewee
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Reviewee 1''}'
+      - '{''id'': 2, ''label'': ''Reviewee 2''}'
+      required: false
+    - id: 22
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: slot_duration
+      label: Slot Duration
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''15 minutes''}'
+      - '{''id'': 2, ''label'': ''30 minutes''}'
+      required: false
+    - id: 25
+      name: slot_frequency
+      label: Slot Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Once''}'
+      - '{''id'': 2, ''label'': ''Daily''}'
+      - '{''id'': 3, ''label'': ''Weekly''}'
+      required: false

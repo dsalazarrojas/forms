@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Workstation Supply Order Form
+    pages:
+    - id: 1
+      name: order_form
+      label: Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: warehouse_id
+      label: select_warehouse
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Warehouse 1'', ''label'': ''Warehouse 1''}'
+      - '{''value'': ''Warehouse 2'', ''label'': ''Warehouse 2''}'
+      required: false
+    - id: 3
+      name: item_id
+      label: select_item
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Item 1'', ''label'': ''Item 1''}'
+      - '{''value'': ''Item 2'', ''label'': ''Item 2''}'
+      required: false
+    - id: 4
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: order_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: order_time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm
+      label: confirm_order
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''true'', ''label'': ''Yes''}'
+      - '{''value'': ''false'', ''label'': ''No''}'
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: point_of_sale_system_quotation_form
+    pages:
+    - id: 1
+      name: quotation_form
+      label: quotation_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sales_systems
+      label: sales_systems
+      hint: null
+      type: select_multiple
+      options:
+      - POS System
+      - POS Terminal
+      - Other
+      required: false
+    - id: 3
+      name: client_requirements
+      label: client_requirements
+      hint: Please list the client's requirements for the POS system.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: installation_location
+      label: installation_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hardware_requirements
+      label: hardware_requirements
+      hint: null
+      type: select_multiple
+      options:
+      - Cash Drawer
+      - Cash Register
+      - Other
+      required: false
+    - id: 6
+      name: software_requirements
+      label: software_requirements
+      hint: null
+      type: select_multiple
+      options:
+      - Inventory Management
+      - Reporting
+      - Other
+      required: false
+    - id: 7
+      name: quote_deadline
+      label: quote_deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: sales_person
+      label: sales_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false

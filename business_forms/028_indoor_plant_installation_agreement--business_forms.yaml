@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: indoor_plant_installation_agreement
+    pages:
+    - id: 1
+      name: agreement_form
+      label: Agreement Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_scope
+      label: Project Scope
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: schedule
+      label: Schedule
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: consent
+      label: Consent
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: plant_types
+      label: Plant Types
+      hint: null
+      type: select_multiple
+      options:
+      - Fiddle Leaf
+      - Snake Plant
+      - Spider Plant
+      - Bamboo Palm
+      - Peace Lily
+      required: true
+    - id: 10
+      name: plant_quantity
+      label: Plant Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: plant_cost
+      label: Plant Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: service_cost
+      label: Service Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit
+      - Debit
+      required: false
+    - id: 16
+      name: payment_due_date
+      label: Payment Due Date
+      hint: null
+      type: date
+      options: []
+      required: false

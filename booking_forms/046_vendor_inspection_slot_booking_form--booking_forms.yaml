@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: vendor_inspection_slot_booking_form
+    pages:
+    - id: 1
+      name: booking_form_data
+      label: booking_form_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_details
+      label: vendor_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inspection_schedule
+      label: inspection_schedule
+      hint: Select day of inspection
+      type: select_one
+      options:
+      - '{''label'': ''Monday''}'
+      - '{''label'': ''Tuesday''}'
+      - '{''label'': ''Wednesday''}'
+      - '{''label'': ''Thursday''}'
+      - '{''label'': ''Friday''}'
+      - '{''label'': ''Saturday''}'
+      - '{''label'': ''Sunday''}'
+      required: true
+    - id: 4
+      name: preferred_time
+      label: preferred_time
+      hint: "09:00 AM - 06:00 PM"
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: start_date
+      label: start_date
+      hint: Date of Inspection
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: end_date
+      hint: Date of Inspection
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_first_name
+      label: first_name
+      hint: First Name of Contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_last_name
+      label: last_name
+      hint: Last Name of Contact
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_email
+      label: email
+      hint: Email of Contact
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: phone
+      hint: Phone Number of Contact
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_inspector
+      label: assigned_inspector
+      hint: Assign inspector
+      type: select_one
+      options:
+      - '{''label'': ''John Doe''}'
+      - '{''label'': ''Jane Doe''}'
+      - '{''label'': ''Bob Smith''}'
+      - '{''label'': ''Alice Johnson''}'
+      required: true
+    - id: 14
+      name: assigned_technician
+      label: assigned_technician
+      hint: Assign technician
+      type: select_one
+      options:
+      - '{''label'': ''John Doe''}'
+      - '{''label'': ''Jane Doe''}'
+      - '{''label'': ''Bob Smith''}'
+      - '{''label'': ''Alice Johnson''}'
+      required: true
+    - id: 15
+      name: assigned_technician_2
+      label: assigned_technician_2
+      hint: Assign technician
+      type: select_one
+      options:
+      - '{''label'': ''John Doe''}'
+      - '{''label'': ''Jane Doe''}'
+      - '{''label'': ''Bob Smith''}'
+      - '{''label'': ''Alice Johnson''}'
+      required: false
+    - id: 16
+      name: assigned_supervisor
+      label: assigned_supervisor
+      hint: Assign supervisor
+      type: select_one
+      options:
+      - '{''label'': ''John Doe''}'
+      - '{''label'': ''Jane Doe''}'
+      - '{''label'': ''Bob Smith''}'
+      - '{''label'': ''Alice Johnson''}'
+      required: true
+    - id: 17
+      name: assigned_manager
+      label: assigned_manager
+      hint: Assign manager
+      type: select_one
+      options:
+      - '{''label'': ''John Doe''}'
+      - '{''label'': ''Jane Doe''}'
+      - '{''label'': ''Bob Smith''}'
+      - '{''label'': ''Alice Johnson''}'
+      required: false
+    - id: 18
+      name: assigned_area
+      label: assigned_area
+      hint: Assign area
+      type: select_one
+      options:
+      - '{''label'': ''John Doe''}'
+      - '{''label'': ''Jane Doe''}'
+      - '{''label'': ''Bob Smith''}'
+      - '{''label'': ''Alice Johnson''}'
+      required: true
+    - id: 19
+      name: assigned_team
+      label: assigned_team
+      hint: Assign team
+      type: select_one
+      options:
+      - '{''label'': ''John Doe''}'
+      - '{''label'': ''Jane Doe''}'
+      - '{''label'': ''Bob Smith''}'
+      - '{''label'': ''Alice Johnson''}'
+      required: true
+    - id: 20
+      name: assigned_area_2
+      label: assigned_area_2
+      hint: Assign area
+      type: select_one
+      options:
+      - '{''label'': ''John Doe''}'
+      - '{''label'': ''Jane Doe''}'
+      - '{''label'': ''Bob Smith''}'
+      - '{''label'': ''Alice Johnson''}'
+      required: false
+    - id: 21
+      name: assigned_supervisor_2
+      label: assigned_supervisor_2
+      hint: Assign supervisor
+      type: select_one
+      options:
+      - '{''label'': ''John Doe''}'
+      - '{''label'': ''Jane Doe''}'
+      - '{''label'': ''Bob Smith''}'
+      - '{''label'': ''Alice Johnson''}'
+      required: false
+    - id: 22
+      name: assigned_technician_2
+      label: assigned_technician_2
+      hint: Assign technician
+      type: select_one
+      options:
+      - '{''label'': ''John Doe''}'
+      - '{''label'': ''Jane Doe''}'
+      - '{''label'': ''Bob Smith''}'
+      - '{''label'': ''Alice Johnson''}'
+      required: false
+    - id: 23
+      name: vendor_inspection_status
+      label: vendor_inspection_status
+      hint: Status of Inspection
+      type: select_one
+      options:
+      - '{''label'': ''pending''}'
+      - '{''label'': ''in_progress''}'
+      - '{''label'': ''completed''}'
+      - '{''label'': ''cancelled''}'
+      required: true
+    - id: 24
+      name: vendor_inspection_type
+      label: vendor_inspection_type
+      hint: Type of Inspection
+      type: select_one
+      options:
+      - '{''label'': ''routine''}'
+      - '{''label'': ''non_routine''}'
+      - '{''label'': ''follow_up''}'
+      - '{''label'': ''other''}'
+      required: true

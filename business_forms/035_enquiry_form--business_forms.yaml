@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: enquiry_form
+    pages:
+    - id: 1
+      name: enquiry_type
+      label: How would you like to enquire
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: enquiry_date
+      label: Date of Enquiry
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: enquiry_time
+      label: Time of Enquiry
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: enquiry_type
+      label: How would you like to enquire
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: enquiry_details
+      label: Enquiry Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: additional_details
+      label: Additional Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: assigned_tool
+      label: Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool_id
+      label: Tool ID
+      hint: null
+      type: text
+      options: []
+      required: false

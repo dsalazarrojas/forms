@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: welcome_to_our_open_house
+    pages:
+    - id: 1
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_time
+      label: contact_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: contact_date
+      label: contact_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: business_type
+      label: business_type
+      hint: null
+      type: select_one
+      options:
+      - Retail
+      - Wholesale
+      - Other
+      required: false
+    - id: 9
+      name: message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone Call
+      - Email
+      - Meeting
+      required: false

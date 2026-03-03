@@ -1,0 +1,380 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Case Settlement Discharge Form
+    pages:
+      - id: 1
+        name: discharge_header
+        label: Case Settlement Discharge Form
+        hint: Formal discharge of claims after settlement
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: discharge_date
+        label: Discharge Date
+        hint: Date of discharge
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: case_info
+        label: Case Information
+        hint: Case details
+        type: note
+        options: []
+        required: false
+      - id: 4
+        name: case_number
+        label: Case Number
+        hint: Case identifier
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: case_title
+        label: Case Title
+        hint: Case name
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: court_name
+        label: Court Name
+        hint: Where filed
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: filing_date
+        label: Original Filing Date
+        hint: When case began
+        type: date
+        options: []
+        required: false
+      - id: 8
+        name: settlement_info
+        label: Settlement Information
+        hint: Settlement details
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: settlement_date
+        label: Settlement Date
+        hint: When settled
+        type: date
+        options: []
+        required: true
+      - id: 10
+        name: settlement_amount
+        label: Settlement Amount
+        hint: Total settlement
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: payment_terms
+        label: Payment Terms
+        hint: How payment is made
+        type: select_one
+        options:
+          - Lump sum payment
+          - Structured settlement
+          - Installment payments
+          - Non-monetary settlement
+          - Confidential terms
+        required: false
+      - id: 12
+        name: parties_info
+        label: Parties Information
+        hint: Involved parties
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: releasing_party
+        label: Releasing Party Name
+        hint: Party releasing claims
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: releasing_party_type
+        label: Releasing Party Type
+        hint: Entity type
+        type: select_one
+        options:
+          - Individual
+          - Corporation
+          - Partnership
+          - LLC
+          - Government entity
+          - Other
+        required: true
+      - id: 15
+        name: released_party
+        label: Released Party Name
+        hint: Party being released
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: released_party_type
+        label: Released Party Type
+        hint: Entity type
+        type: select_one
+        options:
+          - Individual
+          - Corporation
+          - Partnership
+          - LLC
+          - Government entity
+          - Other
+        required: true
+      - id: 17
+        name: discharge_terms
+        label: Discharge Terms
+        hint: Release conditions
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: claims_released
+        label: Claims Being Released
+        hint: Scope of release
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: release_type
+        label: Type of Release
+        hint: Release scope
+        type: select_one
+        options:
+          - General release - all claims
+          - Specific release - listed claims
+          - Partial release - some claims
+          - Mutual release - both parties
+        required: true
+      - id: 20
+        name: release_scope
+        label: Scope of Release
+        hint: What is included
+        type: select_multiple
+        options:
+          - Known claims
+          - Unknown claims
+          - Future claims
+          - Past damages
+          - Future damages
+          - Attorney fees
+          - Court costs
+          - Interest
+          - Other
+        required: true
+      - id: 21
+        name: exceptions
+        label: Exceptions to Release
+        hint: What is not released
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: continuing_obligations
+        label: Continuing Obligations
+        hint: Ongoing duties
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: confidentiality
+        label: Confidentiality Terms
+        hint: Secrecy agreement
+        type: select_one
+        options:
+          - Confidential - no disclosure
+          - Confidential - limited disclosure
+          - Public record
+          - Partially confidential
+        required: false
+      - id: 24
+        name: non_disclosure
+        label: Is Non-Disclosure Agreement Included
+        hint: NDA status
+        type: select_one
+        options:
+          - Yes - mutual NDA
+          - Yes - one-way NDA
+          - No
+        required: false
+      - id: 25
+        name: admission_of_liability
+        label: Is There Admission of Liability
+        hint: Liability status
+        type: select_one
+        options:
+          - Yes - liability admitted
+          - No - liability denied
+          - No admission - settlement only
+        required: true
+      - id: 26
+        name: dismissal_terms
+        label: Dismissal Terms
+        hint: Case dismissal
+        type: note
+        options: []
+        required: false
+      - id: 27
+        name: dismissal_type
+        label: Type of Dismissal
+        hint: Dismissal category
+        type: select_one
+        options:
+          - Dismissed with prejudice
+          - Dismissed without prejudice
+          - Dismissed - settlement filed
+          - Other
+        required: true
+      - id: 28
+        name: dismissal_date
+        label: Dismissal Date
+        hint: When dismissed
+        type: date
+        options: []
+        required: false
+      - id: 29
+        name: court_approval
+        label: Is Court Approval Required
+        hint: Judicial review
+        type: select_one
+        options:
+          - Yes - pending approval
+          - Yes - obtained
+          - No - not required
+        required: true
+      - id: 30
+        name: court_approval_date
+        label: Court Approval Date
+        hint: If obtained
+        type: date
+        options: []
+        required: false
+      - id: 31
+        name: attorney_info
+        label: Attorney Information
+        hint: Legal counsel
+        type: note
+        options: []
+        required: false
+      - id: 32
+        name: releasing_attorney
+        label: Releasing Party Attorney
+        hint: Counsel name
+        type: text
+        options: []
+        required: false
+      - id: 33
+        name: releasing_firm
+        label: Releasing Party Law Firm
+        hint: Firm name
+        type: text
+        options: []
+        required: false
+      - id: 34
+        name: released_attorney
+        label: Released Party Attorney
+        hint: Counsel name
+        type: text
+        options: []
+        required: false
+      - id: 35
+        name: released_firm
+        label: Released Party Law Firm
+        hint: Firm name
+        type: text
+        options: []
+        required: false
+      - id: 36
+        name: execution_info
+        label: Execution Information
+        hint: Signing details
+        type: note
+        options: []
+        required: false
+      - id: 37
+        name: releasing_party_signature
+        label: Releasing Party Signature Date
+        hint: Date signed
+        type: date
+        options: []
+        required: true
+      - id: 38
+        name: released_party_signature
+        label: Released Party Signature Date
+        hint: Date signed
+        type: date
+        options: []
+        required: true
+      - id: 39
+        name: witness_name
+        label: Witness Name
+        hint: Witness to signatures
+        type: text
+        options: []
+        required: false
+      - id: 40
+        name: witness_signature_date
+        label: Witness Signature Date
+        hint: Date witnessed
+        type: date
+        options: []
+        required: false
+      - id: 41
+        name: notary_required
+        label: Is Notarization Required
+        hint: Notary status
+        type: select_one
+        options:
+          - Yes - notarized
+          - No - not required
+        required: false
+      - id: 42
+        name: notary_name
+        label: Notary Public Name
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 43
+        name: notary_commission
+        label: Notary Commission Number
+        hint: Commission ID
+        type: text
+        options: []
+        required: false
+      - id: 44
+        name: notary_signature_date
+        label: Notary Signature Date
+        hint: Date notarized
+        type: date
+        options: []
+        required: false
+      - id: 45
+        name: additional_terms
+        label: Additional Terms or Conditions
+        hint: Other agreements
+        type: text
+        options: []
+        required: false

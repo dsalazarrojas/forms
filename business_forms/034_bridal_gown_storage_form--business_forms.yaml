@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bridal Gown Storage Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: wedding_date
+      label: Wedding Date
+      hint: When is your wedding
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gown_designer
+      label: Gown Designer or Brand
+      hint: Designer or brand name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: gown_style
+      label: Gown Style Description
+      hint: Describe your gown style
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: gown_color
+      label: Gown Color
+      hint: Color of the gown
+      type: select_one
+      options:
+      - White
+      - Ivory
+      - Champagne
+      - Blush
+      - Pink
+      - Silver
+      - Other color
+      required: true
+    - id: 8
+      name: gown_size
+      label: Gown Size
+      hint: Size of the gown
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: gown_condition_before
+      label: Gown Condition Upon Drop-Off
+      hint: Rate the current condition
+      type: select_one
+      options:
+      - Excellent - no damage
+      - Good - minor wear
+      - Fair - some damage
+      - Poor - significant damage
+      required: true
+    - id: 10
+      name: gown_special_details
+      label: Special Gown Details
+      hint: Beading, embellishments, etc
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: storage_duration
+      label: Storage Duration Needed
+      hint: How long to store the gown
+      type: select_one
+      options:
+      - 1 month
+      - 2-3 months
+      - 4-6 months
+      - 6-12 months
+      - 12+ months
+      - Indefinite
+      required: true
+    - id: 12
+      name: drop_off_date
+      label: Drop-Off Date
+      hint: When will you bring the gown
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: drop_off_time
+      label: Preferred Drop-Off Time
+      hint: Time for drop-off
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Flexible
+      required: false
+    - id: 14
+      name: storage_conditions
+      label: Required Storage Conditions
+      hint: Special storage requirements
+      type: select_multiple
+      options:
+      - Climate controlled
+      - Low humidity
+      - Dark storage
+      - Acid-free box
+      - Hanging storage
+      - Custom packaging
+      required: false
+    - id: 15
+      name: cleaning_needed
+      label: Professional Cleaning Needed
+      hint: Is cleaning required before storage
+      type: select_one
+      options:
+      - Yes, cleaning included
+      - Yes, cleaning additional fee
+      - No, already clean
+      - Unsure
+      required: false
+    - id: 16
+      name: preservation_service
+      label: Gown Preservation Service
+      hint: Additional preservation needs
+      type: select_multiple
+      options:
+      - Stain treatment
+      - Pressing and steaming
+      - Repair of minor damage
+      - Restoration service
+      - Long-term preservation
+      - None
+      required: false
+    - id: 17
+      name: accessories_stored
+      label: Accessories to Store
+      hint: Veil, shoes, undergarments etc
+      type: select_multiple
+      options:
+      - Veil
+      - Shoes
+      - Slip or undergarment
+      - Jewelry
+      - Headpiece
+      - Other accessories
+      - None
+      required: false
+    - id: 18
+      name: pickup_plan
+      label: Planned Pickup Method
+      hint: How will gown be retrieved
+      type: select_one
+      options:
+      - Personal pickup
+      - Delivery to home
+      - Delivery to another location
+      - TBD
+      required: false
+    - id: 19
+      name: storage_cost
+      label: Storage Pricing Plan
+      hint: Select your pricing
+      type: select_one
+      options:
+      - Monthly rate
+      - Quarterly rate
+      - Annual rate
+      - Custom arrangement
+      required: false
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Check
+      - Cash
+      - PayPal
+      required: true
+    - id: 21
+      name: special_requests
+      label: Special Requests or Instructions
+      hint: Any additional notes
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: insurance_coverage
+      label: Insurance Coverage Desired
+      hint: Protect your gown investment
+      type: select_one
+      options:
+      - Yes, add insurance
+      - No insurance needed
+      - More information needed
+      required: false

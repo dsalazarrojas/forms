@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Repair Invoice Form
+    pages:
+    - id: 1
+      name: shop_header
+      label: -- Shop Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: shop_name
+      label: Shop Name
+      hint: Name of the service facility
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: invoice_number
+      label: Invoice Number
+      hint: Unique billing ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: invoice_date
+      label: Invoice Date
+      hint: Date of issue
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: customer_vehicle_header
+      label: -- Customer and Vehicle --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: customer_name
+      label: Customer Name
+      hint: Person or business being billed
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_desc
+      label: Vehicle Make, Model, and Year
+      hint: e.g. 2018 Ford Fusion
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vin_plate
+      label: VIN or License Plate
+      hint: For vehicle identification
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: line_items_header
+      label: -- Line Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: description_1
+      label: Description of Service
+      hint: What work was performed?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: price_parts_1
+      label: Price of Parts
+      hint: Total cost of parts for this item
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: labor_hours_1
+      label: Labor Hours
+      hint: Number of hours spent on this item
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: labor_rate
+      label: Labor Rate per Hour
+      hint: Standard shop rate
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: totals_header
+      label: -- Totals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: parts_total
+      label: Parts Total
+      hint: Sum of all parts
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: labor_total
+      label: Labor Total
+      hint: Sum of all labor costs
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: tax_amount
+      label: Tax Amount
+      hint: Applicable sales tax
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: grand_total
+      label: Grand Total Due
+      hint: Final amount to be paid
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: payment_status
+      label: Payment Status
+      hint: Current state of this invoice
+      type: select_one
+      options:
+      - Paid
+      - Due on Receipt
+      - Net 15
+      - Net 30
+      required: true

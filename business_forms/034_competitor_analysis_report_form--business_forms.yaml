@@ -1,0 +1,117 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Competitor Analysis Report Form
+    pages:
+      - id: 1
+        name: report_info_header
+        label: -- Competitor Analysis Internal Report --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: report_title_subject
+        label: Report Title / Subject
+        hint: e.g., Q1 Competitor Landscape Analysis
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: analyst_name_report
+        label: Prepared By
+        hint: Name of the report author
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: competitors_included_in_report
+        label: Competitors Included in Analysis
+        hint: List all companies covered in this report
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: report_period_start
+        label: Analysis Start Date
+        hint: Beginning of the observation period
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: report_period_end
+        label: Analysis End Date
+        hint: End of the observation period
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: competitor_strategy_obs_section
+        label: -- Strategic Observations --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: recent_product_launches_obs
+        label: Recent Product or Feature Launches
+        hint: Describe any new offerings from competitors
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: pricing_strategy_shifts
+        label: Observed Pricing or Packaging Shifts
+        hint: Are they raising prices or changing tiers?
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: marketing_campaign_effectiveness
+        label: Marketing Campaign Observation
+        hint: Which of their campaigns are currently most visible?
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: threat_assessment_rating
+        label: Current Threat Level
+        hint: How much of a threat do these moves pose to us?
+        type: select_one
+        options:
+          - High (Critical action needed)
+          - Moderate (Monitor closely)
+          - Low (No immediate action)
+        required: true
+      - id: 12
+        name: identified_opportunities_report
+        label: Identified Opportunities for Us
+        hint: Where can we win based on their weaknesses?
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: key_takeaways_summary
+        label: Key Takeaways and Actions
+        hint: Summary of the report for leadership
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: report_submission_date_final
+        label: Date of Report
+        hint: Date this report was finalized
+        type: date
+        options: []
+        required: true

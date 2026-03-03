@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candidate Referral Submission Form
+    pages:
+    - id: 1
+      name: referrer_info_section
+      label: -- Referrer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: referrer_name_field
+      label: Referrer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: referrer_email_field
+      label: Referrer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: referrer_phone_field
+      label: Referrer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referrer_status
+      label: Are you a current employee
+      hint: Choose your relationship with our company
+      type: select_one
+      options:
+      - true
+      - false
+      - Former Employee
+      - Partner or Vendor
+      required: true
+    - id: 6
+      name: candidate_info_section
+      label: -- Candidate Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: referred_name
+      label: Candidate Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: referred_email
+      label: Candidate Email
+      hint: To contact the candidate for an interview
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: referred_phone
+      label: Candidate Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: candidate_profile_link
+      label: LinkedIn or Resume Link
+      hint: Link to professional profile or shared document
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: target_position_name
+      label: Position you are referring them for
+      hint: The role you believe they are best suited for
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: fit_experience_section
+      label: -- Fit and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: relationship_description
+      label: Relationship to the candidate
+      hint: How do you know this person
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: candidate_skills_summary
+      label: Candidate's top skills
+      hint: List 2-3 core strengths
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: recommendation_rationale
+      label: Why do you recommend this candidate
+      hint: What makes them stand out for our team
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: culture_fit_rating_internal
+      label: How well does the candidate fit our company culture
+      hint: 1 to 5 scale
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: consent_section
+      label: -- Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: candidate_sharing_consent
+      label: I have obtained the candidate's consent to share their information
+      hint: Ensure the candidate knows you are referring them
+      type: select_one
+      options:
+      - Yes, I have consent
+      - No, I do not have consent
+      required: true
+    - id: 19
+      name: status_update_preference
+      label: Notification preference for referral status
+      hint: How should we update you on the referral's progress
+      type: select_one
+      options:
+      - Email
+      - SMS
+      - No notification needed
+      required: true
+    - id: 20
+      name: submission_date_field
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Evaluation Form
+    pages:
+    - id: 1
+      name: service_evaluation_form_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_evaluation_form_company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_evaluation_form_course_title
+      label: course_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_evaluation_form_telephone
+      label: telephone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_evaluation_form_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: service_evaluation_form_facilitator_name
+      label: facilitator_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_evaluation_form_knowledge_of_subject_matter
+      label: knowledge_of_subject_matter
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: service_evaluation_form_suggestions
+      label: suggestions
+      hint: What suggestions do you recommend for improving the program?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: service_evaluation_form_recommend
+      label: recommend
+      hint: Would you recommend this course to your colleagues?
+      type: select_one
+      options:
+      - I would
+      - 'False'
+      - I do not know
+      required: false
+    - id: 10
+      name: service_evaluation_form_additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: service_evaluation_form_rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false

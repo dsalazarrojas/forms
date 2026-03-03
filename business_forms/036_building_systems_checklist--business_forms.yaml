@@ -1,0 +1,258 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building Systems Checklist
+    pages:
+    - id: 1
+      name: checklist_date
+      label: Checklist Date
+      hint: Date of systems check
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: building_location
+      label: Building Location
+      hint: Which facility
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspector_name
+      label: Inspector Name
+      hint: Person conducting check
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: shift_time
+      label: Shift or Time of Check
+      hint: Morning, afternoon, night
+      type: select_one
+      options:
+        - Morning
+        - Afternoon
+        - Evening
+        - Night
+        - Other
+      required: false
+    - id: 5
+      name: security_cameras
+      label: Security Cameras Operational
+      hint: Are all cameras working
+      type: select_one
+      options:
+        - Operational
+        - Not Working
+        - Partially Working
+        - Not Applicable
+      required: true
+    - id: 6
+      name: cameras_notes
+      label: Camera System Notes
+      hint: Any issues or details
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: fire_extinguishers
+      label: Fire Extinguishers Present and Accessible
+      hint: All fire extinguishers in place
+      type: select_one
+      options:
+        - Present and Accessible
+        - Present but Blocked
+        - Missing
+        - Not Applicable
+      required: true
+    - id: 8
+      name: extinguisher_inspection_date
+      label: Fire Extinguisher Inspection Current
+      hint: Passed annual inspection
+      type: select_one
+      options:
+        - Current
+        - Expired
+        - Unknown
+      required: false
+    - id: 9
+      name: doors_locks
+      label: All Doors and Locks Functional
+      hint: Entry and exit doors
+      type: select_one
+      options:
+        - Fully Functional
+        - Some Issues
+        - Major Issues
+        - Not Applicable
+      required: true
+    - id: 10
+      name: door_contacts
+      label: Door Contact Sensors Working
+      hint: Alarms and sensors
+      type: select_one
+      options:
+        - Working
+        - Not Working
+        - Partially Working
+        - Not Applicable
+      required: true
+    - id: 11
+      name: entry_gates
+      label: Entry and Exit Gates Operational
+      hint: Gate systems
+      type: select_one
+      options:
+        - Operational
+        - Not Working
+        - Partially Working
+        - Not Applicable
+      required: true
+    - id: 12
+      name: gate_notes
+      label: Gate System Notes
+      hint: Any malfunction details
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: external_lighting
+      label: External Sign Lighting Operational
+      hint: Outdoor signage lights
+      type: select_one
+      options:
+        - All Working
+        - Some Not Working
+        - All Out
+        - Not Applicable
+      required: true
+    - id: 14
+      name: lighting_details
+      label: Lighting System Details
+      hint: Which lights are out
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: alarm_system
+      label: Alarm System Operational
+      hint: Is alarm armed and functional
+      type: select_one
+      options:
+        - Operational
+        - Not Working
+        - Partially Working
+        - Disarmed
+        - Not Applicable
+      required: true
+    - id: 16
+      name: emergency_lighting
+      label: Emergency Lighting Functional
+      hint: Exit signs and backup lights
+      type: select_one
+      options:
+        - All Working
+        - Some Not Working
+        - All Out
+        - Not Applicable
+      required: true
+    - id: 17
+      name: sprinkler_system
+      label: Sprinkler System Operational
+      hint: Fire suppression system
+      type: select_one
+      options:
+        - Operational
+        - Not Tested
+        - Issues Found
+        - Not Applicable
+      required: true
+    - id: 18
+      name: hvac_operation
+      label: HVAC System Operating
+      hint: Heating and cooling
+      type: select_one
+      options:
+        - Operating Normally
+        - Not Operating
+        - Operating Poorly
+        - Not Applicable
+      required: true
+    - id: 19
+      name: climate_control
+      label: Temperature and Humidity Levels
+      hint: Building climate
+      type: select_one
+      options:
+        - Comfortable
+        - Acceptable
+        - Below Standard
+        - Concerning
+      required: false
+    - id: 20
+      name: plumbing_check
+      label: Plumbing Systems Working
+      hint: Water and drainage
+      type: select_one
+      options:
+        - Working Properly
+        - Minor Issues
+        - Major Issues
+        - Not Tested
+      required: true
+    - id: 21
+      name: electrical_check
+      label: Electrical Systems Functional
+      hint: Power distribution
+      type: select_one
+      options:
+        - Functional
+        - Minor Issues
+        - Major Issues
+        - Not Tested
+      required: true
+    - id: 22
+      name: backup_power
+      label: Backup Power System Operational
+      hint: Generator or UPS systems
+      type: select_one
+      options:
+        - Operational
+        - Not Tested
+        - Issues Found
+        - Not Available
+      required: false
+    - id: 23
+      name: issues_found
+      label: Issues or Problems Found
+      hint: List all problems identified
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: actions_taken
+      label: Actions Taken
+      hint: Repairs or notifications made
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: urgent_repairs
+      label: Urgent Repairs Needed
+      hint: Immediate attention required
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true

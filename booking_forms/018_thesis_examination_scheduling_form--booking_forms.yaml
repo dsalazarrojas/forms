@@ -1,0 +1,105 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Thesis Examination Scheduling Form
+    pages:
+    - id: 1
+      name: defense_date
+      label: Defense Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: defense_time
+      label: Defense Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: thesis_supervisor
+      label: Thesis Supervisor
+      hint: Select a supervisor from the list
+      type: select_one
+      options:
+      - Supervisor1
+      - Supervisor2
+      - Supervisor3
+      required: false
+    - id: 4
+      name: graduate_program
+      label: Graduate Program
+      hint: null
+      type: select_multiple
+      options:
+      - Option1
+      - Option2
+      - Option3
+      - Option4
+      required: false
+    - id: 5
+      name: defense_location
+      label: Defense Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: null
+      type: select_one
+      options:
+      - Option1
+      - Option2
+      - Option3
+      required: false
+    - id: 8
+      name: student_approval
+      label: Student Approval
+      hint: null
+      type: select_one
+      options:
+      - Option1
+      - Option2
+      - Option3
+      required: false
+    - id: 9
+      name: department_chair
+      label: Department Chair
+      hint: null
+      type: select_one
+      options:
+      - Option1
+      - Option2
+      - Option3
+      required: false
+    - id: 10
+      name: coordinator_approval
+      label: Coordinator Approval
+      hint: null
+      type: select_one
+      options:
+      - Option1
+      - Option2
+      - Option3
+      required: false

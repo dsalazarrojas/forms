@@ -1,0 +1,229 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Component Integrity Verification Report
+    pages:
+      - id: 1
+        name: report_id
+        label: Report ID
+        hint: Unique identifier for this report
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: inspection_date
+        label: Inspection Date
+        hint: Date of inspection
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: inspector_name
+        label: Inspector Name
+        hint: Name of person conducting inspection
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: inspector_id
+        label: Inspector ID
+        hint: Inspector identification number
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: facility_location
+        label: Facility Location
+        hint: Location where inspection took place
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: component_type
+        label: Component Type
+        hint: Select the type of component inspected
+        type: select_one
+        options:
+          - Electronic Component
+          - Mechanical Component
+          - Software Component
+          - Structural Component
+          - Hydraulic Component
+          - Pneumatic Component
+          - Other
+        required: true
+      - id: 7
+        name: component_id
+        label: Component ID
+        hint: Unique identifier of component
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: component_name
+        label: Component Name
+        hint: Name or description of component
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: manufacturer
+        label: Manufacturer
+        hint: Component manufacturer
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: serial_number
+        label: Serial Number
+        hint: Component serial number
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: installation_date
+        label: Installation Date
+        hint: When was component installed
+        type: date
+        options: []
+        required: false
+      - id: 12
+        name: last_inspection_date
+        label: Last Inspection Date
+        hint: Date of previous inspection
+        type: date
+        options: []
+        required: false
+      - id: 13
+        name: visual_inspection_result
+        label: Visual Inspection Result
+        hint: Result of visual inspection
+        type: select_one
+        options:
+          - Pass - No Visible Defects
+          - Pass - Minor Cosmetic Issues
+          - Fail - Significant Damage
+          - Fail - Critical Damage
+          - Unable to Inspect
+        required: true
+      - id: 14
+        name: functional_test_result
+        label: Functional Test Result
+        hint: Result of functional testing
+        type: select_one
+        options:
+          - Pass - Fully Functional
+          - Pass - Minor Issues
+          - Fail - Performance Degraded
+          - Fail - Non-Functional
+          - Test Not Performed
+        required: true
+      - id: 15
+        name: integrity_measurements
+        label: Integrity Measurements
+        hint: Record key measurements taken
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: defects_found
+        label: Defects Found
+        hint: Describe any defects discovered
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: defect_severity
+        label: Defect Severity
+        hint: Overall severity of defects
+        type: select_one
+        options:
+          - None
+          - Minor
+          - Moderate
+          - Severe
+          - Critical
+        required: true
+      - id: 18
+        name: photos_uploaded
+        label: Photos Uploaded
+        hint: Were photos taken during inspection
+        type: select_one
+        options:
+          - Yes, Photos Attached
+          - No Photos Taken
+          - Photos to Follow
+        required: false
+      - id: 19
+        name: corrective_action_required
+        label: Corrective Action Required
+        hint: Is corrective action needed
+        type: select_one
+        options:
+          - No Action Required
+          - Minor Maintenance
+          - Repair Required
+          - Replacement Required
+          - Immediate Action Required
+        required: true
+      - id: 20
+        name: corrective_action_description
+        label: Corrective Action Description
+        hint: Describe required corrective actions
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: recommended_followup
+        label: Recommended Follow Up
+        hint: What follow up is recommended
+        type: select_one
+        options:
+          - No Follow Up Needed
+          - Routine Re-inspection
+          - Re-inspection Within 30 Days
+          - Re-inspection Within 7 Days
+          - Immediate Re-inspection
+        required: true
+      - id: 22
+        name: overall_status
+        label: Overall Status
+        hint: Final status of component
+        type: select_one
+        options:
+          - Approved for Use
+          - Approved with Conditions
+          - Restricted Use
+          - Do Not Use
+          - Quarantined
+        required: true
+      - id: 23
+        name: inspector_signature
+        label: Inspector Signature
+        hint: Type full name as signature
+        type: text
+        options: []
+        required: true
+      - id: 24
+        name: review_status
+        label: Review Status
+        hint: Current review status of report
+        type: select_one
+        options:
+          - Pending Review
+          - Under Review
+          - Approved
+          - Requires Revision
+          - Rejected
+        required: true

@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tank Inspection Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tank_details
+      label: Tank Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inspection_results
+      label: Inspection Results
+      hint: null
+      type: select_multiple
+      options:
+      - Tank is clean
+      - Tank is not clean
+      required: false
+    - id: 4
+      name: tank_condition
+      label: Tank Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tank_level
+      label: Tank Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: tank_material
+      label: Tank Material
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tank_size
+      label: Tank Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: tank_type
+      label: Tank Type
+      hint: null
+      type: select_one
+      options:
+      - Steel
+      - Aluminum
+      - Plastic
+      required: false
+    - id: 9
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: assigned_inspector
+      label: Assigned Inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: tank_location
+      label: Tank Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: tank_capacity
+      label: Tank Capacity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tank_usage
+      label: Tank Usage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: tank_operation_status
+      label: Tank Operation Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: tank_inspection_frequency
+      label: Tank Inspection Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: tank_inspection_last_date
+      label: Tank Inspection Last Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: tank_inspection_last_inspector
+      label: Tank Inspection Last Inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: tank_inspection_last_result
+      label: Tank Inspection Last Result
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: false
+    - id: 22
+      name: tank_inspection_last_comments
+      label: Tank Inspection Last Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: tank_inspection_last_notes
+      label: Tank Inspection Last Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Workflow Analyst Contact Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: category_options
+      label: Category Options
+      hint: Select one
+      type: select_one
+      options:
+      - Finance
+      - Business
+      - Marketing
+      required: false
+    - id: 8
+      name: priority
+      label: Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: expected_resolution_time
+      label: Expected Resolution Time
+      hint: null
+      type: time
+      options: []
+      required: false

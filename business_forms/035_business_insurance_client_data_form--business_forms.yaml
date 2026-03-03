@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Insurance Client Data Form
+    pages:
+    - id: 1
+      name: section_business_data_identity
+      label: -- Business Identity --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_legal_name_client_data
+      label: Business Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_physical_address_full
+      label: Primary Physical Address
+      hint: Location to be insured
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: industry_classification_insurance_type
+      label: Industry Classification
+      hint: Select the category that best fits your operations
+      type: select_one
+      options:
+      - Retail / Wholesale
+      - Manufacturing / Industrial
+      - Professional / Consulting Services
+      - Hospitality / Restaurant
+      - Construction / Contracting
+      - Other
+      required: true
+    - id: 5
+      name: annual_gross_revenue_bracket_insurance
+      label: Annual Gross Revenue
+      hint: Total revenue from most recent fiscal year
+      type: select_one
+      options:
+      - Under 250,000 USD
+      - 250,001 - 1,000,000 USD
+      - 1,000,001 - 5,000,000 USD
+      - Over 5,000,000 USD
+      required: true
+    - id: 6
+      name: total_employee_count_insurance
+      label: Total Number of Employees
+      hint: Including full-time and part-time staff
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: section_property_risk_details
+      label: -- Property and Risk Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: building_ownership_status_selection
+      label: Building Ownership Status
+      hint: null
+      type: select_one
+      options:
+      - Own Building
+      - Lease / Rent
+      - Home-based Business
+      - Shared / Coworking Space
+      required: true
+    - id: 9
+      name: security_measures_selection_multiple
+      label: Security Measures in Place
+      hint: Select all that apply to the primary location
+      type: select_multiple
+      options:
+      - Monitored Alarm System
+      - Sprinkler System
+      - Surveillance Cameras (CCTV)
+      - Gated / Secure Access
+      - Fire Extinguishers (Inspected)
+      - Night Security Patrol
+      required: true
+    - id: 10
+      name: fleet_size_commercial_vehicles
+      label: Commercial Fleet Size
+      hint: Number of vehicles used for business purposes
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: specialized_equipment_valuation_estimate
+      label: Specialized Equipment Valuation (USD)
+      hint: Total replacement value of specialized machinery
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: section_contact_claims_info
+      label: -- Contact and Existing Policies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: claims_primary_contact_person_name
+      label: Primary Contact for Claims
+      hint: Person authorized to discuss policy matters
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: existing_policy_summary_details
+      label: Existing Policy Details
+      hint: List current carriers and expiration dates if known
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: data_collection_date_official
+      label: Data Collection Date
+      hint: null
+      type: date
+      options: []
+      required: true

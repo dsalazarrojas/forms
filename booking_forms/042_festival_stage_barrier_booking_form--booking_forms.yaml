@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Festival Stage Barrier Booking Form
+    pages:
+    - id: 1
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: barrier_type
+      label: Barrier Type
+      hint: null
+      type: select_one
+      options:
+      - Stage Barrier
+      - Stage Wing
+      - Stage Barrier
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: location
+      label: Location
+      hint: Enter location of barrier delivery
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: delivery_location
+      label: Delivery Location
+      hint: Enter location of delivery
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rental_duration
+      label: Rental Duration
+      hint: null
+      type: select_one
+      options:
+      - Weekdays
+      - Weekends
+      - Daily
+      required: false
+    - id: 9
+      name: rental_date
+      label: Rental Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: rental_time
+      label: Rental Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: Enter event organizer's email
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: event_name
+      label: Event Name
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false

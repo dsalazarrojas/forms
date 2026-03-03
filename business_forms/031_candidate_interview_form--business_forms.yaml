@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candidate Interview Form
+    pages:
+    - id: 1
+      name: candidate_info_section
+      label: -- Candidate Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_name_eval
+      label: Candidate Name
+      hint: Full name of the interviewee
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: interviewed_job_title
+      label: Job Title
+      hint: What position is being interviewed for
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: interview_stage
+      label: Interview Type
+      hint: Which part of the hiring process is this
+      type: select_one
+      options:
+      - Phone Screen
+      - Initial Interview
+      - Technical Round
+      - Final Panel
+      - Other
+      required: true
+    - id: 5
+      name: interview_date_conducted
+      label: Date of Interview
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: list_of_interviewers
+      label: Interviewers
+      hint: Enter names of all staff participating in the evaluation
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: assessment_categories_section
+      label: -- Assessment Categories --
+      hint: Rate based on the interview performance
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: technical_competence_rating
+      label: Technical Competence
+      hint: Ability to handle core job tasks
+      type: select_one
+      options:
+      - 1 (Lowest)
+      - 2
+      - 3
+      - 4
+      - 5 (Highest)
+      required: true
+    - id: 9
+      name: industry_experience_rating
+      label: Relevant Industry Experience
+      hint: Knowledge of the field
+      type: select_one
+      options:
+      - 1 (Lowest)
+      - 2
+      - 3
+      - 4
+      - 5 (Highest)
+      required: true
+    - id: 10
+      name: cultural_alignment_rating
+      label: Cultural Alignment
+      hint: Fit with the company's values and work style
+      type: select_one
+      options:
+      - 1 (Lowest)
+      - 2
+      - 3
+      - 4
+      - 5 (Highest)
+      required: true
+    - id: 11
+      name: communication_skills_rating
+      label: Communication and Interpersonal Skills
+      hint: Ability to convey ideas clearly
+      type: select_one
+      options:
+      - 1 (Lowest)
+      - 2
+      - 3
+      - 4
+      - 5 (Highest)
+      required: true
+    - id: 12
+      name: problem_solving_rating
+      label: Problem-Solving Ability
+      hint: Capacity to think critically under pressure
+      type: select_one
+      options:
+      - 1 (Lowest)
+      - 2
+      - 3
+      - 4
+      - 5 (Highest)
+      required: true
+    - id: 13
+      name: detailed_feedback_section
+      label: -- Detailed Feedback --
+      hint: Qualitative observations
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: strengths_summary
+      label: Summary of Candidate's Strengths
+      hint: What makes them a good hire
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: gaps_concerns_summary
+      label: Concerns or Gaps Identified
+      hint: Areas that may require more training or investigation
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: motivation_for_job
+      label: Motivation for the Role
+      hint: Why is the candidate interested in our company
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: recommendation_notes_section
+      label: -- Recommendation and Notes --
+      hint: Final decision making
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: next_step_rec
+      label: Next Step Recommendation
+      hint: How should we proceed with this candidate
+      type: select_one
+      options:
+      - Advance to next round
+      - Put on hold
+      - Decline candidate
+      - Hire immediately
+      required: true
+    - id: 19
+      name: salary_expectation_discussed
+      label: Salary Expectations Discussed
+      hint: Amount in local currency mentioned by candidate
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: available_start_date_pref
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: evaluator_signature_name
+      label: Evaluator Signature or Name
+      hint: Your name for the official record
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: evaluation_completion_date
+      label: Evaluation Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

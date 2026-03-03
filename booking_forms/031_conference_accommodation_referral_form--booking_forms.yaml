@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Accommodation Referral Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester name
+      hint: Person requesting referral
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_name
+      label: Attendee name
+      hint: Name of the person needing accommodation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: conference_dates
+      label: Conference dates
+      hint: Dates attendee will attend
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: room_type
+      label: Preferred room type
+      hint: Single, double, or suite
+      type: select_one
+      options:
+      - Single
+      - Double
+      - Suite
+      - Accessible
+      required: true
+    - id: 5
+      name: budget_per_night
+      label: Budget per night
+      hint: Maximum preferred rate per night
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: distance_to_venue
+      label: Distance to venue preference
+      hint: Walking distance or transport needed
+      type: select_one
+      options:
+      - Walking distance
+      - Short drive
+      - Shuttle required
+      required: false
+    - id: 7
+      name: special_requests
+      label: Special requests
+      hint: Accessibility, dietary or other needs
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: loyalty_program
+      label: Loyalty program membership
+      hint: Hotel loyalty number if available
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact phone
+      hint: Phone for booking confirmation
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: referral_notes
+      label: Referral notes
+      hint: Additional information for accommodation partner
+      type: text
+      options: []
+      required: false

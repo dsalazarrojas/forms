@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Tour Planning Booking Form
+    pages:
+    - id: 1
+      name: tour_dates
+      label: Tour Dates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: tour_locations
+      label: Locations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: tour_requirements
+      label: Tour Requirements
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: tour_budget
+      label: Tour Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: band_name
+      label: Band Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: booking_agency
+      label: Booking Agency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: tour_dates_2
+      label: Tour Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: manager_notes
+      label: Manager Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tour_dates_3
+      label: Tour Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: tour_budget_2
+      label: Tour Budget
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Planning Complaint Form
+    pages:
+    - id: 1
+      name: complainant_info
+      label: Complainant Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Your Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: complaint_details
+      label: Complaint Details
+      hint: Describe the planning issue
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: complaint_type
+      label: Type of Complaint
+      hint: null
+      type: select_one
+      options:
+      - Zoning Violation
+      - Building Code Violation
+      - Noise Complaint
+      - Parking Issue
+      - Land Use Concern
+      - Development Issue
+      - Environmental Concern
+      - Traffic Impact
+      - Historic Preservation
+      - Other
+      required: true
+    - id: 12
+      name: complaint_description
+      label: Detailed Description
+      hint: Explain the issue thoroughly
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: incident_date
+      label: Date of Incident
+      hint: When did this occur
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: incident_time
+      label: Time of Incident
+      hint: If applicable
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: location_info
+      label: Location Information
+      hint: Where is the issue
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: property_address
+      label: Property Address
+      hint: Address of the issue
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: property_owner
+      label: Property Owner Name
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: parcel_number
+      label: Parcel or Lot Number
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: previous_reports
+      label: Have You Reported This Before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: previous_report_date
+      label: Previous Report Date
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: evidence
+      label: Evidence and Documentation
+      hint: Supporting materials
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: photos_attached
+      label: Do You Have Photos
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 23
+      name: documents_attached
+      label: Do You Have Supporting Documents
+      hint: Permits, letters, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 24
+      name: witnesses
+      label: Are There Witnesses
+      hint: Others who can confirm
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 25
+      name: desired_resolution
+      label: Desired Resolution
+      hint: What outcome do you want
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: urgency
+      label: Urgency Level
+      hint: How urgent is this
+      type: select_one
+      options:
+      - Emergency - Immediate Action Needed
+      - High - Action Within 1 Week
+      - Medium - Action Within 1 Month
+      - Low - When Possible
+      required: true
+    - id: 27
+      name: anonymous
+      label: Do You Want to Remain Anonymous
+      hint: Your identity will be protected
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

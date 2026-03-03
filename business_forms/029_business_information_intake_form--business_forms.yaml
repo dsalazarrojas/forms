@@ -1,0 +1,145 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Information Intake Form
+    pages:
+      - id: 1
+        name: section_client_identity_intake
+        label: -- Client Identity --
+        hint: Information about you and your role
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: prospective_client_full_name
+        label: Prospective Client Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: business_legal_entity_name_intake
+        label: Business Legal Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: industry_sector_intake_selection
+        label: Industry Sector
+        hint: Select your primary field
+        type: select_one
+        options:
+          - E-commerce / Retail
+          - Professional Services
+          - Health and Wellness
+          - Tech / Software
+          - Real Estate / Construction
+          - Other
+        required: true
+      - id: 5
+        name: current_employee_count_intake
+        label: Current Employee Count
+        hint: Total number of staff
+        type: select_one
+        options:
+          - Solopreneur (1)
+          - 2 - 10 employees
+          - 11 - 50 employees
+          - 51 - 200 employees
+          - 200+ employees
+        required: true
+      - id: 6
+        name: section_engagement_goals
+        label: -- Engagement Goals --
+        hint: What do you want to achieve with us
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: primary_business_challenge_intake
+        label: Primary Business Challenge
+        hint: Describe the main problem we can help you solve
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: consulting_goals_selection_multiple
+        label: Goals for Consulting Engagement
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Scaling Revenue
+          - Streamlining Operations
+          - Brand Development
+          - Market Expansion
+          - Leadership Training
+          - Product Launch
+        required: true
+      - id: 9
+        name: current_annual_revenue_bracket_intake
+        label: Current Annual Revenue Bracket
+        hint: Helps us understand your business scale
+        type: select_one
+        options:
+          - Under 250,000 USD
+          - 250,001 - 1,000,000 USD
+          - 1,000,001 - 5,000,000 USD
+          - Over 5,000,000 USD
+        required: true
+      - id: 10
+        name: target_project_completion_date
+        label: Target Completion Date for Project
+        hint: When do you need to see results by
+        type: date
+        options: []
+        required: false
+      - id: 11
+        name: section_contact_referral
+        label: -- Contact and Referral --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: preferred_contact_method_intake
+        label: Preferred Contact Method
+        hint: null
+        type: select_one
+        options:
+          - Email
+          - Phone Call
+          - Video Meeting
+        required: true
+      - id: 13
+        name: referral_source_intake_form
+        label: Referral Source
+        hint: How did you hear about our services
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: marketing_materials_url_link
+        label: Link to Current Marketing Materials
+        hint: Website, LinkedIn, or Portfolio link
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: intake_form_date_completed
+        label: Submission Date
+        hint: null
+        type: date
+        options: []
+        required: true

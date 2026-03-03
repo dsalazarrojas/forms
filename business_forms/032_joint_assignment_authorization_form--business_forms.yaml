@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Joint Assignment Authorization Form
+    pages:
+    - id: 1
+      name: form_header
+      label: form_header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: party_one_name
+      label: party_one_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: party_one_address
+      label: party_one_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: party_one_phone
+      label: party_one_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: party_two_name
+      label: party_two_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: party_two_address
+      label: party_two_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: party_two_phone
+      label: party_two_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assignment_effective_date_start
+      label: assignment_effective_date_start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: assignment_effective_date_end
+      label: assignment_effective_date_end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: party_one_consent
+      label: party_one_consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: party_two_consent
+      label: party_two_consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: party_one_signature
+      label: party_one_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: party_two_signature
+      label: party_two_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

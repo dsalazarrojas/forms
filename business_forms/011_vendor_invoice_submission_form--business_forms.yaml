@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: vendor_invoice_submission_form
+    pages:
+    - id: 1
+      name: vendor_name
+      label: Vendors Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_company_name
+      label: Vendor Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: invoice_date
+      label: Invoice Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: invoice_total
+      label: Invoice Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: assigned_users
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - '{''value'': ''chat_jim''}'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: time
+      options: []
+      required: false

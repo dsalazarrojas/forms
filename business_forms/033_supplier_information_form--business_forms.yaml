@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplier Information Form
+    pages:
+    - id: 1
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: supplier_address
+      label: supplier_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: supplier_city
+      label: supplier_city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: supplier_state
+      label: supplier_state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: supplier_phone
+      label: supplier_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supplier_email
+      label: supplier_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: supplier_tax_id
+      label: supplier_tax_id
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''ABCDE12345''}'
+      - '{''id'': 2, ''name'': ''FGHJK67890''}'
+      required: false
+    - id: 8
+      name: supplier_note
+      label: supplier_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true

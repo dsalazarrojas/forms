@@ -1,0 +1,59 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Flight Editing Checklist
+    pages:
+    - id: 1
+      name: flight_info
+      label: Flight Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: flight_status
+      label: Flight Status
+      hint: null
+      type: select_one
+      options:
+      - Departed
+      - Arrived
+      - On Hold
+      - Cancelled
+      required: false
+    - id: 3
+      name: flight_details
+      label: Flight Details
+      hint: Flight Number, Departure Time, Departure Location
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: crew_details
+      label: Crew Details
+      hint: null
+      type: select_multiple
+      options:
+      - Pilot In Command
+      - Co Pilot
+      - Flight Steward
+      - Crew Chief
+      required: false
+    - id: 5
+      name: aircraft_details
+      label: Aircraft Details
+      hint: null
+      type: text
+      options: []
+      required: false

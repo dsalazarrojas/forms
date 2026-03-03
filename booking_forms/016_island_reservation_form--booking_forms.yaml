@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Island Reservation Form
+    pages:
+    - id: 1
+      name: island_reservation_form_1
+      label: booking_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: island_reservation_form_2
+      label: accommodation_choice
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: island_reservation_form_3
+      label: accommodation_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: island_reservation_form_4
+      label: dates_of_stay
+      hint: null
+      type: date
+      options: []
+      required: false

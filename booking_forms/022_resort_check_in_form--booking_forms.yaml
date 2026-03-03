@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Resort Check In Form
+    pages:
+    - id: 1
+      name: guest_information
+      label: Guest Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_arrival
+      label: Date of Arrival
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_arrival
+      label: Time of Arrival
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - Hotel Room
+      - Suite
+      - Villa
+      required: false
+    - id: 8
+      name: room_number
+      label: Room Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: reservation_id
+      label: Reservation ID
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: no_trespassing_signage_request_form
+    pages:
+    - id: 1
+      name: property_owner
+      label: Property Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_details
+      label: Property Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Building A''}'
+      - '{''value'': ''Building B''}'
+      - '{''value'': ''Building C''}'
+      required: false
+    - id: 3
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: authorization
+      label: Authorization
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''HOA prophets and managers''}'
+      - '{''value'': ''Facility team''}'
+      - '{''value'': ''Property owner''}'
+      required: false
+    - id: 6
+      name: signage_type
+      label: Signage Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Official No Trespassing Sign''}'
+      - '{''value'': ''Warning Sign''}'
+      - '{''value'': ''Do Not Enter Sign''}'
+      required: false
+    - id: 7
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''New''}'
+      - '{''value'': ''Pending prophets and managers''}'
+      - '{''value'': ''Completed''}'
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Facility team''}'
+      - '{''value'': ''Property owner''}'
+      - minimalist
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

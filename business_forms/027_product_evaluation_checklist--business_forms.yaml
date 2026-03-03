@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Evaluation Checklist
+    pages:
+    - id: 1
+      name: product_labeling
+      label: Product Labeling
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: evaluation_details
+      label: Evaluation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: weights
+      label: Weights
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_comment
+      label: Evaluation Comment
+      hint: null
+      type: note
+      options: []
+      required: false

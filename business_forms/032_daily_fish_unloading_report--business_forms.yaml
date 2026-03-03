@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Fish Unloading Report
+    pages:
+    - id: 1
+      name: unloading_date
+      label: Unloading Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: unloading_vessel
+      label: Vessel Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: unloading_site
+      label: Landing Site
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fish_species
+      label: Fish Species
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''cod''}'
+      - '{''value'': ''halibut''}'
+      - '{''value'': ''salmon''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 5
+      name: fish_quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: fish_condition
+      label: Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''good''}'
+      - '{''value'': ''damaged''}'
+      - '{''value'': ''rotten''}'
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

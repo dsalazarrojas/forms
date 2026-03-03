@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Garage Door Opener Installation Survey
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: door_type
+      label: door_type
+      hint: null
+      type: select_one
+      options:
+      - Roller Door
+      - Torsion Door
+      - Hollow Core Door
+      required: false
+    - id: 3
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: installation_date
+      label: installation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: job_description
+      label: job_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferred_install_time
+      label: preferred_install_time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: door_features
+      label: door_features
+      hint: null
+      type: select_multiple
+      options:
+      - Garage Door Opener
+      - Remote Control
+      - Safety Sensors
+      - Automatic Openers
+      required: false

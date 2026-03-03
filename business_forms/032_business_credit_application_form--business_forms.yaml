@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Credit Application Form
+    pages:
+    - id: 1
+      name: applicant_information
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_type
+      label: Business Type
+      hint: Sole proprietor, partnership, corporation, etc
+      type: select_one
+      options:
+      - Sole Proprietor
+      - Partnership
+      - C Corporation
+      - S Corporation
+      - LLC
+      - Non-Profit
+      - Other
+      required: true
+    - id: 4
+      name: federal_tax_id
+      label: Federal Tax ID (EIN)
+      hint: Employer Identification Number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_address
+      label: Business Address
+      hint: Principal business location
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: years_in_business
+      label: Years in Business
+      hint: How long has business operated
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: owner_information
+      label: -- Owner/Principal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: owner_name
+      label: Owner/Principal Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: owner_ssn
+      label: Owner Social Security Number
+      hint: For personal guarantee
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: owner_contact_phone
+      label: Owner Phone Number
+      hint: Direct contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: owner_email
+      label: Owner Email Address
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: ownership_percentage
+      label: Ownership Percentage
+      hint: Percentage ownership
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: credit_application
+      label: -- Credit Application Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: credit_type
+      label: Type of Credit Requested
+      hint: What credit facility needed
+      type: select_one
+      options:
+      - Line of Credit
+      - Term Loan
+      - Equipment Financing
+      - Working Capital Loan
+      - Revolving Credit
+      - Other
+      required: true
+    - id: 15
+      name: credit_amount
+      label: Credit Amount Requested
+      hint: Total amount needed
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: credit_purpose
+      label: Purpose of Credit
+      hint: What is credit for
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: requested_terms
+      label: Requested Repayment Terms
+      hint: Preferred loan terms in months
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: financial_information
+      label: -- Financial Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Last 12 months revenue
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: annual_profit
+      label: Annual Net Profit
+      hint: Last 12 months net profit
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: total_assets
+      label: Total Business Assets
+      hint: Total assets value
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: total_liabilities
+      label: Total Business Liabilities
+      hint: Total debt/liabilities
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: existing_credit
+      label: Existing Credit Lines
+      hint: Current credit facilities
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: collateral_available
+      label: Collateral Available
+      hint: Assets available for security
+      type: text
+      options: []
+      required: false

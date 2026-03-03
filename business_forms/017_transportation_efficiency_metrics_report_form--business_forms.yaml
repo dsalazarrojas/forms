@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: transportation_efficiency_metrics_report_form
+    pages:
+    - id: 1
+      name: transportation_efficiency_metrics
+      label: Transportation Efficiency Metrics
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vehicle_usage
+      label: Vehicle Usage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: fuel_consumption
+      label: Fuel Consumption
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: route_efficiency
+      label: Route Efficiency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: travel_distance
+      label: Travel Distance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: fuel_type
+      label: Fuel Type
+      hint: null
+      type: select_one
+      options:
+      - Gasoline
+      - Diesel
+      - Electric
+      required: true
+    - id: 7
+      name: vehicle_capacity
+      label: Vehicle Capacity
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 8
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: fuel_level
+      label: Fuel Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: vehicle_status
+      label: Vehicle Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Maintenance
+      - Broken
+      required: true
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_id
+      label: Vehicle ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: route_id
+      label: Route ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_multiple
+      options:
+      - Truck
+      - Bus
+      - Train
+      required: false
+    - id: 21
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - City
+      - Town
+      - Suburbs
+      required: false
+    - id: 22
+      name: department_id
+      label: Department ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: vehicle_driver
+      label: Vehicle Driver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: select_multiple
+      options:
+      - Toyota
+      - Ford
+      - Chevrolet
+      required: false

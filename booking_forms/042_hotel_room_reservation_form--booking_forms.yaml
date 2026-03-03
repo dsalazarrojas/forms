@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: hotel_room_reservation_form
+    pages:
+    - id: 1
+      name: hotel_room_form
+      label: hotel_room_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: checkin_date
+      label: checkin_date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: checkout_date
+      label: checkout_date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: room_type
+      label: room_type
+      hint: null
+      type: select_one
+      options:
+      - Apartment
+      - Suite
+      required: false
+    - id: 6
+      name: adult_count
+      label: adult_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: children_count
+      label: children_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

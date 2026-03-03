@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Evaluation Form
+    pages:
+    - id: 1
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Vehicle
+      - Motorcycle
+      - Caravan
+      required: false
+    - id: 2
+      name: make
+      label: Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: condition
+      label: Condition
+      hint: null
+      type: select_multiple
+      options:
+      - New
+      - Used
+      - Refurbished
+      required: false
+    - id: 5
+      name: mileage
+      label: Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_inspector_form_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_inspector
+      label: Assigned Inspector
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjohn
+      - chatjane
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

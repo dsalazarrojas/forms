@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Your Digital Marketing Consultation
+    pages:
+    - id: 1
+      name: client_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will send confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For consultation coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your company or business
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_website
+      label: Company Website
+      hint: Your website URL
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: industry
+      label: Industry
+      hint: Select your industry
+      type: select_one
+      options:
+      - Publishing
+      - Education
+      - Technology
+      - Healthcare
+      - Retail
+      - Finance
+      - Entertainment
+      - Nonprofit
+      - Other
+      required: true
+    - id: 7
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - Just Me
+      - 2-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - Over 200 employees
+      required: false
+    - id: 8
+      name: consultation_type
+      label: Type of Consultation
+      hint: Select what you need help with
+      type: select_one
+      options:
+      - Social Media Marketing
+      - Content Marketing
+      - Email Marketing
+      - SEO
+      - Paid Advertising
+      - Brand Strategy
+      - Full Marketing Audit
+      - Other
+      required: true
+    - id: 9
+      name: marketing_goals
+      label: Your Marketing Goals
+      hint: Select your primary goals
+      type: select_multiple
+      options:
+      - Increase Brand Awareness
+      - Generate Leads
+      - Increase Sales
+      - Improve Website Traffic
+      - Build Social Media Presence
+      - Launch New Product
+      - Improve Customer Retention
+      - Other
+      required: true
+    - id: 10
+      name: current_challenges
+      label: Current Marketing Challenges
+      hint: What challenges are you facing
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: marketing_budget
+      label: Monthly Marketing Budget
+      hint: Your budget range
+      type: select_one
+      options:
+      - Under $1000
+      - $1000-$5000
+      - $5000-$10000
+      - $10000-$25000
+      - Over $25000
+      required: false
+    - id: 12
+      name: preferred_consultation_date
+      label: Preferred Consultation Date
+      hint: When would you like to meet
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: preferred_consultation_time
+      label: Preferred Time
+      hint: What time works best
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: consultation_format
+      label: Consultation Format
+      hint: How would you like to meet
+      type: select_one
+      options:
+      - Video Call
+      - Phone Call
+      - In Person
+      - No Preference
+      required: true
+    - id: 15
+      name: timezone
+      label: Your Timezone
+      hint: Select your timezone
+      type: select_one
+      options:
+      - Eastern Time
+      - Central Time
+      - Mountain Time
+      - Pacific Time
+      - Alaska Time
+      - Hawaii Time
+      - Other
+      required: true
+    - id: 16
+      name: current_marketing_channels
+      label: Current Marketing Channels
+      hint: What are you currently using
+      type: select_multiple
+      options:
+      - Social Media
+      - Email Marketing
+      - Content Marketing
+      - Paid Ads
+      - SEO
+      - Influencer Marketing
+      - Print Advertising
+      - None
+      required: false
+    - id: 17
+      name: previous_agency_experience
+      label: Have You Worked with Marketing Agencies Before
+      hint: Your previous experience
+      type: select_one
+      options:
+      - Yes currently working with one
+      - Yes in the past
+      - No never
+      required: false
+    - id: 18
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: How did you find our services
+      type: select_one
+      options:
+      - Search Engine
+      - Social Media
+      - Referral
+      - Website
+      - Advertisement
+      - Podcast
+      - Other
+      required: false
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: terms_agreement
+      label: I Agree to Consultation Terms
+      hint: By selecting yes you agree to terms
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 21
+      name: booking_date
+      label: Booking Date
+      hint: Date of booking
+      type: date
+      options: []
+      required: true

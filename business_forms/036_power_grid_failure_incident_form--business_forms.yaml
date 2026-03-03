@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Power Grid Failure Incident Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: grid_failure_type
+      label: Grid Failure Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: grid_system
+      label: Grid System
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: affected_customers
+      label: Affected Customers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: estimated_downtime
+      label: Estimated Downtime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: grid_status
+      label: Grid Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: cause_of_failure
+      label: Cause of Failure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: recommended_actions
+      label: Recommended Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_resolution
+      label: Incident Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: grid_operational_status
+      label: Grid Operational Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

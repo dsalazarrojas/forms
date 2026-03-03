@@ -1,0 +1,247 @@
+inputSchema:
+  type: object
+  properties:
+    title: All Inclusive Resort Inquiry
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mailing_address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_resort
+      label: Preferred Resort
+      hint: Which resort interests you?
+      type: select_one
+      options:
+      - Caribbean Resort
+      - Mexican Riviera Resort
+      - Hawaiian Resort
+      - Mediterranean Resort
+      - Asian Resort
+      - No preference
+      required: true
+    - id: 6
+      name: travel_dates
+      label: Preferred Travel Dates
+      hint: When do you want to travel?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: flexible_dates
+      label: Are Dates Flexible?
+      hint: Can you adjust dates?
+      type: select_one
+      options:
+      - Yes, very flexible
+      - Somewhat flexible
+      - Not flexible
+      required: true
+    - id: 8
+      name: number_of_nights
+      label: Number of Nights
+      hint: Length of stay
+      type: select_one
+      options:
+      - 3-4 nights
+      - 5-6 nights
+      - 7 nights
+      - 8-10 nights
+      - 11-14 nights
+      - Over 14 nights
+      required: true
+    - id: 9
+      name: number_of_adults
+      label: Number of Adults
+      hint: Adults traveling
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: number_of_children
+      label: Number of Children
+      hint: Children traveling
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: children_ages
+      label: Children Ages
+      hint: Ages of children
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: room_preference
+      label: Room Preference
+      hint: Type of room
+      type: select_one
+      options:
+      - Standard room
+      - Ocean view
+      - Beachfront
+      - Suite
+      - Villa
+      - No preference
+      required: true
+    - id: 13
+      name: number_of_rooms
+      label: Number of Rooms Needed
+      hint: Rooms required
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: budget_range
+      label: Budget Range Per Person
+      hint: Price range
+      type: select_one
+      options:
+      - Under $1000
+      - $1000-$2000
+      - $2001-$3500
+      - $3501-$5000
+      - $5001-$7500
+      - Over $7500
+      required: true
+    - id: 15
+      name: departure_airport
+      label: Departure Airport
+      hint: Nearest airport
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: flight_included
+      label: Flights Needed
+      hint: Include airfare?
+      type: select_one
+      options:
+      - Yes, include flights
+      - No, booking separately
+      - Undecided
+      required: true
+    - id: 17
+      name: special_occasion
+      label: Special Occasion
+      hint: Celebrating something?
+      type: select_one
+      options:
+      - None
+      - Honeymoon
+      - Anniversary
+      - Birthday
+      - Graduation
+      - Family reunion
+      - Other
+      required: false
+    - id: 18
+      name: dining_preferences
+      label: Dining Preferences
+      hint: Any dietary needs?
+      type: select_multiple
+      options:
+      - No restrictions
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Kosher
+      - Halal
+      - Allergies
+      required: false
+    - id: 19
+      name: activities_interest
+      label: Activities of Interest
+      hint: What interests you?
+      type: select_multiple
+      options:
+      - Beach relaxation
+      - Water sports
+      - Golf
+      - Spa treatments
+      - Excursions/tours
+      - Nightlife
+      - Fitness activities
+      - Kids activities
+      - Cultural experiences
+      required: false
+    - id: 20
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any special requirements?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: travel_insurance
+      label: Travel Insurance Interest
+      hint: Interested in insurance?
+      type: select_one
+      options:
+      - Yes, interested
+      - No, not needed
+      - Undecided
+      required: false
+    - id: 22
+      name: previous_visits
+      label: Previous Visits to Area
+      hint: Been there before?
+      type: select_one
+      options:
+      - First time
+      - Visited once
+      - Multiple visits
+      - Annual visitor
+      required: false
+    - id: 23
+      name: how_hear_about_us
+      label: How Did You Hear About Us?
+      hint: Source
+      type: select_one
+      options:
+      - Internet search
+      - Social media
+      - Travel agent
+      - Friend/family
+      - Advertisement
+      - Previous guest
+      - Other
+      required: false
+    - id: 24
+      name: additional_requests
+      label: Additional Requests
+      hint: Any special requests?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: best_time_to_contact
+      label: Best Time to Contact
+      hint: When to reach you?
+      type: text
+      options: []
+      required: false

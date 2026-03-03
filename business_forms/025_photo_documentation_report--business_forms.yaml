@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photo Documentation Report
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_tags
+      label: Project Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: project_image_1
+      label: Project Image 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_image_2
+      label: Project Image 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_image_3
+      label: Project Image 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_video
+      label: Project Video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_date
+      label: Project Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: project_time
+      label: Project Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: project_files
+      label: Project Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_attachments
+      label: Project Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: project_comments
+      label: Project Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: project_phone
+      label: Project Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: project_email
+      label: Project Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: project_category
+      label: Project Category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: project_priority
+      label: Project Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: project_urgency
+      label: Project Urgency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: project_duration
+      label: Project Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false

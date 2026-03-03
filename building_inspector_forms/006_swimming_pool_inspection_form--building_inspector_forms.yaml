@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: swimming_pool_inspection_form
+    pages:
+    - id: 1
+      name: pool_address
+      label: Pool Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: pool_type
+      label: Pool Type
+      hint: null
+      type: select_one
+      options:
+      - In-ground
+      - Above-ground
+      - Semi-in-Ground
+      required: false
+    - id: 5
+      name: pool_condition
+      label: Pool Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Needs Repair
+      - Abandoned
+      required: false
+    - id: 6
+      name: pool_size
+      label: Pool Size
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Artist Camp Booking Form
+    pages:
+    - id: 1
+      name: artist_info
+      label: artist-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: discipline
+      label: Discipline
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''painting''}'
+      - '{''id'': 2, ''label'': ''drawing''}'
+      - '{''id'': 3, ''label'': ''sculpture''}'
+      - '{''id'': 4, ''label'': ''printmaking''}'
+      - '{''id'': 5, ''label'': ''mixed-media''}'
+      - '{''id'': 6, ''label'': ''photography''}'
+      - '{''id'': 7, ''label'': ''other''}'
+      - '{''id'': 8, ''label'': ''digital''}'
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: artist_notes
+      label: Artist Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: artist_preferences
+      label: Artist Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: participant_info
+      label: Participant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: booking_form_status
+      label: Booking Form Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''pending''}'
+      - '{''id'': 2, ''label'': ''booked''}'
+      - '{''id'': 3, ''label'': ''cancelled''}'
+      required: false
+    - id: 13
+      name: booking_form_owner
+      label: Booking Form Owner
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''admin''}'
+      - '{''id'': 2, ''label'': ''artist''}'
+      - '{''id'': 3, ''label'': ''both''}'
+      required: false
+    - id: 14
+      name: additional_artist_info
+      label: Additional Artist Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: artist_id
+      label: Artist ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: artist_email
+      label: Artist Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: artist_phone
+      label: Artist Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: artist_image
+      label: Artist Image
+      hint: null
+      type: text
+      options: []
+      required: false

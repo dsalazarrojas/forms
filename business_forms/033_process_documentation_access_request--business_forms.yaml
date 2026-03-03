@@ -1,0 +1,236 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Documentation Access Request
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: document_details
+      label: Document Details
+      hint: Enter document details
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reasons_for_request
+      label: Reasons for Request
+      hint: Enter reason for accessing document
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: intended_use
+      label: Intended Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: approval_process
+      label: Approval Process
+      hint: null
+      type: select_one
+      options:
+      - Document Approver
+      - Team Lead
+      - Manager
+      - Director
+      - Other
+      required: false
+    - id: 6
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      - User 4
+      - User 5
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: approved
+      label: Approved
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: date_of_approval
+      label: Date of Approval
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: user_id
+      label: User ID
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 12
+      name: document_id
+      label: Document ID
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 13
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_one
+      options:
+      - Read
+      - Write
+      - Execute
+      - Delete
+      required: true
+    - id: 14
+      name: access_expiration
+      label: Access Expiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: comments_section
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: request_reason
+      label: Request Reason
+      hint: Enter reason for accessing document
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - Document
+      - Template
+      - Policy
+      - Procedure
+      - Other
+      required: false
+    - id: 18
+      name: document_status
+      label: Document Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: requestor
+      label: Requestor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: requestor_id
+      label: Requestor ID
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 21
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - Access Request
+      - Update Request
+      - Delete Request
+      required: true
+    - id: 22
+      name: document_category
+      label: Document Category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      - Category 4
+      - Category 5
+      required: true
+    - id: 23
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 24
+      name: approver
+      label: Approver
+      hint: null
+      type: select_one
+      options:
+      - Approver 1
+      - Approver 2
+      - Approver 3
+      - Approver 4
+      - Approver 5
+      required: true
+    - id: 25
+      name: approver_id
+      label: Approver ID
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true

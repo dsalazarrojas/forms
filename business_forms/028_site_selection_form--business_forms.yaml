@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Site Selection Form
+    pages:
+    - id: 1
+      name: site_selection_form_page_1
+      label: site_selection_form_page_1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: site_address
+      label: site_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: site_city
+      label: site_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: site_state
+      label: site_state
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: site_postal_code
+      label: site_postal_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: site_country
+      label: site_country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: site_contact_person
+      label: site_contact_person
+      hint: null
+      type: text
+      options: []
+      required: false

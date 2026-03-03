@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: seasonal_tour_package_registration_form
+    pages:
+    - id: 1
+      name: package_details
+      label: Package Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: traveler_info
+      label: Traveler Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: package_options
+      label: Package Options
+      hint: null
+      type: select_multiple
+      options:
+      - Tour A
+      - Tour B
+      - Tour C
+      required: false
+    - id: 4
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: package_price
+      label: Package Price
+      hint: Enter package price
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: package_discount
+      label: Package Discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: package_discount_type
+      label: Package Discount Type
+      hint: Select discount type
+      type: select_one
+      options:
+      - Percentage
+      - Fixed Amount
+      required: false
+    - id: 8
+      name: package_status
+      label: Package Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Sold Out
+      - Reserved
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: Enter any additional notes
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: Enter email
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: Enter phone
+      type: text
+      options: []
+      required: false

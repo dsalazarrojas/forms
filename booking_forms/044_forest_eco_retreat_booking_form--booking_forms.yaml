@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: forest_eco_retreat_booking_form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: checkin_date
+      label: Checkin Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: checkout_date
+      label: Checkout Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Cottage''}'
+      - '{''id'': 2, ''label'': ''Hut''}'
+      - '{''id'': 3, ''label'': ''Cabin''}'
+      required: true
+    - id: 7
+      name: booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: guest_type
+      label: Guest Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Adult''}'
+      - '{''id'': 2, ''label'': ''Child''}'
+      - '{''id'': 3, ''label'': ''Infant''}'
+      required: true
+    - id: 9
+      name: room_number
+      label: Room Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: room_price
+      label: Room Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Credit Card''}'
+      - '{''id'': 2, ''label'': ''Cash''}'
+      - '{''id'': 3, ''label'': ''PayPal''}'
+      required: true
+    - id: 12
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Paid''}'
+      - '{''id'': 2, ''label'': ''Pending''}'
+      - '{''id'': 3, ''label'': ''Unpaid''}'
+      required: true
+    - id: 13
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: confirm_booking
+      label: Confirm Booking
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 16
+      name: confirm_date
+      label: Confirm Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: special_info
+      label: Special Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false

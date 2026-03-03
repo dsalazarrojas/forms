@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: financial_planner_recommendation_form
+    pages:
+    - id: 1
+      name: client_info
+      label: client_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: birthdate
+      label: birth_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''employed''}'
+      - '{''value'': ''self_employed''}'
+      - '{''value'': ''unemployed''}'
+      - '{''value'': ''retired''}'
+      required: false
+    - id: 6
+      name: income_source
+      label: income_source
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''business''}'
+      - '{''value'': ''investments''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 7
+      name: risk_tolerance
+      label: risk_tolerance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: investment_assets
+      label: investment_assets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: risk_awareness
+      label: risk_awareness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''medium''}'
+      - '{''value'': ''high''}'
+      - '{''value'': ''medium_high''}'
+      - '{''value'': ''high_high''}'
+      required: true
+    - id: 10
+      name: financial_goals
+      label: financial_goals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''short_term''}'
+      - '{''value'': ''long_term''}'
+      - '{''value'': ''medium_term''}'
+      required: true
+    - id: 11
+      name: investment_expertise
+      label: investment_expertise
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''beginner''}'
+      - '{''value'': ''intermediate''}'
+      - '{''value'': ''advanced''}'
+      required: true
+    - id: 12
+      name: investment_frequency
+      label: investment_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''infrequent''}'
+      - '{''value'': ''occasional''}'
+      - '{''value'': ''frequent''}'
+      - '{''value'': ''very_frequent''}'
+      required: false
+    - id: 13
+      name: financial_planner
+      label: financial_planner
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''financial_advisor''}'
+      - '{''value'': ''financial_planner''}'
+      - '{''value'': ''planner_advisor''}'
+      required: false
+    - id: 14
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''phone''}'
+      - '{''value'': ''email''}'
+      - '{''value'': ''mail''}'
+      required: false
+    - id: 15
+      name: contact_preferences
+      label: contact_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''morning''}'
+      - '{''value'': ''afternoon''}'
+      - '{''value'': ''evening''}'
+      required: false
+    - id: 16
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: investment_assets_value
+      label: investment_assets_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: financial_institute
+      label: financial_institute
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''fidelity''}'
+      - '{''value'': ''charles_schwab''}'
+      - '{''value'': ''t_d_apex''}'
+      required: false
+    - id: 20
+      name: investment_investor_type
+      label: investment_investor_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''individual''}'
+      - '{''value'': ''joint''}'
+      - '{''value'': ''trust''}'
+      required: false
+    - id: 21
+      name: investment_investor_status
+      label: investment_investor_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''active''}'
+      - '{''value'': ''inactive''}'
+      - '{''value'': ''inactive''}'
+      required: false
+    - id: 22
+      name: account_type
+      label: account_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''individual''}'
+      - '{''value'': ''joint''}'
+      - '{''value'': ''trust''}'
+      required: true
+    - id: 23
+      name: account_status
+      label: account_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''active''}'
+      - '{''value'': ''inactive''}'
+      - '{''value'': ''inactive''}'
+      required: false
+    - id: 24
+      name: account_investor
+      label: account_investor
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''individual''}'
+      - '{''value'': ''joint''}'
+      - '{''value'': ''trust''}'
+      required: false
+    - id: 25
+      name: account_investor_type
+      label: account_investor_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''active''}'
+      - '{''value'': ''inactive''}'
+      - '{''value'': ''inactive''}'
+      required: false

@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Batch Sampling Frequency Report Form
+    pages:
+    - id: 1
+      name: identification_header
+      label: -- Batch Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: batch_id
+      label: Batch Identifier
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: product_type
+      label: Product Type
+      hint: null
+      type: select_one
+      options:
+      - Liquid
+      - Solid/Powder
+      - Tablet/Capsule
+      - Packaged Good
+      required: true
+    - id: 4
+      name: sampling_meta_header
+      label: -- Sampling Frequency and Methodology --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: sampling_frequency
+      label: Sampling Frequency
+      hint: How often are samples taken?
+      type: select_one
+      options:
+      - Every Batch
+      - Every 10th Batch
+      - Every Hour
+      - Start/Middle/End of Production
+      - Random Interval
+      required: true
+    - id: 6
+      name: sampling_method
+      label: Sampling Method Used
+      hint: null
+      type: select_one
+      options:
+      - Systematic Random Sampling
+      - Stratified Sampling
+      - Composite Sampling
+      - Grab Sampling
+      required: true
+    - id: 7
+      name: total_samples_collected
+      label: Total Number of Samples Collected per Batch
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: collection_date
+      label: Date of Collection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: collector_name
+      label: Sample Collector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: storage_conditions
+      label: Storage Conditions for Samples
+      hint: e.g. Refrigerated 2-8C, Ambient, Frozen
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: observation_notes
+      label: Observations during Sampling
+      hint: Note any inconsistencies or equipment issues
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: qa_approval_status
+      label: QA Approval of Sampling Plan
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending Review
+      - Requires Modification
+      required: true
+    - id: 13
+      name: next_scheduled_review
+      label: Next Scheduled Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: report_timestamp
+      label: Report Generated On
+      hint: null
+      type: date
+      options: []
+      required: true

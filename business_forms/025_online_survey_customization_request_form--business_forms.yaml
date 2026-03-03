@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Survey Customization Request Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Your Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: survey_type
+      label: Select a Survey Type
+      hint: null
+      type: select_one
+      options:
+      - Internal
+      - External
+      required: true
+    - id: 3
+      name: survey_purpose
+      label: Select the purpose of your survey
+      hint: null
+      type: select_one
+      options:
+      - Get Feedback
+      - Conduct Research
+      - Test
+      required: true
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: organization_features
+      label: Desired Features
+      hint: null
+      type: select_multiple
+      options:
+      - Survey design
+      - Survey theme
+      - Question types
+      required: true
+    - id: 10
+      name: data_format
+      label: Desired Data Format
+      hint: null
+      type: select_multiple
+      options:
+      - CSV
+      - JSON
+      - SQL
+      required: true
+    - id: 11
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: organization_url
+      label: Organization URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: survey_language
+      label: Survey Language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: custom_field_1
+      label: Custom Field 1
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 17
+      name: custom_field_2
+      label: Custom Field 2
+      hint: null
+      type: select_one
+      options:
+      - Option D
+      - Option E
+      - Option F
+      required: false
+    - id: 18
+      name: custom_field_3
+      label: Custom Field 3
+      hint: null
+      type: select_one
+      options:
+      - Option G
+      - Option H
+      - Option I
+      required: false
+    - id: 19
+      name: custom_field_4
+      label: Custom Field 4
+      hint: null
+      type: select_one
+      options:
+      - Option J
+      - Option K
+      - Option L
+      required: false
+    - id: 20
+      name: custom_field_5
+      label: Custom Field 5
+      hint: null
+      type: select_one
+      options:
+      - Option M
+      - Option N
+      - Option O
+      required: false
+    - id: 21
+      name: custom_field_6
+      label: Custom Field 6
+      hint: null
+      type: select_one
+      options:
+      - Option P
+      - Option Q
+      - Option R
+      required: false
+    - id: 22
+      name: custom_field_7
+      label: Custom Field 7
+      hint: null
+      type: select_one
+      options:
+      - Option S
+      - Option T
+      - Option U
+      required: false
+    - id: 23
+      name: custom_field_8
+      label: Custom Field 8
+      hint: null
+      type: select_one
+      options:
+      - Option V
+      - Option W
+      - Option X
+      required: false
+    - id: 24
+      name: custom_field_9
+      label: Custom Field 9
+      hint: null
+      type: select_one
+      options:
+      - Option Y
+      - Option Z
+      - Option A1
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

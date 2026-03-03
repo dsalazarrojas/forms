@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carpenter Referral Form
+    pages:
+    - id: 1
+      name: section_referrer_info
+      label: -- Referrer Information --
+      hint: details of the person making the referral
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: referrer_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: referrer_company
+      label: Your Company Name
+      hint: if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: referrer_email
+      label: Your Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: relationship_to_carpenter
+      label: Your relationship to the carpenter
+      hint: null
+      type: select_one
+      options:
+      - Former Client
+      - Architect
+      - Contractor
+      - Interior Designer
+      - Friend or Colleague
+      - Other
+      required: true
+    - id: 6
+      name: section_client_info
+      label: -- Client Information --
+      hint: details of the potential client
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: client_name
+      label: Potential Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_email
+      label: Client Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: client_phone
+      label: Client Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: client_preferred_contact
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - SMS
+      required: true
+    - id: 11
+      name: section_project_scope
+      label: -- Project Scope --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: project_type
+      label: Referral Project Category
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Renovation
+      - New Build
+      - Custom Furniture
+      - Repairs
+      required: true
+    - id: 13
+      name: project_location
+      label: Project Site Location (City and State)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: project_description
+      label: Brief description of the project
+      hint: What kind of carpentry work is needed?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: estimated_project_value
+      label: Estimated Project Value
+      hint: null
+      type: select_one
+      options:
+      - Under 1,000 dollars
+      - 1,000 to 5,000 dollars
+      - 5,000 to 20,000 dollars
+      - Over 20,000 dollars
+      required: true
+    - id: 16
+      name: urgency
+      label: How urgent is this project?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - Planning Only
+      required: true
+    - id: 17
+      name: section_referral_context
+      label: -- Referral Context --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: client_already_aware
+      label: Has the client already been informed of this referral?
+      hint: helps the carpenter know how to approach them
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: best_time_to_contact
+      label: Suggested time for the carpenter to call the client
+      hint: e.g. Tuesday morning
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: referral_fee_eligible
+      label: Is this referral eligible for a referral fee?
+      hint: based on previous agreements
+      type: select_one
+      options:
+      - true
+      - false
+      - Per Agreement
+      required: true
+    - id: 21
+      name: section_notes
+      label: -- Additional Notes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: special_instructions
+      label: Any specific things the carpenter should know?
+      hint: details about client personality, project constraints, etc.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_submission
+      label: -- Referral Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: submission_date
+      label: Date of Referral
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: referrer_signature
+      label: Digital Signature
+      hint: Type your full name as acknowledgment
+      type: text
+      options: []
+      required: true

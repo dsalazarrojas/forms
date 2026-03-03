@@ -1,0 +1,94 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Banking Audit Checklist
+    pages:
+      - id: 1
+        name: checklist_header
+        label: -- Audit Checklist Overview
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: auditor_name
+        label: Auditor Name
+        hint: Lead auditor conducting the review
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: audit_date
+        label: Audit Date
+        hint: Date audit was performed
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: branch_or_unit
+        label: Branch or Unit Audited
+        hint: Specify location or department
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: compliance_checks
+        label: Compliance Checks Performed
+        hint: Select all applicable checks completed
+        type: select_multiple
+        options:
+          - Cash handling procedures
+          - Loan file documentation
+          - Know your customer KYC
+          - Anti money laundering AML
+          - IT and security controls
+        required: true
+      - id: 6
+        name: findings_summary
+        label: Summary of Findings
+        hint: Concise summary of key observations
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: overall_compliance
+        label: Overall Compliance Determination
+        hint: Select the overall compliance rating
+        type: select_one
+        options:
+          - Compliant
+          - Partial compliance
+          - Non compliant
+        required: true
+      - id: 8
+        name: recommended_actions
+        label: Recommended Actions
+        hint: Suggested corrective measures and owners
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: follow_up_date
+        label: Follow Up Date
+        hint: Date for reassessment or remediation review
+        type: date
+        options: []
+        required: false
+      - id: 10
+        name: auditor_signature
+        label: Auditor Signature Name
+        hint: Typed name is acceptable for electronic records
+        type: text
+        options: []
+        required: true

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Energy Audit Check Out Form
+    pages:
+    - id: 1
+      name: energy_audit_check_out_form
+      label: Energy Audit Check Out Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: energy_usage_questions
+      label: Energy Usage Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: energy_efficiency_improvements
+      label: Energy Efficiency Improvements
+      hint: null
+      type: select_one
+      options:
+      - Air Sealing
+      - LED Light Bulbs
+      - Radiant Barrier
+      - Solar Attic Fan
+      - Weatherstripping
+      required: true
+    - id: 4
+      name: energy_audit_results
+      label: Energy Audit Results
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: date_of_visit
+      label: Date Of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time_of_visit
+      label: Time Of Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true

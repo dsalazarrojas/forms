@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: creative_brainstorming_session_booking_form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_info
+      label: Participants
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_details
+      label: Session
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_dates
+      label: Preferred Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_slots
+      label: Time Slot
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''morning'', ''label'': ''Morning''}'
+      - '{''id'': 2, ''name'': ''afternoon'', ''label'': ''Afternoon''}'
+      - '{''id'': 3, ''name'': ''evening'', ''label'': ''Evening''}'
+      required: false
+    - id: 6
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: session_topic
+      label: Session Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: session_description
+      label: Session Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_preferences
+      label: Participant Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_agenda
+      label: Participant Agenda
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''morning'', ''label'': ''Morning''}'
+      - '{''id'': 2, ''name'': ''afternoon'', ''label'': ''Afternoon''}'
+      required: false
+    - id: 15
+      name: admin_details
+      label: Admin Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: admin_name
+      label: Admin Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: admin_email
+      label: Admin Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: admin_phone
+      label: Admin Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: admin_notes
+      label: Admin Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: booking_time
+      label: Booking Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: booking_status
+      label: Booking Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''pending'', ''label'': ''Pending''}'
+      - '{''id'': 2, ''name'': ''approved'', ''label'': ''Approved''}'
+      - '{''id'': 3, ''name'': ''cancelled'', ''label'': ''Cancelled''}'
+      required: false
+    - id: 24
+      name: session_start_time
+      label: Session Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: session_end_time
+      label: Session End Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Efficiency Analysis Report Form
+    pages:
+    - id: 1
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: energy_usage
+      label: Energy Usage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: maintenance_frequency
+      label: Maintenance Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Low'', ''value'': ''Low''}'
+      - '{''id'': 2, ''name'': ''Medium'', ''value'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''High'', ''value'': ''High''}'
+      required: false
+    - id: 4
+      name: space_utilization
+      label: Space Utilization
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false

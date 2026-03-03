@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: monthly_mission_form
+    pages:
+    - id: 1
+      name: mission_statement
+      label: Mission Statement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: objectives
+      label: Objectives
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: key_results
+      label: Key Results
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: action_items
+      label: Action Items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: progress
+      label: Progress
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

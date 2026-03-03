@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Medicine Appointment Request
+    pages:
+    - id: 1
+      name: travel_medicine_appointment_request
+      label: Travel Medicine Appointment Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: travel_destination
+      label: Travel Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_condition_details
+      label: Medical Condition Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: travel_medicine_clinic
+      label: Travel Medicine Clinic
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

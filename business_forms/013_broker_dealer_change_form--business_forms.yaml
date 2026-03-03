@@ -1,0 +1,323 @@
+inputSchema:
+  type: object
+  properties:
+    title: Broker Dealer Change Form
+    pages:
+    - id: 1
+      name: firm_information_header
+      label: -- Firm Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: firm_name
+      label: Firm Legal Name
+      hint: Full legal name of the brokerage firm
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dba_name
+      label: DBA Name
+      hint: Doing business as name if different
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: crd_number
+      label: CRD Number
+      hint: Central Registration Depository number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: sec_file_number
+      label: SEC File Number
+      hint: Securities and Exchange Commission file number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: firm_address_header
+      label: -- Firm Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: street_address
+      label: Street Address
+      hint: Primary business address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_information_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: Name of the primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: primary_contact_title
+      label: Primary Contact Title
+      hint: Title or position of contact
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_email
+      label: Contact Email
+      hint: Email address for official communications
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: change_type_header
+      label: -- Type of Change --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: change_category
+      label: Category of Change
+      hint: What type of change are you reporting
+      type: select_one
+      options:
+      - Address Change
+      - Contact Information Change
+      - Ownership Change
+      - Name Change
+      - Registration Status Change
+      - Compliance Officer Change
+      - Adding New Office
+      - Closing Office
+      required: true
+    - id: 18
+      name: change_effective_date
+      label: Effective Date of Change
+      hint: When the change takes effect
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: change_reason
+      label: Reason for Change
+      hint: Explain why this change is being made
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: previous_information_header
+      label: -- Previous Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: previous_street_address
+      label: Previous Street Address
+      hint: Previous address if moving
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: previous_city
+      label: Previous City
+      hint: Previous city
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: previous_state
+      label: Previous State
+      hint: Previous state
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: previous_zip
+      label: Previous ZIP Code
+      hint: Previous ZIP code
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: previous_contact_name
+      label: Previous Contact Name
+      hint: Previous contact if changed
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: new_information_header
+      label: -- New Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: new_street_address
+      label: New Street Address
+      hint: New address if applicable
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: new_city
+      label: New City
+      hint: New city
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: new_state
+      label: New State
+      hint: New state
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: new_zip
+      label: New ZIP Code
+      hint: New ZIP code
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: new_contact_name
+      label: New Contact Name
+      hint: New contact if applicable
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: regulatory_notifications_header
+      label: -- Regulatory Notifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: finra_notification
+      label: FINRA Notified
+      hint: Have you notified FINRA
+      type: select_one
+      options:
+      - true
+      - No Not Yet
+      - Not Required
+      required: true
+    - id: 34
+      name: sec_notification
+      label: SEC Notified
+      hint: Have you notified the SEC
+      type: select_one
+      options:
+      - true
+      - No Not Yet
+      - Not Required
+      required: true
+    - id: 35
+      name: state_notification
+      label: State Regulator Notified
+      hint: Have you notified state regulator
+      type: select_one
+      options:
+      - true
+      - No Not Yet
+      - Not Required
+      required: true
+    - id: 36
+      name: supporting_documentation_header
+      label: -- Supporting Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: documents_attached
+      label: Documents Attached
+      hint: Select any documents you are attaching
+      type: select_multiple
+      options:
+      - Articles of Incorporation
+      - Amendment Documents
+      - Proof of Address
+      - FINRA Form U4
+      - Other
+      required: false
+    - id: 38
+      name: certification_header
+      label: -- Certification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: certification_statement
+      label: I certify that the information provided is accurate
+      hint: Check to certify accuracy
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true
+    - id: 40
+      name: authorized_signature
+      label: Authorized Signature
+      hint: Type full name of authorized signatory
+      type: text
+      options: []
+      required: true
+    - id: 41
+      name: signature_title
+      label: Title
+      hint: Title of signatory
+      type: text
+      options: []
+      required: true
+    - id: 42
+      name: submission_date
+      label: Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true

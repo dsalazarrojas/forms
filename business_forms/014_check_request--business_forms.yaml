@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Check Request
+    pages:
+    - id: 1
+      name: section_requester_info
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_full_name
+      label: Requester Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department_name
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Finance
+      - Marketing
+      - Operations
+      - Human Resources
+      - IT
+      - Sales
+      required: true
+    - id: 4
+      name: date_of_request
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: date_payment_needed
+      label: Date Payment Needed
+      hint: Allow 5-7 business days for processing
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_payee_details
+      label: -- Payee Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: payee_legal_name
+      label: Payee Name (as it appears on check)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: payee_mailing_address
+      label: Payee Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_financial_details
+      label: -- Financial Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: check_amount_requested
+      label: Amount Requested ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: purpose_of_expenditure
+      label: Purpose of Expenditure
+      hint: Be specific about what is being paid
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: budget_code_gl
+      label: Budget / GL Account Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: project_code_optional
+      label: Project Code
+      hint: Optional for project-specific costs
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_documentation
+      label: -- Supporting Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: invoice_receipt_number
+      label: Invoice or Receipt Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: check_delivery_method
+      label: Check Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Mail to Payee
+      - Pickup by Requester
+      - Overnight Courier (Extra Fee)
+      required: true
+    - id: 17
+      name: approving_manager_name
+      label: Approving Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: requester_auth_ack
+      label: I certify this request is for legitimate business purposes
+      hint: null
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true

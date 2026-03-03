@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Booking Form
+    pages:
+    - id: 1
+      name: form_fields_1
+      label: Form fields 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_fields_2
+      label: Vehicle Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_fields_3
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: form_fields_4
+      label: Booking Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: form_fields_5
+      label: Number of Vehicles
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: form_fields_6
+      label: Vehicle Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: form_fields_7
+      label: Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: form_fields_8
+      label: Return Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: form_fields_9
+      label: Booking Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Reserved
+      required: false
+    - id: 10
+      name: form_fields_10
+      label: Booking Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: form_fields_11
+      label: Booking Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: form_fields_12
+      label: Booking Phone
+      hint: null
+      type: text
+      options: []
+      required: false

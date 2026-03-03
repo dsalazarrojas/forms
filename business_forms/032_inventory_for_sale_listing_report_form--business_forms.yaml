@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inventory For Sale Listing Report Form
+    pages:
+    - id: 1
+      name: store_name
+      label: store name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: product name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_description
+      label: product description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_price
+      label: product price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sale_quantity
+      label: sale quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: inventory_status
+      label: inventory status
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Out of Stock
+      - Special Order
+      required: false
+    - id: 7
+      name: sale_date
+      label: sale date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: sale_time
+      label: sale time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

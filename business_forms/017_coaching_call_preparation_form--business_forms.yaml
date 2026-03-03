@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Call Preparation Form
+    pages:
+      - id: 1
+        name: header
+        label: -- Preparation Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: client_name
+        label: Client name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: appointment_date
+        label: Appointment date
+        hint: YYYY-MM-DD
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: goals_for_session
+        label: Goals for session
+        hint: Top 3 objectives for the call
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: progress_since_last_call
+        label: Progress since last call
+        hint: Brief summary of progress
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: challenges_faced
+        label: Challenges faced
+        hint: Barriers or topics to address
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: desired_outcomes
+        label: Desired outcomes
+        hint: What would success look like
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: materials_to_review
+        label: Materials to review
+        hint: Links or document names
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: follow_up_tasks
+        label: Follow up tasks
+        hint: Actions to take after call
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: additional_notes
+        label: Additional notes
+        hint: Anything else the coach should know
+        type: text
+        options: []
+        required: false

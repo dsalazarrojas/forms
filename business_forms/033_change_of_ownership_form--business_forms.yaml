@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Change Of Ownership Form
+    pages:
+    - id: 1
+      name: change_date
+      label: Date of Ownership Change
+      hint: Effective date of change
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: asset_description
+      label: Description of Asset
+      hint: Item or property being transferred
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: asset_type
+      label: Type of Asset
+      hint: Category of asset
+      type: select_one
+      options:
+      - Vehicle
+      - Real Estate
+      - Equipment
+      - Business
+      - Intellectual Property
+      - Other
+      required: true
+    - id: 4
+      name: asset_id_number
+      label: Asset ID or Serial Number
+      hint: Unique identifier
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: previous_owner_name
+      label: Previous Owner Name
+      hint: Current owner's name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: previous_owner_address
+      label: Previous Owner Address
+      hint: Current owner's address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: previous_owner_contact
+      label: Previous Owner Contact Information
+      hint: Phone and email
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: new_owner_name
+      label: New Owner Name
+      hint: New owner's name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: new_owner_address
+      label: New Owner Address
+      hint: New owner's address
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: new_owner_contact
+      label: New Owner Contact Information
+      hint: Phone and email
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: ownership_type
+      label: Type of Ownership Being Transferred
+      hint: Full or partial ownership
+      type: select_one
+      options:
+      - Full Ownership
+      - Partial Ownership
+      - Equity Stake
+      - Right to Use
+      required: true
+    - id: 12
+      name: transfer_method
+      label: Method of Transfer
+      hint: How ownership is being transferred
+      type: select_one
+      options:
+      - Sale
+      - Gift
+      - Inheritance
+      - Merger
+      - Assignment
+      - Other
+      required: true
+    - id: 13
+      name: consideration_amount
+      label: Consideration or Purchase Price
+      hint: Amount paid if any
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: payment_terms
+      label: Payment Terms
+      hint: How payment will be made
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: liabilities_assumption
+      label: Liabilities or Encumbrances
+      hint: Any debts or liens
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: warranties_representation
+      label: Warranties or Representations
+      hint: What is warranted
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: effective_date
+      label: Effective Date of Transfer
+      hint: When ownership changes
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: witnesses
+      label: Witness Names
+      hint: If required by jurisdiction
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: notarization
+      label: Form Notarized
+      hint: Has it been notarized
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Required
+      required: false
+    - id: 20
+      name: acknowledgment
+      label: Both Parties Acknowledge and Accept
+      hint: Confirm understanding
+      type: select_one
+      options:
+      - Yes, Acknowledged
+      - 'No'
+      required: true

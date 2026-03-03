@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Booking For Bed And Breakfast Form
+    pages:
+    - id: 1
+      name: guest_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_email
+      label: Email Address
+      hint: We will send confirmation to this email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: guest_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Home Address
+      hint: Your full address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: check_in_date
+      label: Check-in Date
+      hint: When do you plan to arrive
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: check_out_date
+      label: Check-out Date
+      hint: When do you plan to leave
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: number_of_guests
+      label: Number of Guests
+      hint: Total number of people staying
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: room_type
+      label: Room Type Preference
+      hint: What type of room do you prefer
+      type: select_one
+      options:
+      - Single Room
+      - Double Room
+      - Twin Room
+      - Family Room
+      - Deluxe Room
+      - Suite
+      - Any available
+      required: true
+    - id: 10
+      name: number_of_rooms
+      label: Number of Rooms
+      hint: How many rooms do you need
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special needs or requests
+      type: select_multiple
+      options:
+      - High floor room
+      - Ground floor room
+      - Quiet room
+      - Room with a view
+      - Accessibility requirements
+      - Crib for baby
+      - Pet friendly
+      required: false
+    - id: 12
+      name: breakfast_preference
+      label: Breakfast Preference
+      hint: Select your breakfast preference
+      type: select_one
+      options:
+      - Continental breakfast
+      - Full English breakfast
+      - Vegetarian breakfast
+      - No breakfast
+      - Other dietary requirements
+      required: true
+    - id: 13
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any allergies or dietary restrictions
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Bank transfer
+      - Cash on arrival
+      - PayPal
+      required: true
+    - id: 15
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information or requests
+      type: text
+      options: []
+      required: false

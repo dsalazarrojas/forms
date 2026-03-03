@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Designer Showcase Reservation Form
+    pages:
+    - id: 1
+      name: form_name
+      label: Form Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: showcase_date
+      label: Showcase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: showcase_time
+      label: Showcase Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendee_note
+      label: Attendee Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      - option6
+      - option7
+      - option8
+      required: true
+    - id: 8
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - option9
+      - option10
+      - option11
+      - option12
+      required: true
+    - id: 9
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - option13
+      - option14
+      - option15
+      - option16
+      required: true
+    - id: 10
+      name: form_comments
+      label: Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false

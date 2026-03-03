@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clone Of JT ACADEMY Share
+    pages:
+    - id: 1
+      name: header
+      label: -- JT Academy Share Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Full name of the person requesting materials
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Requester email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: academy_resource
+      label: Academy resource requested
+      hint: Course or document name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: purpose_of_use
+      label: Purpose of use
+      hint: Brief explanation of intended use
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: audience_size
+      label: Estimated audience size
+      hint: Number of expected viewers or participants
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: share_permission
+      label: Permission to share externally
+      hint: Select whether sharing is permitted
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: preferred_format
+      label: Preferred format
+      hint: Choose desired format
+      type: select_one
+      options:
+      - PDF
+      - Slide deck
+      - Video
+      - Other
+      required: false
+    - id: 9
+      name: required_by_date
+      label: Required by date
+      hint: Date needed by
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any further information
+      type: text
+      options: []
+      required: false

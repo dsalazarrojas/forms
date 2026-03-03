@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: office_space_reservation_form
+    pages:
+    - id: 1
+      name: office_space_reservation
+      label: office_space_reservation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: space_type
+      label: space_type
+      hint: null
+      type: select_multiple
+      options:
+      - Office
+      - Meeting Room
+      - Open Space
+      required: false
+    - id: 6
+      name: space_size
+      label: space_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reserved_by
+      label: reserved_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reserved_for
+      label: reserved_for
+      hint: null
+      type: text
+      options: []
+      required: false

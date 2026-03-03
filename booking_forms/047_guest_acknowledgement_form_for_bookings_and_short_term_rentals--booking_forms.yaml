@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Acknowledgement Form For Bookings And Short Term Rentals
+    pages:
+    - id: 1
+      name: booking_info
+      label: Booking Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: stay_date
+      label: Stay Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      required: false
+    - id: 6
+      name: guest_signature
+      label: Guest Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: staff_signature
+      label: Staff Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false

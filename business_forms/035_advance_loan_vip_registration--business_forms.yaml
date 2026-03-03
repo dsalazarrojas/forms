@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advance Loan VIP Registration
+    pages:
+    - id: 1
+      name: section_vip
+      label: -- VIP Applicant Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Applicant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_affiliation
+      label: Company Affiliation
+      hint: Current employer or business name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: mobile_number
+      label: Mobile Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: professional_email
+      label: Professional Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: section_loan
+      label: -- Loan Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: requested_loan_amount
+      label: Requested Loan Amount
+      hint: Enter the total amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: loan_purpose
+      label: Loan Purpose
+      hint: How will the funds be used?
+      type: select_one
+      options:
+      - Business Expansion
+      - Asset Acquisition
+      - Debt Consolidation
+      - Real Estate
+      - Working Capital
+      required: true
+    - id: 9
+      name: preferred_term_length
+      label: Preferred Term Length
+      hint: Duration of the loan
+      type: select_one
+      options:
+      - 12 months
+      - 24 months
+      - 36 months
+      - 48 months
+      - 60 plus months
+      required: true
+    - id: 10
+      name: section_financial
+      label: -- Financial Data --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: annual_gross_income
+      label: Annual Gross Income
+      hint: before taxes
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Salaried
+      - Business Owner
+      - Professional Practitioner
+      required: true
+    - id: 13
+      name: credit_score_estimated
+      label: Credit Score Estimated
+      hint: your best estimate
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: section_priority
+      label: -- Priority Processing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: account_manager_requested
+      label: Account Manager Requested
+      hint: Direct point of contact for VIPs
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 16
+      name: special_financial_conditions_or_notes
+      label: Special Financial Conditions or Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: preferred_funding_date
+      label: Preferred Funding Date
+      hint: Target date for receiving funds
+      type: date
+      options: []
+      required: false

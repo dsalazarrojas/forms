@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Site Check In Form
+    pages:
+    - id: 1
+      name: check_in_date
+      label: Check-In Date
+      hint: Date of site entry
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: check_in_time
+      label: Check-In Time
+      hint: Time of arrival
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: visitor_name
+      label: Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your employer or organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your position or role
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: visitor_type
+      label: Visitor Type
+      hint: Select your visitor category
+      type: select_one
+      options:
+      - Employee
+      - Subcontractor
+      - Vendor or Supplier
+      - Client or Owner
+      - Inspector or Official
+      - Delivery Personnel
+      - Guest
+      - Other
+      required: true
+    - id: 9
+      name: purpose_of_visit
+      label: Purpose of Visit
+      hint: Why are you visiting the site
+      type: select_one
+      options:
+      - Regular Work
+      - Delivery
+      - Meeting
+      - Inspection
+      - Service or Maintenance
+      - Tour
+      - Emergency
+      - Other
+      required: true
+    - id: 10
+      name: purpose_details
+      label: Purpose Details
+      hint: Describe your purpose in more detail
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: visiting_area
+      label: Areas You Will Visit
+      hint: Which parts of the site
+      type: select_multiple
+      options:
+      - Office Trailer
+      - Main Building
+      - Foundation Area
+      - Framing Area
+      - Roof
+      - Parking Area
+      - Storage Yard
+      - All Areas
+      - Other
+      required: true
+    - id: 12
+      name: host_name
+      label: Host or Contact on Site
+      hint: Who are you meeting or reporting to
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: expected_duration
+      label: Expected Duration
+      hint: How long will you stay
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1 to 2 hours
+      - 2 to 4 hours
+      - 4 to 8 hours
+      - Full Day
+      - Multiple Days
+      required: true
+    - id: 14
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Brand of vehicle
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model of vehicle
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_color
+      label: Vehicle Color
+      hint: Color of vehicle
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: license_plate
+      label: License Plate Number
+      hint: Plate number and state
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: safety_orientation_completed
+      label: Safety Orientation Completed
+      hint: Have you completed site safety orientation
+      type: select_one
+      options:
+      - Yes, Today
+      - Yes, Previously
+      - No, Need Orientation
+      required: true
+    - id: 19
+      name: ppe_required
+      label: PPE Required for Your Visit
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Hard Hat
+      - Safety Glasses
+      - High-Visibility Vest
+      - Steel-Toed Boots
+      - Hearing Protection
+      - Respirator
+      - Safety Harness
+      - Gloves
+      - None
+      required: true
+    - id: 20
+      name: ppe_provided
+      label: PPE Provided
+      hint: Did you receive necessary PPE
+      type: select_one
+      options:
+      - Yes, All Items
+      - Yes, Some Items
+      - No, Have My Own
+      - Not Required
+      required: true
+    - id: 21
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Person to contact in case of emergency
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_conditions
+      label: Relevant Medical Conditions
+      hint: Any conditions we should know about
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: site_rules_acknowledged
+      label: Site Rules Acknowledged
+      hint: Do you agree to follow all site rules
+      type: select_one
+      options:
+      - Yes, I Agree
+      - false
+      required: true
+    - id: 25
+      name: liability_waiver
+      label: Liability Waiver Accepted
+      hint: Do you accept the liability waiver
+      type: select_one
+      options:
+      - Yes, I Accept
+      - false
+      required: true
+    - id: 26
+      name: visitor_signature
+      label: Visitor Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: security_guard_name
+      label: Security Guard Name
+      hint: Name of guard processing check-in
+      type: text
+      options: []
+      required: false

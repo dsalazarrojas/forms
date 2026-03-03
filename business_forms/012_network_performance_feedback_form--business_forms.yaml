@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: network_performance_feedback_form
+    pages:
+    - id: 1
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: network_quality
+      label: network_quality
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': []}'
+      - Other
+      required: false
+    - id: 3
+      name: performance_issues
+      label: performance_issues
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': []}'
+      - Other
+      required: false
+    - id: 4
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': []}'
+      - Other
+      required: false
+    - id: 8
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false

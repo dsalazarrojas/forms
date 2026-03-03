@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: test_drive_booking_form
+    pages:
+    - id: 1
+      name: test_drive_booking_form
+      label: test_drive_booking_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: test_drive_date
+      label: test_drive_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: test_drive_hour
+      label: test_drive_hour
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_id
+      label: vehicle_id
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Toyota''}'
+      - '{''value'': 2, ''label'': ''Honda''}'
+      - '{''value'': 3, ''label'': ''Tesla''}'
+      required: false
+    - id: 6
+      name: test_drive_time
+      label: test_drive_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: test_drive_notes
+      label: test_drive_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dealer_id
+      label: dealer_id
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''John Doe''}'
+      - '{''value'': 2, ''label'': ''Jane Doe''}'
+      - '{''value'': 3, ''label'': ''Bob Smith''}'
+      required: false
+    - id: 11
+      name: test_drive_status
+      label: test_drive_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''pending'', ''label'': ''pending''}'
+      - '{''value'': ''completed'', ''label'': ''completed''}'
+      - '{''value'': ''cancelled'', ''label'': ''cancelled''}'
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: PTA Debit Card Request Form
+    pages:
+    - id: 1
+      name: pta_debit_card_request_form_data
+      label: Pta Debit Card Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pta_debit_card_request_form_category
+      label: Pta Debit Card Request Form Category
+      hint: null
+      type: select_one
+      options:
+      - PTA
+      - school parent organization
+      - other
+      required: false
+    - id: 3
+      name: pta_debit_card_request_form_name
+      label: Pta Debit Card Request Form Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pta_debit_card_request_form_email
+      label: Pta Debit Card Request Form Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: pta_debit_card_request_form_phone
+      label: Pta Debit Card Request Form Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pta_debit_card_request_form_role
+      label: Pta Debit Card Request Form Role
+      hint: null
+      type: select_multiple
+      options:
+      - Treasurer
+      - President
+      - other
+      required: false
+    - id: 7
+      name: pta_debit_card_request_form_usage
+      label: Pta Debit Card Request Form Usage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: pta_debit_card_request_form_additional_info
+      label: Pta Debit Card Request Form Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

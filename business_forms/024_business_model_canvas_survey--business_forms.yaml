@@ -1,0 +1,253 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Model Canvas Survey
+    pages:
+      - id: 1
+        name: business_name
+        label: Business Name
+        hint: Name of your business
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: respondent_name
+        label: Respondent Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: respondent_role
+        label: Your Role
+        hint: Your position in the company
+        type: select_one
+        options:
+          - Founder
+          - Co-founder
+          - CEO
+          - Executive
+          - Manager
+          - Employee
+          - Consultant
+          - Other
+        required: true
+      - id: 4
+        name: value_proposition
+        label: Value Proposition
+        hint: What unique value does your business provide
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: customer_segments
+        label: Customer Segments
+        hint: Who are your most important customers
+        type: select_multiple
+        options:
+          - Mass market
+          - Niche market
+          - Segmented
+          - Diversified
+          - Multi-sided platforms
+          - B2B
+          - B2C
+          - Government
+        required: true
+      - id: 6
+        name: customer_segment_description
+        label: Customer Segment Description
+        hint: Describe your primary customer segments
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: channels
+        label: Channels
+        hint: How do you reach your customers
+        type: select_multiple
+        options:
+          - Website
+          - Social media
+          - Email marketing
+          - Direct sales
+          - Retail stores
+          - Distributors
+          - Partners
+          - Mobile app
+        required: true
+      - id: 8
+        name: channel_effectiveness
+        label: Most Effective Channel
+        hint: Which channel brings most customers
+        type: select_one
+        options:
+          - Website
+          - Social media
+          - Direct sales
+          - Referrals
+          - Advertising
+          - Events
+          - Other
+        required: true
+      - id: 9
+        name: customer_relationships
+        label: Customer Relationships
+        hint: What type of relationship do you maintain
+        type: select_one
+        options:
+          - Personal assistance
+          - Dedicated personal assistance
+          - Self-service
+          - Automated services
+          - Communities
+          - Co-creation
+        required: true
+      - id: 10
+        name: revenue_streams
+        label: Revenue Streams
+        hint: How does your business make money
+        type: select_multiple
+        options:
+          - Asset sale
+          - Usage fee
+          - Subscription fees
+          - Licensing
+          - Brokerage fees
+          - Advertising
+          - Rental
+          - Freemium
+        required: true
+      - id: 11
+        name: primary_revenue_stream
+        label: Primary Revenue Stream
+        hint: Your largest source of revenue
+        type: select_one
+        options:
+          - Product sales
+          - Service fees
+          - Subscriptions
+          - Licensing
+          - Advertising
+          - Commission
+          - Other
+        required: true
+      - id: 12
+        name: key_resources
+        label: Key Resources
+        hint: What assets are essential to your business
+        type: select_multiple
+        options:
+          - Physical assets
+          - Intellectual property
+          - Human resources
+          - Financial resources
+          - Digital assets
+          - Brand
+          - Network
+        required: true
+      - id: 13
+        name: key_activities
+        label: Key Activities
+        hint: What activities are most important
+        type: select_multiple
+        options:
+          - Production
+          - Problem solving
+          - Platform management
+          - Marketing
+          - Sales
+          - Research and development
+          - Customer support
+        required: true
+      - id: 14
+        name: key_partnerships
+        label: Key Partnerships
+        hint: Who are your key partners and suppliers
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: partnership_types
+        label: Partnership Types
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Strategic alliances
+          - Coopetition
+          - Joint ventures
+          - Buyer-supplier relationships
+          - None
+        required: true
+      - id: 16
+        name: cost_structure
+        label: Cost Structure
+        hint: What are your major cost drivers
+        type: select_multiple
+        options:
+          - Fixed costs
+          - Variable costs
+          - Economies of scale
+          - Economies of scope
+          - Labor costs
+          - Marketing costs
+          - Technology costs
+        required: true
+      - id: 17
+        name: largest_expense
+        label: Largest Expense Category
+        hint: What is your biggest expense
+        type: select_one
+        options:
+          - Salaries and wages
+          - Rent and facilities
+          - Marketing and advertising
+          - Technology and software
+          - Materials and inventory
+          - Professional services
+          - Other
+        required: true
+      - id: 18
+        name: competitive_advantage
+        label: Competitive Advantage
+        hint: What makes you different from competitors
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: business_model_stage
+        label: Business Model Stage
+        hint: What stage is your business model
+        type: select_one
+        options:
+          - Idea stage
+          - Startup
+          - Growth
+          - Maturity
+          - Pivot or transformation
+        required: true
+      - id: 20
+        name: biggest_challenges
+        label: Biggest Business Model Challenges
+        hint: What challenges do you face
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: improvement_areas
+        label: Areas for Improvement
+        hint: Which areas need the most improvement
+        type: text
+        options: []
+        required: false

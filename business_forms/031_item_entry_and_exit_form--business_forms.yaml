@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Item Entry And Exit Form
+    pages:
+    - id: 1
+      name: item_entry_page
+      label: Item entry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_exit_page
+      label: Item exit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: item_description
+      label: Item description
+      hint: Describe the item.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: item_price
+      label: Item price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: item_category
+      label: Item category
+      hint: null
+      type: select_one
+      options:
+      - category1
+      - category2
+      - category3
+      required: false
+    - id: 6
+      name: item_submitted_by
+      label: Item submitted by
+      hint: null
+      type: select_multiple
+      options:
+      - Person A
+      - Person B
+      - Person C
+      required: false
+    - id: 7
+      name: item_date
+      label: Item date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: item_time
+      label: Item time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: item_email
+      label: Item email
+      hint: Enter item email
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: item_phone
+      label: Item phone
+      hint: Enter item phone
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: item_address
+      label: Item address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: item_notes
+      label: Item notes
+      hint: Enter item notes
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: item_status
+      label: Item status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - pending
+      required: false

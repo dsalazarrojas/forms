@@ -1,0 +1,30 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Filing Payment Form
+    pages:
+    - id: 1
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: Client Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: tax_filing_services
+      label: Tax Filing Services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

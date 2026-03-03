@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: speakers-inquiry-form
+    pages:
+    - id: 1
+      name: event_name
+      label: event-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: event-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: event_time
+      label: event-time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: speaking_formats
+      label: speaking-formats
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''keynote''}'
+      - '{''option'': ''panel''}'
+      - '{''option'': ''workshop''}'
+      - '{''option'': ''workshop-workshop''}'
+      required: true
+    - id: 5
+      name: target_audience
+      label: target-audience
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''event-attendees''}'
+      - '{''option'': ''industry-professionals''}'
+      - '{''option'': ''general-public''}'
+      required: true
+    - id: 6
+      name: expected_number
+      label: expected-number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: speakers_requested
+      label: speakers-requested
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': True}'
+      - '{''option'': False}'
+      required: true
+    - id: 8
+      name: budget_amount
+      label: budget-amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: speaker_name
+      label: speaker-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: speaker_contact
+      label: speaker-contact
+      hint: null
+      type: text
+      options: []
+      required: true

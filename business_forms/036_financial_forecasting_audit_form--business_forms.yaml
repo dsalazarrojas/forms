@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Forecasting Audit Form
+    pages:
+    - id: 1
+      name: financial_forecasting_audit_form
+      label: Financial Forecasting Audit Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: financial_forecast_period
+      label: Financial Forecasting Period
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: false
+    - id: 3
+      name: forecasted_revenue
+      label: Forecasted Revenue
+      hint: Enter a number
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: actual_revenue
+      label: Actual Revenue
+      hint: Enter a number
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: year_forecast_start_date
+      label: Year Forecast Start Date
+      hint: null
+      type: date
+      options: []
+      required: false

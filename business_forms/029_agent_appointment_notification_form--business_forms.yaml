@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agent Appointment Notification Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Appointment Notification for Clients --
+      hint: automated notification for upcoming agency meetings
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_email
+      label: Client Email Address
+      hint: for confirmation and reminders
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: client_phone
+      label: Client Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: schedule_header
+      label: -- Appointment Schedule --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: scheduled_date
+      label: Scheduled Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: scheduled_time
+      label: Scheduled Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: meeting_format
+      label: Meeting Format - In-person, Phone, Video Call
+      hint: null
+      type: select_one
+      options:
+      - In-person (Office)
+      - In-person (Off-site)
+      - Phone Call
+      - Video Call (Zoom/Meet)
+      required: true
+    - id: 10
+      name: meeting_location
+      label: Meeting Location or Link
+      hint: street address or URL
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: appointment_purpose
+      label: Purpose of the Appointment
+      hint: brief reason for the meeting
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: documents_prepare
+      label: Documents for client to prepare
+      hint: select what you need the client to bring
+      type: select_multiple
+      options:
+      - Photo ID
+      - Proof of Income
+      - Previous Contracts
+      - Insurance Documents
+      - Tax Returns
+      required: false
+    - id: 13
+      name: attendance_confirm
+      label: Confirm attendance?
+      hint: please select to confirm your presence
+      type: select_one
+      options:
+      - Yes, I will be there
+      - No, I need to reschedule
+      required: true

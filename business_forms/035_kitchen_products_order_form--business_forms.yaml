@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: kitchen_products_order_form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_info
+      label: company_client
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: product_info
+      label: product_selected
+      hint: null
+      type: select_multiple
+      options:
+      - Kitchen Product 1
+      - Kitchen Product 2
+      - Kitchen Product 3
+      required: true
+    - id: 4
+      name: quantity
+      label: quantity_ordered
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: order_time
+      label: order_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: company_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: message
+      label: message_to_client
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: product_description
+      label: product_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: product_image
+      label: product_image
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: tax
+      label: tax
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: total
+      label: total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Credit
+      - Debit
+      - Cash
+      required: true
+    - id: 24
+      name: payment_date
+      label: payment_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: submit
+      label: submit_button
+      hint: null
+      type: text
+      options: []
+      required: true

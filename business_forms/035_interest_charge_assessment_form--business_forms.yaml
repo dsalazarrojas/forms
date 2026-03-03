@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Interest Charge Assessment Form
+    pages:
+    - id: 1
+      name: principal_amount
+      label: Principal Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: principal_amount_currency
+      label: Principal Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - USD
+      - JPY
+      - CNY
+      required: false
+    - id: 3
+      name: principal_amount_frequency
+      label: Principal Amount Frequency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: interest_rate
+      label: Interest Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: interest_start_date
+      label: Interest Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: interest_end_date
+      label: Interest End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: interest_reason
+      label: Interest Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: interest_charge_amount
+      label: Interest Charge Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: finance_team
+      label: Finance Team
+      hint: null
+      type: select_multiple
+      options:
+      - Accounting
+      - Finance
+      - Accounts
+      required: false
+    - id: 10
+      name: accounting_staff
+      label: Accounting Staff
+      hint: null
+      type: select_multiple
+      options:
+      - Accounting
+      - Accounting
+      - Accounting
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marina Slip Maintenance Inspection Form
+    pages:
+    - id: 1
+      name: maintenance_task
+      label: maintenance_task
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: slip_number
+      label: slip_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: slip_status
+      label: slip_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Offline
+      required: true
+    - id: 4
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: slip_inspect
+      label: slip_inspect
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: assigned_person
+      label: assigned_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_date
+      label: assigned_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: maintenance_status
+      label: maintenance_status
+      hint: null
+      type: select_multiple
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      - Deferred
+      required: true
+    - id: 13
+      name: maintenance_due_date
+      label: maintenance_due_date
+      hint: null
+      type: date
+      options: []
+      required: false

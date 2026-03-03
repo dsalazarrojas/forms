@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telescope Reservation Request
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: telescope_name
+      label: Telescope Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: equipment_preferences
+      label: Equipment Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 10-inch
+      - 20-inch
+      - 25-inch
+      - 40-inch
+      - 80-inch
+      - 120-inch
+      required: false
+    - id: 8
+      name: telescope_type
+      label: Telescope Type
+      hint: null
+      type: select_one
+      options:
+      - Refractor
+      - Refractor
+      - Refractor
+      - Telescope
+      - Telescope
+      - Dobsonian
+      required: false
+    - id: 9
+      name: observation_time
+      label: Observation Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: observers
+      label: Observers
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: assigned_telescope
+      label: Assigned Telescope
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: telescope_status
+      label: Telescope Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Reserved
+      - Maintenance
+      - Maintenance
+      - Maintenance
+      - Maintenance
+      required: false
+    - id: 16
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Maintenance Required
+      - Scheduled Maintenance
+      required: false
+    - id: 17
+      name: school_or_organization
+      label: School or Organization
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 18
+      name: other_organization
+      label: Other Organization
+      hint: null
+      type: text
+      options: []
+      required: false

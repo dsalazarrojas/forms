@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cable Car Reservation Form
+    pages:
+    - id: 1
+      name: reservation_header
+      label: -- Reservation and Journey Details --
+      hint: Book your scenic cable car experience
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: primary_guest_name
+      label: Primary Guest Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reservation_date
+      label: Desired Journey Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: preferred_timeslot
+      label: Preferred Timeslot
+      hint: subject to availability
+      type: select_one
+      options:
+      - Sunrise Session (6am-8am)
+      - Morning (8am-11am)
+      - Mid-day (11am-2pm)
+      - Afternoon (2pm-5pm)
+      - Sunset Session (5pm-7pm)
+      required: true
+    - id: 5
+      name: journey_type
+      label: Journey Type
+      hint: null
+      type: select_one
+      options:
+      - One-Way Up
+      - One-Way Down
+      - Round Trip
+      - Full Day Unlimited
+      required: true
+    - id: 6
+      name: guest_count_header
+      label: -- Guest Count --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: adult_count
+      label: Number of Adults
+      hint: ages 13-64
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: child_count
+      label: Number of Children
+      hint: ages 3-12
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: senior_count
+      label: Number of Seniors
+      hint: ages 65 plus
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: accessibility_header
+      label: -- Accessibility and Special Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: wheelchair_access
+      label: Does any guest require wheelchair access
+      hint: we have specific accessible cabins
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: assistance_animal
+      label: Will an assistance animal be accompanying you
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 13
+      name: additional_assistance
+      label: Description of any additional assistance needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: contact_email
+      label: Email Address
+      hint: for confirmation and digital tickets
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: contact_phone
+      label: Mobile Phone Number
+      hint: for weather alerts or delay notifications
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: group_name
+      label: Group or Tour Name
+      hint: if part of a larger party
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: acknowledgment
+      label: I understand tickets are non-refundable within 24 hours of departure
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

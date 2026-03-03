@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Booking Form With Image Background
+    pages:
+    - id: 1
+      name: tourist_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tourist_email
+      label: Email Address
+      hint: We will send tour details to this email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: tourist_phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: country_of_origin
+      label: Country of Origin
+      hint: Which country are you from
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tour_package
+      label: Tour Package
+      hint: Which tour are you interested in
+      type: select_one
+      options:
+      - City tour
+      - Mountain expedition
+      - Beach resort
+      - Cultural heritage tour
+      - Adventure package
+      - Luxury tour
+      - Budget package
+      required: true
+    - id: 6
+      name: start_date
+      label: Tour Start Date
+      hint: When would you like to start
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: end_date
+      label: Tour End Date
+      hint: When would you like to finish
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: number_of_tourists
+      label: Number of Tourists
+      hint: How many people in your group
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: accommodation_type
+      label: Accommodation Preference
+      hint: What type of accommodation do you prefer
+      type: select_one
+      options:
+      - Budget hotel
+      - Mid-range hotel
+      - 5-star hotel
+      - Resort
+      - Hostel
+      - Guest house
+      - Other
+      required: true
+    - id: 10
+      name: meal_plan
+      label: Meal Plan
+      hint: Do you want meals included
+      type: select_one
+      options:
+      - Breakfast only
+      - Breakfast and lunch
+      - All meals included
+      - No meals
+      - Custom plan
+      required: true
+    - id: 11
+      name: transportation
+      label: Transportation Option
+      hint: How would you prefer to travel
+      type: select_one
+      options:
+      - Coach/bus
+      - Private van
+      - Car rental
+      - Walking tours
+      - Mixed transport
+      required: true
+    - id: 12
+      name: special_interests
+      label: Special Interests
+      hint: Select what interests you
+      type: select_multiple
+      options:
+      - Historical sites
+      - Nature and wildlife
+      - Adventure activities
+      - Water sports
+      - Shopping
+      - Local cuisine
+      - Photography
+      required: false
+    - id: 13
+      name: budget_estimate
+      label: Budget Estimate
+      hint: Your estimated budget per person
+      type: select_one
+      options:
+      - Under $500
+      - $500 - $1,500
+      - $1,500 - $3,000
+      - $3,000 - $5,000
+      - $5,000+
+      required: false
+    - id: 14
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special needs or requests
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

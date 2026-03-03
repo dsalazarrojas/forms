@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Yoga Class Reservation Form
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_details_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_details_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_details_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: user_details_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: class_details
+      label: Class Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: class_details_class_name
+      label: Class Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: class_details_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: class_details_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: class_details_duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: class_details_max_reservations
+      label: Max Reservations
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: class_details_reservation_status
+      label: Reservation Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Reserved
+      - Cancelled
+      required: false
+    - id: 13
+      name: class_details_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_details_amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: payment_details_method
+      label: Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 17
+      name: payment_details_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partially Paid
+      required: false
+    - id: 18
+      name: payment_details_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

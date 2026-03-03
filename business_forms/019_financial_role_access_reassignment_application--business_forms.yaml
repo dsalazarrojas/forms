@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Role Access Reassignment Application
+    pages:
+    - id: 1
+      name: user_requesting
+      label: User Requesting
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reason_for_change
+      label: Reason For Change
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: current_access_request_date
+      label: Current Access Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: current_title
+      label: Current Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: new_title
+      label: New Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_approvals
+      label: Manager Approvals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: manager_approval_date
+      label: Manager Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: it_approvals
+      label: IT Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: it_approval_date
+      label: IT Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: hr_approvals
+      label: HR Approvals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: hr_approval_date
+      label: HR Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: role_description
+      label: Role Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: access_level
+      label: Access Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: access_granted
+      label: Access Granted
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: it_name
+      label: IT Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: finance_name
+      label: Finance Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: hr_name
+      label: HR Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: manager_title
+      label: Manager Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: it_title
+      label: IT Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: finance_title
+      label: Finance Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: finance_approval_status
+      label: Finance Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

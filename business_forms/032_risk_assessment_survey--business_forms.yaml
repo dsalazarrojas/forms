@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Assessment Survey
+    pages:
+    - id: 1
+      name: workplace_hazards
+      label: Workplace Hazards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - Hazard
+      - Risk
+      - Control
+      required: false
+    - id: 3
+      name: accident_evaluation
+      label: Accident Evaluation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: control_measures
+      label: Control Measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: control_level
+      label: Control Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: frequency
+      label: Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: impact
+      label: Impact
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 9
+      name: probability
+      label: Probability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: likelihood
+      label: Likelihood
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 11
+      name: consequence
+      label: Consequence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: risk_summary
+      label: Risk Summary
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: risk_assessment
+      label: Risk Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: date_reviewed
+      label: Date Reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: reviewer_comment
+      label: Reviewer Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: risk_assessment_comment
+      label: Risk Assessment Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: risk_assessment_status
+      label: Risk Assessment Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Review Required
+      required: false
+    - id: 21
+      name: risk_rationale
+      label: Risk Rationale
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: risk_level_status
+      label: Risk Level Status
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 23
+      name: control_measures_status
+      label: Control Measures Status
+      hint: null
+      type: select_one
+      options:
+      - Implemented
+      - Not Implemented
+      - Review Required
+      required: false
+    - id: 24
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Incomplete
+      - No Follow-up Required
+      required: false
+    - id: 25
+      name: reviewer_follow_reported
+      label: Reviewer Follow-up Reported
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: debt_management_checklist
+    pages:
+    - id: 1
+      name: debt_management_form
+      label: debt_management_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: income_sources
+      label: income_sources
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: financial_institutions
+      label: financial_institutions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: debt_amounts
+      label: debt_amounts
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: select_one
+      options:
+      - Bank
+      - Credit Union
+      - Other
+      required: false
+    - id: 6
+      name: payment_schedule
+      label: payment_schedule
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Bi-Weekly
+      - Daily
+      - Weekly
+      - Quarterly
+      - Semi-Monthly
+      required: false
+    - id: 7
+      name: payment_frequency
+      label: payment_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: next_step
+      label: next_step
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: last_modified
+      label: last_modified
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: last_modified_by
+      label: last_modified_by
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: next_step_comment
+      label: next_step_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_term_length
+      label: payment_term_length
+      hint: null
+      type: number
+      options: []
+      required: false

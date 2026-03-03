@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Profit Survey
+    pages:
+    - id: 1
+      name: section_business_overview
+      label: -- Business Overview --
+      type: note
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Your company name
+      type: text
+      required: true
+    - id: 3
+      name: business_owner
+      label: Business Owner
+      hint: Your name
+      type: text
+      required: true
+    - id: 4
+      name: business_type
+      label: Type of Business
+      hint: What type of business do you operate
+      type: text
+      required: true
+    - id: 5
+      name: years_operating
+      label: Years in Operation
+      hint: How long has the business been running
+      type: number
+      required: true
+    - id: 6
+      name: section_financial_overview
+      label: -- Financial Overview --
+      type: note
+      required: false
+    - id: 7
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Last year's total revenue
+      type: number
+      required: true
+    - id: 8
+      name: annual_expenses
+      label: Annual Expenses
+      hint: Total operating expenses
+      type: number
+      required: true
+    - id: 9
+      name: annual_profit
+      label: Annual Profit
+      hint: Net profit after expenses
+      type: number
+      required: false
+    - id: 10
+      name: profit_margin
+      label: Profit Margin
+      hint: Percentage profit margin
+      type: number
+      required: false
+    - id: 11
+      name: section_revenue_sources
+      label: -- Revenue Sources --
+      type: note
+      required: false
+    - id: 12
+      name: primary_revenue_source
+      label: Primary Revenue Source
+      hint: Where does most income come from
+      type: text
+      required: true
+    - id: 13
+      name: revenue_stream_breakdown
+      label: Revenue Stream Distribution
+      hint: Approximate percentages by source
+      type: text
+      required: false
+    - id: 14
+      name: section_expenses
+      label: -- Major Expenses --
+      type: note
+      required: false
+    - id: 15
+      name: largest_expenses
+      label: Top 3 Business Expenses
+      hint: Your biggest cost categories
+      type: text
+      required: true
+    - id: 16
+      name: employee_costs_percentage
+      label: Employee Costs as Percentage of Revenue
+      hint: What percentage goes to payroll
+      type: number
+      required: false
+    - id: 17
+      name: section_growth
+      label: -- Growth and Profitability --
+      type: note
+      required: false
+    - id: 18
+      name: profit_trend
+      label: Profit Trend Over Last Year
+      hint: Is profit increasing or decreasing
+      type: select_one
+      options:
+      - Significantly decreasing
+      - Decreasing
+      - Stable
+      - Increasing
+      - Significantly increasing
+      required: true
+    - id: 19
+      name: growth_rate
+      label: Annual Growth Rate
+      hint: Estimated percentage growth
+      type: number
+      required: false
+    - id: 20
+      name: section_profitability_factors
+      label: -- Profitability Factors --
+      type: note
+      required: false
+    - id: 21
+      name: main_profit_drivers
+      label: Main Profit Drivers
+      hint: What makes your business profitable
+      type: text
+      required: true
+    - id: 22
+      name: profitability_challenges
+      label: Profitability Challenges
+      hint: What hinders your profits
+      type: text
+      required: false
+    - id: 23
+      name: improvement_opportunities
+      label: Opportunities for Improvement
+      hint: How could you increase profits
+      type: text
+      required: false

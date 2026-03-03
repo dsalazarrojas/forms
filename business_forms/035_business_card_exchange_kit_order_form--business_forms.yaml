@@ -1,0 +1,265 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Card Exchange Kit Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: position
+      label: Position
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shipping_address
+      label: Shipping Address
+      hint: Where to ship your order
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State or Province
+      hint: Your state or province
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: Your postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: country
+      label: Country
+      hint: Your country
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: kit_selection
+      label: Kit Selection
+      hint: Choose your kit
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: kit_type
+      label: Kit Type
+      hint: Which kit would you like
+      type: select_one
+      options:
+      - Starter Kit (50 cards)
+      - Professional Kit (100 cards)
+      - Executive Kit (250 cards)
+      - Premium Kit (500 cards)
+      - Bulk Kit (1000 cards)
+      - Custom Quantity
+      required: true
+    - id: 14
+      name: card_style
+      label: Card Style
+      hint: Choose card design style
+      type: select_one
+      options:
+      - Classic
+      - Modern
+      - Minimalist
+      - Bold
+      - Elegant
+      - Custom Design
+      required: true
+    - id: 15
+      name: card_size
+      label: Card Size
+      hint: Dimensions
+      type: select_one
+      options:
+      - Standard (3.5 x 2 inches)
+      - Square (2.5 x 2.5 inches)
+      - Rounded Corners
+      - Mini (2 x 1.5 inches)
+      - European (85 x 55 mm)
+      required: true
+    - id: 16
+      name: card_material
+      label: Card Material
+      hint: Paper type
+      type: select_one
+      options:
+      - Standard Cardstock
+      - Premium Cardstock
+      - Recycled Paper
+      - Plastic
+      - Metal
+      - Wood
+      required: true
+    - id: 17
+      name: card_finish
+      label: Card Finish
+      hint: Surface finish
+      type: select_one
+      options:
+      - Matte
+      - Glossy
+      - Satin
+      - Soft Touch
+      - Textured
+      required: true
+    - id: 18
+      name: printing_options
+      label: Printing Options
+      hint: Print specifications
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: print_sides
+      label: Print Sides
+      hint: Single or double sided
+      type: select_one
+      options:
+      - Single Sided
+      - Double Sided
+      required: true
+    - id: 20
+      name: color_option
+      label: Color Option
+      hint: Color or black and white
+      type: select_one
+      options:
+      - Full Color
+      - Black and White
+      - Spot Color
+      required: true
+    - id: 21
+      name: special_features
+      label: Special Features
+      hint: Additional options
+      type: select_multiple
+      options:
+      - QR Code
+      - Foil Stamping
+      - Embossing
+      - Die Cut
+      - Spot UV
+      - Rounded Corners
+      - None
+      required: false
+    - id: 22
+      name: card_design
+      label: Card Design
+      hint: How will you provide design
+      type: select_one
+      options:
+      - I Have Ready Design
+      - Need Design Help
+      - Use Template
+      - Custom Design Service
+      required: true
+    - id: 23
+      name: design_file
+      label: Design File
+      hint: Describe how you will submit design
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: quantity
+      label: Quantity
+      hint: Number of kits
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: rush_order
+      label: Rush Order
+      hint: Do you need expedited processing
+      type: select_one
+      options:
+      - No - Standard
+      - Yes - 3 Day Rush
+      - Yes - 2 Day Rush
+      - Yes - Overnight
+      required: true
+    - id: 26
+      name: delivery_preference
+      label: Delivery Preference
+      hint: Shipping method
+      type: select_one
+      options:
+      - Standard Shipping
+      - Express Shipping
+      - Overnight Shipping
+      - International Shipping
+      required: true
+    - id: 27
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Invoice
+      required: true
+    - id: 28
+      name: promo_code
+      label: Promo Code
+      hint: Any promotional code
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests
+      type: text
+      options: []
+      required: false

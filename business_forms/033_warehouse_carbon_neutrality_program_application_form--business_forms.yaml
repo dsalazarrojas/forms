@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Carbon Neutrality Program Application Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_info
+      label: Company Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: warehouse_details
+      label: Warehouse Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: carbon_neutrality_programs
+      label: Carbon Neutrality Programs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: carbon_footprint
+      label: Carbon Footprint
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: carbon_reduction_target
+      label: Carbon Reduction Target
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: reduction_methods
+      label: Reduction Methods
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reduction_amount
+      label: Reduction Amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reduction_unit
+      label: Reduction Unit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: baseline_emissions
+      label: Baseline Emissions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: projected_emissions
+      label: Projected Emissions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: actual_emissions
+      label: Actual Emissions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: carbon_credit
+      label: Carbon Credit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: carbon_credit_method
+      label: Carbon Credit Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reporting_frequency
+      label: Reporting Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mitigation Bank Reservation Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: credit_type
+      label: Credit Type
+      hint: null
+      type: select_one
+      options:
+      - Auction Credit
+      - Bankruptcy Settlement Credit
+      - Direct Credit
+      - Federal Tax Credit
+      - State Tax Credit
+      - Unknown Credit
+      required: true
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: credit_amount
+      label: Credit Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: consultant_comments
+      label: Consultant Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: developer_comments
+      label: Developer Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Completed
+      - Deferred
+      - Discontinued
+      - Failed
+      - Inactive
+      - Pending
+      - Scheduled
+      - Suspended
+      - Under Review
+      required: true
+    - id: 9
+      name: credit_reserved_by
+      label: Credit Reserved By
+      hint: null
+      type: select_one
+      options:
+      - Consultant
+      - Developer
+      - Other
+      - Unknown
+      required: true
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy
+      - chat_jimmy
+      required: true
+    - id: 11
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: reserved_by
+      label: Reserved By
+      hint: null
+      type: select_one
+      options:
+      - Consultant
+      - Developer
+      - Other
+      - Unknown
+      required: true
+    - id: 15
+      name: reserved_date
+      label: Reserved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: reserved_time
+      label: Reserved Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: project_id
+      label: Project ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: credit_id
+      label: Credit ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy
+      required: true
+    - id: 23
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy
+      - chatjimmy
+      required: false
+    - id: 25
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true

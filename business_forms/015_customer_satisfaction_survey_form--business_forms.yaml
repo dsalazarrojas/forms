@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Satisfaction Survey Form
+    pages:
+    - id: 1
+      name: customer_survey
+      label: Customer Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_survey
+      label: Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 2, ''name'': ''Excellent''}'
+      - '{''id'': 3, ''name'': ''Good''}'
+      - '{''id'': 4, ''name'': ''Fair''}'
+      - '{''id'': 5, ''name'': ''Poor''}'
+      required: false
+    - id: 3
+      name: customer_comments
+      label: What are you thinking?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_satisfaction
+      label: How do you feel about the quality of service?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 6, ''name'': ''Excellent''}'
+      - '{''id'': 7, ''name'': ''Good''}'
+      - '{''id'': 8, ''name'': ''Fair''}'
+      - '{''id'': 9, ''name'': ''Poor''}'
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_satisfaction_scale
+      label: Satisfaction Scale
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''name'': ''Excellent''}'
+      - '{''id'': 11, ''name'': ''Good''}'
+      - '{''id'': 12, ''name'': ''Fair''}'
+      - '{''id'': 13, ''name'': ''Poor''}'
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: customer_satisfaction
+      label: What can we improve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_satisfaction_scale
+      label: Overall Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 14, ''name'': ''Excellent''}'
+      - '{''id'': 15, ''name'': ''Good''}'
+      - '{''id'': 16, ''name'': ''Fair''}'
+      - '{''id'': 17, ''name'': ''Poor''}'
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

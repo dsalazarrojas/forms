@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: expense-report-export-request-form
+    pages:
+    - id: 1
+      name: date_range
+      label: date-range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Business Forms
+      - Business Report Forms
+      required: false
+    - id: 3
+      name: format
+      label: format
+      hint: null
+      type: select_one
+      options:
+      - CSV
+      - JSON
+      - XLSX
+      required: false
+    - id: 4
+      name: delivery_method
+      label: delivery-method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Export to CSV
+      - Export to Excel
+      required: false
+    - id: 5
+      name: from_date
+      label: from-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: to_date
+      label: to-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: export_button
+      label: export-button
+      hint: null
+      type: note
+      options: []
+      required: false

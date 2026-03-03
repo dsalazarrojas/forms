@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: retail_display_quotation_form
+    pages:
+    - id: 1
+      name: display_setup
+      label: Retail Display Setup
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: quotation_request
+      label: Quotation Request
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 6
+      name: display_quotation_details
+      label: Display Quotation Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      - Option D
+      required: true

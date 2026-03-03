@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Request Form Template
+    pages:
+    - id: 1
+      name: project_title
+      label: project_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      required: false
+    - id: 4
+      name: project_category
+      label: project_category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Business''}'
+      - '{''id'': 2, ''label'': ''Personal''}'
+      required: false
+    - id: 5
+      name: project_priority
+      label: project_priority
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 6
+      name: project_start_date
+      label: project_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_end_date
+      label: project_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: project_status_update
+      label: project_status_update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_requester
+      label: project_requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_requester_email
+      label: project_requester_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: project_requester_phone
+      label: project_requester_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_requester_organization
+      label: project_requester_organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_requester_contact
+      label: project_requester_contact
+      hint: null
+      type: text
+      options: []
+      required: false

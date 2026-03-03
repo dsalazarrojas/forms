@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: mortgage_renewal_notification_form
+    pages:
+    - id: 1
+      name: homeowner_details
+      label: Homeowner Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: loan_details
+      label: Loan Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: renewal_intentions
+      label: Renewal Intentions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: follow_up_details
+      label: Follow-up Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: upcoming_renewals
+      label: Upcoming Renewals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - Jane
+      - John
+      required: false
+    - id: 9
+      name: mortgage_status
+      label: Mortgage Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 10
+      name: renewal_date
+      label: Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Single Family Home
+      - Condo
+      - Townhouse
+      required: false
+    - id: 13
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: interest_rate
+      label: Interest Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: loan_type
+      label: Loan Type
+      hint: null
+      type: select_one
+      options:
+      - Fixed Rate
+      - Adjustable Rate
+      - Variable Rate
+      required: false
+    - id: 17
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Text
+      required: false
+    - id: 18
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: next_follow_up_date
+      label: Next Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_method
+      label: Follow-up Method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Text
+      required: false
+    - id: 21
+      name: follow_up_details
+      label: Follow-up Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 23
+      name: assigned_tool_user
+      label: Assigned Tool User
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chat_jane
+      - chat_john
+      required: false
+    - id: 24
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

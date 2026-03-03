@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Strategic Growth Consulting Panel Application
+    pages:
+    - id: 1
+      name: expert_profile
+      label: Expert Profile
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience
+      label: Experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: expertise
+      label: Expertise
+      hint: Please list your areas of expertise
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - email
+      - phone
+      - note
+      required: false

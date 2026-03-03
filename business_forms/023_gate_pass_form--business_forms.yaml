@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gate Pass Form
+    pages:
+    - id: 1
+      name: gate_pass_form
+      label: gate_pass_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: organization_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: visitor_details
+      label: visitor_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: gate_pass_request
+      label: gate_pass_request
+      hint: null
+      type: select_one
+      options:
+      - Gate Pass
+      - No Gate Pass
+      - Requesting Gate Pass
+      required: false
+    - id: 7
+      name: gate_pass_issue_date
+      label: gate_pass_issue_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: gate_pass_expiration_date
+      label: gate_pass_expiration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: gate_pass_renewal
+      label: gate_pass_renewal
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: gate_pass_renewal_date
+      label: gate_pass_renewal_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: gate_pass_renewal_reason
+      label: gate_pass_renewal_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: gate_pass_renewal_status
+      label: gate_pass_renewal_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Expired
+      - Cancelled
+      required: false
+    - id: 13
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: note_2
+      label: note_2
+      hint: null
+      type: note
+      options: []
+      required: false

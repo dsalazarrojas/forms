@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Support Ticket Monitoring Form
+    pages:
+    - id: 1
+      name: customer_support_ticket_monitoring_form
+      label: Customer Support Ticket Monitoring Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_support_request_status
+      label: Ticket Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: customer_support_request_description
+      label: Ticket Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_support_request_category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: customer_support_request_priority
+      label: Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: customer_support_request_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: customer_support_request_assignee
+      label: Assignee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: customer_support_request_resolution_time
+      label: Resolution Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cold Chain Optimization Accelerator Application Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Legal registered business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_registration_number
+      label: Business Registration Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: industry_sector
+      label: Primary Industry Sector
+      hint: Select the sector your business operates in
+      type: select_one
+      options:
+      - Pharmaceutical
+      - Food and Beverage
+      - Healthcare
+      - Logistics
+      - Retail
+      - Other
+      required: true
+    - id: 4
+      name: current_cold_chain_capacity
+      label: Current Cold Chain Capacity (cubic meters)
+      hint: Approximate total storage volume
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: annual_revenue
+      label: Annual Revenue Range
+      hint: null
+      type: select_one
+      options:
+      - Under 1 million
+      - 1-5 million
+      - 5-20 million
+      - 20-50 million
+      - 50+ million
+      required: true
+    - id: 6
+      name: number_of_employees
+      label: Number of Employees
+      hint: Full-time equivalent staff
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: primary_challenges
+      label: Primary Cold Chain Challenges
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Temperature Control
+      - Energy Efficiency
+      - Supply Chain Visibility
+      - Equipment Maintenance
+      - Regulatory Compliance
+      - Cost Optimization
+      required: true
+    - id: 8
+      name: optimization_goals
+      label: Main Optimization Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Reduce Operating Costs
+      - Improve Product Quality
+      - Expand Capacity
+      - Increase Sustainability
+      - Enhance Compliance
+      required: true
+    - id: 9
+      name: current_technology_systems
+      label: Current Technology Systems
+      hint: Describe any existing monitoring or management systems
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: budget_allocation
+      label: Estimated Budget for Optimization
+      hint: In your local currency
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: implementation_timeline
+      label: Preferred Implementation Timeline
+      hint: null
+      type: select_one
+      options:
+      - Immediate (1-3 months)
+      - Short-term (3-6 months)
+      - Medium-term (6-12 months)
+      - Long-term (12+ months)
+      required: true
+    - id: 12
+      name: project_description
+      label: Describe Your Optimization Project
+      hint: Provide details about what you want to optimize
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_person_name
+      label: Contact Person Name
+      hint: Primary contact for this application
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Include country code
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: terms_agreement
+      label: I agree to the program terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: Share any other relevant information
+      type: text
+      options: []
+      required: false

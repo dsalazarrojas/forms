@@ -1,0 +1,274 @@
+inputSchema:
+  type: object
+  properties:
+    title: Affordable Property Innovation Application Form
+    pages:
+    - id: 1
+      name: applicant_information_section
+      label: Applicant Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: Name of the organization submitting the application
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_type
+      label: Organization Type
+      hint: Type of organization applying
+      type: select_one
+      options:
+      - Non-profit Organization
+      - Government Agency
+      - Private Company
+      - Academic Institution
+      - Research Organization
+      - Community Group
+      - Other
+      required: true
+    - id: 4
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: Name of the primary contact person for this application
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: primary_contact_title
+      label: Primary Contact Title
+      hint: Job title of the primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: primary_contact_email
+      label: Primary Contact Email
+      hint: Email address for primary contact
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: primary_contact_phone
+      label: Primary Contact Phone
+      hint: Phone number for primary contact
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: innovation_overview_section
+      label: Innovation Overview
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: innovation_title
+      label: Innovation Title
+      hint: Title of the affordable property innovation
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: innovation_description
+      label: Innovation Description
+      hint: Detailed description of the innovation
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: innovation_category
+      label: Innovation Category
+      hint: What category does this innovation fall into?
+      type: select_one
+      options:
+      - Construction Technology
+      - Building Materials
+      - Financing Models
+      - Design Approaches
+      - Energy Efficiency
+      - Smart Home Technology
+      - Community Planning
+      - Property Management
+      - Other
+      required: true
+    - id: 12
+      name: target_market
+      label: Target Market
+      hint: Who is the target market for this innovation?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: innovation_problem_section
+      label: Problem Addressed
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: housing_affordability_problem
+      label: Housing Affordability Problem
+      hint: What specific housing affordability problem does this innovation address?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: problem_scope
+      label: Problem Scope
+      hint: How widespread is this problem?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: innovation_solution_section
+      label: Innovation Solution
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: solution_approach
+      label: Solution Approach
+      hint: How does your innovation solve the identified problem?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: innovation_uniqueness
+      label: Innovation Uniqueness
+      hint: What makes your innovation unique compared to existing solutions?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: implementation_feasibility
+      label: Implementation Feasibility
+      hint: How feasible is it to implement this innovation?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: impact_measurement_section
+      label: Impact Measurement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: expected_impact
+      label: Expected Impact
+      hint: What impact do you expect this innovation to have on housing affordability?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: impact_metrics
+      label: Impact Metrics
+      hint: How will you measure the success of this innovation?
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: cost_reduction_potential
+      label: Cost Reduction Potential
+      hint: How much could this innovation potentially reduce housing costs?
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: scalability_potential
+      label: Scalability Potential
+      hint: How scalable is this innovation across different markets?
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: development_stage_section
+      label: Development Stage
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: current_development_stage
+      label: Current Development Stage
+      hint: What stage of development is this innovation currently in?
+      type: select_one
+      options:
+      - Conceptual
+      - Prototype
+      - Pilot Testing
+      - Early Implementation
+      - Mature Implementation
+      required: true
+    - id: 27
+      name: proof_of_concept
+      label: Proof of Concept
+      hint: Do you have proof of concept or pilot results?
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: true
+    - id: 28
+      name: pilot_results
+      label: Pilot Results
+      hint: If yes, summarize the pilot results
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: funding_partnership_section
+      label: Funding and Partnership Needs
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: funding_requirements
+      label: Funding Requirements
+      hint: What funding is needed to further develop and implement this innovation?
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: partnership_opportunities
+      label: Partnership Opportunities
+      hint: What partnerships would be beneficial for this innovation?
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: implementation_timeline
+      label: Implementation Timeline
+      hint: What is the expected timeline for full implementation?
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: application_review_section
+      label: Application Review
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: supporting_documents
+      label: Supporting Documents
+      hint: List any supporting documents included with the application
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: authorization_signature
+      label: Authorization Signature
+      hint: Electronic signature of authorized representative
+      type: text
+      options: []
+      required: true

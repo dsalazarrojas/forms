@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: SEO Optimization Order Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: website_url
+      label: Website URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: services_requested
+      label: Services Requested
+      hint: null
+      type: select_multiple
+      options:
+      - SEO Analysis
+      - Keyword Research
+      - Content Creation
+      - Link Building
+      - Social Media Optimization
+      - Local SEO
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: false

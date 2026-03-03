@@ -1,0 +1,506 @@
+inputSchema:
+  type: object
+  properties:
+    title: Amenity Upgrade Proposal Request Form
+    pages:
+    - id: 1
+      name: section_proposal_info
+      label: -- Proposal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: proposal_date
+      label: Proposal Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: proposal_title
+      label: Proposal Title
+      hint: Brief descriptive title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_proposer_info
+      label: -- Proposer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: proposer_first_name
+      label: Proposer First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: proposer_last_name
+      label: Proposer Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: proposer_title
+      label: Proposer Title/Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Facilities Management
+      - Property Management
+      - Resident Services
+      - Maintenance
+      - Administration
+      - Finance
+      - Other
+      required: false
+    - id: 9
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_amenity_info
+      label: -- Amenity Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: amenity_name
+      label: Amenity to be Upgraded
+      hint: Which amenity
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: amenity_type
+      label: Amenity Type
+      hint: null
+      type: select_one
+      options:
+      - Fitness Center/Gym
+      - Swimming Pool
+      - Hot Tub/Sauna
+      - Community Room
+      - Business Center
+      - Outdoor Spaces
+      - Playground
+      - Sports Courts
+      - Clubhouse
+      - Parking Facility
+      - Landscaping
+      - Lighting
+      - Security Systems
+      - Other
+      required: true
+    - id: 14
+      name: amenity_location
+      label: Amenity Location
+      hint: Building, floor, area
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: current_condition
+      label: Current Condition
+      hint: Describe current state
+      type: select_one
+      options:
+      - Excellent - No upgrade needed
+      - Good - Minor improvements
+      - Fair - Moderate upgrades needed
+      - Poor - Major upgrade required
+      - Obsolete - Complete replacement
+      required: true
+    - id: 16
+      name: age_of_amenity
+      label: Age of Current Amenity
+      hint: Years since installation
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: section_upgrade_details
+      label: -- Upgrade Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: upgrade_description
+      label: Detailed Upgrade Description
+      hint: What upgrades are proposed
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: upgrade_type
+      label: Type of Upgrade
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Equipment replacement
+      - Cosmetic improvements
+      - Technology upgrade
+      - Accessibility improvements
+      - Safety enhancements
+      - Capacity expansion
+      - Energy efficiency
+      - Functionality addition
+      - Code compliance
+      - Other
+      required: true
+    - id: 20
+      name: scope_of_work
+      label: Scope of Work
+      hint: Detailed description of work
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: materials_needed
+      label: Materials/Equipment Needed
+      hint: List items
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_justification
+      label: -- Justification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: reason_for_upgrade
+      label: Primary Reason for Upgrade
+      hint: null
+      type: select_one
+      options:
+      - Safety concerns
+      - User complaints
+      - Equipment failure
+      - Obsolescence
+      - Increased demand
+      - Regulatory compliance
+      - Aesthetic improvement
+      - Property value enhancement
+      - Energy savings
+      - Other
+      required: true
+    - id: 24
+      name: justification_detail
+      label: Detailed Justification
+      hint: Why is this upgrade necessary
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: user_impact
+      label: How Will This Affect Users
+      hint: Benefits to residents/guests
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - Low - Can wait
+      - Medium - Should do soon
+      - High - Should prioritize
+      - Critical - Immediate action needed
+      required: true
+    - id: 27
+      name: section_cost_estimate
+      label: -- Cost Estimate --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: estimated_cost
+      label: Estimated Cost
+      hint: In dollars
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: cost_range_low
+      label: Estimated Cost Range - Low
+      hint: If range
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: cost_range_high
+      label: Estimated Cost Range - High
+      hint: If range
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: cost_basis
+      label: Basis of Estimate
+      hint: How was estimate calculated
+      type: select_one
+      options:
+      - Vendor quote
+      - Historical data
+      - Industry standard
+      - Rough estimate
+      - Detailed analysis
+      required: false
+    - id: 32
+      name: vendor_information
+      label: Vendor Information
+      hint: If vendor selected
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: section_timeline
+      label: -- Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: proposed_start_date
+      label: Proposed Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 35
+      name: proposed_completion_date
+      label: Proposed Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 36
+      name: project_duration
+      label: Estimated Project Duration
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 week
+      - 1-2 weeks
+      - 2-4 weeks
+      - 1-3 months
+      - More than 3 months
+      required: false
+    - id: 37
+      name: disruption_expected
+      label: Expected Disruption to Users
+      hint: null
+      type: select_one
+      options:
+      - No disruption
+      - Minor disruption
+      - Moderate disruption
+      - Major disruption
+      - Amenity closure required
+      required: true
+    - id: 38
+      name: disruption_details
+      label: Disruption Details
+      hint: How will users be affected
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: section_benefits
+      label: -- Expected Benefits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 40
+      name: expected_benefits
+      label: Expected Benefits
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Improved safety
+      - Enhanced user experience
+      - Increased property value
+      - Energy savings
+      - Reduced maintenance costs
+      - Regulatory compliance
+      - Increased occupancy
+      - Competitive advantage
+      - Extended equipment life
+      - Other
+      required: true
+    - id: 41
+      name: benefits_detail
+      label: Describe Expected Benefits
+      hint: More details
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: roi_expectation
+      label: Expected Return on Investment
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: section_alternatives
+      label: -- Alternatives Considered --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 44
+      name: alternatives_considered
+      label: Alternatives Considered
+      hint: What other options
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: why_this_option
+      label: Why This Option Was Selected
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: section_support
+      label: -- Support and Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 47
+      name: stakeholder_support
+      label: Stakeholder Support Level
+      hint: Residents, management, etc.
+      type: select_one
+      options:
+      - Strong support
+      - Moderate support
+      - Neutral
+      - Some opposition
+      - Significant opposition
+      required: false
+    - id: 48
+      name: user_feedback
+      label: User Feedback Received
+      hint: From residents/guests
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: section_documentation
+      label: -- Supporting Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 50
+      name: documentation_attached
+      label: Documentation Attached
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Photos
+      - Vendor quotes
+      - Technical specifications
+      - Cost breakdown
+      - Timeline chart
+      - User survey results
+      - Inspection reports
+      - Other
+      required: false
+    - id: 51
+      name: documentation_detail
+      label: List Attached Documents
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 52
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 53
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 54
+      name: recommendations
+      label: Recommendations
+      hint: Any suggestions
+      type: text
+      options: []
+      required: false
+    - id: 55
+      name: section_approval
+      label: -- Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 56
+      name: proposer_signature
+      label: Proposer Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 57
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 58
+      name: supervisor_review
+      label: Supervisor Review
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 59
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: false

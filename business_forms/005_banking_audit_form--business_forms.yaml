@@ -1,0 +1,103 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Banking Audit Form
+    pages:
+      - id: 1
+        name: audit_header
+        label: -- Audit Information
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: audit_id
+        label: Audit Identifier
+        hint: Internal audit reference number
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: department_audited
+        label: Department or Branch
+        hint: Unit being audited
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: auditor_name
+        label: Auditor Name
+        hint: Lead auditor conducting the audit
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: audit_period_start
+        label: Audit Period Start Date
+        hint: Period covered by the audit
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: audit_period_end
+        label: Audit Period End Date
+        hint: End date of the audit period
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: scope_of_audit
+        label: Scope of Audit
+        hint: Brief description of audit scope
+        type: note
+        options: []
+        required: true
+      - id: 8
+        name: risk_rating
+        label: Risk Rating
+        hint: Select the overall risk assessment
+        type: select_one
+        options:
+          - Low
+          - Medium
+          - High
+        required: true
+      - id: 9
+        name: observations
+        label: Key Observations
+        hint: Detailed observations and evidence references
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: corrective_action_plan
+        label: Corrective Action Plan
+        hint: Actions, owners, and target dates
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: sign_off_name
+        label: Audit Sign Off Name
+        hint: Name of the approving manager
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: sign_off_date
+        label: Audit Sign Off Date
+        hint: Date the audit was approved
+        type: date
+        options: []
+        required: true

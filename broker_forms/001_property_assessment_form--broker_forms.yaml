@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Assessment Form
+    pages:
+    - id: 1
+      name: property_type
+      label: What type of property is this?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: property_location
+      label: Property Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_address
+      label: Address
+      hint: Enter the address of the property
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_value
+      label: Property Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: property_year_built
+      label: Property Year Built
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: property_assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: property_assessor
+      label: Assessor's Name
+      hint: Enter Assessor's Name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: property_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: property_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

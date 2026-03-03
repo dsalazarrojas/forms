@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Batch Rejection Summary Report Form
+    pages:
+    - id: 1
+      name: rejection_header
+      label: -- Batch Rejection Incident Report --
+      hint: To be completed by Quality Control for any batch failing to meet release
+        standards.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reporting_officer
+      label: Reporting Officer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: rejected_batch_id
+      label: Rejected Batch ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: rejection_date
+      label: Date of Rejection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_rejection
+      label: Primary Reason for Rejection
+      hint: null
+      type: select_one
+      options:
+      - Material Contamination
+      - Failed Potency Assay
+      - Incorrect Packaging/Labeling
+      - Equipment Malfunction
+      - Human Error
+      - Regulatory Non-compliance
+      required: true
+    - id: 6
+      name: defect_description
+      label: Detailed Description of the Defect
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: impact_header
+      label: -- Rejection Impact Analysis --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: rejected_quantity
+      label: Quantity of Rejected Material
+      hint: Include units (e.g. kg, liters, units)
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: estimated_cost_loss
+      label: Estimated Financial Loss ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: disposal_method
+      label: Approved Disposal Method
+      hint: null
+      type: select_one
+      options:
+      - Chemical Neutralization
+      - Incineration
+      - Landfill (Non-hazardous)
+      - Return to Supplier
+      - Secure Shredding
+      required: true
+    - id: 11
+      name: corrective_action_header
+      label: -- Corrective and Preventive Actions (CAPA) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: capa_assigned_to
+      label: Action Assigned To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: capa_deadline
+      label: Completion Deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: capa_summary
+      label: Summary of Immediate Corrective Action
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: final_approval_officer
+      label: Operations Manager Signature/Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: report_timestamp
+      label: Report Completion Timestamp
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Role Assignment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Mother or Father
+      - Brother or Sister
+      - Son or Daughter
+      - Spouse or Partner
+      - Other
+      required: false
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - Team Member
+      - Other
+      required: false
+    - id: 9
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: date_of_last_emergency
+      label: Date of Last Emergency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_of_last_emergency
+      label: Time of Last Emergency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: number_of_emergencies
+      label: Number of Emergencies
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: total_emergency_calls
+      label: Total Emergency Calls
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: emergency_role_assignment_form_status
+      label: Emergency Role Assignment Form Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Not Started
+      - On Hold
+      required: false
+    - id: 15
+      name: emergency_role_assignment_form_comments
+      label: Emergency Role Assignment Form Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: team_member_name
+      label: Team Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: team_member_phone
+      label: Team Member Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: team_member_email
+      label: Team Member Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: other_name
+      label: Other Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: other_phone
+      label: Other Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: other_email
+      label: Other Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: assigned_to_other
+      label: Assigned To Other
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - Team Member
+      - Other
+      required: false
+    - id: 26
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Partially
+      required: false

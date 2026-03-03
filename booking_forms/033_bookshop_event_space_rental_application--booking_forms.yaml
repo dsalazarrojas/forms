@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bookshop Event Space Rental Application
+    pages:
+    - id: 1
+      name: organizer_name
+      label: Organizer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organizer_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: organizer_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: If representing an organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_type
+      label: Event Type
+      hint: What type of event
+      type: select_one
+      options:
+      - Author reading
+      - Book signing
+      - Workshop
+      - Book club meeting
+      - Literary discussion
+      - Community event
+      - Private event
+      - Other
+      required: true
+    - id: 6
+      name: event_date
+      label: Preferred Event Date
+      hint: When would you like to host
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_start_time
+      label: Event Start Time
+      hint: What time should it start
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: event_duration
+      label: Event Duration
+      hint: How long will it last
+      type: select_one
+      options:
+      - 1 hour
+      - 1.5 hours
+      - 2 hours
+      - 2.5 hours
+      - 3 hours
+      - 4 hours
+      - Other
+      required: true
+    - id: 9
+      name: expected_attendance
+      label: Expected Number of Attendees
+      hint: Approximate guest count
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: space_setup
+      label: Space Setup Requirements
+      hint: How do you want to arrange space
+      type: select_one
+      options:
+      - Theater style seating
+      - Classroom style
+      - Banquet style
+      - Cocktail reception
+      - U-shape configuration
+      - Other
+      required: true
+    - id: 11
+      name: equipment_needed
+      label: Equipment Needed
+      hint: Select required equipment
+      type: select_multiple
+      options:
+      - Microphone and speakers
+      - Projector and screen
+      - Tables and chairs
+      - Podium
+      - Sound system
+      - Lighting
+      - Refreshment setup
+      required: false
+    - id: 12
+      name: catering_plans
+      label: Catering Plans
+      hint: Will you provide refreshments
+      type: select_one
+      options:
+      - Bookshop provides
+      - Organizer provides
+      - None
+      - To be determined
+      required: true
+    - id: 13
+      name: book_focus
+      label: Books or Authors Featured
+      hint: Which books will be featured
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: rental_budget
+      label: Rental Budget
+      hint: What is your budget
+      type: select_one
+      options:
+      - Under $200
+      - $200 - $500
+      - $500 - $1,000
+      - $1,000 - $2,000
+      - $2,000+
+      required: false
+    - id: 15
+      name: additional_requests
+      label: Additional Requests
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false

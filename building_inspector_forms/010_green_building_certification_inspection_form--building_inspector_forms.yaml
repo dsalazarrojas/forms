@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Green Building Certification Inspection Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: building_location
+      label: Building Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: building_type
+      label: Building Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Single-Family'', ''value'': ''single-family''}'
+      - '{''label'': ''Multi-Family'', ''value'': ''multi-family''}'
+      - '{''label'': ''Commercial'', ''value'': ''commercial''}'
+      required: false
+    - id: 4
+      name: building_status
+      label: Building Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''New Construction'', ''value'': ''new-construction''}'
+      - '{''label'': ''Existing'', ''value'': ''existing''}'
+      - '{''label'': ''In Progress'', ''value'': ''in-progress''}'
+      required: false
+    - id: 5
+      name: building_characteristics
+      label: Building Characteristics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: energy_efficiency_features
+      label: Energy Efficiency Features
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Insulation'', ''value'': ''insulation''}'
+      - '{''label'': ''Solar Panels'', ''value'': ''solar-panels''}'
+      - '{''label'': ''Rainwater Harvesting System'', ''value'': ''rainwater-harvesting-system''}'
+      required: false
+    - id: 7
+      name: sustainability_features
+      label: Sustainability Features
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Green Roof'', ''value'': ''green-roof''}'
+      - '{''label'': ''Green Wall'', ''value'': ''green-wall''}'
+      - '{''label'': ''Greenhouse'', ''value'': ''greenhouse''}'
+      required: false
+    - id: 8
+      name: certification_status
+      label: Certification Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Certified'', ''value'': ''certified''}'
+      - '{''label'': ''Provisional'', ''value'': ''provisional''}'
+      - '{''label'': ''Denied'', ''value'': ''denied''}'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: energy_consumption
+      label: Energy Consumption
+      hint: null
+      type: number
+      options: []
+      required: false

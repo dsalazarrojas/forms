@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Manager Recommendation Form
+    pages:
+    - id: 1
+      name: section_recommender_info
+      label: -- Recommender Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: recommender_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: recommender_title
+      label: Your Job Title and Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: relationship_to_manager
+      label: Your Professional Relationship to the Manager
+      hint: null
+      type: select_one
+      options:
+      - Supervisor
+      - Colleague/Peer
+      - Subcontractor
+      - Client/Project Owner
+      - Vendor/Supplier
+      required: true
+    - id: 5
+      name: time_known_manager
+      label: How long have you worked with this manager?
+      hint: Years/Months
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_manager_ident
+      label: -- Manager Being Recommended --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: manager_full_name
+      label: Full Name of Construction Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_worked_on
+      label: Project(s) where you worked together
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_skills_assessment
+      label: -- Skills and Competency Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: leadership_rating
+      label: Leadership and Team Management Skills
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: technical_knowledge_rating
+      label: Technical Construction Knowledge
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: budget_management_rating
+      label: Budgeting and Financial Oversight
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: communication_rating
+      label: Communication and Stakeholder Relations
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: scheduling_accuracy_rating
+      label: Project Scheduling and Time Management
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: safety_prioritization
+      label: Prioritizes Health and Safety Standards
+      hint: 1 - Strongly Disagree, 5 - Strongly Agree
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: section_qualitative_feedback
+      label: -- Qualitative Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: primary_strength_desc
+      label: What is this manager's single greatest professional strength?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: work_rehire_recommendation
+      label: Would you recommend this manager for future projects?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Highly Recommended
+      - Yes - With Reservations
+      - false
+      required: true
+    - id: 19
+      name: additional_comments
+      label: Additional Comments or Testimonial
+      hint: Any specific achievements or situations worth noting?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: recommendation_date
+      label: Date of Recommendation
+      hint: null
+      type: date
+      options: []
+      required: true

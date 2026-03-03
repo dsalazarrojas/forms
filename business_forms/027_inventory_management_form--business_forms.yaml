@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: inventory_management_form
+    pages:
+    - id: 1
+      name: store_id
+      label: Store ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: product_id
+      label: Product ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reorder_point
+      label: Reorder Point
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: reorder_quantity
+      label: Reorder Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: vendor
+      label: Vendor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: supplier_id
+      label: Supplier ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: false

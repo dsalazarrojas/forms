@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: packing_quantity_estimator
+    pages:
+    - id: 1
+      name: move_details
+      label: Move Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inventory_lists
+      label: Inventory List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: packing_preferences
+      label: Packing Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: packing_quantity
+      label: Packing Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: estimated_weight
+      label: Estimated Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: packing_cost
+      label: Packing Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: packing_cost_type
+      label: Packing Cost Type
+      hint: null
+      type: select_multiple
+      options:
+      - Flat Fee
+      - Per Unit
+      required: false
+    - id: 8
+      name: packing_date
+      label: Packing Date
+      hint: null
+      type: date
+      options: []
+      required: false

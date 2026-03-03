@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: senior-living-trial-stay-booking-form
+    pages:
+    - id: 1
+      name: trial_stay_requests
+      label: Trial Stay Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_needs
+      label: Guest Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Guest
+      - Other
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: follow_up_schedule
+      label: Follow Up Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: phone_numbers
+      label: Phone Numbers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: special_needs
+      label: Special Needs
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: stay_duration
+      label: Stay Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: guest_comments
+      label: Guest Comments
+      hint: null
+      type: text
+      options: []
+      required: false

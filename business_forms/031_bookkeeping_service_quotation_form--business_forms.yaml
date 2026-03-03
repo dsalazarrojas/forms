@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bookkeeping Service Quotation Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Name of the business
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: Full name of contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_email
+      label: Business Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: business_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_address
+      label: Business Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_structure
+      label: Business Structure
+      hint: Type of business entity
+      type: select_one
+      options:
+      - Sole proprietorship
+      - Partnership
+      - LLC
+      - Corporation
+      - S-Corp
+      - Non-profit
+      required: true
+    - id: 7
+      name: years_operating
+      label: Years in Operation
+      hint: How long has business operated
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: monthly_volume
+      label: Monthly Transaction Volume
+      hint: Approximate transactions per month
+      type: select_one
+      options:
+      - 0-50
+      - 50-100
+      - 100-250
+      - 250-500
+      - 500+
+      required: true
+    - id: 9
+      name: current_system
+      label: Current Bookkeeping System
+      hint: How do you manage finances now
+      type: select_one
+      options:
+      - No system
+      - Manual spreadsheets
+      - Basic software
+      - Advanced software
+      - Accountant managed
+      required: true
+    - id: 10
+      name: services_needed
+      label: Services Needed
+      hint: Select required services
+      type: select_multiple
+      options:
+      - General bookkeeping
+      - Payroll processing
+      - Tax preparation
+      - Financial statements
+      - Bank reconciliation
+      - Invoice management
+      - Expense tracking
+      - Audit support
+      required: true
+    - id: 11
+      name: employees_count
+      label: Number of Employees
+      hint: How many people on payroll
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: accounting_software
+      label: Preferred Accounting Software
+      hint: Software preference if any
+      type: select_one
+      options:
+      - QuickBooks
+      - Xero
+      - FreshBooks
+      - Wave
+      - No preference
+      - Other
+      required: false
+    - id: 13
+      name: budget_range
+      label: Budget Range
+      hint: Monthly budget for services
+      type: select_one
+      options:
+      - Under $500
+      - $500 - $1,000
+      - $1,000 - $2,500
+      - $2,500 - $5,000
+      - $5,000+
+      required: true
+    - id: 14
+      name: timeline_needed
+      label: Timeline for Services
+      hint: When do you need to start
+      type: select_one
+      options:
+      - Immediately
+      - Within 2 weeks
+      - Within 1 month
+      - Flexible
+      required: true
+    - id: 15
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information for quotation
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Computing Subscription Renewal Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Legal company name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: account_number
+      label: Account Number
+      hint: Existing account or subscription number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: primary_contact
+      label: Primary Contact Name
+      hint: Full name of main contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Email address for renewal correspondence
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Phone for renewal inquiries
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_current
+      label: -- Current Subscription Details --
+      hint: Information about your existing subscription
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: current_plan
+      label: Current Cloud Plan or Service
+      hint: Name of current subscription
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_monthly_cost
+      label: Current Monthly Cost
+      hint: Amount in dollars or local currency
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: current_users
+      label: Current Number of Users
+      hint: How many users on current plan
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: current_storage
+      label: Current Storage Allocation
+      hint: GB or TB of storage
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: current_renewal_date
+      label: Current Renewal or Expiration Date
+      hint: When does current subscription expire
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: section_new
+      label: -- Renewal Plan Details --
+      hint: What you want for the new subscription
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: renew_same_plan
+      label: Are you renewing the same plan
+      hint: null
+      type: select_one
+      options:
+      - Yes, same plan
+      - No, upgrading
+      - No, downgrading
+      - No, changing to different service
+      required: true
+    - id: 14
+      name: new_plan
+      label: New Cloud Plan or Service
+      hint: If different from current
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: new_users
+      label: Number of Users Needed
+      hint: For renewal period
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: new_storage
+      label: Storage Allocation Needed
+      hint: GB or TB required
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_features
+      label: Additional Features or Add-ons Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Premium support
+      - Advanced analytics
+      - Custom integrations
+      - Enhanced security
+      - Backup services
+      - Training
+      - Consulting
+      - Other
+      required: false
+    - id: 18
+      name: section_payment
+      label: -- Payment Information --
+      hint: Billing and payment details
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: billing_cycle
+      label: Preferred Billing Cycle
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annual
+      - Multi-year
+      required: true
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - Purchase order
+      - Invoice
+      - Other
+      required: true
+    - id: 21
+      name: billing_address
+      label: Billing Address
+      hint: Full billing address
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: section_preferences
+      label: -- Renewal Preferences --
+      hint: Your preferences for renewal
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: auto_renewal
+      label: Enable Auto-Renewal
+      hint: Automatically renew subscription
+      type: select_one
+      options:
+      - Yes, enable auto-renewal
+      - No, require manual renewal
+      - Not sure
+      required: true
+    - id: 24
+      name: renewal_notes
+      label: Special Requests or Notes
+      hint: Any specific requirements for renewal
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: agreed_to_terms
+      label: I agree to the renewal terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true

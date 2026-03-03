@@ -1,0 +1,193 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Management Checklist
+    pages:
+    - id: 1
+      name: audit_details_header
+      label: --- Audit and Initiative Details ---
+      hint: Standard identifiers for the AI project management audit.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_manager_name
+      label: Responsible Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ai_initiative_name
+      label: AI Initiative / Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: audit_date
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: strategy_checklist_header
+      label: --- 1. Strategic Alignment & Planning ---
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: strategic_items
+      label: Planning Checklist
+      hint: Check all that have been completed.
+      type: select_multiple
+      options:
+      - label: Business objectives are clearly defined and measurable.
+        value: objectives
+      - label: All key stakeholders have been identified and aligned.
+        value: stakeholders
+      - label: Resource requirements (budget, staff, infra) are secured.
+        value: resources
+      - label: Buy-vs-Build analysis has been completed.
+        value: buy_vs_build
+      required: true
+    - id: 7
+      name: technical_readiness_header
+      label: --- 2. Technical & Data Readiness ---
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: technical_items
+      label: Technical Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - label: Training data quality and volume have been verified.
+        value: data_quality
+      - label: Model scalability and performance requirements defined.
+        value: scalability
+      - label: Integration with existing tech stack is planned.
+        value: integration
+      - label: Technical debt and maintenance costs estimated.
+        value: tech_debt
+      required: true
+    - id: 9
+      name: governance_ethics_header
+      label: --- 3. Governance, Ethics & Compliance ---
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: governance_items
+      label: Compliance Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - label: GDPR / PII / Data Privacy review is complete.
+        value: privacy
+      - label: Initial algorithmic bias assessment conducted.
+        value: bias_audit
+      - label: Model explainability and transparency documented.
+        value: explainability
+      - label: Ethical impact on end-users has been assessed.
+        value: ethics
+      required: true
+    - id: 11
+      name: risk_security_header
+      label: --- 4. Risk & Security ---
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: risk_items
+      label: Risk Management Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - label: Adversarial attack vulnerability scan conducted.
+        value: security_scan
+      - label: "'Human-in-the-loop' intervention points defined."
+        value: hitl
+      - label: Fallback / Disaster recovery plan established.
+        value: disaster_recovery
+      - label: Insurance / Liability coverage reviewed.
+        value: liability
+      required: true
+    - id: 13
+      name: performance_monitoring_header
+      label: --- 5. Monitoring & Performance ---
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: monitoring_items
+      label: Monitoring Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - label: Real-time drift detection tools implemented.
+        value: drift_detection
+      - label: KPI dashboards for business impact ready.
+        value: kpi_dashboards
+      - label: Periodic retraining schedule established.
+        value: retraining
+      required: true
+    - id: 15
+      name: final_assessment_note
+      label: --- Final Assessment ---
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: management_approval_status
+      label: Initiative Approval Status
+      hint: null
+      type: select_one
+      options:
+      - label: Ready for Deployment (All checks green)
+        value: ready
+      - label: Conditional Approval (Minor items pending)
+        value: conditional
+      - label: Hold / Needs Revision (Critical gaps)
+        value: hold
+      required: true
+    - id: 17
+      name: critical_gaps_description
+      label: Description of Critical Gaps (if any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: next_audit_date
+      label: Next Scheduled Management Review
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: notification_email
+      label: Manager Email for Confirmation
+      hint: null
+      type: email
+      options: []
+      required: true

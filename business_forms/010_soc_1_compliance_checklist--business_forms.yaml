@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: soc-1-compliance-checklist
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: risk_assessment
+      label: Risk Assessment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: audit_finding
+      label: Audit Finding
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: control_environment
+      label: Control Environment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: audit_finding_1
+      label: Audit Finding 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: audit_findings
+      label: Audit Findings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: risk_assessment_1
+      label: Risk Assessment 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: risk_assessment_2
+      label: Risk Assessment 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: risk_assessment_3
+      label: Risk Assessment 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: risk_assessments
+      label: Risk Assessments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assessment_1
+      label: Assessment 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

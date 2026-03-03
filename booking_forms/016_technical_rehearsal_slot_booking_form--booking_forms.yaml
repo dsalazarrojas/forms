@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: technical_rehearsal_slot_booking_form
+    pages:
+    - id: 1
+      name: tech_rehearsal_form
+      label: Tech Rehearsal Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rehearsal_slot_date
+      label: Rehearsal Slot Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: "12:00 AM"
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: Enter location name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: Enter contact info
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tech_require
+      label: Tech Requirement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: special_req
+      label: Special Request
+      hint: Enter special requirements
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: booking_manager
+      label: Booking Manager
+      hint: null
+      type: select_one
+      options:
+      - Booking Manager 1
+      - Booking Manager 2
+      - Booking Manager 3
+      required: false
+    - id: 10
+      name: booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: rehearsal_type
+      label: Rehearsal Type
+      hint: Select type of tech rehearsals
+      type: select_one
+      options:
+      - Technical Rehearsal
+      - Dress Rehearsal
+      - Pre-Production Rehearsal
+      required: false
+    - id: 12
+      name: rehearsal_time
+      label: Rehearsal Time
+      hint: Select reheasral time slot
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: rehearsal_days
+      label: Rehearsal Days
+      hint: Select number of reheasral days
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: rehearsal_start_time
+      label: Rehearsal Start Time
+      hint: Select rehersal start time
+      type: date
+      options: []
+      required: false

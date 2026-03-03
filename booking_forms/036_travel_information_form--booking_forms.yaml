@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Information Form
+    pages:
+    - id: 1
+      name: travel_details
+      label: Travel Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: flight_info
+      label: flight info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: arrival_info
+      label: Arrival Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: return_info
+      label: Return Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: travel_purpose
+      label: Travel Purpose
+      hint: null
+      type: select_multiple
+      options:
+      - Corporate Business Trips
+      - Meetings
+      - Events
+      - Other
+      required: false
+    - id: 8
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_one
+      options:
+      - Business Class
+      - Economy Class
+      - First Class
+      - Other
+      required: false
+    - id: 9
+      name: destination
+      label: Destination
+      hint: null
+      type: select_multiple
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      - Other
+      required: false
+    - id: 10
+      name: departure_time
+      label: Departure Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: travel_frequency
+      label: Travel Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: travel_status
+      label: Travel Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Confirmed
+      - Cancelled
+      required: false
+    - id: 17
+      name: travel_status_reason
+      label: Travel Status Reason
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: travel_group
+      label: Travel Group
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: travel_group_name
+      label: Group Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: travel_group_size
+      label: Group Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: travel_group_contact
+      label: Contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: travel_group_contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: travel_group_contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: travel_group_comment
+      label: Group Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

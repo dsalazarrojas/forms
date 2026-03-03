@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airbnb Accommodation Form
+    pages:
+    - id: 1
+      name: guest_first_name
+      label: First Name
+      hint: Guest first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_last_name
+      label: Last Name
+      hint: Guest last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: country
+      label: Country of Residence
+      hint: Where are you from
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: check_in_date
+      label: Check-in Date
+      hint: Arrival date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: check_out_date
+      label: Check-out Date
+      hint: Departure date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: number_of_guests
+      label: Number of Guests
+      hint: Total guests including children
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: adults
+      label: Number of Adults
+      hint: Adult guests
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: children
+      label: Number of Children
+      hint: Child guests
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: infants
+      label: Number of Infants
+      hint: Infants under 2
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: pets
+      label: Bringing Pets
+      hint: Will you bring pets
+      type: select_one
+      options:
+      - false
+      - Yes, 1 pet
+      - Yes, 2 pets
+      - Yes, more than 2
+      required: true
+    - id: 13
+      name: pet_details
+      label: Pet Details
+      hint: Describe your pets
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: property_type
+      label: Property Type
+      hint: Type of accommodation
+      type: select_one
+      options:
+      - Entire home
+      - Private room
+      - Shared room
+      - Unique space
+      required: true
+    - id: 15
+      name: purpose_of_visit
+      label: Purpose of Visit
+      hint: Reason for travel
+      type: select_one
+      options:
+      - Leisure
+      - Business
+      - Family visit
+      - Event
+      - Other
+      required: true
+    - id: 16
+      name: special_requests
+      label: Special Requests
+      hint: Any special needs or requests
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: early_checkin
+      label: Early Check-in Requested
+      hint: Would you like early check-in
+      type: select_one
+      options:
+      - false
+      - Yes, if available
+      - Yes, required
+      required: false
+    - id: 18
+      name: late_checkout
+      label: Late Check-out Requested
+      hint: Would you like late check-out
+      type: select_one
+      options:
+      - false
+      - Yes, if available
+      - Yes, required
+      required: false
+    - id: 19
+      name: transportation_needed
+      label: Transportation Needed
+      hint: Do you need airport pickup
+      type: select_one
+      options:
+      - false
+      - Yes, airport pickup
+      - Yes, airport dropoff
+      - Yes, both
+      required: false
+    - id: 20
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any dietary needs if breakfast included
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Halal
+      - Kosher
+      - Other
+      required: false
+    - id: 21
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accessibility requirements
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: Source of booking
+      type: select_one
+      options:
+      - Airbnb platform
+      - Direct website
+      - Social media
+      - Friend referral
+      - Search engine
+      - Other
+      required: false
+    - id: 23
+      name: guest_signature
+      label: Guest Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: booking_date
+      label: Booking Date
+      hint: Date of booking
+      type: date
+      options: []
+      required: true

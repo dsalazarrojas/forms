@@ -1,0 +1,103 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: regulatory_audit_preparation_application_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: regulatory_audit_scope
+      label: Regulatory Audit Scope
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: regulatory_audit_readiness
+      label: Regulatory Audit Readiness
+      hint: null
+      type: select_one
+      options:
+      - Scope Identified
+      - Scope Not Identified
+      required: false
+    - id: 4
+      name: expected_audit_date
+      label: Expected Audit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: regulatory_audit_type
+      label: Regulatory Audit Type
+      hint: null
+      type: select_one
+      options:
+      - Internal
+      - External
+      - Third Party
+      required: false
+    - id: 6
+      name: audit_sponsor
+      label: Audit Sponsor
+      hint: null
+      type: select_multiple
+      options:
+      - Compliance Department
+      - Regulatory Committee
+      - Audit Committee
+      required: false
+    - id: 7
+      name: regulatory_audit_frequency
+      label: Regulatory Audit Frequency
+      hint: null
+      type: select_one
+      options:
+      - Annually
+      - Bi-Annually
+      - Quarterly
+      required: false
+    - id: 8
+      name: regulatory_audit_status
+      label: Regulatory Audit Status
+      hint: null
+      type: select_multiple
+      options:
+      - Scheduled
+      - Completed
+      - Delayed
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_compliance_officer
+      label: Assigned Compliance Officer
+      hint: null
+      type: select_multiple
+      options:
+      - Compliance Officer
+      - Audit Officer
+      - Regulatory Officer
+      required: false

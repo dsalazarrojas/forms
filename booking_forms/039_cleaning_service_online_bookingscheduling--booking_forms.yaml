@@ -1,0 +1,368 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Service Online BookingScheduling
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_location
+      label: -- Service Location --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: service_type
+      label: Service Type
+      hint: What type of property needs cleaning
+      type: select_one
+      options:
+      - Residential - House
+      - Residential - Apartment
+      - Residential - Condo
+      - Residential - Townhouse
+      - Commercial - Office
+      - Commercial - Retail
+      - Commercial - Restaurant
+      - Commercial - Medical
+      - Other
+      required: true
+    - id: 8
+      name: square_footage
+      label: Approximate Square Footage
+      hint: Size of the property
+      type: select_one
+      options:
+      - Under 1,000 sq ft
+      - 1,000 - 2,000 sq ft
+      - 2,001 - 3,000 sq ft
+      - 3,001 - 5,000 sq ft
+      - Over 5,000 sq ft
+      required: true
+    - id: 9
+      name: bedrooms
+      label: Number of Bedrooms
+      hint: If applicable
+      type: select_one
+      options:
+      - Studio
+      - 1 Bedroom
+      - 2 Bedrooms
+      - 3 Bedrooms
+      - 4 Bedrooms
+      - 5+ Bedrooms
+      - Not Applicable
+      required: false
+    - id: 10
+      name: bathrooms
+      label: Number of Bathrooms
+      hint: If applicable
+      type: select_one
+      options:
+      - 1 Bathroom
+      - 1.5 Bathrooms
+      - 2 Bathrooms
+      - 2.5 Bathrooms
+      - 3 Bathrooms
+      - 4+ Bathrooms
+      - Not Applicable
+      required: false
+    - id: 11
+      name: full_address
+      label: Full Service Address
+      hint: Street address, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_header_cleaning
+      label: -- Cleaning Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: cleaning_service_type
+      label: Cleaning Service Type
+      hint: What type of cleaning do you need
+      type: select_one
+      options:
+      - Standard Cleaning
+      - Deep Cleaning
+      - Move-In or Move-Out
+      - Post-Construction
+      - Spring Cleaning
+      - One-Time Cleaning
+      - Recurring Cleaning
+      required: true
+    - id: 14
+      name: frequency
+      label: Service Frequency
+      hint: How often do you need service
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - One-Time Only
+      - Not Sure
+      required: true
+    - id: 15
+      name: extras
+      label: Additional Services
+      hint: Select any extras
+      type: select_multiple
+      options:
+      - Interior Windows
+      - Inside Oven
+      - Inside Refrigerator
+      - Inside Cabinets
+      - Baseboards
+      - Walls
+      - Light Fixtures
+      - Blinds
+      - Carpet Shampoo
+      - Floor Waxing
+      - Laundry
+      - Dishes
+      - Make Beds
+      - Organization
+      required: false
+    - id: 16
+      name: section_header_schedule
+      label: -- Schedule Your Cleaning --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: preferred_date
+      label: Preferred Date
+      hint: When would you like your cleaning
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: preferred_time_of_day
+      label: Preferred Time of Day
+      hint: What time works best for you
+      type: select_one
+      options:
+      - Morning (8am - 12pm)
+      - Afternoon (12pm - 4pm)
+      - Evening (4pm - 8pm)
+      - Any Time
+      required: true
+    - id: 19
+      name: flexible_with_date
+      label: Are You Flexible with the Date
+      hint: Can we schedule on a different date if needed
+      type: select_one
+      options:
+      - Yes - Very Flexible
+      - Somewhat Flexible
+      - No - Preferred Date Only
+      required: true
+    - id: 20
+      name: section_header_home_details
+      label: -- Home Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: pets
+      label: Pets in Home
+      hint: Do you have any pets
+      type: select_multiple
+      options:
+      - No Pets
+      - Dogs
+      - Cats
+      - Birds
+      - Fish
+      - Other
+      required: true
+    - id: 22
+      name: pet_instructions
+      label: Pet Instructions
+      hint: Any special instructions about pets
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: allergies
+      label: Allergies or Sensitivities
+      hint: Any allergies in your household
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: cleaning_products
+      label: Cleaning Products Preference
+      hint: What type of products should we use
+      type: select_one
+      options:
+      - Standard Products
+      - Eco-Friendly or Green
+      - Hypoallergenic
+      - I Will Provide Products
+      - No Preference
+      required: true
+    - id: 25
+      name: section_header_access
+      label: -- Property Access --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: access_method
+      label: How Will We Access Your Home
+      hint: Access instructions
+      type: select_one
+      options:
+      - Someone Will Be Home
+      - Lockbox
+      - Hide Key
+      - Door Code
+      - Building Concierge
+      - Other Arrangements
+      required: true
+    - id: 27
+      name: access_details
+      label: Access Details
+      hint: Provide specific instructions
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: parking_available
+      label: Is Parking Available
+      hint: Where can our team park
+      type: select_one
+      options:
+      - Yes - Driveway
+      - Yes - Street Parking
+      - Yes - Parking Lot
+      - No - Special Arrangements Needed
+      required: true
+    - id: 29
+      name: parking_details
+      label: Parking Details
+      hint: Any parking instructions
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: section_header_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: payment_method_preference
+      label: Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      - Cash
+      - Invoice (Commercial Only)
+      required: true
+    - id: 32
+      name: promo_code
+      label: Promo Code
+      hint: Do you have a promo code
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: section_header_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: How did you find our services
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend or Family
+      - Google Search
+      - Advertisement
+      - Other
+      required: false
+    - id: 36
+      name: terms_agreement
+      label: I Agree to Terms and Conditions
+      hint: Do you agree to our terms
+      type: select_one
+      options:
+      - Yes - I Agree
+      - No - I Do Not Agree
+      required: true
+    - id: 37
+      name: customer_signature
+      label: Customer Signature (Type Full Name)
+      hint: Your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 38
+      name: booking_date
+      label: Booking Date
+      hint: Date of this booking
+      type: date
+      options: []
+      required: true

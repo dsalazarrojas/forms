@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Taxi Online Booking
+    pages:
+    - id: 1
+      name: pickup_location
+      label: Pickup Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dropoff_location
+      label: Dropoff location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: instruction
+      label: Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: select_journey_type
+      label: Select Journey Type
+      hint: Select one option
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''One way'', ''label'': ''One way''}'
+      - '{''id'': 2, ''name'': ''Return'', ''label'': ''Return''}'
+      - '{''id'': 3, ''name'': ''One day'', ''label'': ''One day''}'
+      - '{''id'': 4, ''name'': ''Multiple'', ''label'': ''Multiple''}'
+      required: false
+    - id: 5
+      name: select_taxi_type
+      label: Select Taxi Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Sedan'', ''label'': ''Sedan''}'
+      - '{''id'': 2, ''name'': ''Minivan'', ''label'': ''Minivan''}'
+      - '{''id'': 3, ''name'': ''Luxury'', ''label'': ''Luxury''}'
+      required: false
+    - id: 6
+      name: insert_route
+      label: Insert Route
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: Select a date
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: Select a time
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: false

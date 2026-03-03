@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Request Booking Form
+    pages:
+    - id: 1
+      name: travel_request
+      label: travel request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: trip_details
+      label: trip details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: client_preferences
+      label: client preferences
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: trip_dates
+      label: trip dates
+      hint: null
+      type: select_one
+      options:
+      - 01/01/2024
+      - 01/02/2024
+      - 01/03/2024
+      required: true
+    - id: 5
+      name: travel_agency
+      label: travel agency
+      hint: null
+      type: select_one
+      options:
+      - agency1
+      - agency2
+      - agency3
+      required: true
+    - id: 6
+      name: client_email
+      label: client email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: client_phone
+      label: client phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_details
+      label: additional details
+      hint: null
+      type: note
+      options: []
+      required: false

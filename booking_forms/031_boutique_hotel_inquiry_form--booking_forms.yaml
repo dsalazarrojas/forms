@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boutique Hotel Inquiry Form
+    pages:
+    - id: 1
+      name: contact_info_header
+      label: -- Guest Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_email_addr
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: guest_phone_no
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: inquiry_details_header
+      label: -- Inquiry Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: check_in_proposed
+      label: Proposed Check-in Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: check_out_proposed
+      label: Proposed Check-out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: guests_val
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: stay_occasion
+      label: Is this for a special occasion?
+      hint: null
+      type: select_one
+      options:
+      - Birthday
+      - Anniversary
+      - Honeymoon
+      - Business Trip
+      - Casual Stay
+      required: false
+    - id: 10
+      name: stay_reqs
+      label: Tell us more about your stay requirements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: preferences_header
+      label: -- Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: services_interest
+      label: Services you are interested in
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fine Dining
+      - Spa Packages
+      - Guided City Tours
+      - Private Transportation
+      required: false
+    - id: 13
+      name: contact_pref
+      label: How would you prefer us to contact you?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - WhatsApp
+      required: true
+    - id: 14
+      name: newsletter_header
+      label: -- Newsletter --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: signup_confirm
+      label: Would you like to receive our exclusive boutique travel updates?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 16
+      name: inquiry_dt
+      label: Date of Inquiry
+      hint: null
+      type: date
+      options: []
+      required: true

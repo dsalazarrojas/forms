@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Win Loss Tracking Form
+    pages:
+    - id: 1
+      name: win_loss_form_1
+      label: Sales Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sales_outcome
+      label: Outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Won''}'
+      - '{''id'': 2, ''label'': ''Lost''}'
+      - '{''id'': 3, ''label'': ''No Decision''}'
+      required: true
+    - id: 3
+      name: sales_outcome_details
+      label: Outcome Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sales_stage
+      label: Current Stage
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Lead''}'
+      - '{''id'': 2, ''label'': ''Demo''}'
+      - '{''id'': 3, ''label'': ''Closed''}'
+      required: true
+    - id: 5
+      name: sales_person
+      label: Sales Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: account_manager
+      label: Account Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sales_manager
+      label: Sales Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sales_stage_prev
+      label: Previous Stage
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Lead''}'
+      - '{''id'': 2, ''label'': ''Demo''}'
+      - '{''id'': 3, ''label'': ''Closed''}'
+      required: false
+    - id: 10
+      name: outcome_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: outcome_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: win_loss_category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: win_loss_type
+      label: Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: win_loss_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: win_loss_rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: win_loss_probability
+      label: Probability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: win_loss_lead_status
+      label: Lead Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''New Lead''}'
+      - '{''id'': 2, ''label'': ''Qualified''}'
+      - '{''id'': 3, ''label'': ''Disqualified''}'
+      - '{''id'': 4, ''label'': ''Qualified for Demo''}'
+      - '{''id'': 5, ''label'': ''Closed''}'
+      required: true
+    - id: 18
+      name: win_loss_account_manager
+      label: Account Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: win_loss_account_manager_status
+      label: Account Manager Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      - '{''id'': 3, ''label'': ''Not Applicable''}'
+      required: false
+    - id: 20
+      name: win_loss_owner
+      label: Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: win_loss_owner_status
+      label: Owner Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      - '{''id'': 3, ''label'': ''Not Applicable''}'
+      required: true
+    - id: 22
+      name: win_loss_last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: win_loss_last_updater
+      label: Last Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: win_loss_last_updated_by_status
+      label: Last Updated By Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      - '{''id'': 3, ''label'': ''Not Applicable''}'
+      required: false
+    - id: 25
+      name: win_loss_next_action
+      label: Next Action
+      hint: null
+      type: text
+      options: []
+      required: false

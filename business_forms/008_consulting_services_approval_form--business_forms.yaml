@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Services Approval Form
+    pages:
+    - id: 1
+      name: section_request_details
+      label: -- Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requestor_full_name
+      label: Requestor Full Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_department
+      label: Requestor Department
+      hint: Which department is requesting this?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: request_submission_date
+      label: Request Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_project_info
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: project_title
+      label: Project Title
+      hint: Enter the project's title
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_justification
+      label: Business Justification
+      hint: Why is this project necessary?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: estimated_project_cost
+      label: Estimated Project Cost
+      hint: Total budget for the project
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: budget_source
+      label: Budget Source
+      hint: Where is the funding coming from?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_consultant_info
+      label: -- Consultant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: consultant_name
+      label: Consultant Name
+      hint: Full name of the consultant
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: consultant_company
+      label: Consultant Company
+      hint: Name of the consulting company
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_approval_workflow
+      label: -- Approval Workflow --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: manager_approval_status
+      label: Manager Approval Status
+      hint: Status of manager approval
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Rejected
+      required: true
+    - id: 15
+      name: hr_approval_status
+      label: HR Approval Status
+      hint: Status of HR approval
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Rejected
+      required: true
+    - id: 16
+      name: approval_notes
+      label: Approval Notes
+      hint: Any additional comments or feedback
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: approval_signature_date
+      label: Approval Signature Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

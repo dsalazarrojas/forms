@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: robotics_competition_registration_form
+    pages:
+    - id: 1
+      name: registration_info
+      label: Registration Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - member1
+      - member2
+      - member3
+      required: true
+    - id: 3
+      name: competition_details
+      label: Competition Details
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 4
+      name: robot_description
+      label: Robot Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: robot_image
+      label: Robot Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: competition_date
+      label: Date of Competition
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: competition_time
+      label: Time of Competition
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: robot_category
+      label: Robot Category
+      hint: null
+      type: select_one
+      options:
+      - cat1
+      - cat2
+      required: true
+    - id: 9
+      name: robot_weight
+      label: Robot Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: robot_dimensions
+      label: Robot Dimensions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: robot_cost
+      label: Robot Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: competition_judges
+      label: Competition Judges
+      hint: null
+      type: select_multiple
+      options:
+      - judge1
+      - judge2
+      - judge3
+      required: true
+    - id: 13
+      name: robot_notes
+      label: Robot Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: competition_outcomes
+      label: Competition Outcomes
+      hint: null
+      type: select_one
+      options:
+      - outcome1
+      - outcome2
+      required: true
+    - id: 15
+      name: competition_outcome_details
+      label: Competition Outcome Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: robot_image_upload
+      label: Robot Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: team_image_upload
+      label: Team Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: team_description
+      label: Team Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: team_members_list
+      label: Team Members List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: team_members_list_hint
+      label: Team Members List Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: competition_date_hint
+      label: Date of Competition Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: competition_date_2
+      label: Date of Competition 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: competition_time_2
+      label: Time of Competition 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: robot_weight_2
+      label: Robot Weight 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: robot_weight_3
+      label: Robot Weight 3
+      hint: null
+      type: number
+      options: []
+      required: false

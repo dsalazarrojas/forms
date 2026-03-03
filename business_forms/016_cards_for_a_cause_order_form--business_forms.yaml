@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cards For A Cause Order Form
+    pages:
+    - id: 1
+      name: customer_info_header
+      label: -- Customer & Fundraiser Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email_address
+      label: Contact Email Address
+      hint: We will send your order confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: fundraiser_organization_name
+      label: Organization or Fundraiser Name
+      hint: Who are you supporting with this purchase?
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: card_box_selection_header
+      label: -- Card Box Selection --
+      hint: Each box contains 30 handcrafted cards for $30
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: card_box_type_selected
+      label: Select Your Card Box(es)
+      hint: Choose all that you would like to order
+      type: select_multiple
+      options:
+      - label: All Occasion Box 1
+        value: all_occasion_1
+      - label: All Occasion Box 2
+        value: all_occasion_2
+      - label: Kids Birthday Box
+        value: kids_birthday
+      - label: Thanks & Blanks Box
+        value: thanks_blanks
+      - label: Holiday Card Box
+        value: holiday
+      required: true
+    - id: 8
+      name: quantity_of_boxes_total
+      label: Total Quantity of Boxes
+      hint: Enter the total number of boxes ordered
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: shipping_delivery_header
+      label: -- Delivery & Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: delivery_method_preference
+      label: Delivery Method
+      hint: How would you like to receive your cards?
+      type: select_one
+      options:
+      - label: Pickup from Organization
+        value: pickup
+      - label: Ship to My Address (Extra Fee)
+        value: shipping
+      - label: Local Delivery (Available for some areas)
+        value: local_delivery
+      required: true
+    - id: 11
+      name: shipping_address_street
+      label: Shipping Address (if applicable)
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_method_selection
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - label: Credit/Debit Card (Online)
+        value: card
+      - label: PayPal
+        value: paypal
+      - label: Cash (at pickup only)
+        value: cash
+      - label: Check (payable to organization)
+        value: check
+      required: true
+    - id: 13
+      name: special_instructions_order
+      label: Special Instructions or Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: order_confirmation_agreement
+      label: I confirm that my order details are correct
+      hint: null
+      type: select_one
+      options:
+      - label: I Confirm
+        value: confirmed
+      - Other
+      required: true

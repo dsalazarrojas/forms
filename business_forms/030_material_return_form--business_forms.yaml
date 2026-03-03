@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Return Form
+    pages:
+    - id: 1
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: item_name
+      label: Item Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: item_quantity
+      label: Item Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_return
+      label: Reason For Return
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_item_received
+      label: Date Item Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: date_returned
+      label: Date Returned
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: return_reason
+      label: Reason For Return
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Damaged Goods''}'
+      - '{''option'': ''Item Not Wanted''}'
+      - '{''option'': ''Other''}'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

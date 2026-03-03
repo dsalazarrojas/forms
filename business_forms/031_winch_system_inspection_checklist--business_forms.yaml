@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: winch_system_inspection_checklist
+    pages:
+    - id: 1
+      name: winch_system_inspection_checklist_page
+      label: Winch System Inspection Checklist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: system_location
+      label: system_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: system_model
+      label: system_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: serial_number
+      label: serial_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: safety_standards_compliance
+      label: safety_standards_compliance
+      hint: null
+      type: select_multiple
+      options:
+      - safety_standerd_1
+      - safety_standerd_2
+      required: true
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: system_condition
+      label: system_condition
+      hint: null
+      type: select_one
+      options:
+      - good
+      - fair
+      - poor
+      required: true
+    - id: 10
+      name: system_status
+      label: system_status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      required: true
+    - id: 11
+      name: next_inspection_date
+      label: next_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: next_inspection_interval
+      label: next_inspection_interval
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: winch_type
+      label: winch_type
+      hint: null
+      type: select_one
+      options:
+      - electric
+      - hydraulic
+      required: true
+    - id: 14
+      name: system_description
+      label: system_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: safety_equipment
+      label: safety_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - safety_equipment_1
+      - safety_equipment_2
+      required: true
+    - id: 16
+      name: inspection_frequency
+      label: inspection_frequency
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: true
+    - id: 17
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

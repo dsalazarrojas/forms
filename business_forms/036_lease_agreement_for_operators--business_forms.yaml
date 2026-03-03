@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: lease_agreement_for_operators
+    pages:
+    - id: 1
+      name: lease_period
+      label: Lease Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: lease_amount
+      label: Lease Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: lease_frequency
+      label: Lease Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: lease_start_date
+      label: Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: rent_frequency
+      label: Rent Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: operator_name
+      label: Operator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: lease_terms
+      label: Lease Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false

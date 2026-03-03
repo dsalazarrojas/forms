@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Batch Consistency Validation Report Form
+    pages:
+    - id: 1
+      name: report_metadata_header
+      label: -- Validation Report Metadata --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: validation_officer
+      label: Validation Officer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: batch_reference_number
+      label: Batch Reference Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: validation_date
+      label: Date of Validation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: production_line_id
+      label: Production Line ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: validation_criteria_header
+      label: -- Consistency Parameters --
+      hint: Comparison against Master Batch standards
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: parameter_viscosity
+      label: Parameter - Viscosity (cP)
+      hint: Expected range 1200 - 1500
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: parameter_ph_level
+      label: Parameter - pH Level
+      hint: Expected range 6.5 - 7.5
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: parameter_color_match
+      label: Color Matching Result
+      hint: Standard Delta-E < 1.0
+      type: select_one
+      options:
+      - Matches Standard
+      - Minor Variance
+      - Significant Variance (Fail)
+      required: true
+    - id: 10
+      name: overall_consistency_status
+      label: Overall Consistency Status
+      hint: null
+      type: select_one
+      options:
+      - Validated - Consistent
+      - Marginal - Conditional Release
+      - Invalid - Inconsistent
+      required: true
+    - id: 11
+      name: failures_summary
+      label: Summary of Deviations or Failures
+      hint: Leave blank if none
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: corrective_action_taken
+      label: Corrective Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_required
+      label: Is a follow-up validation required?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: signature_acknowledgment
+      label: I certify that this report is accurate and complete
+      hint: null
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true
+    - id: 15
+      name: final_approval_date
+      label: Final Approval Date
+      hint: null
+      type: date
+      options: []
+      required: true

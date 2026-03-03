@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hostel Accommodation Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: booking_preferences
+      label: Booking Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Single Room
+      - Double Room
+      required: false
+    - id: 7
+      name: accommodation
+      label: Accommodation
+      hint: null
+      type: select_one
+      options:
+      - Single Room
+      - Double Room
+      required: false
+    - id: 8
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false

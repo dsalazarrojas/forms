@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: ppe_bulkoorder_quote_request_form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_address
+      label: business_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quote_date
+      label: quote_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: items_needed
+      label: items_needed
+      hint: List the items you are interested in ordering.
+      type: select_multiple
+      options:
+      - Hard hat
+      - Safety glasses
+      - Earplugs
+      - Face shield
+      required: false
+    - id: 9
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false

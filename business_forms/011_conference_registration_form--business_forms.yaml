@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your given name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your family name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: industry
+      label: Industry
+      hint: Select your industry
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Education
+      - Manufacturing
+      - Retail
+      - Government
+      - Non-Profit
+      - Other
+      required: true
+    - id: 8
+      name: registration_category
+      label: Registration Category
+      hint: Choose your pass type
+      type: select_one
+      options:
+      - VIP All Access
+      - Full Conference
+      - Single Track
+      - Virtual Only
+      - Exhibitor
+      - Media
+      required: true
+    - id: 9
+      name: attendance_days
+      label: Days Attending
+      hint: Select all days
+      type: select_multiple
+      options:
+      - Day 1 - Keynotes
+      - Day 2 - Sessions
+      - Day 3 - Workshops
+      - Day 4 - Networking
+      required: true
+    - id: 10
+      name: session_preferences
+      label: Session Preferences
+      hint: What interests you most
+      type: select_multiple
+      options:
+      - Keynote Speeches
+      - Technical Sessions
+      - Panel Discussions
+      - Hands-on Workshops
+      - Networking Events
+      - Product Demos
+      required: false
+    - id: 11
+      name: meal_selection
+      label: Meal Selection
+      hint: For catering
+      type: select_one
+      options:
+      - Standard Menu
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      - Low-Carb
+      required: true
+    - id: 12
+      name: special_dietary
+      label: Special Dietary Requirements
+      hint: Specify allergies
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: hotel_booking
+      label: Hotel Booking Required
+      hint: Do you need accommodation
+      type: select_one
+      options:
+      - Yes Need Hotel
+      - No Already Booked
+      - No Not Required
+      required: true
+    - id: 14
+      name: hotel_preference
+      label: Hotel Preference
+      hint: Room type
+      type: select_one
+      options:
+      - Standard Single
+      - Standard Double
+      - Executive Suite
+      - No Preference
+      required: false
+    - id: 15
+      name: transportation
+      label: Transportation Needed
+      hint: Airport transfers
+      type: select_one
+      options:
+      - Yes Arrival Transfer
+      - Yes Departure Transfer
+      - Yes Both Transfers
+      - No Not Needed
+      required: true
+    - id: 16
+      name: networking_interest
+      label: Networking Events
+      hint: Will you attend
+      type: select_one
+      options:
+      - Yes All Events
+      - Welcome Reception Only
+      - Gala Dinner Only
+      - No Will Not Attend
+      required: true
+    - id: 17
+      name: certificate_needed
+      label: Certificate of Attendance
+      hint: Do you need a certificate
+      type: select_one
+      options:
+      - Yes Required
+      - No Not Needed
+      required: true
+    - id: 18
+      name: accessibility_requirements
+      label: Accessibility Requirements
+      hint: Any special needs
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: marketing_opt_in
+      label: Receive Updates About Future Events
+      hint: Marketing communications
+      type: select_one
+      options:
+      - Yes Please
+      - No Thank You
+      required: true
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Company Invoice
+      - Check
+      required: true
+    - id: 21
+      name: promo_code
+      label: Promotional Code
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: terms_accepted
+      label: I Accept Terms and Conditions
+      hint: Agree to policies
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true

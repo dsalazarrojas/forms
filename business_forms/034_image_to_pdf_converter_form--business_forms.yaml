@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: image_to_pdf_converter_form
+    pages:
+    - id: 1
+      name: uploaded_image
+      label: Upload Image
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: select_pdf_type
+      label: Select PDF Type
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: true
+    - id: 3
+      name: orientation
+      label: Orientation
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      required: true
+    - id: 4
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: image_size
+      label: Image Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: image_type
+      label: Image Type
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 10
+      name: output_format
+      label: Output Format
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 11
+      name: upload_folder
+      label: Upload Folder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: save_to_drive
+      label: Save to Drive
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: image_resolution
+      label: Image Resolution
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      required: false
+    - id: 14
+      name: save_to_drive_path
+      label: Save to Drive Path
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: image_to_pdf
+      label: Image to PDF
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      required: true
+    - id: 16
+      name: pdf_quality
+      label: PDF Quality
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      required: true
+    - id: 17
+      name: pdf_orientation
+      label: PDF Orientation
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      required: false
+    - id: 18
+      name: upload_to
+      label: Upload to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: overwrite
+      label: Overwrite
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      required: true
+    - id: 20
+      name: overwrite_confirmation
+      label: Overwrite Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: pdf_name
+      label: PDF Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: pdf_title
+      label: PDF Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: pdf_author
+      label: PDF Author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: pdf_subject
+      label: PDF Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: pdf_description
+      label: PDF Description
+      hint: null
+      type: text
+      options: []
+      required: false

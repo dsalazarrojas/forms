@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: short_term_rental_renewal_form
+    pages:
+    - id: 1
+      name: rental_details
+      label: rental_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: tenant_info
+      label: tenant_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: renewal_terms
+      label: renewal_terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: tenant_documents
+      label: tenant_documents
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cash Reconciliation Form
+    pages:
+    - id: 1
+      name: reconciliation_header_section
+      label: -- Reconciliation Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reconciliation_date
+      label: Reconciliation Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: accounting_period
+      label: Accounting Period
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reconciled_by
+      label: Reconciliation Performed By
+      hint: Name and title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: bank_information_section
+      label: -- Bank Account Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: bank_name
+      label: Bank Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: account_number
+      label: Account Number
+      hint: Last four digits acceptable
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: bank_statement_date
+      label: Bank Statement Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: books_records_section
+      label: -- Books and Records --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: book_balance
+      label: Cash Balance Per Books
+      hint: From accounting records
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: bank_statement_balance
+      label: Cash Balance Per Bank Statement
+      hint: From latest bank statement
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: outstanding_checks_section
+      label: -- Outstanding Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: outstanding_checks
+      label: Outstanding Checks Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: outstanding_deposits
+      label: Outstanding Deposits Not Yet Credited
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: bank_charges_section
+      label: -- Bank Charges and Adjustments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: bank_service_charges
+      label: Bank Service Charges or Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: interest_earned
+      label: Interest Earned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: nsf_charges
+      label: NSF or Returned Check Charges
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: errors_corrections_section
+      label: -- Errors and Corrections --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: book_errors
+      label: Errors Found in Books
+      hint: Describe any adjustments needed
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: bank_errors
+      label: Errors Found in Bank Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reconciliation_results_section
+      label: -- Reconciliation Results --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: reconciliation_status
+      label: Reconciliation Status
+      hint: null
+      type: select_one
+      options:
+      - Reconciled - No Variances
+      - Reconciled - Variances Explained
+      - Not Reconciled - Variance Unexplained
+      - Pending Review
+      required: true
+    - id: 25
+      name: reconciliation_notes
+      label: Notes and Variance Explanation
+      hint: Detailed explanation of any differences
+      type: text
+      options: []
+      required: false

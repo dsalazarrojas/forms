@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cross Entity Payment Coordination Application Form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_address
+      label: company_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: entity
+      label: entity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: entity_address
+      label: entity_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact
+      label: contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: date_of_payment
+      label: date_of_payment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: file_upload
+      label: file_upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: file_type
+      label: file_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: date
+      label: date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: entity_2
+      label: entity_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

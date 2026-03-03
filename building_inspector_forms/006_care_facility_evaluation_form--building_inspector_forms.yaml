@@ -1,0 +1,276 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Care Facility Evaluation Form
+    pages:
+      - id: 1
+        name: facility_name
+        label: Care Facility Name
+        hint: Name of the assisted living or nursing facility
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: facility_address
+        label: Facility Address
+        hint: Street address
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: license_number
+        label: Facility License Number
+        hint: State license or regulatory ID
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: evaluation_date
+        label: Date of Evaluation
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: evaluator_name
+        label: Inspector or Evaluator Name
+        hint: Full name of person conducting evaluation
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: evaluator_title
+        label: Evaluator Title
+        hint: e.g., Building Inspector, Compliance Officer, Resident Advocate
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: evaluation_type
+        label: Type of Evaluation
+        hint: null
+        type: select_one
+        options:
+          - Routine Inspection
+          - Complaint Investigation
+          - Initial Licensing
+          - Renewal Review
+          - Safety Assessment
+        required: true
+      - id: 8
+        name: building_structure
+        label: Building Structure and Safety
+        hint: Rate the general condition of the building
+        type: select_one
+        options:
+          - Excellent - No issues
+          - Good - Minor issues noted
+          - Acceptable - Some deficiencies
+          - Poor - Multiple violations
+          - Critical - Immediate action required
+        required: true
+      - id: 9
+        name: structural_issues
+        label: Specific Structural Issues Found
+        hint: Describe any cracks, damage, or safety concerns
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: accessibility
+        label: ADA Accessibility Compliance
+        hint: Are facilities accessible for persons with disabilities?
+        type: select_one
+        options:
+          - Fully compliant
+          - Mostly compliant - minor adjustments needed
+          - Partially compliant - significant work needed
+          - Non-compliant
+        required: true
+      - id: 11
+        name: fire_safety
+        label: Fire Safety and Emergency Systems
+        hint: Rate fire exits, alarms, sprinklers, evacuation routes
+        type: select_one
+        options:
+          - Excellent - All systems functional
+          - Good - Minor issues
+          - Acceptable - Some repairs needed
+          - Poor - Multiple failures
+          - Critical - Emergency hazard
+        required: true
+      - id: 12
+        name: fire_extinguishers
+        label: Fire Extinguishers and Emergency Equipment
+        hint: Are they present, accessible, and up to date?
+        type: select_one
+        options:
+          - "Yes - all current and accessible"
+          - "Partially - some issues found"
+          - "No - missing or outdated"
+        required: true
+      - id: 13
+        name: sanitation
+        label: Sanitation and Cleanliness
+        hint: Overall cleanliness of common and resident areas
+        type: select_one
+        options:
+          - Excellent - Spotless throughout
+          - Good - Very clean with minor dust
+          - Acceptable - Generally clean
+          - Poor - Multiple cleanliness issues
+          - Unacceptable - Health hazard
+        required: true
+      - id: 14
+        name: sanitation_details
+        label: Specific Sanitation Issues
+        hint: If applicable, describe areas of concern
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: resident_rooms
+        label: Resident Rooms and Living Spaces
+        hint: Rate the condition and adequacy of living quarters
+        type: select_one
+        options:
+          - Excellent - Clean, comfortable, well-maintained
+          - Good - Generally adequate
+          - Acceptable - Meet basic standards
+          - Poor - Below acceptable standards
+          - Critical - Unhabitable conditions
+        required: true
+      - id: 16
+        name: kitchen_facilities
+        label: Kitchen and Food Service
+        hint: Rate food storage, preparation, and safety
+        type: select_one
+        options:
+          - Excellent - Professional standards met
+          - Good - Generally safe and clean
+          - Acceptable - Meet basic requirements
+          - Poor - Safety concerns present
+          - Critical - Health hazard
+        required: true
+      - id: 17
+        name: staffing_levels
+        label: Staffing Levels and Qualifications
+        hint: Adequate staff? Proper certifications?
+        type: select_one
+        options:
+          - Adequate - Proper ratios and qualifications
+          - Mostly adequate - Minor staffing gaps
+          - Inadequate - Below required ratios
+          - Critical shortage - Resident safety at risk
+        required: true
+      - id: 18
+        name: resident_care_quality
+        label: Quality of Resident Care Observed
+        hint: Respectful treatment, attention to needs
+        type: select_one
+        options:
+          - Excellent - Attentive, compassionate care
+          - Good - Generally good care provided
+          - Acceptable - Meets minimum standards
+          - Poor - Concerns about care quality
+          - Critical - Neglect or mistreatment observed
+        required: true
+      - id: 19
+        name: activity_programs
+        label: Resident Activities and Programs
+        hint: Adequate recreational and therapeutic programs?
+        type: select_one
+        options:
+          - Excellent - Diverse, engaging programs
+          - Good - Regular activities offered
+          - Acceptable - Some activities available
+          - Poor - Minimal programs
+          - None - No activities offered
+        required: false
+      - id: 20
+        name: medication_management
+        label: Medication Storage and Management
+        hint: Secure, proper storage of medications?
+        type: select_one
+        options:
+          - Excellent - Secure, properly documented
+          - Good - Generally secure and organized
+          - Acceptable - Meets requirements
+          - Poor - Security concerns
+          - Critical - Major violations
+        required: true
+      - id: 21
+        name: infection_control
+        label: Infection Control Practices
+        hint: Hand hygiene, isolation protocols, PPE usage
+        type: select_one
+        options:
+          - Excellent - Rigorous protocols followed
+          - Good - Generally good practices
+          - Acceptable - Meet standards
+          - Poor - Inconsistent practices
+          - Critical - Major infection risk
+        required: true
+      - id: 22
+        name: equipment_maintenance
+        label: Equipment and Facilities Maintenance
+        hint: HVAC, plumbing, electrical systems
+        type: select_one
+        options:
+          - Excellent - Well-maintained and updated
+          - Good - Generally in good condition
+          - Acceptable - Functional
+          - Poor - Repairs needed
+          - Critical - Immediate repairs required
+        required: true
+      - id: 23
+        name: violations_found
+        label: Code Violations Found
+        hint: List any regulatory violations discovered
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: corrective_actions
+        label: Required Corrective Actions
+        hint: What must be corrected before next inspection?
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: compliance_timeline
+        label: Timeline for Corrective Actions
+        hint: When must violations be corrected?
+        type: date
+        options: []
+        required: false
+      - id: 26
+        name: overall_rating
+        label: Overall Facility Rating
+        hint: Overall assessment of the facility
+        type: select_one
+        options:
+          - Excellent - Exceeds standards
+          - Satisfactory - Meets standards
+          - Needs Improvement - Below standards
+          - Conditional - Major issues to correct
+          - Unsatisfactory - Significant violations
+        required: true
+      - id: 27
+        name: recommendations
+        label: Recommendations for Improvement
+        hint: Additional suggestions for facility enhancement
+        type: text
+        options: []
+        required: false

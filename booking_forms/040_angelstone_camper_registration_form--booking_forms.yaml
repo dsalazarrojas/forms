@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Angelstone Camper Registration Form
+    pages:
+    - id: 1
+      name: section_camper_reg
+      label: -- Angelstone Camper Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: camper_full_name
+      label: Camper Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: camper_date_of_birth
+      label: Camper Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 5
+      name: section_guardian_info
+      label: -- Parent and Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: guardian_name
+      label: Parent / Guardian Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: guardian_email
+      label: Guardian Email Address
+      hint: For all camp correspondence
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_session_selection
+      label: -- Camp Session Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: session_choice
+      label: Select Camp Session
+      hint: null
+      type: select_one
+      options:
+      - Summer Week 1
+      - Summer Week 2
+      - Fall Weekend
+      - Winter Break Camp
+      required: true
+    - id: 11
+      name: interest_activities
+      label: Primary Interests and Activities
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Horseback Riding
+      - Swimming
+      - Arts & Crafts
+      - Sports
+      - Nature Trail
+      required: false
+    - id: 12
+      name: section_health_safety
+      label: -- Health and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: known_allergies
+      label: Known Food or Environmental Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medication_requirements
+      label: Special Medication Requirements or Schedules
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: swimming_proficiency
+      label: Swimming Proficiency Level
+      hint: null
+      type: select_one
+      options:
+      - Non-swimmer
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 16
+      name: additional_comments_for_counselors
+      label: Additional Comments for Camp Counselors
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

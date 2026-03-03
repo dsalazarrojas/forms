@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Locomotive Inspection Checklist
+    pages:
+    - id: 1
+      name: locomotive_inspection_checklist
+      label: locomotive inspection checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: inspector name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inspector_role
+      label: inspector role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: locomotive_type
+      label: locomotive type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: locomotive_status
+      label: locomotive status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: locomotive_location
+      label: locomotive location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

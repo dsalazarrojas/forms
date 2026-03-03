@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Batch Release Confirmation Request Form
+    pages:
+    - id: 1
+      name: release_request_header
+      label: -- Batch Release Authorization Request --
+      hint: Standardized request for the final release of manufactured goods.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: request_id
+      label: Request Tracking ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: batch_id_to_release
+      label: Batch ID for Release
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: product_sku
+      label: Product SKU or Item Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: verification_header
+      label: -- Compliance and Quality Verification --
+      hint: Ensure all checks are completed before requesting release.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: qc_report_link
+      label: Final QC Report Reference Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manufacturing_docs_complete
+      label: Are all manufacturing logs and records complete?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Verified
+      - No - Incomplete
+      required: true
+    - id: 8
+      name: labels_verified
+      label: Have product labels been verified for accuracy?
+      hint: Includes expiry date and lot number checks
+      type: select_one
+      options:
+      - Yes - Verified
+      - false
+      required: true
+    - id: 9
+      name: deviations_logged
+      label: Were any deviations logged during production?
+      hint: null
+      type: select_one
+      options:
+      - No Deviations
+      - Yes - Resolved and Closed
+      - Yes - Pending Resolution (Cannot Release)
+      required: true
+    - id: 10
+      name: release_conditions
+      label: Proposed Release Condition
+      hint: null
+      type: select_one
+      options:
+      - Full Commercial Release
+      - Restricted Release (Internal Use Only)
+      - Sample Release
+      - Rework/Hold
+      required: true
+    - id: 11
+      name: authorizing_manager
+      label: Authorizing Quality Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: planned_release_date
+      label: Planned Release Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: inventory_destination
+      label: Intended Inventory Destination
+      hint: null
+      type: select_one
+      options:
+      - Warehouse A (Main)
+      - Distribution Center West
+      - External Logistics Partner
+      - Quarantine Zone
+      required: true
+    - id: 14
+      name: request_submission_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: signature_acknowledgment
+      label: I confirm that all release criteria have been met
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - Other
+      required: true

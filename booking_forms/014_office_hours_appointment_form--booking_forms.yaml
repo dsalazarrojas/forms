@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: office_hours_appointment_form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: duration
+      label: duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reason
+      label: reason
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: subject
+      label: subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: meeting_type
+      label: meeting_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''name'': ''meeting_type'', ''label'': ''Meeting''}'
+      - '{''id'': 12, ''name'': ''meeting_type'', ''label'': ''No Meeting''}'
+      - '{''id'': 13, ''name'': ''meeting_type'', ''label'': ''Office Hours''}'
+      required: false
+    - id: 10
+      name: available
+      label: available
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 15, ''name'': ''morning'', ''label'': ''Morning''}'
+      - '{''id'': 16, ''name'': ''afternoon'', ''label'': ''Afternoon''}'
+      - '{''id'': 17, ''name'': ''evening'', ''label'': ''Evening''}'
+      - '{''id'': 18, ''name'': ''weekend'', ''label'': ''Weekend''}'
+      required: false
+    - id: 11
+      name: available_time
+      label: available_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: available_date
+      label: available_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: meeting_duration
+      label: meeting_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: preferred_time
+      label: preferred_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: preferred_date
+      label: preferred_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: preferred_duration
+      label: preferred_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: meeting_request
+      label: meeting_request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: meeting_request
+      label: meeting_request
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 27, ''name'': ''meeting_request'', ''label'': True}'
+      - '{''id'': 28, ''name'': ''meeting_request'', ''label'': False}'
+      - '{''id'': 29, ''name'': ''meeting_request'', ''label'': ''Maybe''}'
+      required: false

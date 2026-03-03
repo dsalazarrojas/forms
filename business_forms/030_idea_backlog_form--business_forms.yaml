@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Idea Backlog Form
+    pages:
+    - id: 1
+      name: idea_backlog_form_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: idea_backlog_form_page_2
+      label: Second Page
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: idea_backlog_form_page_3
+      label: Due Date
+      hint: Please select a date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: idea_backlog_form_page_4
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High'', ''value'': ''High''}'
+      - '{''id'': 2, ''label'': ''Low'', ''value'': ''Low''}'
+      - '{''id'': 3, ''label'': ''Medium'', ''value'': ''Medium''}'
+      required: true
+    - id: 5
+      name: idea_backlog_form_page_5
+      label: Assignee
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Doe'', ''value'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe'', ''value'': ''Jane Doe''}'
+      - '{''id'': 3, ''label'': ''Bob Smith'', ''value'': ''Bob Smith''}'
+      required: true
+    - id: 6
+      name: idea_backlog_form_page_6
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Open'', ''value'': ''Open''}'
+      - '{''id'': 2, ''label'': ''In Progress'', ''value'': ''In Progress''}'
+      - '{''id'': 3, ''label'': ''Closed'', ''value'': ''Closed''}'
+      required: false
+    - id: 7
+      name: idea_backlog_form_page_7
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: idea_backlog_form_page_8
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: idea_backlog_form_page_9
+      label: Phone
+      hint: Enter phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: idea_backlog_form_page_10
+      label: Due Date 2
+      hint: Please select a date
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: idea_backlog_form_page_11
+      label: Due Time
+      hint: Please select a time
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: idea_backlog_form_page_12
+      label: Priority 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High'', ''value'': ''High''}'
+      - '{''id'': 2, ''label'': ''Low'', ''value'': ''Low''}'
+      - '{''id'': 3, ''label'': ''Medium'', ''value'': ''Medium''}'
+      required: true
+    - id: 13
+      name: idea_backlog_form_page_13
+      label: Assignee 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Doe'', ''value'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe'', ''value'': ''Jane Doe''}'
+      - '{''id'': 3, ''label'': ''Bob Smith'', ''value'': ''Bob Smith''}'
+      required: true
+    - id: 14
+      name: idea_backlog_form_page_14
+      label: Status 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Open'', ''value'': ''Open''}'
+      - '{''id'': 2, ''label'': ''In Progress'', ''value'': ''In Progress''}'
+      - '{''id'': 3, ''label'': ''Closed'', ''value'': ''Closed''}'
+      required: true
+    - id: 15
+      name: idea_backlog_form_page_15
+      label: Comments 2
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 16
+      name: idea_backlog_form_page_16
+      label: Email 2
+      hint: Enter your email
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: idea_backlog_form_page_17
+      label: Phone 2
+      hint: Enter phone number
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: idea_backlog_form_page_18
+      label: Due Date 3
+      hint: Please select a date
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: idea_backlog_form_page_19
+      label: Due Time 2
+      hint: Please select a time
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: idea_backlog_form_page_20
+      label: Priority 3
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High'', ''value'': ''High''}'
+      - '{''id'': 2, ''label'': ''Low'', ''value'': ''Low''}'
+      - '{''id'': 3, ''label'': ''Medium'', ''value'': ''Medium''}'
+      required: true
+    - id: 21
+      name: idea_backlog_form_page_21
+      label: Assignee 3
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Doe'', ''value'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe'', ''value'': ''Jane Doe''}'
+      - '{''id'': 3, ''label'': ''Bob Smith'', ''value'': ''Bob Smith''}'
+      required: true
+    - id: 22
+      name: idea_backlog_form_page_22
+      label: Status 3
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Open'', ''value'': ''Open''}'
+      - '{''id'': 2, ''label'': ''In Progress'', ''value'': ''In Progress''}'
+      - '{''id'': 3, ''label'': ''Closed'', ''value'': ''Closed''}'
+      required: true
+    - id: 23
+      name: idea_backlog_form_page_23
+      label: Comments 3
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 24
+      name: idea_backlog_form_page_24
+      label: Email 3
+      hint: Enter your email
+      type: email
+      options: []
+      required: true
+    - id: 25
+      name: idea_backlog_form_page_25
+      label: Phone 3
+      hint: Enter phone number
+      type: text
+      options: []
+      required: false

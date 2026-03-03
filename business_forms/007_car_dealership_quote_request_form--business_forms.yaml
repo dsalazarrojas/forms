@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Dealership Quote Request Form
+    pages:
+    - id: 1
+      name: contact_info_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: To send your quote
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: To discuss the quote details
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_preference
+      label: Preferred Contact Method
+      hint: How should we reach you?
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      required: true
+    - id: 6
+      name: vehicle_header
+      label: -- Vehicle Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_make_model
+      label: Car Make and Model
+      hint: Which car are you interested in?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_year_preference
+      label: Preferred Vehicle Year
+      hint: Select your preferred year
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_condition_preference
+      label: Vehicle Condition
+      hint: Select your preferred vehicle condition
+      type: select_one
+      options:
+      - New
+      - Used
+      - Certified Pre-Owned
+      required: true
+    - id: 10
+      name: vehicle_trim_package
+      label: Desired Trim or Package
+      hint: (e.g., SE, Limited, Sport)
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_color_preference
+      label: Preferred Exterior Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: financing_header
+      label: -- Financing and Trade-In --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: purchase_timeframe
+      label: Estimated Purchase Timeframe
+      hint: When do you plan to buy?
+      type: select_one
+      options:
+      - Within 48 hours
+      - Within 1 week
+      - Within 1 month
+      - Just researching
+      required: true
+    - id: 14
+      name: trade_in_intent
+      label: Do you have a trade-in?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 15
+      name: trade_in_details
+      label: Trade-In Vehicle Details
+      hint: Year, Make, Model, and Mileage
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: financing_intent
+      label: Do you require financing?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 17
+      name: additional_quote_requests
+      label: Any additional requests or comments?
+      hint: Provide more details for the quote
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: signature_confirmation
+      label: Type your name for quote request confirmation
+      hint: null
+      type: text
+      options: []
+      required: true

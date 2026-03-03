@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Inventory Reorder Application Form
+    pages:
+    - id: 1
+      name: reorder_request
+      label: Reorder Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_id
+      label: Product ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reorder_frequency
+      label: Reorder Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: reorder_date
+      label: Reorder Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''UPS''}'
+      - '{''id'': 2, ''label'': ''FedEx''}'
+      - '{''id'': 3, ''label'': ''USPS''}'
+      required: false
+    - id: 7
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

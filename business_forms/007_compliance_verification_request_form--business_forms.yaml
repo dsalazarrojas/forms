@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compliance Verification Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Full name of person requesting verification
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_title
+      label: Requester Title
+      hint: Your job title or position
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Select your department
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - Legal
+      - Operations
+      - Information Technology
+      - Quality Assurance
+      - Risk Management
+      - Executive
+      - Other
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Your work email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: request_date
+      label: Request Date
+      hint: Date of this verification request
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: verification_type
+      label: Verification Type
+      hint: Type of compliance verification needed
+      type: select_one
+      options:
+      - Regulatory Compliance
+      - Policy Compliance
+      - Procedure Compliance
+      - Safety Compliance
+      - Environmental Compliance
+      - Financial Compliance
+      - Data Privacy Compliance
+      - Quality Compliance
+      - Other
+      required: true
+    - id: 8
+      name: entity_to_verify
+      label: Entity to Verify
+      hint: Name of department, process, or entity requiring verification
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: verification_scope
+      label: Verification Scope
+      hint: Describe the scope of verification needed
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: applicable_regulations
+      label: Applicable Regulations or Standards
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - ISO 9001
+      - ISO 14001
+      - ISO 27001
+      - SOX
+      - GDPR
+      - HIPAA
+      - OSHA
+      - EPA
+      - FDA
+      - Industry Specific Standards
+      - Internal Policies
+      - Other
+      required: false
+    - id: 11
+      name: previous_verification_date
+      label: Previous Verification Date
+      hint: When was the last verification conducted
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this request
+      type: select_one
+      options:
+      - Routine
+      - Priority
+      - Urgent
+      - Critical
+      required: true
+    - id: 13
+      name: deadline_date
+      label: Required Completion Date
+      hint: When do you need verification completed
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: documentation_required
+      label: Documentation Required
+      hint: What documentation should be reviewed
+      type: select_multiple
+      options:
+      - Policies and Procedures
+      - Training Records
+      - Audit Reports
+      - Incident Reports
+      - Performance Metrics
+      - Certifications
+      - Contracts
+      - Other
+      required: false
+    - id: 15
+      name: stakeholders_involved
+      label: Stakeholders Involved
+      hint: List key stakeholders who should be informed
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special considerations or requirements
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: verification_method
+      label: Preferred Verification Method
+      hint: How should verification be conducted
+      type: select_one
+      options:
+      - Document Review
+      - On Site Inspection
+      - Interview Process
+      - Remote Audit
+      - Combination of Methods
+      required: false
+    - id: 18
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: driving_policy_acknowledgment
+    pages:
+    - id: 1
+      name: employee_details
+      label: employee_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: driver_details
+      label: driver_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_details
+      label: vehicle_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: policy_acknowledgment
+      label: policy_acknowledgment
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I have read the driving policy and I understand its requirements.''}'
+      - '{''label'': ''I have not read the driving policy and I do not understand
+        its requirements.''}'
+      required: true
+    - id: 5
+      name: consent
+      label: consent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''I am the owner or operator of the vehicle.''}'
+      - '{''label'': ''I am the passenger of the vehicle.''}'
+      - '{''label'': ''I am a passenger of the vehicle.''}'
+      required: true
+    - id: 6
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Primary contact method''}'
+      - '{''label'': ''Secondary contact method''}'
+      - '{''label'': ''Emergency contact method''}'
+      required: true
+    - id: 8
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Toyota''}'
+      - '{''label'': ''Honda''}'
+      - '{''label'': ''Ford''}'
+      required: true
+    - id: 9
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Corolla''}'
+      - '{''label'': ''Civic''}'
+      - '{''label'': ''F150''}'
+      required: true
+    - id: 10
+      name: driver_license_state
+      label: driver_license_state
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''CA''}'
+      - '{''label'': ''WA''}'
+      - '{''label'': ''FL''}'
+      required: true
+    - id: 11
+      name: driver_license_expiration
+      label: driver_license_expiration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: vehicle_registration_expiration
+      label: vehicle_registration_expiration
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Specified''}'
+      - '{''label'': ''Specified''}'
+      - '{''label'': ''Specified''}'
+      required: true
+    - id: 13
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_make_year
+      label: vehicle_make_year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: vehicle_color
+      label: vehicle_color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Red''}'
+      - '{''label'': ''Blue''}'
+      - '{''label'': ''Green''}'
+      required: true
+    - id: 16
+      name: emergency_contact_method
+      label: emergency_contact_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''SMS''}'
+      required: true
+    - id: 17
+      name: emergency_contact_person
+      label: emergency_contact_person
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Primary contact person''}'
+      - '{''label'': ''Secondary contact person''}'
+      - '{''label'': ''Tertiary contact person''}'
+      required: true
+    - id: 18
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''SMS''}'
+      required: true
+    - id: 19
+      name: vehicle_status
+      label: vehicle_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      - '{''label'': ''Pending''}'
+      required: true
+    - id: 20
+      name: vehicle_make_year
+      label: vehicle_make_year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: vehicle_model_year
+      label: vehicle_model_year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: driver_license_number
+      label: driver_license_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: vehicle_color
+      label: vehicle_color
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Car''}'
+      - '{''label'': ''Truck''}'
+      - '{''label'': ''Van''}'
+      required: true
+    - id: 25
+      name: signature2
+      label: signature2
+      hint: null
+      type: note
+      options: []
+      required: true

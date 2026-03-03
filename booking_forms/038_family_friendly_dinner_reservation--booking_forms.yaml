@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Friendly Dinner Reservation
+    pages:
+    - id: 1
+      name: reservation_date
+      label: Reservation Date
+      hint: Date of your reservation
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: guest_count
+      label: Guest Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: time_of_reservation
+      label: Time of Reservation
+      hint: Time of your reservation
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: special_requests
+      label: Special Requests
+      hint: Any special requests?
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: Phone Number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

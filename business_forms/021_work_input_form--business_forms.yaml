@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work Input Form
+    pages:
+    - id: 1
+      name: work_input_form
+      label: work_input_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_updates
+      label: project_updates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: daily_activities
+      label: daily_activities
+      hint: null
+      type: select_multiple
+      options:
+      - Project 1
+      - Project 2
+      required: true
+    - id: 4
+      name: project_details
+      label: project_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Payment Tracking Survey
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: invoice_number
+      label: Invoice Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: invoice_date
+      label: Invoice Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_payment_status
+      label: -- Payment Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: invoice_amount
+      label: Total Invoice Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: payment_status
+      label: Current Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid in Full
+      - Partial Payment
+      - Outstanding
+      - Overdue
+      required: true
+    - id: 7
+      name: amount_paid
+      label: Total Amount Paid to Date
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: remaining_balance
+      label: Remaining Balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: section_payment_method
+      label: -- Payment Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: last_payment_method
+      label: Last Payment Method Used
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Check
+      - ACH
+      - Wire Transfer
+      - Cash
+      required: false
+    - id: 11
+      name: transaction_id
+      label: Transaction ID or Check Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_history
+      label: -- Payment History and Notes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: expected_balance_date
+      label: Expected Date for Remaining Balance Payment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: payment_issues
+      label: Please describe any payment disputes or issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: billing_contact_person
+      label: Person responsible for payments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: billing_email
+      label: Contact Email for Billing
+      hint: null
+      type: email
+      options: []
+      required: false

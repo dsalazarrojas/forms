@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form With Upload Function
+    pages:
+    - id: 1
+      name: service_header
+      label: Online Services Request
+      hint: Professional service inquiry with file capability
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Your Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: service_type
+      label: Service Requested
+      hint: null
+      type: select_one
+      options:
+      - Graphic Design
+      - Copywriting
+      - Web Development
+      - Consultation
+      required: true
+    - id: 5
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: file_upload_ready
+      label: Do you have a project brief to upload?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: estimated_deadline
+      label: Requested Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: project_budget_limit
+      label: Budget Estimate
+      hint: USD
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: preferred_communication
+      label: Preferred Communication
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Slack
+      - Phone
+      - Video Call
+      required: true
+    - id: 10
+      name: referral_info
+      label: How did you find us?
+      hint: null
+      type: text
+      options: []
+      required: false

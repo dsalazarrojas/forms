@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Itinerary Assistance Form
+    pages:
+    - id: 1
+      name: trip_details
+      label: trip_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trip_participants
+      label: trip_participants
+      hint: null
+      type: select_multiple
+      options:
+      - Participant 1
+      - Participant 2
+      - Participant 3
+      required: false
+    - id: 3
+      name: participant_names
+      label: participant_names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: accommodations
+      label: accommodations
+      hint: null
+      type: select_one
+      options:
+      - Accommodation 1
+      - Accommodation 2
+      - Accommodation 3
+      required: false
+    - id: 5
+      name: accommodation_name
+      label: accommodation_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: accommodation_details
+      label: accommodation_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: travel_duration
+      label: travel_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: travel_date
+      label: travel_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: travel_time
+      label: travel_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: tour_guide_name
+      label: tour_guide_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tour_guide_email
+      label: tour_guide_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: tour_guide_phone
+      label: tour_guide_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_info
+      label: additional_info
+      hint: Additional information
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Save for Later
+      - Cancel
+      required: false

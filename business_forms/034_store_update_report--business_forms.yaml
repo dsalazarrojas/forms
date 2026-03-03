@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: store_update_report
+    pages:
+    - id: 1
+      name: store_name
+      label: Store Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: store_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: report_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: sales
+      label: sales
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: profit
+      label: profit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: store_manager
+      label: store_manager
+      hint: null
+      type: select_one
+      options:
+      - Bob Smith
+      - Jim Doe
+      required: true
+    - id: 9
+      name: team
+      label: team
+      hint: null
+      type: select_multiple
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter
+      label: submitter
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Jim Smith
+      required: true
+    - id: 13
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_location
+      label: submitter_location
+      hint: null
+      type: text
+      options: []
+      required: false

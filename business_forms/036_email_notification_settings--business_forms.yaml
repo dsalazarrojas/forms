@@ -1,0 +1,101 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: email_notification_settings
+    pages:
+    - id: 1
+      name: notification_period
+      label: Notification Period
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 2
+      name: notification_type
+      label: Notification Type
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - SMS
+      - Push
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: email_frequency
+      label: Email Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 5
+      name: notification_time
+      label: Notification Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: timezone
+      label: Timezone
+      hint: null
+      type: select_one
+      options:
+      - EST
+      - EST5EDT
+      - CDT
+      - PST
+      - CST
+      - MST
+      - AST
+      - CST
+      required: false
+    - id: 7
+      name: email_format
+      label: Email Format
+      hint: null
+      type: select_one
+      options:
+      - Plain Text
+      - HTML
+      - Rich Text
+      required: false
+    - id: 8
+      name: notification_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Enabled
+      - Disabled
+      required: false
+    - id: 9
+      name: test_email
+      label: Test Email
+      hint: null
+      type: email
+      options: []
+      required: false

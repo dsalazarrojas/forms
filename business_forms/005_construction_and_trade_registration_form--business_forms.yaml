@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction And Trade Registration Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Legal name of your construction or trade business
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_type
+      label: Business Type
+      hint: Select your business structure
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - Limited Liability Company (LLC)
+      - Corporation
+      - Non-Profit
+      - Government Entity
+      required: true
+    - id: 3
+      name: trade_category
+      label: Trade Category
+      hint: Primary trade or specialty
+      type: select_one
+      options:
+      - General Contractor
+      - Residential Builder
+      - Commercial Builder
+      - Electrical
+      - Plumbing
+      - HVAC
+      - Carpentry
+      - Masonry
+      - Roofing
+      - Painting
+      - Flooring
+      - Landscaping
+      - Other
+      required: true
+    - id: 4
+      name: years_in_business
+      label: Years in Business
+      hint: How long has your business operated
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 3 years
+      - 4 to 7 years
+      - 8 to 15 years
+      - More than 15 years
+      required: true
+    - id: 5
+      name: business_address
+      label: Business Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_city
+      label: City
+      hint: City where business is located
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_zip
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_name
+      label: Primary Contact Name
+      hint: Full name of business representative
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_title
+      label: Contact Title
+      hint: Job title or position
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_email
+      label: Email Address
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: contact_phone
+      label: Phone Number
+      hint: Primary business phone
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: license_number
+      label: Contractor License Number
+      hint: State or local license number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: license_state
+      label: License State
+      hint: State that issued the license
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: license_expiry
+      label: License Expiration Date
+      hint: When does your license expire
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Name of insurance company
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Policy or certificate number
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: insurance_expiry
+      label: Insurance Expiration Date
+      hint: When does insurance expire
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: workers_compensation
+      label: Workers Compensation Coverage
+      hint: Do you have workers comp insurance
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 20
+      name: number_of_employees
+      label: Number of Employees
+      hint: Total full-time and part-time employees
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: services_offered
+      label: Services Offered
+      hint: Select all services you provide
+      type: select_multiple
+      options:
+      - New Construction
+      - Renovation
+      - Remodeling
+      - Repairs
+      - Maintenance
+      - Inspection
+      - Consulting
+      - Emergency Services
+      required: true
+    - id: 22
+      name: service_area
+      label: Service Area
+      hint: Geographic areas you serve
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: certifications
+      label: Certifications and Qualifications
+      hint: List any professional certifications
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: references_available
+      label: References Available
+      hint: Can you provide client references
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 25
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant details about your business
+      type: text
+      options: []
+      required: false

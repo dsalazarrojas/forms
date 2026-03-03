@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inventory Level Monitoring Form
+    pages:
+    - id: 1
+      name: inventory_level_monitoring_form
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inventory_level_1
+      label: item_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: inventory_level_2
+      label: level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: inventory_level_3
+      label: quantity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: inventory_level_4
+      label: unit_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: inventory_level_5
+      label: reorder_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 7
+      name: inventory_level_6
+      label: last_ordered_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: inventory_level_7
+      label: last_reorder_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: inventory_level_8
+      label: quantity_ordered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: inventory_level_9
+      label: quantity_received
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: inventory_level_10
+      label: quantity_in_stock
+      hint: null
+      type: number
+      options: []
+      required: false

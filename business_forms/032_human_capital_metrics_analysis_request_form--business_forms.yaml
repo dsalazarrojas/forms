@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Human Capital Metrics Analysis Request Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - pending
+      required: false
+    - id: 7
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: total_hours_worked
+      label: Total Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: hourly_wage
+      label: Hourly Wage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: total_compensation
+      label: Total Compensation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: benefits
+      label: Benefits
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: training_and_development
+      label: Training and Development
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

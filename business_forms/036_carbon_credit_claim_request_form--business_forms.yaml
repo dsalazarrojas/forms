@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carbon Credit Claim Request Form
+    pages:
+    - id: 1
+      name: organization_information
+      label: -- ORGANIZATION INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_type
+      label: Organization type
+      hint: null
+      type: select_one
+      options:
+      - Private Company
+      - Public Company
+      - Non-profit
+      - Government Agency
+      - Educational Institution
+      - Other
+      required: true
+    - id: 4
+      name: registration_number
+      label: Business registration number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tax_id
+      label: Tax identification number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact person name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: carbon_credit_project
+      label: -- CARBON CREDIT PROJECT DETAILS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: project_name
+      label: Project name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_type
+      label: Project type
+      hint: null
+      type: select_one
+      options:
+      - Renewable Energy
+      - Reforestation
+      - Methane Reduction
+      - Energy Efficiency
+      - Sustainable Agriculture
+      - Carbon Capture
+      - Waste Management
+      - Other
+      required: true
+    - id: 12
+      name: project_description
+      label: Project description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: project_start_date
+      label: Project start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: project_end_date
+      label: Project end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: project_location
+      label: Project location
+      hint: Country, state, region
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: carbon_reduction_details
+      label: -- CARBON REDUCTION DETAILS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: estimated_reduction
+      label: Estimated carbon reduction (metric tons CO2e)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: verified_reduction
+      label: Verified carbon reduction (metric tons CO2e)
+      hint: If available
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: reduction_methodology
+      label: Reduction calculation methodology
+      hint: Description of how reduction was calculated
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: documentation_available
+      label: Documentation and supporting evidence available?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Partial
+      - false
+      - Will Provide Later
+      required: true
+    - id: 21
+      name: certification_details
+      label: -- CERTIFICATION AND STANDARDS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: certification_standard
+      label: Certification standard used
+      hint: null
+      type: select_one
+      options:
+      - ISO 14064
+      - VCS
+      - Gold Standard
+      - CDM
+      - CAR
+      - ACR
+      - Other
+      - None
+      required: false
+    - id: 23
+      name: third_party_verification
+      label: Third-party verification completed?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - In Progress
+      - Planned
+      - false
+      required: false
+    - id: 24
+      name: verifier_name
+      label: Verifier name or organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: claim_submission_date
+      label: Claim submission date
+      hint: null
+      type: date
+      options: []
+      required: true

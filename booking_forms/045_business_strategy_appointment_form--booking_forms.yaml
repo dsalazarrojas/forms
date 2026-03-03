@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Strategy Appointment Form
+    pages:
+    - id: 1
+      name: section_client_info
+      label: -- Client Information --
+      type: note
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Individual or company name
+      type: text
+      required: true
+    - id: 3
+      name: client_title
+      label: Title or Position
+      hint: Your role
+      type: text
+      required: true
+    - id: 4
+      name: client_email
+      label: Email Address
+      hint: Your email
+      type: email
+      required: true
+    - id: 5
+      name: client_phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      required: true
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: Organization name
+      type: text
+      required: true
+    - id: 7
+      name: company_industry
+      label: Industry
+      hint: Business sector
+      type: text
+      required: true
+    - id: 8
+      name: section_appointment
+      label: -- Appointment Details --
+      type: note
+      required: false
+    - id: 9
+      name: appointment_type
+      label: Type of Strategy Session
+      hint: What do you want to discuss
+      type: select_one
+      options:
+      - Initial Consultation
+      - Quarterly Review
+      - Growth Planning
+      - Operational Improvement
+      - Leadership Development
+      - Market Expansion
+      - Crisis Management
+      - Other
+      required: true
+    - id: 10
+      name: preferred_date
+      label: Preferred Appointment Date
+      hint: Your preferred date
+      type: date
+      required: true
+    - id: 11
+      name: preferred_time
+      label: Preferred Time
+      hint: Your preferred time
+      type: time
+      required: true
+    - id: 12
+      name: session_format
+      label: Session Format
+      hint: How would you like to meet
+      type: select_one
+      options:
+      - In-Person
+      - Phone Call
+      - Video Conference
+      - Hybrid
+      required: true
+    - id: 13
+      name: appointment_duration
+      label: Estimated Duration Needed
+      hint: How long is the session
+      type: select_one
+      options:
+      - 30 minutes
+      - 1 hour
+      - 1.5 hours
+      - 2 hours
+      - 3+ hours
+      required: false
+    - id: 14
+      name: section_business_context
+      label: -- Business Context --
+      type: note
+      required: false
+    - id: 15
+      name: company_stage
+      label: Business Stage
+      hint: Where is your company
+      type: select_one
+      options:
+      - Startup
+      - Early Growth
+      - Established
+      - Scaling
+      - Mature
+      required: true
+    - id: 16
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: number
+      required: false
+    - id: 17
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Approximate revenue
+      type: number
+      required: false
+    - id: 18
+      name: section_session_focus
+      label: -- Session Focus Areas --
+      type: note
+      required: false
+    - id: 19
+      name: key_discussion_topics
+      label: Key Discussion Topics
+      hint: What should we focus on
+      type: select_multiple
+      options:
+      - Strategic Direction
+      - Revenue Growth
+      - Cost Optimization
+      - Market Positioning
+      - Team Development
+      - Operations Improvement
+      - Technology Strategy
+      - Risk Management
+      required: true
+    - id: 20
+      name: specific_challenges
+      label: Specific Challenges or Goals
+      hint: What problems are you facing
+      type: text
+      required: true
+    - id: 21
+      name: desired_outcomes
+      label: Desired Outcomes from Session
+      hint: What do you want to achieve
+      type: text
+      required: true
+    - id: 22
+      name: section_preparation
+      label: -- Preparation and Materials --
+      type: note
+      required: false
+    - id: 23
+      name: materials_to_review
+      label: Materials to Review Before Session
+      hint: Documents you can provide
+      type: text
+      required: false
+    - id: 24
+      name: prior_strategy_work
+      label: Any Prior Strategy Work
+      hint: Have you worked with a consultant before
+      type: text
+      required: false
+    - id: 25
+      name: key_stakeholders
+      label: Key Stakeholders to Involve
+      hint: Who else should be included
+      type: text
+      required: false

@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: training_pre_assessment_survey
+    pages:
+    - id: 1
+      name: training_pre_assessment_survey_page_1
+      label: Training Pre Assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_level_of_training
+      label: Employee Level of Training
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 3
+      name: areas_of_growth
+      label: Areas of Growth
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: date_of_last_assessment
+      label: Date of Last Assessment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: next_assessment_date
+      label: Next Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false

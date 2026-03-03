@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Pre Order Form
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''shipping_method_1'', ''value'': ''Ground''}'
+      - '{''name'': ''shipping_method_2'', ''value'': ''Two-Day''}'
+      - '{''name'': ''shipping_method_3'', ''value'': ''One-Day''}'
+      required: false
+    - id: 3
+      name: payment_option
+      label: Payment Option
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''payment_option_1'', ''value'': ''Bank''}'
+      - '{''name'': ''payment_option_2'', ''value'': ''PayPal''}'
+      - '{''name'': ''payment_option_3'', ''value'': ''Cash''}'
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Operations Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: applicant_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: applicant_address
+      label: Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: position_applied_for
+      label: Position Applied For
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Which department
+      type: select_one
+      options:
+      - Operations
+      - Administration
+      - Finance
+      - Human Resources
+      - IT
+      - Customer Service
+      - Sales
+      - Marketing
+      required: true
+    - id: 7
+      name: employment_type
+      label: Employment Type
+      hint: Type of position
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      - Temporary
+      - Internship
+      required: true
+    - id: 8
+      name: available_start_date
+      label: Available Start Date
+      hint: When can you start
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: salary_expectations
+      label: Salary Expectations
+      hint: Expected salary range
+      type: select_one
+      options:
+      - $30K to $40K
+      - $40K to $50K
+      - $50K to $60K
+      - $60K to $75K
+      - $75K to $100K
+      - Over $100K
+      - Negotiable
+      required: true
+    - id: 10
+      name: education_level
+      label: Highest Education Level
+      hint: Highest completed education
+      type: select_one
+      options:
+      - High school
+      - Some college
+      - Associate degree
+      - Bachelor degree
+      - Master degree
+      - Doctorate
+      required: true
+    - id: 11
+      name: field_of_study
+      label: Field of Study
+      hint: Major or area of study
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: years_experience
+      label: Years of Relevant Experience
+      hint: Total years in similar role
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: relevant_skills
+      label: Relevant Skills
+      hint: Select all applicable skills
+      type: select_multiple
+      options:
+      - Project management
+      - Data analysis
+      - Process improvement
+      - Team leadership
+      - Budget management
+      - Customer service
+      - Software proficiency
+      - Communication
+      required: true
+    - id: 14
+      name: software_proficiency
+      label: Software Proficiency
+      hint: Select all software you know
+      type: select_multiple
+      options:
+      - Microsoft Office
+      - Google Workspace
+      - Salesforce
+      - SAP
+      - Oracle
+      - QuickBooks
+      - Slack
+      - Asana or Trello
+      required: true
+    - id: 15
+      name: previous_employer
+      label: Most Recent Employer
+      hint: Company name
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: previous_role
+      label: Previous Role
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: reason_for_leaving
+      label: Reason for Leaving
+      hint: Why did you leave
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: work_authorization
+      label: Work Authorization
+      hint: Are you authorized to work
+      type: select_one
+      options:
+      - Yes - citizen
+      - Yes - permanent resident
+      - Yes - work visa
+      - No - need sponsorship
+      required: true
+    - id: 19
+      name: background_check_consent
+      label: Background Check Consent
+      hint: Do you consent to background check
+      type: select_one
+      options:
+      - Yes - I consent
+      - No - I do not consent
+      required: true
+    - id: 20
+      name: references_available
+      label: References Available
+      hint: Can you provide references
+      type: select_one
+      options:
+      - Yes - 3 professional references
+      - Yes - 2 professional references
+      - Yes - 1 professional reference
+      - No - not available
+      required: true
+    - id: 21
+      name: cover_letter
+      label: Cover Letter
+      hint: Brief statement about why you are a good fit
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: how_did_you_hear
+      label: How Did You Hear About This Position
+      hint: Source of job posting
+      type: select_one
+      options:
+      - Company website
+      - Job board
+      - Social media
+      - Referral
+      - Recruiter
+      - Other
+      required: false
+    - id: 23
+      name: referral_name
+      label: Referral Name
+      hint: Who referred you
+      type: text
+      options: []
+      required: false

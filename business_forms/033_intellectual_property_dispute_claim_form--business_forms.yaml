@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Intellectual Property Dispute Claim Form
+    pages:
+    - id: 1
+      name: claimant_details
+      label: Claimant Information
+      hint: null
+      type: select_one
+      options:
+      - Claimant 1
+      - Claimant 2
+      required: false
+    - id: 2
+      name: defendant_details
+      label: Defendant Information
+      hint: null
+      type: select_multiple
+      options:
+      - Defendant 1
+      - Defendant 2
+      required: false
+    - id: 3
+      name: ip_dispute_details
+      label: Intellectual Property Dispute
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dispute_type
+      label: Dispute Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 5
+      name: claimant_statement
+      label: Claimant Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: evidence_upload
+      label: Evidence Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: dispute_resolution
+      label: Dispute Resolution
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: case_number
+      label: Case Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: case_reference
+      label: Case Reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_details
+      label: Submitter Information
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 12
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: dispute_status
+      label: Dispute Status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 14
+      name: dispute_description
+      label: Dispute Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: claimant_address
+      label: Claimant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: defendant_address
+      label: Defendant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: claimant_contact
+      label: Claimant Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: defendant_contact
+      label: Defendant Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: claimant_email
+      label: Claimant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: defendant_email
+      label: Defendant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: dispute_resolution_date
+      label: Dispute Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: dispute_resolution_time
+      label: Dispute Resolution Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: case_type
+      label: Case Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 24
+      name: submitter_role
+      label: Submitter Role
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 25
+      name: submitter_status
+      label: Submitter Status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false

@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gardening Supply Subscription Form
+    pages:
+    - id: 1
+      name: delivery_details
+      label: delivery_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: subscription_type
+      label: subscription_type
+      hint: Select the type of subscription you want to create.
+      type: select_one
+      options:
+      - '{''label'': ''Weekly'', ''value'': ''Weekly''}'
+      - '{''label'': ''Bi-Weekly'', ''value'': ''Bi-Weekly''}'
+      - '{''label'': ''Monthly'', ''value'': ''Monthly''}'
+      required: false
+    - id: 3
+      name: subscription_plan
+      label: subscription_plan
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Spring'', ''value'': ''spring''}'
+      - '{''label'': ''Summer'', ''value'': ''summer''}'
+      - '{''label'': ''Fall'', ''value'': ''fall''}'
+      - '{''label'': ''Winter'', ''value'': ''winter''}'
+      required: false
+    - id: 4
+      name: frequency
+      label: frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Once'', ''value'': ''once''}'
+      - '{''label'': ''Every 2 weeks'', ''value'': ''every 2 weeks''}'
+      - '{''label'': ''Every 4 weeks'', ''value'': ''every 4 weeks''}'
+      required: false
+    - id: 5
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: subscription_status
+      label: subscription_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active'', ''value'': ''active''}'
+      - '{''label'': ''Inactive'', ''value'': ''inactive''}'
+      required: false
+    - id: 10
+      name: subscription_note
+      label: subscription_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Credit Card'', ''value'': ''Credit Card''}'
+      - '{''label'': ''PayPal'', ''value'': ''PayPal''}'
+      required: false
+    - id: 20
+      name: payment_cycle
+      label: payment_cycle
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Every 2 weeks'', ''value'': ''every 2 weeks''}'
+      - '{''label'': ''Every 4 weeks'', ''value'': ''every 4 weeks''}'
+      required: false
+    - id: 21
+      name: payment_method_details
+      label: payment_method_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: customer_note
+      label: customer_note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Furniture Inspection Form
+    pages:
+    - id: 1
+      name: home_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: furniture_description
+      label: Furniture Description
+      hint: Briefly describe the furniture
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: condition
+      label: Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: true
+    - id: 4
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: seller_name
+      label: Seller's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_inspected
+      label: Date Inspected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_inspected
+      label: Time Inspected
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: inspector_name
+      label: Inspector's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: inspector_notes
+      label: Inspector's Notes
+      hint: null
+      type: note
+      options: []
+      required: false

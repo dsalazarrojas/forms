@@ -1,0 +1,176 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Specialist Offer Review
+    pages:
+    - id: 1
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Name of the specialist reviewing
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reviewer_department
+      label: Department
+      hint: Your department or team
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: review_date
+      label: Review Date
+      hint: Date of this review
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: offer_title
+      label: Offer or Proposal Title
+      hint: Name of the offer being reviewed
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: offer_description
+      label: Offer Description
+      hint: Brief description of the offer
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: target_audience
+      label: Target Audience or Segment
+      hint: Who is this offer for
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: offer_value
+      label: Offer Value or Discount
+      hint: What is the offer worth or discount amount
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: validity_period
+      label: Offer Validity Period
+      hint: How long is the offer valid
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: marketing_alignment
+      label: Alignment with Marketing Strategy
+      hint: How well does this align with our strategy
+      type: select_one
+      options:
+      - Excellent Alignment
+      - Good Alignment
+      - Adequate Alignment
+      - Poor Alignment
+      - Not Aligned
+      required: true
+    - id: 10
+      name: competitive_positioning
+      label: Competitive Positioning
+      hint: How competitive is this offer
+      type: select_one
+      options:
+      - Highly Competitive
+      - Competitive
+      - Adequately Competitive
+      - Less Competitive
+      - Not Competitive
+      required: true
+    - id: 11
+      name: profit_margin
+      label: Profit Margin Impact
+      hint: Expected impact on profit margins
+      type: select_one
+      options:
+      - Significantly Positive
+      - Positive
+      - Neutral
+      - Negative
+      - Significantly Negative
+      required: true
+    - id: 12
+      name: resource_requirements
+      label: Resource Requirements
+      hint: What resources are needed
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: implementation_feasibility
+      label: Implementation Feasibility
+      hint: Is this feasible to implement
+      type: select_one
+      options:
+      - Highly Feasible
+      - Feasible
+      - Moderately Feasible
+      - Difficult
+      - Not Feasible
+      required: true
+    - id: 14
+      name: risks_identified
+      label: Risks Identified
+      hint: What risks do you see
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_appeal
+      label: Customer Appeal Rating
+      hint: How appealing is this to customers
+      type: select_one
+      options:
+      - Highly Appealing
+      - Appealing
+      - Moderately Appealing
+      - Not Very Appealing
+      - Unappealing
+      required: true
+    - id: 16
+      name: recommendation
+      label: Recommendation
+      hint: Should we proceed with this offer
+      type: select_one
+      options:
+      - Strongly Recommend
+      - Recommend
+      - Neutral
+      - Do Not Recommend
+      - Strongly Oppose
+      required: true
+    - id: 17
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: Additional comments or suggestions
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: approval_status
+      label: Approval Status
+      hint: What is the status of approval
+      type: select_one
+      options:
+      - Approved
+      - Pending Review
+      - Conditional Approval
+      - Rejected
+      required: false

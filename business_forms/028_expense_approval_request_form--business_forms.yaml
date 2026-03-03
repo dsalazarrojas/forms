@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Approval Request Form
+    pages:
+    - id: 1
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: approver
+      label: Approver
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: approver_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: approver_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: approver_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: expense_type
+      label: Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: expense_category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: expense_subcategory
+      label: Subcategory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: expense_subcategory2
+      label: Subcategory 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - Submit and Approve
+      - Submit and Reject
+      required: false
+    - id: 19
+      name: comments
+      label: Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: attachment_2
+      label: Attachment 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: attachment_3
+      label: Attachment 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: approver_email2
+      label: Email 2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: approver_phone2
+      label: Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: approver_title2
+      label: Title 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: approver_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fishing Charters Booking Form
+    pages:
+    - id: 1
+      name: form_input
+      label: Fishing Charter Booking Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Enter the customer's full name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: charter_details
+      label: Charter Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: fisher_name
+      label: Fisher Name
+      hint: Enter the Fisher Name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: fisher_email
+      label: Fisher Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: fisher_phone
+      label: Fisher Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: fisher_details
+      label: Fisher Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: charter_price
+      label: Charter Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: fisher_availability
+      label: Fisher Availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

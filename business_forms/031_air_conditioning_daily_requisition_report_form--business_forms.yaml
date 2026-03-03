@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Conditioning Daily Requisition Report Form
+    pages:
+    - id: 1
+      name: tech_details_header
+      label: -- Technician Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tech_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date
+      label: Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: job_info_header
+      label: -- Job Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: job_number
+      label: Job Number
+      hint: From work order
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: site_address
+      label: Site Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: materials_header
+      label: -- Materials Used --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: copper_pipe
+      label: Copper Pipe Used (ft)
+      hint: Total length
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: insulation
+      label: Insulation Used (tubes)
+      hint: Count
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: refrigerant
+      label: Refrigerant Added (lbs)
+      hint: Exact weight
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: wire
+      label: Electrical Wire (ft)
+      hint: Length
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: fittings
+      label: Fittings / Consumables
+      hint: Misc count
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: tools_header
+      label: -- Tools Requisition --
+      hint: Tools checked out for the day
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: tools_checked_out
+      label: Tools Requested
+      hint: Select tools needed
+      type: select_multiple
+      options:
+      - Vacuum Pump
+      - Recovery Machine
+      - Digital Manifold
+      - Nitrogen Tank
+      - Welding Kit
+      required: false
+    - id: 15
+      name: time_header
+      label: -- Time Log --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: departure_time
+      label: Departure Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: total_hours
+      label: Total Hours Worked
+      hint: Exclude lunch
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: notes
+      label: Daily Notes
+      hint: Issues or delays
+      type: text
+      options: []
+      required: false

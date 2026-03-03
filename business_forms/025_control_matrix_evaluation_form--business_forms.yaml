@@ -1,0 +1,313 @@
+inputSchema:
+  type: object
+  properties:
+    title: Control Matrix Evaluation Form
+    pages:
+    - id: 1
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Name of person conducting evaluation
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: evaluator_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department or division
+      type: select_one
+      options:
+      - Internal Audit
+      - Risk Management
+      - Compliance
+      - Operations
+      - Finance
+      - IT
+      - Executive
+      - Other
+      required: true
+    - id: 4
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Date of this evaluation
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_control_area
+      label: -- Control Area --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: control_area
+      label: Control Area Being Evaluated
+      hint: Which area is under review
+      type: select_one
+      options:
+      - Financial Controls
+      - Operational Controls
+      - IT Controls
+      - Compliance Controls
+      - Risk Management
+      - Human Resources
+      - Procurement
+      - Other
+      required: true
+    - id: 7
+      name: process_name
+      label: Process Name
+      hint: Specific process being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: process_owner
+      label: Process Owner
+      hint: Person responsible for this process
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_effectiveness
+      label: -- Control Effectiveness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: design_effectiveness
+      label: Design Effectiveness
+      hint: Are controls well designed
+      type: select_one
+      options:
+      - Highly Effective
+      - Effective
+      - Moderately Effective
+      - Ineffective
+      - Highly Ineffective
+      required: true
+    - id: 11
+      name: operating_effectiveness
+      label: Operating Effectiveness
+      hint: Are controls working as intended
+      type: select_one
+      options:
+      - Highly Effective
+      - Effective
+      - Moderately Effective
+      - Ineffective
+      - Highly Ineffective
+      required: true
+    - id: 12
+      name: control_frequency
+      label: Control Frequency
+      hint: How often is control performed
+      type: select_one
+      options:
+      - Continuous
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      - Ad Hoc
+      required: true
+    - id: 13
+      name: section_risk_assessment
+      label: -- Risk Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: inherent_risk_level
+      label: Inherent Risk Level
+      hint: Risk level without controls
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: true
+    - id: 15
+      name: residual_risk_level
+      label: Residual Risk Level
+      hint: Risk level after controls
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: true
+    - id: 16
+      name: risk_trend
+      label: Risk Trend
+      hint: Is risk increasing or decreasing
+      type: select_one
+      options:
+      - Increasing
+      - Stable
+      - Decreasing
+      required: true
+    - id: 17
+      name: section_control_testing
+      label: -- Control Testing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: testing_performed
+      label: Was testing performed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: sample_size
+      label: Sample Size Tested
+      hint: Number of items tested
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: exceptions_found
+      label: Exceptions Found
+      hint: Number of control failures
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: exception_details
+      label: Exception Details
+      hint: Describe any exceptions found
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_documentation
+      label: -- Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: documentation_exists
+      label: Is control documentation available
+      hint: null
+      type: select_one
+      options:
+      - Yes - Complete
+      - Yes - Partial
+      - false
+      required: true
+    - id: 24
+      name: documentation_quality
+      label: Documentation Quality
+      hint: How well documented are controls
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: false
+    - id: 25
+      name: documentation_current
+      label: Is documentation up to date
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partially
+      required: false
+    - id: 26
+      name: section_recommendations
+      label: -- Recommendations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: improvement_needed
+      label: Are improvements needed
+      hint: null
+      type: select_one
+      options:
+      - Yes - Critical
+      - Yes - Important
+      - Yes - Minor
+      - false
+      required: true
+    - id: 28
+      name: recommendations
+      label: Recommendations for Improvement
+      hint: Describe recommended actions
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: management_response
+      label: Management Response
+      hint: Management comments if available
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: follow_up_required
+      label: Is follow-up required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 31
+      name: follow_up_date
+      label: Follow-up Date
+      hint: When should follow-up occur
+      type: date
+      options: []
+      required: false
+    - id: 32
+      name: section_overall
+      label: -- Overall Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: overall_rating
+      label: Overall Control Rating
+      hint: Your overall assessment
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 34
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other observations
+      type: text
+      options: []
+      required: false

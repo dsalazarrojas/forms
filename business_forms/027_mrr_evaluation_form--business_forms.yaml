@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: mrr_evaluation_form
+    pages:
+    - id: 1
+      name: period
+      label: Period
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: month
+      label: Month
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: revenue_streams
+      label: Revenue Streams
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: total_revenue
+      label: Total Revenue
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: churn_rate
+      label: Churn Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: mrr_growth
+      label: MRR Growth
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: growth_drivers
+      label: Growth Drivers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: action_items
+      label: Action Items
+      hint: null
+      type: note
+      options: []
+      required: false

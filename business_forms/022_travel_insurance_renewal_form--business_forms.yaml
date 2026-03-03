@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Insurance Renewal Form
+    pages:
+    - id: 1
+      name: user_info
+      label: user-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: policy_info
+      label: policy-info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: policy_number
+      label: policy-number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: start_date
+      label: start-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: expiration_date
+      label: expiration-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: coverage_duration
+      label: coverage-duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: travel_info
+      label: travel-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: destination
+      label: destination
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: departure_date
+      label: departure-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: return_date
+      label: return-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: travel_duration
+      label: travel-duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: contact_info
+      label: contact-info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: policy_status
+      label: policy-status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Existing
+      required: true

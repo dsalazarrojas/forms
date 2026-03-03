@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Appointment Reservation Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Page 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: Select Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: page_2
+      label: select_multiple
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: page_2
+      label: phone
+      hint: Enter phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: page_2
+      label: text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: page_2
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: page_3
+      label: Page 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: page_3
+      label: email
+      hint: Enter email
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: page_3
+      label: select_one
+      hint: Select a time
+      type: select_one
+      options:
+      - 9:00 AM
+      - 10:00 AM
+      - 11:00 AM
+      - 12:00 PM
+      - 1:00 PM
+      - 2:00 PM
+      - 3:00 PM
+      - 4:00 PM
+      - 5:00 PM
+      required: false
+    - id: 10
+      name: page_3
+      label: text
+      hint: null
+      type: text
+      options: []
+      required: false

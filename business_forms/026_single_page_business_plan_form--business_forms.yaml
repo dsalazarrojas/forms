@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: single_page_business_plan_form
+    pages:
+    - id: 1
+      name: business_goal
+      label: Business Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: industry
+      label: industry
+      hint: Select one or more
+      type: select_multiple
+      options:
+      - Software Development
+      - Marketing
+      - Financial Services
+      - Retail
+      - Technology
+      - Entertainment
+      - Other
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: City, state, zip, or region
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_members
+      label: Team Members
+      hint: null
+      type: number
+      options: []
+      required: false

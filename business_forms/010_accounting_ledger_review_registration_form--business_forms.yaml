@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Ledger Review Registration Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: Name of the person registering the review
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ledger_name_or_number
+      label: Ledger Name or Number
+      hint: Specify which ledger is to be reviewed
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: ledger_type
+      label: Ledger Type
+      hint: null
+      type: select_one
+      options:
+      - General Ledger
+      - Subsidiary Ledger - AP
+      - Subsidiary Ledger - AR
+      required: true
+    - id: 5
+      name: review_cycle
+      label: Review Cycle
+      hint: How often is this ledger reviewed?
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semiannually
+      - Annually
+      required: true
+    - id: 6
+      name: scheduled_review_date
+      label: Scheduled Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: preferred_review_time
+      label: Preferred Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: focus_areas
+      label: Focus Areas
+      hint: Select priority items for this review
+      type: select_multiple
+      options:
+      - Reconciliation Discrepancies
+      - Large Value Transactions
+      - Duplicate Entries
+      - Aging Analysis
+      required: true
+    - id: 9
+      name: special_instructions_for_reviewer
+      label: Special Instructions for Reviewer
+      hint: Any specific concerns or notes
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone_for_follow_up
+      label: Contact Phone for Follow-up
+      hint: null
+      type: text
+      options: []
+      required: true

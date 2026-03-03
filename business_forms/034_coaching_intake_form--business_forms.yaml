@@ -1,0 +1,255 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Intake Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Full Name
+      hint: Your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mailing_address
+      label: Mailing Address
+      hint: Your full address
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: For identification purposes
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: occupation
+      label: Current Occupation
+      hint: Your job or profession
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: employer
+      label: Employer Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: marital_status
+      label: Marital Status
+      hint: Your relationship status
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - In a Relationship
+      - Separated
+      required: false
+    - id: 9
+      name: dependents
+      label: Number of Dependents
+      hint: How many people depend on you
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: coaching_type_requested
+      label: Type of Coaching Requested
+      hint: What coaching do you need
+      type: select_one
+      options:
+      - Life Coaching
+      - Career Coaching
+      - Executive Coaching
+      - Business Coaching
+      - Health Coaching
+      - Relationship Coaching
+      - Not Sure
+      required: true
+    - id: 11
+      name: primary_concern
+      label: Primary Concern or Challenge
+      hint: What brings you to coaching
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: coaching_goals
+      label: Coaching Goals
+      hint: What do you want to achieve
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: previous_coaching
+      label: Have You Had Coaching Before
+      hint: Previous coaching experience
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: previous_coaching_details
+      label: Previous Coaching Details
+      hint: Describe past experience
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: current_stress_level
+      label: Current Stress Level
+      hint: Rate your stress 1 to 10
+      type: select_one
+      options:
+      - 1-2 Low Stress
+      - 3-4 Mild Stress
+      - 5-6 Moderate Stress
+      - 7-8 High Stress
+      - 9-10 Very High Stress
+      required: true
+    - id: 16
+      name: support_system
+      label: Support System
+      hint: Do you have people who support you
+      type: select_one
+      options:
+      - Strong Support System
+      - Some Support
+      - Limited Support
+      - No Support System
+      required: false
+    - id: 17
+      name: health_conditions
+      label: Relevant Health Conditions
+      hint: Any conditions coach should know
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medications
+      label: Current Medications
+      hint: List any medications
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: mental_health_support
+      label: Currently Seeing Mental Health Professional
+      hint: Are you in therapy or counseling
+      type: select_one
+      options:
+      - true
+      - false
+      - Previously
+      required: false
+    - id: 20
+      name: preferred_session_format
+      label: Preferred Session Format
+      hint: How do you want to meet
+      type: select_one
+      options:
+      - In Person
+      - Video Call
+      - Phone Call
+      - No Preference
+      required: true
+    - id: 21
+      name: preferred_session_time
+      label: Preferred Session Time
+      hint: When works best for you
+      type: select_one
+      options:
+      - Morning 8AM-12PM
+      - Afternoon 12PM-5PM
+      - Evening 5PM-8PM
+      - Weekend
+      - Flexible
+      required: true
+    - id: 22
+      name: availability
+      label: Your Availability
+      hint: When are you available
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 23
+      name: how_heard_about_coach
+      label: How Did You Hear About Us
+      hint: How did you find us
+      type: select_one
+      options:
+      - Online Search
+      - Social Media
+      - Referral
+      - Advertisement
+      - Event
+      - Other
+      required: false
+    - id: 24
+      name: referral_name
+      label: Who Referred You
+      hint: Name of referrer
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: expectations
+      label: What Are Your Expectations
+      hint: What do you expect from coaching
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: commitment_level
+      label: How Committed Are You
+      hint: Rate your commitment
+      type: select_one
+      options:
+      - Fully Committed
+      - Very Committed
+      - Moderately Committed
+      - Somewhat Committed
+      - Just Exploring
+      required: true
+    - id: 27
+      name: potential_obstacles
+      label: What Might Get in Your Way
+      hint: Potential challenges to success
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: additional_information
+      label: Additional Information
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

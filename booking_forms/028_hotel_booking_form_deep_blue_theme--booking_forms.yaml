@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Booking Form Deep Blue Theme
+    pages:
+    - id: 1
+      name: first_page
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: first_page_date
+      label: form_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: first_page_time
+      label: form_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: first_page_name
+      label: form_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: first_page_email
+      label: form_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: first_page_phone
+      label: form_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: second_page_address
+      label: form_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: second_page_checkin
+      label: form_checkin
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: second_page_checkout
+      label: form_checkout
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: second_page_message
+      label: form_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: second_page_comment
+      label: form_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: second_page_submit
+      label: form_submit
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 13
+      name: third_page_confirmation
+      label: form_confirmation
+      hint: null
+      type: note
+      options: []
+      required: false

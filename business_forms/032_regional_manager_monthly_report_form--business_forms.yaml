@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Regional Manager Monthly Report Form
+    pages:
+    - id: 1
+      name: user_input_1
+      label: Regional Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: month_report
+      label: Manager Month
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: success_rate
+      label: Success Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: customer_count
+      label: Customer Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: region_name
+      label: Region
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_comment
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

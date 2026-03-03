@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Insight Accelerator Application Form
+    pages:
+    - id: 1
+      name: section_founder_profile_accelerator
+      label: -- Founder Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: lead_founder_full_name_accelerator
+      label: Founder Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_stage_selection_accelerator
+      label: Current Business Stage
+      hint: null
+      type: select_one
+      options:
+      - Pre-revenue / Ideation
+      - MVP / Beta Testing
+      - Early Revenue (traction established)
+      - Growth / Scaling
+      required: true
+    - id: 4
+      name: section_business_model_goals
+      label: -- Business Model and Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: core_business_problem_statement
+      label: Core Business Problem
+      hint: What is the primary pain point your business solves
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: recent_growth_metric_selection
+      label: Most Significant Growth Metric (Last 6 Months)
+      hint: Choose the area where you've seen the most traction
+      type: select_one
+      options:
+      - User Base Growth (%)
+      - Revenue Increase (%)
+      - Customer Acquisition Cost Decrease (%)
+      - Monthly Recurring Revenue (MRR)
+      - Partnership Acquisition
+      required: true
+    - id: 7
+      name: accelerator_application_reason_text
+      label: Reason for Applying to Accelerator
+      hint: Why now, and why this specific program
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: accelerator_goals_selection_multiple
+      label: Goals for Accelerator Participation
+      hint: What do you hope to achieve during the program
+      type: select_multiple
+      options:
+      - Mentor Access
+      - Fundraising / Pitch Coaching
+      - Market Validation
+      - Product / Tech Refinement
+      - Networking / Partnerships
+      required: true
+    - id: 9
+      name: current_revenue_model_description
+      label: Current Revenue Model
+      hint: How does your business generate income
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_team_size_accelerator
+      label: Current Team Size
+      hint: Including founders and full-time staff
+      type: select_one
+      options:
+      - Founder only (1)
+      - Small team (2-5)
+      - Growing team (6-15)
+      - Established team (16+)
+      required: true
+    - id: 11
+      name: section_commitment_media
+      label: -- Commitment and Media --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: time_commitment_confirmation_check
+      label: I can commit 10-15 hours per week to the accelerator program
+      hint: Mandatory for successful completion
+      type: select_one
+      options:
+      - I Confirm
+      - Other
+      required: true
+    - id: 13
+      name: pitch_deck_website_url_accelerator
+      label: Link to Pitch Deck or Website
+      hint: "e.g. https://www.yourstartup.com"
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: accelerator_app_submission_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true

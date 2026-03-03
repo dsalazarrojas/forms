@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Ethics Advisory Workshop Registration Form
+    pages:
+    - id: 1
+      name: attendee_information
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: workshop_details
+      label: -- Workshop Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: workshop_date
+      label: Preferred Workshop Date
+      hint: Which date works best?
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: workshop_session
+      label: Workshop Session
+      hint: Which session?
+      type: select_one
+      options:
+      - Morning Session (9am-12pm)
+      - Afternoon Session (1pm-4pm)
+      - Full Day
+      - No Preference
+      required: true
+    - id: 12
+      name: workshop_format
+      label: Preferred Format
+      hint: How would you prefer?
+      type: select_one
+      options:
+      - In-Person
+      - Virtual
+      - Hybrid
+      - No Preference
+      required: true
+    - id: 13
+      name: expertise_level
+      label: Ethics Expertise Level
+      hint: Your experience level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 14
+      name: topics_interested
+      label: Topics of Interest
+      hint: Select topics you want to learn
+      type: select_multiple
+      options:
+      - Corporate Ethics Fundamentals
+      - Ethical Decision Making
+      - Compliance and Regulations
+      - Conflict of Interest Management
+      - Whistleblower Protections
+      - Ethics Leadership
+      - Creating Ethical Culture
+      required: true
+    - id: 15
+      name: goals
+      label: Learning Goals
+      hint: What do you want to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: For catered meals
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Halal
+      - Kosher
+      - None
+      required: false
+    - id: 17
+      name: special_accommodations
+      label: Special Accommodations
+      hint: Accessibility or other needs
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_attendees
+      label: Additional Attendees from Company
+      hint: How many more people?
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: company_commitment
+      label: Company Commitment to Ethics
+      hint: Organization's ethics focus
+      type: select_one
+      options:
+      - Strong Commitment
+      - Moderate Commitment
+      - Developing Commitment
+      - Just Starting
+      required: false
+    - id: 20
+      name: questions
+      label: Questions or Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

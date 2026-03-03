@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Climbing Slot Reservation Form
+    pages:
+    - id: 1
+      name: customer_section
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: membership_section
+      label: -- Membership Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: member_status
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - Active Member
+      - Non-member
+      - Student
+      - Guest
+      required: true
+    - id: 7
+      name: member_id
+      label: Member ID
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reservation_section
+      label: -- Reservation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: reservation_date
+      label: Desired Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time_slot
+      label: Preferred Time Slot
+      hint: null
+      type: select_one
+      options:
+      - 6:00-7:00 AM
+      - 7:00-8:00 AM
+      - 12:00-1:00 PM
+      - 1:00-2:00 PM
+      - 5:00-6:00 PM
+      - 6:00-7:00 PM
+      - 7:00-8:00 PM
+      - 8:00-9:00 PM
+      required: true
+    - id: 11
+      name: session_type
+      label: Type of Session
+      hint: null
+      type: select_one
+      options:
+      - Open climbing
+      - Beginner lesson
+      - Intermediate lesson
+      - Advanced lesson
+      - Group session
+      - Private lesson
+      required: true
+    - id: 12
+      name: duration
+      label: Session Duration
+      hint: null
+      type: select_one
+      options:
+      - 1 hour
+      - 1.5 hours
+      - 2 hours
+      - 3 hours
+      required: true
+    - id: 13
+      name: group_section
+      label: -- Group Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: number_of_people
+      label: Number of People in Group
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: group_members
+      label: Names of group members
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: experience_level
+      label: Group experience level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Mixed
+      - Advanced
+      required: true
+    - id: 17
+      name: instruction_section
+      label: -- Instruction Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: instructor_needed
+      label: Do you need an instructor?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: instructor_type
+      label: Type of instruction needed
+      hint: null
+      type: select_one
+      options:
+      - Beginner intro
+      - Technique coaching
+      - Safety certification
+      - Lead climbing course
+      - None
+      required: false
+    - id: 20
+      name: special_section
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: special_requests
+      label: Special requests or needs
+      hint: Accessibility, specific routes, etc.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: wall_preference
+      label: Wall preference
+      hint: null
+      type: select_one
+      options:
+      - Boulder walls
+      - Top-rope walls
+      - Lead wall
+      - No preference
+      required: false

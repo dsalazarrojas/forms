@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Luxury Auto Test Drive Reservation Form
+    pages:
+    - id: 1
+      name: test_drive_details
+      label: Test Drive Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: Please select one of the following
+      type: select_one
+      options:
+      - Drive-in, Drive-in
+      - Email, Email
+      - Phone, Phone
+      - Text, Text
+      required: false
+    - id: 5
+      name: drive_date
+      label: Drive Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: drive_time
+      label: Drive Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: test_drive_location
+      label: Test Drive Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: test_drive_duration
+      label: Test Drive Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: test_drive_distance
+      label: Test Drive Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: test_drive_comments
+      label: Test Drive Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: drive_in_details
+      label: Drive-in Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: test_drive_confirmation
+      label: Test Drive Confirmation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: dealer_notes
+      label: Dealer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: test_drive_status
+      label: Test Drive Status
+      hint: Select the test drive status
+      type: select_one
+      options:
+      - Pending, Pending
+      - Scheduled, Scheduled
+      - Completed, Completed
+      - Cancelled, Cancelled
+      required: false
+    - id: 22
+      name: test_drive_type
+      label: Test Drive Type
+      hint: Select the test drive type
+      type: select_one
+      options:
+      - New, New
+      - Certified Pre-Owned, Certified Pre-Owned
+      - Used, Used
+      - Lease, Lease
+      required: false
+    - id: 23
+      name: test_drive_priority
+      label: Test Drive Priority
+      hint: Set the test drive priority
+      type: select_one
+      options:
+      - High, High
+      - Medium, Medium
+      - Low, Low
+      required: false
+    - id: 24
+      name: test_drive_lead
+      label: Test Drive Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: test_drive_source
+      label: Test Drive Source
+      hint: null
+      type: text
+      options: []
+      required: false

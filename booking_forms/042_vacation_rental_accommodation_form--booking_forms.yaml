@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vacation Rental Accommodation Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_phone
+      label: Guest Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: accommodation_type
+      label: Accommodation Type
+      hint: null
+      type: select_multiple
+      options:
+      - Apartment
+      - House
+      - Suite
+      - Room
+      required: false
+    - id: 8
+      name: accommodation_name
+      label: Accommodation Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: guest_comment
+      label: Guest Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_managers_name
+      label: Property Manager's Name
+      hint: null
+      type: text
+      options: []
+      required: false

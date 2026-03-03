@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Energy Audit Checklist
+    pages:
+    - id: 1
+      name: site_name
+      label: Site Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: admin
+      label: Admin
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: building_status
+      label: Building Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: equipment_checklist
+      label: Equipment Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - High-Performance Motors
+      - High-Performance Pumps
+      - High-Performance Fans
+      required: true
+    - id: 5
+      name: facility_concerns
+      label: Facility Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: safety_concerns
+      label: Safety Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: energy_consumption
+      label: Energy Consumption
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: energy_conservation_measures
+      label: Energy Conservation Measures
+      hint: null
+      type: select_one
+      options:
+      - Lighting
+      - HVAC
+      - Water
+      required: true
+    - id: 10
+      name: energy_efficiency_status
+      label: Energy Efficiency Status
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 11
+      name: walk_through_completed
+      label: Walk Through Completed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: walk_through_comments
+      label: Walk Through Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketplace Listing Validation Application Form
+    pages:
+    - id: 1
+      name: marketplace
+      label: marketplace
+      hint: null
+      type: select_one
+      options:
+      - amazon
+      - ebay
+      - eBay
+      - etsy
+      required: false
+    - id: 2
+      name: product_type
+      label: product_type
+      hint: null
+      type: select_multiple
+      options:
+      - product1
+      - product2
+      - product3
+      - product4
+      required: false
+    - id: 3
+      name: product_description
+      label: product_description
+      hint: Brief description of the product
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: image
+      label: image
+      hint: Upload a clear and high quality image of the product
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shipping_info
+      label: shipping_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_info
+      label: payment_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: warranty_info
+      label: warranty_info
+      hint: null
+      type: text
+      options: []
+      required: false

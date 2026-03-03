@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Architects And Engineers PLI Application Form
+    pages:
+    - id: 1
+      name: section_applicant_info
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_firm_info
+      label: -- Firm Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: firm_name
+      label: Firm Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: firm_address
+      label: Firm Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: firm_type
+      label: Firm Type
+      hint: null
+      type: select_one
+      options:
+      - Sole proprietor
+      - Partnership
+      - Corporation
+      - LLC
+      - Other
+      required: true
+    - id: 9
+      name: firm_established_year
+      label: Year Firm Established
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: number_of_employees
+      label: Number of Employees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: annual_revenue
+      label: Annual Revenue Range
+      hint: null
+      type: select_one
+      options:
+      - Under 500K
+      - 500K - 1M
+      - 1M - 5M
+      - 5M - 10M
+      - Over 10M
+      required: false
+    - id: 12
+      name: section_professional_details
+      label: -- Professional Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: primary_discipline
+      label: Primary Discipline
+      hint: null
+      type: select_one
+      options:
+      - Architecture
+      - Engineering
+      - Structural engineering
+      - MEP engineering
+      - Landscape architecture
+      - Other
+      required: true
+    - id: 14
+      name: specializations
+      label: Specializations
+      hint: null
+      type: select_multiple
+      options:
+      - Commercial
+      - Residential
+      - Industrial
+      - Healthcare
+      - Education
+      - Hospitality
+      - Mixed-use
+      required: false
+    - id: 15
+      name: licensed_professionals_count
+      label: Number of Licensed Professionals
+      hint: In your firm
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: section_claims_history
+      label: -- Claims History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: prior_claims_five_years
+      label: Professional liability claims in past 5 years
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: pending_claims
+      label: Any pending claims or lawsuits
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: claims_description
+      label: Description of Claims
+      hint: Details if any claims exist
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_coverage
+      label: -- Coverage Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: current_coverage
+      label: Currently have professional liability insurance
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: coverage_amount
+      label: Desired Coverage Amount
+      hint: null
+      type: select_one
+      options:
+      - 250K
+      - 500K
+      - 1M
+      - 2M
+      - 5M
+      - Other
+      required: false

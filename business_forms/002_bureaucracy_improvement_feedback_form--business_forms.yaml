@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bureaucracy Improvement Feedback Form
+    pages:
+    - id: 1
+      name: section_stakeholder_info
+      label: -- Stakeholder Information --
+      hint: Information about your role in the organization
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: department_name
+      label: Department or Business Unit
+      hint: Where is this process primarily located
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: stakeholder_role
+      label: Your Current Role
+      hint: e.g. Manager, Administrative Staff, External Partner
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_process_feedback
+      label: -- Process Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: target_process_name
+      label: Name of the Bureaucratic Process
+      hint: Specify the process you are providing feedback for
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: process_frequency
+      label: How often do you interact with this process
+      hint: Select the most accurate frequency
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually or less
+      required: true
+    - id: 7
+      name: identified_challenges
+      label: Identified Challenges
+      hint: Select all that apply to this process
+      type: select_multiple
+      options:
+      - Redundant paperwork
+      - Too many approval layers
+      - Unclear instructions
+      - Slow response times
+      - Lack of digital alternatives
+      - Inconsistent requirements
+      required: true
+    - id: 8
+      name: ease_of_navigation_score
+      label: Ease of Navigation Score
+      hint: Rate from 1 (Very Difficult) to 5 (Very Easy)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: simplification_suggestions
+      label: Suggestions for Simplification
+      hint: Please describe how this process could be made more efficient
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: primary_bottleneck_description
+      label: Primary Bottleneck Description
+      hint: What is the single biggest delay in this process
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: estimated_time_waste
+      label: Estimated Hours Lost Per Month
+      hint: How much time is spent unnecessarily on this process
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: expected_improvement_impact
+      label: Expected Impact of Changes
+      hint: What would be the primary benefit of improving this process
+      type: select_one
+      options:
+      - Faster completion time
+      - Cost reduction
+      - Improved employee morale
+      - Better data accuracy
+      - Increased stakeholder satisfaction
+      required: true
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other thoughts on improving organizational efficiency
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submission_consent
+      label: I consent to being contacted for follow-up details
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

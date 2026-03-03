@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Renovation Approval Request Form
+    pages:
+    - id: 1
+      name: property_information
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: Complete street address including unit number if applicable
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_owner_name
+      label: Property Owner Name
+      hint: Full legal name of property owner
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_owner_phone
+      label: Property Owner Phone Number
+      hint: Contact number for property owner
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_owner_email
+      label: Property Owner Email
+      hint: Valid email address for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: renovation_details
+      label: -- Renovation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: renovation_type
+      label: Type of Renovation
+      hint: Select the primary category of work
+      type: select_one
+      options:
+      - Interior Remodeling
+      - Exterior Work
+      - Structural Changes
+      - MEP Systems (Mechanical, Electrical, Plumbing)
+      - Facade Restoration
+      - Other
+      required: true
+    - id: 8
+      name: renovation_scope
+      label: Scope of Work Description
+      hint: Detailed description of all proposed work
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: estimated_cost
+      label: Estimated Project Cost
+      hint: Total estimated cost in USD
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: project_start_date
+      label: Proposed Start Date
+      hint: When do you plan to begin work
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: project_duration
+      label: Estimated Duration
+      hint: Project duration in weeks
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: contractor_details
+      label: -- Contractor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: contractor_name
+      label: Contractor Company Name
+      hint: Licensed contractor company name
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contractor_license_number
+      label: Contractor License Number
+      hint: State license number
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contractor_phone
+      label: Contractor Phone
+      hint: Contact number for contractor
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: contractor_email
+      label: Contractor Email
+      hint: Email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: permits_compliance
+      label: -- Permits and Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: permits_required
+      label: Are Permits Required
+      hint: Does this project require building permits
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 19
+      name: permits_obtained
+      label: Permits Already Obtained
+      hint: Have necessary permits been acquired
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: true
+    - id: 20
+      name: plans_submitted
+      label: Engineering Plans Submitted
+      hint: Have architectural or engineering plans been prepared
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: asbestos_inspection
+      label: Asbestos Inspection Completed
+      hint: Has asbestos survey been conducted if building pre-1980
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 22
+      name: insurance_coverage
+      label: Insurance Coverage Details
+      hint: Type of insurance coverage for project
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments or Notes
+      hint: Any additional information about this renovation
+      type: text
+      options: []
+      required: false

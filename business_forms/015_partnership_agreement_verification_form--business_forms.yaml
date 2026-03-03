@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: partnership-agreement-verification-form
+    pages:
+    - id: 1
+      name: partner_terms_and_conditions
+      label: Partner Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: partnership_duration
+      label: Partnership Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: partnership_agreement_verification_form_parties
+      label: Partnership Agreement Verification Form Parties
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: business_address
+      label: Business Address
+      hint: Enter business address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: partner_names
+      label: Partner Names
+      hint: Enter partner names
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: partner_signatures
+      label: Partner Signatures
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: agreement_review
+      label: Agreement Review
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: agreement_signature
+      label: Agreement Signature
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 11
+      name: agreement_signature_date
+      label: Agreement Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: agreement_review_date
+      label: Agreement Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: agreement_file_upload
+      label: Agreement File Upload
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 14
+      name: agreement_upload
+      label: Agreement Upload
+      hint: null
+      type: text
+      options: []
+      required: false

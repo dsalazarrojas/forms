@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budget Adjustment Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: budget_period
+      label: Fiscal Year or Budget Period
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_budget
+      label: Current Budget Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: adjustment_type
+      label: Type of Adjustment
+      hint: null
+      type: select_one
+      options:
+      - Increase Request
+      - Decrease Request
+      - Reallocation
+      - Line Item Modification
+      required: true
+    - id: 8
+      name: requested_amount
+      label: Requested Adjustment Amount
+      hint: Positive or negative value
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: new_total
+      label: New Total Budget After Adjustment
+      hint: Calculated
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: line_items
+      label: Specific Line Items Affected
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: business_justification
+      label: Business Justification
+      hint: Why is this adjustment necessary
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: cost_benefit
+      label: Cost-Benefit Analysis
+      hint: Expected impact and outcomes
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: urgent_justification
+      label: Is this request urgent
+      hint: null
+      type: select_one
+      options:
+      - Yes, critical
+      - Yes, high priority
+      - Normal priority
+      - Can wait
+      required: true
+    - id: 14
+      name: approval_authority
+      label: Approval Authority Needed
+      hint: Department head, director, CFO, etc
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: effective_date
+      label: Requested Effective Date
+      hint: When should adjustment take effect
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: contingency_plan
+      label: Contingency Plan if Request Denied
+      hint: How will you proceed if not approved
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: supporting_docs
+      label: Supporting Documentation Attached
+      hint: Quotes, proposals, analysis, etc
+      type: select_one
+      options:
+      - Yes, attached
+      - No documentation
+      required: true
+    - id: 18
+      name: previous_adjustments
+      label: Previous Budget Adjustments This Year
+      hint: Amount and dates
+      type: text
+      options: []
+      required: false

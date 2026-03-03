@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: loan_pre_application_form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: true
+    - id: 3
+      name: loan_purpose
+      label: Loan Purpose
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_plan_summary
+      label: Business Plan Summary
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: business_registration_number
+      label: Business Registration Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 11
+      name: contact_notes
+      label: Contact Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: business_type_other
+      label: Other (please specify)
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 13
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - jenny
+      - bob
+      required: false
+    - id: 14
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - admin1
+      - admin2
+      - admin3
+      required: true
+    - id: 15
+      name: created_date
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - admin1
+      - admin2
+      - admin3
+      required: false
+    - id: 17
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: deleted_by
+      label: Deleted By
+      hint: null
+      type: select_one
+      options:
+      - admin1
+      - admin2
+      - admin3
+      required: false
+    - id: 19
+      name: deleted_date
+      label: Deleted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: version
+      label: Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - submitted
+      - pending
+      - approved
+      - rejected
+      required: true
+    - id: 22
+      name: status_note
+      label: Status Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - admin1
+      - admin2
+      - admin3
+      required: true
+    - id: 25
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: true

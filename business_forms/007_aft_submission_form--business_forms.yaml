@@ -1,0 +1,186 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AFT Submission Form
+    pages:
+    - id: 1
+      name: submitter_details_header
+      label: --- Submitter Details ---
+      hint: Information about the person submitting the AFT request.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: request_information_header
+      label: --- AFT Request Information ---
+      hint: Details about the Automated Funds Transfer request.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: aft_request_type
+      label: Request Type
+      hint: Select the nature of the submission.
+      type: select_one
+      options:
+      - label: New AFT Setup
+        value: new_setup
+      - label: Modification to Existing AFT
+        value: modification
+      - label: Cancellation
+        value: cancellation
+      - label: Status Inquiry
+        value: inquiry
+      required: true
+    - id: 8
+      name: effective_date
+      label: Requested Effective Date
+      hint: When should this change take effect?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: account_reference_number
+      label: Account/Customer Reference Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: currency_type
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - label: USD - US Dollar
+        value: usd
+      - label: EUR - Euro
+        value: eur
+      - label: GBP - British Pound
+        value: gbp
+      - label: CAD - Canadian Dollar
+        value: cad
+      required: true
+    - id: 11
+      name: total_amount
+      label: Total Transfer Amount (if applicable)
+      hint: null
+      type: decimal
+      options: []
+      required: false
+    - id: 12
+      name: frequency
+      label: Transfer Frequency
+      hint: null
+      type: select_one
+      options:
+      - label: One-time
+        value: one_time
+      - label: Weekly
+        value: weekly
+      - label: Monthly
+        value: monthly
+      - label: Quarterly
+        value: quarterly
+      - label: Annually
+        value: annually
+      required: true
+    - id: 13
+      name: request_description
+      label: Description and Justification
+      hint: Provide details regarding the purpose of this transfer request.
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: documentation_checklist_header
+      label: --- Supporting Documentation ---
+      hint: "Please confirm you have the following ready to upload (Note: Use the file upload field below)."
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: document_types_included
+      label: Document Types Included
+      hint: null
+      type: select_multiple
+      options:
+      - label: Authorization Form
+        value: authorization
+      - label: Voided Check
+        value: voided_check
+      - label: Contract/Agreement
+        value: contract
+      - label: Invoice
+        value: invoice
+      - label: Tax Documentation
+        value: tax_doc
+      required: true
+    - id: 16
+      name: file_upload_placeholder
+      label: Upload Supporting Documents
+      hint: Please upload all relevant files (PDF, JPG, PNG). Max size 10MB.
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - label: Low
+        value: low
+      - label: Normal
+        value: normal
+      - label: High (Requires justification)
+        value: high
+      - label: Urgent/Immediate
+        value: urgent
+      required: true
+    - id: 18
+      name: internal_reference_code
+      label: Internal Tracking Code
+      hint: For internal administrative use.
+      type: text
+      options: []
+      required: false

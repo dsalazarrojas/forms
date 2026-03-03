@@ -1,0 +1,170 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Commitment Form Template
+    pages:
+      - id: 1
+        name: section_commitment_parties
+        label: -- Agreement Parties --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: committing_party_name
+        label: Name of the Committing Party
+        hint: The person or entity making the commitment
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: committing_party_address
+        label: Residential or Business Address
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: committing_party_email
+        label: Contact Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: receiving_party_name
+        label: Name of the Receiving Party
+        hint: The person or entity to whom the commitment is made
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: receiving_party_contact
+        label: Receiving Party Contact Person
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: section_commitment_details
+        label: -- Commitment Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: commitment_type
+        label: Category of Commitment
+        hint: null
+        type: select_one
+        options:
+          - Financial
+          - Service/Labor
+          - Property/Asset
+          - Confidentiality
+          - Participation/Attendance
+        required: true
+      - id: 9
+        name: commitment_description
+        label: Detailed Description of Commitment
+        hint: Clearly state what you are committing to do or provide
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: commitment_start_date
+        label: Effective Date of Commitment
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 11
+        name: commitment_end_date
+        label: Expiration or Completion Date
+        hint: null
+        type: date
+        options: []
+        required: false
+      - id: 12
+        name: section_terms_conditions
+        label: -- Terms and Conditions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: specific_deliverables
+        label: Specific Deliverables or Milestones
+        hint: If applicable, list them here
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: consequences_of_noncompliance
+        label: Agreed Consequences for Failure to Commit
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: confidentiality_clause
+        label: Is this commitment subject to a confidentiality agreement
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 16
+        name: section_signatures
+        label: -- Formal Signatures --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: party_one_agreement
+        label: I, the Committing Party, agree to fulfill the terms stated above
+        hint: Type your full name to sign
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: signature_date_one
+        label: Date of Signature
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 19
+        name: party_two_witness
+        label: Witness or Receiving Party Acknowledgment
+        hint: Name of the person acknowledging the commitment
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: signature_date_two
+        label: Date of Acknowledgment
+        hint: null
+        type: date
+        options: []
+        required: false
+      - id: 21
+        name: agreement_location
+        label: Place of Agreement
+        hint: e.g., City and State
+        type: text
+        options: []
+        required: true

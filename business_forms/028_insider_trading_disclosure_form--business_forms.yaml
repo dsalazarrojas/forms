@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insider Trading Disclosure Form
+    pages:
+    - id: 1
+      name: trader_name
+      label: Trader Name
+      hint: Please enter the name of the trader.
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: trade_date
+      label: Trade Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: trade_type
+      label: Trade Type
+      hint: null
+      type: select_one
+      options:
+      - Short Selling
+      - Long Selling
+      - Long Buying
+      - Short Buying
+      required: true
+    - id: 5
+      name: number_of_shares
+      label: Number of Shares
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: purchase_price
+      label: Purchase Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: sale_price
+      label: Sale Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: profit_loss
+      label: Profit/Loss
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: disclosure_date
+      label: Disclosure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: reporting_manager
+      label: Reporting Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: certification
+      label: Certification
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

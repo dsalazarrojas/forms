@@ -1,0 +1,347 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Condition Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: -- Building Condition Survey --
+      hint: Comprehensive assessment of building condition and compliance
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: survey_date
+      label: Survey date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: inspector_name
+      label: Inspector name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inspector_credentials
+      label: Inspector credentials or license
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_info
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: property_name
+      label: Property name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: property_address
+      label: Property address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: property_type
+      label: Property type
+      hint: null
+      type: select_one
+      options:
+      - Single family home
+      - Multi-family residential
+      - Office building
+      - Commercial
+      - Industrial
+      - Mixed-use
+      - Historical
+      - Other
+      required: true
+    - id: 9
+      name: year_built
+      label: Year constructed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: last_renovation
+      label: Year of last major renovation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: property_size
+      label: Total square footage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: exterior_assessment
+      label: -- Exterior Structural Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: roof_assessment
+      label: Roof condition and integrity
+      hint: null
+      type: select_one
+      options:
+      - Good - Recently replaced
+      - Fair - Serviceable
+      - Poor - Nearing end of life
+      - Bad - Leaks or major damage
+      - Critical - Immediate replacement needed
+      required: true
+    - id: 14
+      name: roof_type
+      label: Roof material type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: roof_access_safety
+      label: Roof access and safety
+      hint: null
+      type: select_one
+      options:
+      - Safe access present
+      - Limited access
+      - No safe access
+      required: true
+    - id: 16
+      name: foundation_assessment
+      label: Foundation condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent - No visible issues
+      - Good - Minor cracks acceptable
+      - Fair - Moderate foundation issues
+      - Poor - Significant settling or damage
+      - Critical - Structural danger
+      required: true
+    - id: 17
+      name: exterior_walls
+      label: Exterior wall condition
+      hint: null
+      type: select_one
+      options:
+      - Good - Well maintained
+      - Fair - Normal wear
+      - Poor - Deterioration visible
+      - Critical - Dangerous conditions
+      required: true
+    - id: 18
+      name: exterior_material
+      label: Primary exterior material
+      hint: Brick, wood, vinyl, etc.
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: windows_doors_ext
+      label: Windows and doors condition
+      hint: null
+      type: select_one
+      options:
+      - Good - Functional and sealed
+      - Fair - Some issues
+      - Poor - Multiple problems
+      - Critical - Immediate repairs needed
+      required: true
+    - id: 20
+      name: interior_assessment
+      label: -- Interior Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: interior_walls
+      label: Interior walls and finishes
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 22
+      name: flooring_assessment
+      label: Flooring condition throughout
+      hint: null
+      type: select_one
+      options:
+      - Excellent - Recently installed
+      - Good - Well maintained
+      - Fair - Functional
+      - Poor - Worn or damaged
+      - Critical - Safety hazard
+      required: true
+    - id: 23
+      name: ceiling_interior
+      label: Interior ceiling condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 24
+      name: stairs_railings
+      label: Stairs and railings
+      hint: null
+      type: select_one
+      options:
+      - Safe and compliant
+      - Safe with minor issues
+      - Requires improvements
+      - Unsafe
+      required: true
+    - id: 25
+      name: systems_assessment
+      label: -- Building Systems Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: electrical_system_survey
+      label: Electrical system condition
+      hint: null
+      type: select_one
+      options:
+      - Modern and safe
+      - Adequate and safe
+      - Aging but functional
+      - Needs upgrades
+      - Unsafe - requires immediate attention
+      required: true
+    - id: 27
+      name: electrical_panel
+      label: Electrical panel condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: plumbing_survey
+      label: Plumbing system condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 29
+      name: water_quality
+      label: Water quality and pressure
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Acceptable
+      - Poor
+      - Unknown
+      required: true
+    - id: 30
+      name: hvac_survey
+      label: HVAC system condition
+      hint: null
+      type: select_one
+      options:
+      - Recently serviced
+      - Good condition
+      - Fair - needs service
+      - Poor - multiple issues
+      - Not functional
+      required: true
+    - id: 31
+      name: heating_cooling
+      label: Heating and cooling adequacy
+      hint: null
+      type: select_one
+      options:
+      - Excellent coverage
+      - Good coverage
+      - Adequate coverage
+      - Inadequate
+      required: true
+    - id: 32
+      name: safety_compliance
+      label: -- Safety and Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: fire_safety
+      label: Fire safety features present
+      hint: null
+      type: select_multiple
+      options:
+      - Fire extinguishers
+      - Smoke detectors
+      - Fire alarm system
+      - Emergency lighting
+      - Evacuation plan posted
+      - Sprinkler system
+      - None
+      required: true
+    - id: 34
+      name: code_compliance
+      label: Apparent code compliance
+      hint: null
+      type: select_one
+      options:
+      - Compliant
+      - Mostly compliant
+      - Minor violations
+      - Multiple violations
+      - Unknown
+      required: true
+    - id: 35
+      name: estimated_value
+      label: -- Financial Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: deferred_maintenance
+      label: Estimated deferred maintenance cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 37
+      name: repair_recommendations
+      label: Priority repairs and recommendations
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: photography_mini_session_questionnaire_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Work
+      - Mobile
+      - Email
+      required: false
+    - id: 7
+      name: preferred_contact_time
+      label: Preferred contact time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: photography_preferences
+      label: Photography Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Indoor
+      - Outdoor
+      - Both
+      required: false
+    - id: 10
+      name: photo_session_type
+      label: Type of Photo Session
+      hint: null
+      type: select_one
+      options:
+      - Family
+      - Couple
+      - Individual
+      - Newborn
+      - Senior
+      - Senior - Couple
+      - Senior - Group
+      required: false
+    - id: 11
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: photo_session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false

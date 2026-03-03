@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Voice Actor Recording Time Booking Form
+    pages:
+    - id: 1
+      name: project_details
+      label: project_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recording_details
+      label: recording_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_details
+      label: session_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: schedule
+      label: schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: script
+      label: Emacs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: producer
+      label: producer
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      required: false

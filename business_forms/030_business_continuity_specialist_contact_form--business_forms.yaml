@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Continuity Specialist Contact Form
+    pages:
+    - id: 1
+      name: organization_details
+      label: -- Organization Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: Full legal business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: industry
+      label: Industry
+      hint: Primary industry sector
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_size
+      label: Organization Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-50 employees
+      - 51-250 employees
+      - 251-1000 employees
+      - 1000-5000 employees
+      - 5000+ employees
+      required: true
+    - id: 5
+      name: headquarters_location
+      label: Headquarters Location
+      hint: City and state
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_information
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_title
+      label: Your Title
+      hint: Job title or position
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: Email Address
+      hint: Your business email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Phone Number
+      hint: Your phone number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: request_details
+      label: -- Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: service_needed
+      label: Type of Service Needed
+      hint: What specialist support do you need
+      type: select_one
+      options:
+      - BC Plan Development
+      - Disaster Recovery Strategy
+      - Risk Assessment
+      - Plan Testing and Validation
+      - Business Impact Analysis
+      - Recovery Strategy Design
+      - Crisis Communication Planning
+      - Regulatory Compliance Review
+      - Staff Training
+      - Multiple Services
+      required: true
+    - id: 13
+      name: scope_description
+      label: Scope of Work
+      hint: Describe the scope of needed work
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: current_challenges
+      label: Current Challenges
+      hint: What problems are you facing
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: business_objectives
+      label: Business Objectives
+      hint: What do you want to achieve
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: timeline_frame
+      label: -- Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: project_start
+      label: Preferred Project Start Date
+      hint: When can work begin
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: completion_timeline
+      label: Desired Completion Timeline
+      hint: When do you need results
+      type: select_one
+      options:
+      - 1 month
+      - 2-3 months
+      - 3-6 months
+      - 6-12 months
+      - Flexible
+      required: true
+    - id: 19
+      name: urgency_level
+      label: Urgency Level
+      hint: How critical is this need
+      type: select_one
+      options:
+      - Critical - Immediate
+      - High - Within 2 weeks
+      - Medium - Within 1 month
+      - Low - Flexible timeline
+      required: true
+    - id: 20
+      name: budget_range
+      label: Budget Range
+      hint: Your budget for this engagement
+      type: select_one
+      options:
+      - Under 5000
+      - 5000-15000
+      - 15000-30000
+      - 30000-50000
+      - 50000-100000
+      - 100000+
+      - Flexible
+      required: false
+    - id: 21
+      name: engagement_type
+      label: Preferred Engagement Type
+      hint: How do you prefer to work
+      type: select_one
+      options:
+      - On-site engagement
+      - Remote engagement
+      - Hybrid engagement
+      - No preference
+      required: true
+    - id: 22
+      name: team_coordination
+      label: Key Team Members
+      hint: Who will be involved on your side
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_info
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we reach you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Either
+      required: true

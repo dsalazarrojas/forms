@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Joint Agreement Signatures
+    pages:
+    - id: 1
+      name: base_information
+      label: Base Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: party_one
+      label: Party One
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: party_two
+      label: Party Two
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: agreement_details
+      label: Agreement Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: signers_list
+      label: Signers List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: signature_block
+      label: Signature Block
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: agreement_signed
+      label: Agreement Signed
+      hint: null
+      type: select_one
+      options:
+      - Signed
+      - Not Signed
+      required: false
+    - id: 9
+      name: reason_not_signed
+      label: Reason Not Signed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agreement_expiration
+      label: Agreement Expiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: signature_block_2
+      label: Signature Block 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: agreement_signing_party
+      label: Agreement Signing Party
+      hint: null
+      type: select_one
+      options:
+      - Party One
+      - Party Two
+      required: false
+    - id: 13
+      name: agreement_signing_date
+      label: Agreement Signing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: base_info_repeat
+      label: Repeat Base Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: party_repeat
+      label: Repeat Party
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: agreement_repeat
+      label: Repeat Agreement Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: date_signed_repeat
+      label: Repeat Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: signers_list_repeat
+      label: Repeat Signers List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: signature_block_repeat
+      label: Repeat Signature Block
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: agreement_signed_repeat
+      label: Repeat Agreement Signed
+      hint: null
+      type: select_one
+      options:
+      - Signed
+      - Not Signed
+      required: false
+    - id: 21
+      name: reason_not_signed_repeat
+      label: Repeat Reason Not Signed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: agreement_expiration_repeat
+      label: Repeat Agreement Expiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: signature_block_2_repeat
+      label: Repeat Signature Block 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: agreement_signing_party_repeat
+      label: Repeat Agreement Signing Party
+      hint: null
+      type: select_one
+      options:
+      - Party One
+      - Party Two
+      required: false
+    - id: 25
+      name: agreement_signing_date_repeat
+      label: Repeat Agreement Signing Date
+      hint: null
+      type: date
+      options: []
+      required: false

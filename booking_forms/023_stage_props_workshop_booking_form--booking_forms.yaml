@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stage Props Workshop Booking Form
+    pages:
+    - id: 1
+      name: stage_props_workshop_booking_form_1
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participants Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: booking_message
+      label: Booking Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_comments
+      label: Participant Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: booking_status
+      label: Booking Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: form_submission_pdf
+      label: Form Submission PDF
+      hint: null
+      type: note
+      options: []
+      required: false

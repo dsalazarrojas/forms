@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Mobile Payment Pilot Application
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_location
+      label: Business Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Credit
+      - Mobile
+      - Other
+      required: false
+    - id: 7
+      name: bank_id
+      label: Bank ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: application_type
+      label: Application Type
+      hint: null
+      type: select_one
+      options:
+      - Merchant
+      - Bank
+      - Fintech
+      required: false
+    - id: 9
+      name: date_joined
+      label: Date Joined
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_joined
+      label: Time Joined
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Server Downtime Incident Form
+    pages:
+    - id: 1
+      name: incident_title
+      label: server_downtime_incident_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_start_time
+      label: incident_start_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_end_time
+      label: incident_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: incident_description
+      label: incident_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_affected_server
+      label: incident_affected_servers
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''name'': ''server_001''}'
+      - '{''id'': 11, ''name'': ''server_002''}'
+      - '{''id'': 12, ''name'': ''server_003''}'
+      required: true
+    - id: 6
+      name: incident_priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 20, ''name'': ''High''}'
+      - '{''id'': 21, ''name'': ''Medium''}'
+      - '{''id'': 22, ''name'': ''Low''}'
+      required: true
+    - id: 7
+      name: incident_status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 30, ''name'': ''Open''}'
+      - '{''id'': 31, ''name'': ''In progress''}'
+      - '{''id'': 32, ''name'': ''Resolved''}'
+      required: true
+    - id: 8
+      name: incident_comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_resolved_time
+      label: resolved_time
+      hint: null
+      type: date
+      options: []
+      required: false

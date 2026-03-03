@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Field Report Form
+    pages:
+    - id: 1
+      name: date_field
+      label: Date Field
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: weather_conditions
+      label: weather_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: work_order
+      label: work_order
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Work Order 1''}'
+      - '{''id'': 2, ''label'': ''Work Order 2''}'
+      - '{''id'': 3, ''label'': ''Work Order 3''}'
+      required: false
+    - id: 4
+      name: job_type
+      label: job_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Field Work''}'
+      - '{''id'': 2, ''label'': ''Road Work''}'
+      - '{''id'': 3, ''label'': ''Bridge Work''}'
+      required: false
+    - id: 5
+      name: crew_size
+      label: crew_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: hours_worked
+      label: hours_worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: hours_paid
+      label: hours_paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: work_order_comments
+      label: work_order_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: weather_observations
+      label: weather_observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

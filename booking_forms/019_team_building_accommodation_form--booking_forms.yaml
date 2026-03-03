@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Building Accommodation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: accommodation_preferences
+      label: Accommodation Preferences
+      hint: null
+      type: select_one
+      options:
+      - Hotel
+      - Apartment
+      - Hostel
+      - Other
+      required: false
+    - id: 6
+      name: dates_start
+      label: Dates Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: dates_end
+      label: Dates End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: check_in
+      label: Check In Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: check_out
+      label: Check Out Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: accommodation_details
+      label: Accommodation Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

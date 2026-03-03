@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cargo Loss Incident Form
+    pages:
+    - id: 1
+      name: section_incident_overview
+      label: -- Incident Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: incident_report_id
+      label: Incident Report ID
+      hint: Provide the internal tracking number if available
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: report_date
+      label: Date Reported
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reporter_name
+      label: Reporter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reporter_role
+      label: Reporter Role
+      hint: What is your position in the company?
+      type: select_one
+      options:
+      - Driver
+      - Warehouse Staff
+      - Dispatcher
+      - Manager
+      - Customer Service
+      - Other
+      required: true
+    - id: 6
+      name: section_shipment_id
+      label: -- Shipment Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: shipment_id
+      label: Shipment or Tracking Number
+      hint: Enter the main tracking code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: bill_of_lading
+      label: Bill of Lading (BOL) Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: carrier_name
+      label: Carrier Name
+      hint: The shipping company responsible
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_id
+      label: Truck or Container Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_loss_details
+      label: -- Loss or Damage Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: incident_date
+      label: Date of Incident
+      hint: When did the loss occur or when was it discovered?
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: incident_time
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: incident_location
+      label: Location of Incident
+      hint: Where was the cargo when the incident occurred?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: incident_type
+      label: Type of Incident
+      hint: null
+      type: select_one
+      options:
+      - Partial Loss
+      - Total Loss
+      - Damage
+      - Theft
+      - Misplacement
+      - Contamination
+      required: true
+    - id: 16
+      name: cargo_condition
+      label: Condition of Cargo at Arrival
+      hint: Describe the state of the goods
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: packaging_state
+      label: State of packaging
+      hint: Choose the best description
+      type: select_one
+      options:
+      - Intact
+      - Crushed
+      - Torn
+      - Wet
+      - Broken Seal
+      - Other
+      required: true
+    - id: 18
+      name: estimated_value_lost
+      label: Estimated Value of Lost or Damaged Goods
+      hint: Numeric value only
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - CAD
+      - AUD
+      - Other
+      required: true
+    - id: 20
+      name: section_investigation
+      label: -- Investigation and Witnesses --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: witness_name
+      label: Witness Name (if any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: witness_contact
+      label: Witness Contact Information
+      hint: email or phone
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: immediate_action
+      label: Immediate actions taken after discovery
+      hint: e.g. reported to police, contacted supervisor, stopped loading
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: section_declaration
+      label: -- Final Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: digital_signature
+      label: I verify this report is accurate
+      hint: Type your full name as acknowledgment
+      type: text
+      options: []
+      required: true

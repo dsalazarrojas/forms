@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Conference Room Booking Form
+    pages:
+    - id: 1
+      name: header_requestor
+      label: -- Requestor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Primary Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ministry_organization
+      label: Ministry or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: header_booking
+      label: -- Booking Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: room_preference
+      label: Preferred Conference Room
+      hint: Select the room that best fits your needs
+      type: select_one
+      options:
+      - Main Sanctuary
+      - Multi-Purpose Hall
+      - Small Classroom 101
+      - Board Room
+      - Youth Lounge
+      required: true
+    - id: 8
+      name: meeting_date
+      label: Date of Meeting/Event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: start_time
+      label: Start Time
+      hint: Including setup time
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: end_time
+      label: End Time
+      hint: Including cleanup time
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: estimated_attendance
+      label: Estimated Number of Attendees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: meeting_purpose
+      label: Purpose of Meeting
+      hint: Briefly describe the event
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: header_av_requirements
+      label: -- AV and Setup Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: av_equipment_needed
+      label: AV Equipment Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Projector and Screen
+      - Sound System/Microphones
+      - Laptop Connection
+      - Wi-Fi Access
+      - TV/DVD Player
+      required: false
+    - id: 15
+      name: furniture_setup
+      label: Furniture Setup Style
+      hint: null
+      type: select_one
+      options:
+      - Theater Style (Rows)
+      - Classroom Style (Tables and Chairs)
+      - Boardroom Style (Large Table)
+      - Empty Room (No Furniture)
+      required: true
+    - id: 16
+      name: janitorial_needs
+      label: Is custodial cleanup requested?
+      hint: Additional fee may apply for external groups
+      type: select_one
+      options:
+      - true
+      - No - We will clean up
+      required: true
+    - id: 17
+      name: agreement_terms
+      label: I agree to follow the facility use policy and return room to original
+        state
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Booking Appointment Form
+    pages:
+    - id: 1
+      name: checkin_date
+      label: Checkin Date
+      hint: Select the checkin date for your stay
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: checkout_date
+      label: Checkout Date
+      hint: Select the checkout date for your stay
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: guest_count
+      label: Guest Count
+      hint: Enter the number of guests staying
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: room_type
+      label: Room Type
+      hint: Select the type of room you prefer
+      type: select_one
+      options:
+      - '{''value'': ''single'', ''label'': ''Single''}'
+      - '{''value'': ''double'', ''label'': ''Double''}'
+      - '{''value'': ''suite'', ''label'': ''Suite''}'
+      required: false
+    - id: 5
+      name: arrival_date
+      label: Arrival Date
+      hint: Select the arrival date for your stay
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: room_services
+      label: Room Services
+      hint: Select any additional room services
+      type: select_multiple
+      options:
+      - '{''value'': ''Wi-Fi'', ''label'': ''Wi-Fi''}'
+      - '{''value'': ''Mini-Bar'', ''label'': ''Mini-Bar''}'
+      - '{''value'': ''Gym'', ''label'': ''Gym''}'
+      required: false
+    - id: 9
+      name: special_requests
+      label: Special Requests
+      hint: Enter any special requests
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: confirm_appointment
+      label: Confirm Appointment
+      hint: Confirm your appointment details
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: Enter any comments
+      type: note
+      options: []
+      required: false

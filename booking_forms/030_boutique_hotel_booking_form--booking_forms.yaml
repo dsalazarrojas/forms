@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boutique Hotel Booking Form
+    pages:
+    - id: 1
+      name: reservation_header
+      label: -- Reservation Details --
+      hint: luxury inns reservations
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: check_in_dt
+      label: Check-in Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: check_out_dt
+      label: Check-out Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: adults_val
+      label: Number of Adults
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: kids_val
+      label: Number of Children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: room_select
+      label: Preferred Room Type
+      hint: null
+      type: select_one
+      options:
+      - Luxury Suite
+      - Deluxe Double
+      - Garden View King
+      - Penthouse
+      required: true
+    - id: 7
+      name: guest_info_header
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: guest_full_name
+      label: Primary Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: guest_email_addr
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: guest_phone_no
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: requests_header
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: requested_amenities
+      label: Additional Amenities
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Airport Shuttle
+      - In-room Breakfast
+      - Spa Treatment
+      - Local Tour Booking
+      - Late Check-out
+      required: false
+    - id: 13
+      name: diets_notes
+      label: Any dietary restrictions or special requests?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_header
+      label: -- Payment Guarantee --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: cc_card_name
+      label: Name on Credit Card
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: terms_ack
+      label: I agree to the hotel cancellation and booking policies
+      hint: null
+      type: select_one
+      options:
+      - Yes - I Agree
+      - Other
+      required: true

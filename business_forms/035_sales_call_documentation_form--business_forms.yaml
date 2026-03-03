@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Call Documentation Form
+    pages:
+    - id: 1
+      name: sales_call
+      label: Sales Call
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: call_date
+      label: Call Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: call_type
+      label: Call Type
+      hint: null
+      type: select_one
+      options:
+      - Call
+      - Follow-up
+      - Demo
+      - Meeting
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: select_multiple
+      options:
+      - Follow-up Call
+      - Meeting Requested
+      - Next Meeting
+      - Other
+      required: false
+    - id: 7
+      name: follow_up_call
+      label: Follow-up Call
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: meeting_requested
+      label: Meeting Requested
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 9
+      name: next_meeting
+      label: Next Meeting
+      hint: null
+      type: select_one
+      options:
+      - This week
+      - Next week
+      - Two weeks
+      - Later
+      required: false
+    - id: 10
+      name: other_meeting
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Active
+      - Qualified
+      - Re-qualified
+      - Disqualified
+      - Dead
+      - Other
+      required: false
+    - id: 13
+      name: lead_manager
+      label: Lead Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: lead_stage
+      label: Lead Stage
+      hint: null
+      type: select_one
+      options:
+      - Qualified
+      - Re-qualified
+      - Qualified to Demo
+      - Qualified to Presentation
+      - Presentation Scheduled
+      - Qualified to Trial
+      - Other
+      - Lead Stage 4
+      - Lead Stage 5
+      - Lead Stage 6
+      - Lead Stage 7
+      required: false
+    - id: 15
+      name: trial_details
+      label: Trial Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 16
+      name: sales_stage
+      label: Sales Stage
+      hint: null
+      type: select_one
+      options:
+      - Qualified
+      - Active
+      - Closed
+      - Other
+      required: false
+    - id: 17
+      name: trial_date
+      label: Trial Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: lead_id
+      label: Lead ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_user
+      label: Follow-up User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_date_user
+      label: Follow-up Date User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: trial_user
+      label: Trial User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_user_name
+      label: Follow-up User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_date_status
+      label: Follow-up Date Status
+      hint: null
+      type: select_one
+      options:
+      - Done
+      - Scheduled
+      - Follow-up
+      - Cancelled
+      - In progress
+      required: false
+    - id: 25
+      name: follow_up_user_status
+      label: Follow-up User Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Not Active
+      - Not Applicable
+      - Done
+      - In Progress
+      - Cancelled
+      required: false

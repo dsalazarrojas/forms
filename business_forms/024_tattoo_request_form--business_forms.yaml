@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tattoo Request Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tattoo_details
+      label: tattoo details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_designer
+      label: preferred designer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: design_description
+      label: design description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: design_file
+      label: design file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tattoo_type
+      label: tattoo type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: tattoo_size
+      label: tattoo size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: tattoo_color
+      label: tattoo color
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

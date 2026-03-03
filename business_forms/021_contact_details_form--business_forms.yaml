@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Details Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Primary email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Mobile or landline
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_company_details
+      label: -- Company Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: company_name
+      label: Company/Organization Name
+      hint: Enter the full name of your company
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_mailing_address
+      label: -- Mailing Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: street_address
+      label: Street Address
+      hint: Apartment, suite, unit, etc.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: city
+      label: City
+      hint: Enter city
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: state_province
+      label: State/Province
+      hint: Enter state or province
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: postal_code
+      label: ZIP/Postal Code
+      hint: Enter your postal code
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: country
+      label: Country
+      hint: Select country
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_preferences
+      label: -- Contact Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we reach you?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - SMS/Text
+      - Mail
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submission_date
+      label: Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

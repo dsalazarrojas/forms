@@ -1,0 +1,156 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Club Treasurer Award Nomination
+    pages:
+    - id: 1
+      name: nomination_date
+      label: Nomination Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: nominator_name
+      label: Nominator Full Name
+      hint: Person making the nomination
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominator_email
+      label: Nominator Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: nominator_position
+      label: Nominator Position
+      hint: Your role in the club
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: nominee_name
+      label: Treasurer Name Being Nominated
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: nominee_contact
+      label: Nominee Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: club_name
+      label: Club Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: tenure_length
+      label: Length of Treasurer Tenure
+      hint: How long has this person served
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: budget_management
+      label: Budget Management Skills
+      hint: Rate their financial management
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 10
+      name: financial_accuracy
+      label: Financial Record Accuracy
+      hint: Rate accuracy of records
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 11
+      name: transparency_communication
+      label: Transparency and Communication
+      hint: Rate financial communication
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 12
+      name: problem_solving
+      label: Problem-Solving Ability
+      hint: Rate ability to handle issues
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: false
+    - id: 13
+      name: innovation_improvement
+      label: Innovation and Process Improvement
+      hint: Introduced new processes
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: false
+    - id: 14
+      name: nomination_reason
+      label: Primary Reason for Nomination
+      hint: Why does this person deserve this award
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: specific_examples
+      label: Specific Examples or Achievements
+      hint: Provide 2-3 specific examples
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: supporting_documents
+      label: Supporting Documents Attached
+      hint: Financial reports, letters, etc
+      type: select_one
+      options:
+      - Yes, Attached
+      - Will Be Submitted Separately
+      - No Documents Available
+      required: false

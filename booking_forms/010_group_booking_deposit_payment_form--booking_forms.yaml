@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: group_booking_deposit_payment_form
+    pages:
+    - id: 1
+      name: user_input
+      label: group_booking_deposit_payment_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: deposit_amount
+      label: deposit_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method_options
+      label: payment_method_options
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Authorizenet
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

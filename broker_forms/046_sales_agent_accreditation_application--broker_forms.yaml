@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Agent Accreditation Application
+    pages:
+    - id: 1
+      name: sales_agent_accreditation_application_form
+      label: Sales Agent Accreditation Application Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_representative_name
+      label: Company Representative Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_representative_title
+      label: Company Representative Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: documents_uploaded
+      label: Documents Uploaded
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: upload_documents
+      label: Upload Documents
+      hint: 'Allowed file types: pdf, doc, docx, xls, xlsx, ppt, pptx, jpg, jpeg,
+        png, txt, csv'
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: decline
+      label: Decline
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: pending
+      label: Pending
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

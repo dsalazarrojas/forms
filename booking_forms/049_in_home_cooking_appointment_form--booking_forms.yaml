@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: In Home Cooking Appointment Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_details
+      label: Session Details
+      hint: null
+      type: select_one
+      options:
+      - Chef Services
+      - Menu Options
+      - Special Requests
+      required: true
+    - id: 3
+      name: schedule_session
+      label: Schedule Session
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: confirm_details
+      label: Confirm Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: manage_request
+      label: Manage Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: in_home_cooking_appointment_form_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

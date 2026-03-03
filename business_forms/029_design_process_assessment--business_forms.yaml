@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: design_process_assessment
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: design_team_page
+      label: design_team
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 3
+      name: team_lead_page
+      label: team_lead
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 4
+      name: stakeholder_page
+      label: stakeholder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_page
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email_page
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: file_upload_page
+      label: File upload
+      hint: null
+      type: text
+      options: []
+      required: false

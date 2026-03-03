@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Call Back Form
+    pages:
+    - id: 1
+      name: contact_info_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: your_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: We will call this number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inquiry_header
+      label: -- Reason for Callback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: subject
+      label: Subject of Inquiry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: inquiry_type
+      label: Type of Inquiry
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Support
+      - Information
+      - Complaint
+      - Other
+      required: true
+    - id: 9
+      name: message
+      label: Message or Details
+      hint: Please provide details about your inquiry
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: timing_header
+      label: -- Preferred Callback Time --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: preferred_date
+      label: Preferred Date for Callback
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: select_one
+      options:
+      - Morning (8AM-12PM)
+      - Afternoon (12PM-5PM)
+      - Evening (5PM-8PM)
+      - No preference
+      required: true
+    - id: 13
+      name: timezone
+      label: Your Time Zone
+      hint: null
+      type: select_one
+      options:
+      - Eastern
+      - Central
+      - Mountain
+      - Pacific
+      - Other
+      required: false
+    - id: 14
+      name: account_header
+      label: -- Account Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: account_number
+      label: Account Number (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: existing_customer
+      label: Are You an Existing Customer?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: contact_preference_header
+      label: -- Contact Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      - No preference
+      required: true
+    - id: 20
+      name: callback_urgency
+      label: How Urgent Is Your Request?
+      hint: null
+      type: select_one
+      options:
+      - Routine
+      - Important
+      - Urgent
+      - Critical
+      required: false

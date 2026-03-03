@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Order Fulfillment Communication Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_number
+      label: Order Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Open
+      - Cancelled
+      - Pending
+      - Closed
+      - On-Hold
+      required: false
+    - id: 4
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - DHL
+      - FedEx
+      - UPS
+      - USPS
+      - On-site Pickup
+      required: false
+    - id: 6
+      name: shipping_date
+      label: Shipping Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: shipping_time
+      label: Shipping Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: false

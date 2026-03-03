@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Van Inspection Form
+    pages:
+    - id: 1
+      name: van_inspection_form_title
+      label: Van Inspection Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: van_inspection_form_make_year
+      label: make_year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: van_inspection_form_model
+      label: van model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: van_inspection_form_engine_size
+      label: engine_size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: van_inspection_form_engine_type
+      label: engine_type
+      hint: null
+      type: select_one
+      options:
+      - Inline-4
+      - V6
+      - V8
+      required: true
+    - id: 6
+      name: van_inspection_form_transmission
+      label: transmission
+      hint: null
+      type: select_multiple
+      options:
+      - Automatic
+      - Manual
+      required: true
+    - id: 7
+      name: van_inspection_form_body_type
+      label: body_type
+      hint: null
+      type: select_one
+      options:
+      - Box
+      - Panel
+      - Van
+      required: true
+    - id: 8
+      name: van_inspection_form_condition
+      label: condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: van_inspection_form_safety_features
+      label: safety_features
+      hint: List safety features that are present, e.g. airbags, anti-lock brakes
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: van_inspection_form_comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: van_inspection_form_signature
+      label: signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: van_inspection_form_inspector_signature
+      label: inspector_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: van_inspection_form_completed_on
+      label: completed_on
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: van_inspection_form_assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: van_inspection_form_inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: van_inspection_form_inspector
+      label: inspector
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Contract Form
+    pages:
+    - id: 1
+      name: photography_contract_form
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contract_terms
+      label: Contract Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: photography_coverage
+      label: Photography Coverage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: null
+      type: select_one
+      options:
+      - Cancellation is only possible 24 hours prior to the shoot date and time.
+      - Cancellation policy 1
+      - Cancellation policy 2
+      required: false
+    - id: 8
+      name: shoot_details
+      label: Shoot Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contract_date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: contract_version
+      label: Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: photography_session_details
+      label: Photography Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contract_signed_by
+      label: Contract Signed By
+      hint: null
+      type: select_multiple
+      options:
+      - Client
+      - Photographer
+      required: false

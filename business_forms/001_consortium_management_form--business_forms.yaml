@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consortium Management Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: Enter the full legal name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization_type
+      label: Organization Type
+      hint: Select the type of organization you represent
+      type: select_one
+      options:
+      - Academic Institution
+      - Research Institute
+      - Government Agency
+      - Non-Profit Organization
+      - Private Company
+      - International Organization
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person Name
+      hint: Full name of the primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Email address for official communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Primary phone number with country code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: consortium_role
+      label: Role in Consortium
+      hint: Select your organization's role
+      type: select_one
+      options:
+      - Lead Organization
+      - Core Partner
+      - Associate Partner
+      - Advisory Member
+      - Observer
+      required: true
+    - id: 7
+      name: membership_start_date
+      label: Membership Start Date
+      hint: Date when your organization joined the consortium
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: area_of_expertise
+      label: Area of Expertise
+      hint: Select all areas where your organization contributes
+      type: select_multiple
+      options:
+      - Research and Development
+      - Project Management
+      - Data Analysis
+      - Policy Development
+      - Training and Education
+      - Technical Support
+      - Funding and Finance
+      - Communications
+      required: true
+    - id: 9
+      name: resource_contribution
+      label: Resource Contribution Type
+      hint: What resources will your organization contribute
+      type: select_multiple
+      options:
+      - Financial Support
+      - Personnel Time
+      - Equipment and Facilities
+      - Data and Information
+      - Technical Expertise
+      - Network Access
+      required: false
+    - id: 10
+      name: participation_level
+      label: Participation Level
+      hint: Expected level of participation in consortium activities
+      type: select_one
+      options:
+      - Full Participation
+      - Partial Participation
+      - Occasional Participation
+      - Remote Participation Only
+      required: true
+    - id: 11
+      name: meeting_availability
+      label: Meeting Availability
+      hint: When is your organization available for meetings
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Weekends
+      - Flexible Schedule
+      required: false
+    - id: 12
+      name: project_interests
+      label: Project Interests
+      hint: Describe specific projects or initiatives of interest
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: compliance_agreement
+      label: Compliance Agreement
+      hint: Do you agree to comply with consortium policies
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: data_sharing_consent
+      label: Data Sharing Consent
+      hint: Consent to share data within the consortium
+      type: select_one
+      options:
+      - Full Consent
+      - Limited Consent
+      - No Consent
+      required: true
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional information or special requirements
+      type: text
+      options: []
+      required: false

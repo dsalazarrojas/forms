@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Networking Quiz
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Email for results
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: years_experience
+      label: Years of Professional Experience
+      hint: Total years working
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: networking_frequency
+      label: How Often Do You Network
+      hint: Frequency of networking activities
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Rarely
+      - Never
+      required: true
+    - id: 7
+      name: networking_comfort_level
+      label: Networking Comfort Level
+      hint: How comfortable are you networking
+      type: select_one
+      options:
+      - Very comfortable - love it
+      - Comfortable - no problem
+      - Neutral - depends on situation
+      - Uncomfortable - prefer to avoid
+      - Very uncomfortable - anxiety inducing
+      required: true
+    - id: 8
+      name: preferred_networking_method
+      label: Preferred Networking Method
+      hint: How do you prefer to network
+      type: select_one
+      options:
+      - In-person events
+      - Virtual meetings
+      - Social media
+      - One-on-one coffee meetings
+      - Industry conferences
+      - Online forums
+      required: true
+    - id: 9
+      name: networking_goal_clarity
+      label: Networking Goal Clarity
+      hint: How clear are your networking goals
+      type: select_one
+      options:
+      - Very clear - specific targets
+      - Clear - general direction
+      - Somewhat clear
+      - Unclear - still figuring out
+      - No goals set
+      required: true
+    - id: 10
+      name: follow_up_consistency
+      label: Follow-up Consistency
+      hint: How consistent are you with follow-ups
+      type: select_one
+      options:
+      - Always follow up within 24 hours
+      - Usually follow up within a week
+      - Sometimes follow up
+      - Rarely follow up
+      - Never follow up
+      required: true
+    - id: 11
+      name: elevator_pitch_prepared
+      label: Elevator Pitch Prepared
+      hint: Do you have an elevator pitch ready
+      type: select_one
+      options:
+      - Yes - polished and practiced
+      - Yes - but needs work
+      - Working on it
+      - No - do not have one
+      required: true
+    - id: 12
+      name: business_card_availability
+      label: Business Card Availability
+      hint: Do you carry business cards
+      type: select_one
+      options:
+      - Always - plenty on hand
+      - Usually - have them available
+      - Sometimes - forget occasionally
+      - Rarely - digital only
+      - Never - no cards
+      required: true
+    - id: 13
+      name: social_media_networking
+      label: Social Media Networking Activity
+      hint: How active are you on professional social media
+      type: select_one
+      options:
+      - Very active - daily engagement
+      - Active - several times weekly
+      - Moderately active - weekly
+      - Slightly active - monthly
+      - Not active at all
+      required: true
+    - id: 14
+      name: referral_generation
+      label: Referral Generation
+      hint: How often do you generate referrals
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Rarely
+      - Never
+      required: true
+    - id: 15
+      name: referral_reception
+      label: Referral Reception
+      hint: How often do you receive referrals
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Rarely
+      - Never
+      required: true
+    - id: 16
+      name: networking_roi_tracking
+      label: Networking ROI Tracking
+      hint: Do you track networking results
+      type: select_one
+      options:
+      - Yes - detailed tracking
+      - Yes - basic tracking
+      - Somewhat - informal notes
+      - No - do not track
+      required: true
+    - id: 17
+      name: relationship_maintenance
+      label: Relationship Maintenance
+      hint: How do you maintain connections
+      type: select_multiple
+      options:
+      - Regular check-in calls
+      - Email newsletters
+      - Social media engagement
+      - Meeting for coffee
+      - Event invitations
+      - Holiday cards
+      - Rarely maintain
+      required: true
+    - id: 18
+      name: networking_challenges
+      label: Biggest Networking Challenges
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Starting conversations
+      - Remembering names
+      - Finding common ground
+      - Following up
+      - Time management
+      - Introversion
+      - Lack of opportunities
+      - Not knowing what to say
+      required: true
+    - id: 19
+      name: networking_improvement_areas
+      label: Areas for Improvement
+      hint: Where do you want to improve
+      type: select_multiple
+      options:
+      - Confidence building
+      - Conversation skills
+      - Follow-up systems
+      - Online presence
+      - Goal setting
+      - Time allocation
+      - Relationship building
+      required: true
+    - id: 20
+      name: networking_success_story
+      label: Networking Success Story
+      hint: Share a networking success you have had
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: networking_aspirations
+      label: Networking Aspirations
+      hint: What do you want to achieve through networking
+      type: text
+      options: []
+      required: false

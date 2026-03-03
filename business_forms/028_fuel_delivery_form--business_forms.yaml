@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fuel Delivery Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_address
+      label: delivery address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_date
+      label: delivery date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: delivery_time
+      label: delivery time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: fuel_type
+      label: fuel type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: delivery_instructions
+      label: delivery instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: order_quantity
+      label: order quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: order_comments
+      label: order comments
+      hint: null
+      type: text
+      options: []
+      required: false

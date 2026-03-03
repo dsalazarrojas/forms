@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Registration Form In Portuguese
+    pages:
+    - id: 1
+      name: nome_completo
+      label: Nome Completo
+      hint: Digite seu nome completo
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Endereço de Email
+      hint: Email para contato
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: telefone
+      label: Número de Telefone
+      hint: Telefone para contato
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organizacao
+      label: Organização ou Empresa
+      hint: Nome da sua instituição
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: cargo
+      label: Cargo ou Posição
+      hint: Seu título profissional
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: pais
+      label: País
+      hint: Seu país de residência
+      type: select_one
+      options:
+      - Brasil
+      - Portugal
+      - Estados Unidos
+      - Canadá
+      - Reino Unido
+      - Angola
+      - Moçambique
+      - Outro
+      required: true
+    - id: 7
+      name: cidade
+      label: Cidade
+      hint: Sua cidade
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: tipo_inscricao
+      label: Tipo de Inscrição
+      hint: Selecione sua categoria
+      type: select_one
+      options:
+      - Participante Completo
+      - Participante Diário
+      - Participante Virtual
+      - Estudante
+      - Expositor
+      - Palestrante
+      - Imprensa
+      required: true
+    - id: 9
+      name: dias_participacao
+      label: Dias de Participação
+      hint: Selecione todos os dias
+      type: select_multiple
+      options:
+      - Dia 1 - Abertura
+      - Dia 2 - Sessões
+      - Dia 3 - Workshops
+      - Dia 4 - Encerramento
+      - Todos os Dias
+      required: true
+    - id: 10
+      name: trilhas_interesse
+      label: Trilhas de Interesse
+      hint: Suas áreas de interesse
+      type: select_multiple
+      options:
+      - Inovação Tecnológica
+      - Gestão e Negócios
+      - Pesquisa e Desenvolvimento
+      - Sustentabilidade
+      - Liderança
+      - Todas as Trilhas
+      required: false
+    - id: 11
+      name: preferencia_alimentar
+      label: Preferência Alimentar
+      hint: Para o coffee break
+      type: select_one
+      options:
+      - Sem Restrições
+      - Vegetariano
+      - Vegano
+      - Sem Glúten
+      - Sem Lactose
+      - Kosher
+      - Halal
+      required: true
+    - id: 12
+      name: restricoes_alimentares
+      label: Restrições Alimentares
+      hint: Especifique alergias
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: hospedagem
+      label: Necessita de Hospedagem
+      hint: Precisa de hotel
+      type: select_one
+      options:
+      - Sim Preciso
+      - Não Já Reservei
+      - Não Necessário
+      required: true
+    - id: 14
+      name: tipo_quarto
+      label: Tipo de Quarto
+      hint: Se aplicável
+      type: select_one
+      options:
+      - Individual
+      - Duplo
+      - Suíte
+      - Não Se Aplica
+      required: false
+    - id: 15
+      name: transporte
+      label: Transporte do Aeroporto
+      hint: Precisa de traslado
+      type: select_one
+      options:
+      - Sim Chegada
+      - Sim Partida
+      - Sim Ambos
+      - Não Necessário
+      required: true
+    - id: 16
+      name: eventos_networking
+      label: Eventos de Networking
+      hint: Vai participar
+      type: select_one
+      options:
+      - Sim Todos
+      - Apenas Coquetel
+      - Apenas Jantar
+      - Não Vou Participar
+      required: true
+    - id: 17
+      name: certificado
+      label: Certificado de Participação
+      hint: Deseja certificado
+      type: select_one
+      options:
+      - Sim Necessário
+      - Não Necessário
+      required: true
+    - id: 18
+      name: acessibilidade
+      label: Necessidades de Acessibilidade
+      hint: Especifique se necessário
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: newsletter
+      label: Receber Newsletter
+      hint: Atualizações futuras
+      type: select_one
+      options:
+      - Sim Quero Receber
+      - Não Obrigado
+      required: true
+    - id: 20
+      name: forma_pagamento
+      label: Forma de Pagamento
+      hint: Como vai pagar
+      type: select_one
+      options:
+      - Cartão de Crédito
+      - Cartão de Débito
+      - Transferência Bancária
+      - Boleto
+      - Fatura Empresarial
+      required: true
+    - id: 21
+      name: codigo_promocional
+      label: Código Promocional
+      hint: Se tiver
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: termos_aceitos
+      label: Aceito os Termos e Condições
+      hint: Concordo com as políticas
+      type: select_one
+      options:
+      - Aceito
+      - Não Aceito
+      required: true

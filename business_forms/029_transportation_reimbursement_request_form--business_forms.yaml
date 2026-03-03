@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transportation Reimbursement Request Form
+    pages:
+    - id: 1
+      name: travel_details
+      label: Travel Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_travel
+      label: Date Of Travel
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: mode_of_transportation
+      label: Mode Of Transportation
+      hint: null
+      type: select_multiple
+      options:
+      - Air
+      - Train
+      - Bus
+      - Rental Car
+      required: false
+    - id: 6
+      name: start_location
+      label: Start Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: end_location
+      label: End Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: receipt
+      label: Receipt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reimbursement_amount
+      label: Reimbursement Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: reimbursement_reason
+      label: Reimbursement Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: expense_type
+      label: Expense Type
+      hint: null
+      type: select_one
+      options:
+      - Business Trip
+      - Personal Trip
+      required: false

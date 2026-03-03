@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Online Questionnaire
+    pages:
+    - id: 1
+      name: business_owner_name
+      label: Business Owner Name
+      hint: Full name of owner
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_email
+      label: Business Email
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: business_phone
+      label: Business Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_website
+      label: Business Website
+      hint: Website URL if any
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_type
+      label: Business Type
+      hint: Legal structure
+      type: select_one
+      options:
+      - Sole proprietorship
+      - Partnership
+      - LLC
+      - Corporation
+      - Non-profit
+      required: true
+    - id: 7
+      name: industry
+      label: Industry
+      hint: Primary industry
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Retail
+      - Food service
+      - Professional services
+      - Manufacturing
+      - Construction
+      - Education
+      - Other
+      required: true
+    - id: 8
+      name: years_in_operation
+      label: Years in Operation
+      hint: How long in business
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: number_of_employees
+      label: Number of Employees
+      hint: Total employees
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: current_revenue
+      label: Current Annual Revenue
+      hint: Approximate revenue
+      type: select_one
+      options:
+      - Under $50K
+      - $50K to $100K
+      - $100K to $250K
+      - $250K to $500K
+      - $500K to $1M
+      - Over $1M
+      required: true
+    - id: 11
+      name: business_stage
+      label: Business Stage
+      hint: Current stage of business
+      type: select_one
+      options:
+      - Idea stage
+      - Startup
+      - Growth
+      - Established
+      - Expansion
+      - Transition
+      required: true
+    - id: 12
+      name: primary_products_services
+      label: Primary Products or Services
+      hint: What do you sell
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: target_market
+      label: Target Market
+      hint: Who are your customers
+      type: select_one
+      options:
+      - Local consumers
+      - Regional consumers
+      - National consumers
+      - B2B companies
+      - Government
+      - International
+      required: true
+    - id: 14
+      name: unique_value_proposition
+      label: Unique Value Proposition
+      hint: What makes you different
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: main_competitors
+      label: Main Competitors
+      hint: Who are your competitors
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: marketing_channels
+      label: Current Marketing Channels
+      hint: How do you market
+      type: select_multiple
+      options:
+      - Social media
+      - Website
+      - Email marketing
+      - Print advertising
+      - Word of mouth
+      - Networking
+      - Paid ads
+      - None
+      required: true
+    - id: 17
+      name: biggest_challenges
+      label: Biggest Business Challenges
+      hint: What challenges do you face
+      type: select_multiple
+      options:
+      - Cash flow
+      - Customer acquisition
+      - Competition
+      - Time management
+      - Hiring
+      - Marketing
+      - Sales
+      - Operations
+      required: true
+    - id: 18
+      name: business_goals
+      label: Business Goals for Next Year
+      hint: What are your main goals
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: coaching_needs
+      label: Areas Where You Need Coaching
+      hint: What help do you need
+      type: select_multiple
+      options:
+      - Business strategy
+      - Marketing
+      - Sales
+      - Finance
+      - Operations
+      - Leadership
+      - Work-life balance
+      - Scaling
+      required: true
+    - id: 20
+      name: previous_coaching
+      label: Previous Coaching Experience
+      hint: Have you had business coaching before
+      type: select_one
+      options:
+      - Yes - multiple coaches
+      - Yes - one coach
+      - No - first time
+      required: true
+    - id: 21
+      name: coaching_budget
+      label: Monthly Coaching Budget
+      hint: What can you invest
+      type: select_one
+      options:
+      - Under $500
+      - $500 to $1000
+      - $1000 to $2500
+      - $2500 to $5000
+      - Over $5000
+      required: false
+    - id: 22
+      name: commitment_level
+      label: Commitment Level
+      hint: How committed are you to growth
+      type: select_one
+      options:
+      - Very committed - ready to invest time and money
+      - Committed - willing to make changes
+      - Somewhat committed - exploring options
+      - Not sure - just gathering information
+      required: true
+    - id: 23
+      name: additional_information
+      label: Additional Information
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

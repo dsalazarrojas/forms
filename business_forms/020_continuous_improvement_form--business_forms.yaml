@@ -1,0 +1,218 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Continuous Improvement Form
+    pages:
+      - id: 1
+        name: employee_name
+        label: Employee Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: employee_id
+        label: Employee ID
+        hint: Identification number
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: department
+        label: Department
+        hint: Your department
+        type: select_one
+        options:
+          - Operations
+          - Manufacturing
+          - Quality Assurance
+          - Human Resources
+          - Information Technology
+          - Sales
+          - Marketing
+          - Customer Service
+          - Finance
+          - Other
+        required: true
+      - id: 4
+        name: position_title
+        label: Position Title
+        hint: Your job title
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: submission_date
+        label: Submission Date
+        hint: Date of submission
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: improvement_category
+        label: Improvement Category
+        hint: Type of improvement
+        type: select_one
+        options:
+          - Process efficiency
+          - Quality improvement
+          - Cost reduction
+          - Safety enhancement
+          - Customer satisfaction
+          - Employee engagement
+          - Technology upgrade
+          - Environmental sustainability
+          - Other
+        required: true
+      - id: 7
+        name: current_process
+        label: Current Process
+        hint: Describe the current situation
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: problem_statement
+        label: Problem Statement
+        hint: What issue needs addressing?
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: proposed_solution
+        label: Proposed Solution
+        hint: Describe your improvement idea
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: expected_benefits
+        label: Expected Benefits
+        hint: What improvements do you expect?
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: benefit_type
+        label: Benefit Type
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Time savings
+          - Cost reduction
+          - Quality improvement
+          - Safety improvement
+          - Customer satisfaction
+          - Employee morale
+          - Revenue increase
+          - Risk reduction
+        required: true
+      - id: 12
+        name: estimated_cost_savings
+        label: Estimated Cost Savings
+        hint: Annual savings if applicable
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: implementation_complexity
+        label: Implementation Complexity
+        hint: How difficult to implement?
+        type: select_one
+        options:
+          - Low - easy to implement
+          - Medium - some effort required
+          - High - significant effort
+          - Very high - major initiative
+        required: true
+      - id: 14
+        name: resources_needed
+        label: Resources Needed
+        hint: What is required?
+        type: select_multiple
+        options:
+          - Additional staff
+          - Training
+          - Equipment
+          - Software
+          - Budget allocation
+          - Management approval
+          - Cross-department collaboration
+          - External consultant
+        required: true
+      - id: 15
+        name: estimated_timeline
+        label: Estimated Timeline
+        hint: How long to implement?
+        type: select_one
+        options:
+          - Less than 1 week
+          - 1-4 weeks
+          - 1-3 months
+          - 3-6 months
+          - 6+ months
+        required: true
+      - id: 16
+        name: stakeholders_involved
+        label: Stakeholders Involved
+        hint: Who needs to be involved?
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: potential_risks
+        label: Potential Risks
+        hint: What could go wrong?
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: success_metrics
+        label: Success Metrics
+        hint: How will you measure success?
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: similar_improvements
+        label: Similar Improvements
+        hint: Have you seen this work elsewhere?
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: team_members
+        label: Team Members
+        hint: Who can help implement?
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: priority_level
+        label: Priority Level
+        hint: How urgent is this?
+        type: select_one
+        options:
+          - Low
+          - Medium
+          - High
+          - Critical
+        required: true
+      - id: 22
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other information
+        type: text
+        options: []
+        required: false

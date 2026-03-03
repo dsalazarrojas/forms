@@ -1,0 +1,202 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building Observation Report
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: Date of observation
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: Building location
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspector_name
+      label: Inspector Name
+      hint: Person conducting observation
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: observation_time
+      label: Time of Observation
+      hint: Start time of inspection
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: weather_conditions
+      label: Weather Conditions
+      hint: Current weather
+      type: select_one
+      options:
+        - Clear
+        - Cloudy
+        - Rain
+        - Snow
+        - Windy
+        - Other
+      required: false
+    - id: 6
+      name: exterior_assessment
+      label: Exterior Building Assessment
+      hint: Overall exterior condition
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Fair
+        - Poor
+        - Critical
+      required: true
+    - id: 7
+      name: exterior_observations
+      label: Exterior Observations
+      hint: Detailed exterior notes
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: roof_observations
+      label: Roof Condition Observations
+      hint: Describe roof condition
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: foundation_observations
+      label: Foundation Observations
+      hint: Describe foundation
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: windows_doors_obs
+      label: Windows and Doors Observations
+      hint: Condition details
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: interior_assessment
+      label: Interior Building Assessment
+      hint: Overall interior condition
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Fair
+        - Poor
+        - Critical
+      required: true
+    - id: 12
+      name: interior_observations
+      label: Interior Observations
+      hint: Detailed interior notes
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: walls_ceilings_floors
+      label: Walls, Ceilings, and Floors
+      hint: Structural interior elements
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: plumbing_observations
+      label: Plumbing System Observations
+      hint: Visible plumbing condition
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: electrical_observations
+      label: Electrical System Observations
+      hint: Visible electrical condition
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: hvac_observations
+      label: HVAC System Observations
+      hint: Heating and cooling systems
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: safety_issues
+      label: Safety Issues Identified
+      hint: Any hazards observed
+      type: select_multiple
+      options:
+        - None Found
+        - Trip Hazards
+        - Blocked Exits
+        - Electrical Issues
+        - Structural Damage
+        - Water Damage
+        - Other
+      required: true
+    - id: 18
+      name: safety_details
+      label: Details of Safety Issues
+      hint: Describe any hazards
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: maintenance_needed
+      label: Maintenance Items Needed
+      hint: List required repairs
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: urgency_assessment
+      label: Urgency of Repairs
+      hint: Priority level
+      type: select_one
+      options:
+        - Immediate
+        - High
+        - Medium
+        - Low
+        - None
+      required: false
+    - id: 21
+      name: recommendations
+      label: Inspector Recommendations
+      hint: Suggested improvements
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: overall_condition
+      label: Overall Condition Rating
+      hint: General assessment
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Fair
+        - Poor
+      required: true

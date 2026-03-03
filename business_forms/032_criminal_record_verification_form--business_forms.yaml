@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: criminal_record_verification_form
+    pages:
+    - id: 1
+      name: consent_to_conduct_background_check
+      label: Consent to Conduct Background Check
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: background_check_type
+      label: Background Check Type
+      hint: null
+      type: select_one
+      options:
+      - type_a
+      - type_b
+      required: false
+    - id: 3
+      name: consent_to_share_results
+      label: Consent to Share Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employer_employer_identifier
+      label: Employer Identifier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_entity
+      label: Business Entity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_identifier
+      label: Employee Identifier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: background_check_frequency
+      label: Background Check Frequency
+      hint: null
+      type: select_one
+      options:
+      - once
+      - periodically
+      - as_needed
+      - unknown
+      required: false
+    - id: 8
+      name: criminal_record_information
+      label: Criminal Record Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent_to_disclose_background_check
+      label: Consent to Disclose Background Check
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employer_address
+      label: Employer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employer_phone
+      label: Employer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employer_email
+      label: Employer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: employer_contact_name
+      label: Employer Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employer_title
+      label: Employer Title
+      hint: null
+      type: text
+      options: []
+      required: false

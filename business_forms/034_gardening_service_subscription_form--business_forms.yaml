@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: gardening_service_subscription_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your first name please
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: subscription_start_date
+      label: Subscription Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: subscription_end_date
+      label: Subscription End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: frequency
+      label: Frequency
+      hint: How often would you like to receive services?
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 7
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Lawn Mowing
+      - Yard Work
+      - Landscaping
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: Your address please
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: service_frequency
+      label: Service Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 10
+      name: service_day
+      label: Day of Service
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 11
+      name: subscription_start_date_2
+      label: Subscription End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: Additional information about the order
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: service_start_time
+      label: Service Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: service_duration
+      label: Service Duration
+      hint: null
+      type: select_one
+      options:
+      - '30'
+      - '60'
+      - '90'
+      - '120'
+      required: false
+    - id: 15
+      name: service_frequency_2
+      label: Service Frequency 2
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 16
+      name: service_start_time_2
+      label: Service Start Time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: service_duration_2
+      label: Service Duration 2
+      hint: null
+      type: select_one
+      options:
+      - '30'
+      - '60'
+      - '90'
+      - '120'
+      required: false

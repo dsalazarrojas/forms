@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inspection Report Template
+    pages:
+    - id: 1
+      name: building_info
+      label: Building info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: inspector_details
+      label: Inspector details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: client_details
+      label: Client details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: building_condition
+      label: Building condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Good'', ''label'': ''Good''}'
+      - '{''id'': 2, ''name'': ''Fair'', ''label'': ''Fair''}'
+      - '{''id'': 3, ''name'': ''Poor'', ''label'': ''Poor''}'
+      required: false
+    - id: 6
+      name: damage_description
+      label: Damage description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: repair_description
+      label: Repair description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signed_by
+      label: Signed by
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Inspector'', ''label'': ''Inspector''}'
+      - '{''id'': 2, ''name'': ''Manager'', ''label'': ''Manager''}'
+      - '{''id'': 3, ''name'': ''Supervisor'', ''label'': ''Supervisor''}'
+      required: false
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: inspection_date_2
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: inspection_time
+      label: Inspection time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: inspector_details_2
+      label: Inspector details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: client_details_2
+      label: Client details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

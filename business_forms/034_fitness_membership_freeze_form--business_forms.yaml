@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Membership Freeze Form
+    pages:
+    - id: 1
+      name: membership_freeze_form
+      label: Freeze Membership
+      hint: null
+      type: select_one
+      options:
+      - Fitness
+      - Non-Membership
+      required: false
+    - id: 2
+      name: freeze_date
+      label: Freeze Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_freeze
+      label: Reason
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: freeze_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: member_id
+      label: Member ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: member_name
+      label: Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: freeze_status
+      label: Freeze Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Frozen
+      required: false
+    - id: 8
+      name: freeze_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: freeze_date_note
+      label: Freeze Date Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: freeze_status_note
+      label: Freeze Status Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: member_email
+      label: Member Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: member_phone
+      label: Member Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: frozen_by
+      label: Frozen By
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: freeze_date_start
+      label: Freeze Date Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: freeze_date_end
+      label: Freeze Date End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: freeze_notes
+      label: Freeze Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: freeze_status_notes
+      label: Freeze Status Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: member_status
+      label: Member Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Frozen
+      - Cancelled
+      required: false
+    - id: 21
+      name: member_notes
+      label: Member Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: freeze_by_status
+      label: Freeze By Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Cancelled
+      required: false
+    - id: 23
+      name: freeze_by_status_notes
+      label: Freeze By Status Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: freeze_by_notes
+      label: Freeze By Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

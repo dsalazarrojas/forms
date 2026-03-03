@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Equipment Order Form
+    pages:
+    - id: 1
+      name: section_billing_contact
+      label: -- Billing and Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Billing Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Primary Phone Number
+      hint: Format - (555) 555-5555
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_id
+      label: Project ID or Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_equipment_req
+      label: -- Equipment Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: equipment_type
+      label: Primary Equipment Type
+      hint: Select the main category of equipment needed
+      type: select_one
+      options:
+      - Earthmoving (Excavator, Backhoe, Dozer)
+      - Material Handling (Forklift, Telehandler)
+      - Aerial Work (Scissor Lift, Boom Lift)
+      - Compaction (Roller, Plate Compactor)
+      - Power Generation (Generator, Light Tower)
+      - Tools (Breaker, Saw, Drill)
+      required: true
+    - id: 9
+      name: specific_model_request
+      label: Specific Model or Size (If known)
+      hint: e.g., Cat 320, 19ft Scissor Lift
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: quantity_ordered
+      label: Quantity Needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: attachments_needed
+      label: Attachments or Accessories Needed
+      hint: List buckets, blades, forks, specialized bits
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_rental_logistics
+      label: -- Rental and Delivery Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: rental_start_date
+      label: Rental Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: rental_end_date
+      label: Estimated Return Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: delivery_method
+      label: Delivery or Pickup
+      hint: null
+      type: select_one
+      options:
+      - Deliver to Site
+      - Customer Pickup
+      required: true
+    - id: 16
+      name: delivery_site_address
+      label: Site Delivery Address
+      hint: Required if delivery is selected
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: operator_needed
+      label: Do you require a certified operator?
+      hint: null
+      type: select_one
+      options:
+      - No (Self-operated)
+      - Yes (With operator)
+      required: true
+    - id: 18
+      name: site_contact_phone
+      label: On-site Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: special_delivery_instructions
+      label: Special Delivery or Site Access Instructions
+      hint: Gate codes, specific site entry point, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional Equipment or Service Requirements
+      hint: null
+      type: text
+      options: []
+      required: false

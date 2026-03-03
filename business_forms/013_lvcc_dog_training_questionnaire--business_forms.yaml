@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: LVCC Dog Training Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Dog Training Questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: training_level
+      label: Training Level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 3
+      name: dog_breed
+      label: Dog Breed
+      hint: null
+      type: select_multiple
+      options:
+      - Poodle
+      - Labrador
+      - Golden Retriever
+      - Bulldog
+      - Boxer
+      - Dachshund
+      required: false
+    - id: 4
+      name: dog_age
+      label: Dog Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_days
+      label: Training Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: training_frequency
+      label: Training Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 8
+      name: training_start_date
+      label: Training Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: training_end_date
+      label: Training End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

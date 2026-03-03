@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Distribution Plan Overview Form
+    pages:
+    - id: 1
+      name: distribution_plan_overview
+      label: Distribution Plan Overview
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: target_areas
+      label: Target Areas
+      hint: null
+      type: select_multiple
+      options:
+      - North
+      - South
+      - East
+      - West
+      required: true
+    - id: 3
+      name: resources
+      label: Resources
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 4
+      name: timelines
+      label: Timelines
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - jane
+      - john
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: distribution_plan_overview_form_comments
+      label: Distribution Plan Overview Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false

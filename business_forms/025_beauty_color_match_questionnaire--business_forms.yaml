@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Color Match Questionnaire
+    pages:
+    - id: 1
+      name: client_info_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: color_goals_header
+      label: -- Color Goals and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: color_service
+      label: Color Service Type
+      hint: null
+      type: select_one
+      options:
+      - Hair Color
+      - Makeup Color
+      - Nail Color
+      - Multiple Services
+      required: true
+    - id: 8
+      name: goal_description
+      label: Describe Your Color Goal
+      hint: What are you trying to achieve
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: color_inspiration
+      label: Color Inspiration or Reference Images
+      hint: Any colors you like
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: personal_style
+      label: Personal Style
+      hint: Classic, trendy, bold, natural, etc.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: skin_analysis_header
+      label: -- Skin Analysis --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: skin_tone_range
+      label: Skin Tone Range
+      hint: null
+      type: select_one
+      options:
+      - Very Fair
+      - Fair
+      - Light
+      - Medium
+      - Tan
+      - Deep
+      - Very Deep
+      required: true
+    - id: 13
+      name: undertone
+      label: Undertone
+      hint: null
+      type: select_one
+      options:
+      - Warm
+      - Cool
+      - Neutral
+      - Balanced
+      required: true
+    - id: 14
+      name: skin_type
+      label: Skin Type
+      hint: null
+      type: select_one
+      options:
+      - Dry
+      - Normal
+      - Oily
+      - Combination
+      - Sensitive
+      required: false
+    - id: 15
+      name: natural_coloring_header
+      label: -- Natural Coloring --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: natural_hair_color
+      label: Natural Hair Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - Dark Brown
+      - Brown
+      - Light Brown
+      - Auburn
+      - Blonde
+      - Light Blonde
+      - Red
+      - Gray
+      - White
+      required: true
+    - id: 17
+      name: natural_eye_color
+      label: Natural Eye Color
+      hint: null
+      type: select_one
+      options:
+      - Dark Brown
+      - Brown
+      - Light Brown
+      - Hazel
+      - Green
+      - Blue
+      - Gray
+      - Amber
+      required: true
+    - id: 18
+      name: brow_color
+      label: Natural Eyebrow Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: preferences_header
+      label: -- Color Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: color_families_preference
+      label: Color Families You Are Attracted To
+      hint: Warm tones, cool tones, earth tones, jewel tones, etc.
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: colors_avoid
+      label: Colors You Want to Avoid
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: seasonal_preference
+      label: Seasonal Color Preference
+      hint: Spring, Summer, Fall, Winter, Neutral
+      type: select_one
+      options:
+      - Spring
+      - Summer
+      - Fall
+      - Winter
+      - Not Applicable
+      required: false
+    - id: 23
+      name: contrast_preference
+      label: Contrast Preference
+      hint: null
+      type: select_one
+      options:
+      - Low Contrast - Soft
+      - Medium Contrast
+      - High Contrast - Bold
+      required: true
+    - id: 24
+      name: lifestyle_header
+      label: -- Lifestyle and Maintenance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: maintenance_level
+      label: Desired Maintenance Level
+      hint: null
+      type: select_one
+      options:
+      - Low - Minimal Upkeep
+      - Medium - Regular Care
+      - High - Frequent Maintenance
+      required: true
+    - id: 26
+      name: hair_goals
+      label: Hair Health Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: final_notes
+      label: Additional Notes or Preferences
+      hint: null
+      type: text
+      options: []
+      required: false

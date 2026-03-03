@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Resilience Improvement Application
+    pages:
+    - id: 1
+      name: section_business_info
+      label: -- Business Information --
+      type: note
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Official business name
+      type: text
+      required: true
+    - id: 3
+      name: business_type
+      label: Type of Business
+      hint: Industry or sector
+      type: text
+      required: true
+    - id: 4
+      name: business_size
+      label: Business Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - Micro (1-2 people)
+      - Small (3-20)
+      - Medium (21-100)
+      - Large (100+)
+      required: true
+    - id: 5
+      name: years_in_operation
+      label: Years in Operation
+      hint: How long has the business existed
+      type: number
+      required: true
+    - id: 6
+      name: section_contact
+      label: -- Contact Information --
+      type: note
+      required: false
+    - id: 7
+      name: contact_person_name
+      label: Contact Person Name
+      hint: Primary contact for this application
+      type: text
+      required: true
+    - id: 8
+      name: contact_title
+      label: Title or Position
+      hint: Role of contact person
+      type: text
+      required: true
+    - id: 9
+      name: contact_email
+      label: Email Address
+      hint: Business email
+      type: email
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      required: true
+    - id: 11
+      name: section_resilience_assessment
+      label: -- Current Resilience Assessment --
+      type: note
+      required: false
+    - id: 12
+      name: current_resilience_level
+      label: Current Resilience Level
+      hint: How would you rate your resilience
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 13
+      name: major_vulnerabilities
+      label: Major Business Vulnerabilities
+      hint: What are your key weaknesses
+      type: text
+      required: true
+    - id: 14
+      name: section_improvement_goals
+      label: -- Improvement Goals --
+      type: note
+      required: false
+    - id: 15
+      name: resilience_improvement_areas
+      label: Areas for Resilience Improvement
+      hint: Select areas you want to strengthen
+      type: select_multiple
+      options:
+      - Supply Chain Resilience
+      - Financial Resilience
+      - Operational Continuity
+      - Staff Capacity
+      - Technology and Systems
+      - Leadership and Planning
+      - Customer Relations
+      - Community Relations
+      required: true
+    - id: 16
+      name: improvement_objectives
+      label: Specific Improvement Objectives
+      hint: What specific outcomes do you want
+      type: text
+      required: true
+    - id: 17
+      name: desired_timeline
+      label: Desired Timeline for Improvements
+      hint: When do you want to achieve these goals
+      type: select_one
+      options:
+      - 3 months
+      - 6 months
+      - 12 months
+      - 18 months
+      - 2 years
+      - Flexible
+      required: false
+    - id: 18
+      name: section_support_request
+      label: -- Support Request --
+      type: note
+      required: false
+    - id: 19
+      name: support_type_needed
+      label: Type of Support Needed
+      hint: Select all applicable support types
+      type: select_multiple
+      options:
+      - Consulting Services
+      - Training Programs
+      - Financial Assistance
+      - Mentoring or Coaching
+      - Technology Support
+      - Network Access
+      - Planning Assistance
+      required: true
+    - id: 20
+      name: consultant_experience_needed
+      label: Consultant Experience Needed
+      hint: What expertise should consultants have
+      type: text
+      required: false
+    - id: 21
+      name: budget_available
+      label: Budget Available for Improvements
+      hint: Approximate budget range
+      type: number
+      required: false
+    - id: 22
+      name: section_commitment
+      label: -- Organizational Commitment --
+      type: note
+      required: false
+    - id: 23
+      name: management_commitment
+      label: Management Commitment Level
+      hint: Is leadership fully committed
+      type: select_one
+      options:
+      - Not committed
+      - Somewhat committed
+      - Moderately committed
+      - Highly committed
+      - Fully committed
+      required: true
+    - id: 24
+      name: staff_participation
+      label: Will Staff Actively Participate
+      hint: Will employees be involved
+      type: select_one
+      options:
+      - Unlikely
+      - Unlikely but possible
+      - Likely
+      - Very likely
+      - Definitely
+      required: true
+    - id: 25
+      name: additional_info
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      required: false

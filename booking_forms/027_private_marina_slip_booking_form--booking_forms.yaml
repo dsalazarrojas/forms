@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Private Marina Slip Booking Form
+    pages:
+    - id: 1
+      name: boat_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: boat_type
+      label: boat_type
+      hint: null
+      type: select_one
+      options:
+      - Boat
+      - Kayak
+      - Yacht
+      required: false
+    - id: 3
+      name: slip_size
+      label: slip_size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 4
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: slip_location
+      label: slip_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: booking_duration
+      label: booking_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: boat_length
+      label: boat_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      - Onsite
+      required: false
+    - id: 12
+      name: slip_booking_status
+      label: slip_booking_status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Cancelled
+      required: false
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: owner_email
+      label: owner_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: owner_phone
+      label: owner_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: marina_contact
+      label: marina_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: slip_number
+      label: slip_number
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Delivery Order Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: -- Customer Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: Your email for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: delivery_information
+      label: -- Delivery Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: delivery_address
+      label: Delivery Address
+      hint: Street address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: delivery_city
+      label: City
+      hint: Delivery city
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: delivery_state
+      label: State/Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: delivery_zip
+      label: ZIP/Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: delivery_date
+      label: Preferred Delivery Date
+      hint: When would you like delivery
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: delivery_time
+      label: Preferred Delivery Time
+      hint: Time preference
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-9pm)
+      - Flexible
+      required: true
+    - id: 12
+      name: special_instructions
+      label: Special Delivery Instructions
+      hint: Any special instructions
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: product_information
+      label: -- Product Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: product_type
+      label: Product Type
+      hint: What are you ordering
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: product_quantity
+      label: Quantity
+      hint: How many units
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: product_specification
+      label: Product Specifications
+      hint: Size, color, or special requirements
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: unit_price
+      label: Unit Price
+      hint: Price per unit
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: item_total
+      label: Item Total
+      hint: Total for this item
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: additional_items
+      label: Additional Items
+      hint: Any other products to order
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: payment_information
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: subtotal
+      label: Subtotal
+      hint: Subtotal before tax and fees
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: delivery_fee
+      label: Delivery Fee
+      hint: Shipping/delivery cost
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: tax_amount
+      label: Tax Amount
+      hint: Sales tax
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: total_amount
+      label: Total Amount
+      hint: Total order amount
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: payment_method
+      label: Payment Method
+      hint: How you will pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash on Delivery
+      - PayPal
+      - Bank Transfer
+      required: true

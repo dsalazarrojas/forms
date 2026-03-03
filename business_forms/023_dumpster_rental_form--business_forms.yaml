@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dumpster Rental Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_schedule
+      label: Delivery Schedule
+      hint: Select a schedule to fit your needs
+      type: select_one
+      options:
+      - Delivery on Monday
+      - Delivery on Tuesday
+      - Delivery on Wednesday
+      - Delivery on Thursday
+      - Delivery on Friday
+      - Delivery on Saturday
+      - Delivery on Sunday
+      required: false
+    - id: 8
+      name: dumpster_size
+      label: Dumpster Size
+      hint: null
+      type: select_multiple
+      options:
+      - 1 cubic yard
+      - 2 cubic yards
+      - 3 cubic yards
+      - 4 cubic yards
+      - 5 cubic yards
+      required: false

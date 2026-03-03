@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Booking Management Form
+    pages:
+    - id: 1
+      name: booking_reference
+      label: Booking Reference Number
+      hint: Your booking confirmation number
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: Full name of the guest
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_email
+      label: Email Address
+      hint: Guest email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: guest_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: management_action
+      label: Management Action Needed
+      hint: What action do you need
+      type: select_one
+      options:
+      - View booking details
+      - Modify booking
+      - Cancel booking
+      - Extend stay
+      - Add services
+      - Report issue
+      - Other
+      required: true
+    - id: 6
+      name: current_check_in
+      label: Current Check-in Date
+      hint: Date of current booking
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: current_check_out
+      label: Current Check-out Date
+      hint: Date of current booking
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: new_check_in
+      label: New Check-in Date
+      hint: If modifying dates
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: new_check_out
+      label: New Check-out Date
+      hint: If modifying dates
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: room_type
+      label: Current Room Type
+      hint: Type of room booked
+      type: select_one
+      options:
+      - Single
+      - Double
+      - Twin
+      - Suite
+      - Family room
+      - Deluxe
+      required: false
+    - id: 11
+      name: requested_changes
+      label: Requested Changes
+      hint: What changes do you want to make
+      type: select_multiple
+      options:
+      - Room upgrade
+      - Room downgrade
+      - Change room type
+      - Add extra bed
+      - Remove services
+      - Change meal plan
+      required: false
+    - id: 12
+      name: issue_description
+      label: Issue or Concern Description
+      hint: If reporting an issue
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Urgent
+      required: true
+    - id: 14
+      name: preferred_resolution
+      label: Preferred Resolution
+      hint: How would you like this resolved
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false

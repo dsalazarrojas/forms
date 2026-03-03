@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Approval And Terms Agreement Form
+    pages:
+    - id: 1
+      name: signatory_info
+      label: Signatory Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: title
+      label: Job Title or Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company
+      label: Company or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: agreement_section
+      label: Agreement Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: agreement_title
+      label: Agreement Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: terms_acceptance
+      label: Do you accept the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: terms_read
+      label: I have read and understand all terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: acknowledgments
+      label: Acknowledgments
+      hint: null
+      type: select_multiple
+      options:
+      - Understand obligations
+      - Accept liability
+      - Agree to confidentiality
+      - Consent to monitoring
+      - Accept all terms
+      required: false
+    - id: 13
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

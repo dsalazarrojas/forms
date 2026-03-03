@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: coronavirus_business_reopening_survey
+    pages:
+    - id: 1
+      name: business_status
+      label: business_status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: can_reopen
+      label: can_reopen
+      hint: null
+      type: select_one
+      options:
+      - Reopen
+      - Not Reopen
+      - Unknown
+      required: true
+    - id: 3
+      name: need_help
+      label: need_help
+      hint: null
+      type: select_multiple
+      options:
+      - Government Assistance
+      - Financial Help
+      - Other
+      - None
+      required: true
+    - id: 4
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reopen_date
+      label: reopen_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: reopen_time
+      label: reopen_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: reopening_status
+      label: reopening_status
+      hint: null
+      type: select_one
+      options:
+      - Reopened
+      - Closed
+      required: true
+    - id: 10
+      name: government_help_needed
+      label: government_help_needed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: financial_help_needed
+      label: financial_help_needed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: other_help_needed
+      label: other_help_needed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: need_emergency_loan
+      label: need_emergency_loan
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: need_emergency_grant
+      label: need_emergency_grant
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: need_emergency_liquidity
+      label: need_emergency_liquidity
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: need_emergency_insurance
+      label: need_emergency_insurance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: need_emergency_other
+      label: need_emergency_other
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: comments_business
+      label: comments_business
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: comments_government
+      label: comments_government
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: business_id
+      label: business_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: business_address
+      label: business_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: business_city
+      label: business_city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: business_state
+      label: business_state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: business_zip
+      label: business_zip
+      hint: null
+      type: number
+      options: []
+      required: true

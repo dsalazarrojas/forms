@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Royalty Adjustment Request Form
+    pages:
+    - id: 1
+      name: music_royalty_adjustment_request_form_data
+      label: Royalty Discrepancy Claim
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: upload_screenshots
+      label: Upload Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: submit_request
+      label: Submit Adjustment Request
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: adjustment_type
+      label: Adjustment Type
+      hint: null
+      type: select_one
+      options:
+      - Discrepancy Claim
+      - Adjustment Request
+      required: true
+    - id: 5
+      name: description
+      label: Description
+      hint: Please describe the adjustment request.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: music_type
+      label: Music Type
+      hint: null
+      type: select_multiple
+      options:
+      - Album
+      - Single
+      - Song
+      required: true
+    - id: 7
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: release_year
+      label: Release Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: performing_rights_holder
+      label: Performing Rights Holder
+      hint: null
+      type: select_one
+      options:
+      - Artist
+      - Label
+      - Publisher
+      required: true
+    - id: 10
+      name: record_label
+      label: Record Label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: royalty_rate
+      label: Royalty Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Check
+      - Bank Transfer
+      - Wire Transfer
+      required: true
+    - id: 13
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: upload_screenshots
+      label: Upload Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submit_request
+      label: Submit Adjustment Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Rejected
+      - In Progress
+      required: true
+    - id: 17
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: adjuster
+      label: Adjuster
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: assigned_adjuster
+      label: Assigned Adjuster
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: created_date
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: modified_by
+      label: Modified By
+      hint: null
+      type: text
+      options: []
+      required: true

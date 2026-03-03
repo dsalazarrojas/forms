@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Session Contract Form
+    pages:
+    - id: 1
+      name: photography_session_contract_form
+      label: Photography Session Contract
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: photography_session_contract_date
+      label: Photography Session Date
+      hint: Please enter the date of the session.
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: photography_session_time
+      label: Photography Session Time
+      hint: Please enter the time of the session.
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: photographer_name
+      label: Photographer's Name
+      hint: Enter your name.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: Enter your contact number.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contract_date_start
+      label: Contract Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contract_date_end
+      label: Contract End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contract_duration
+      label: Contract Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: photography_session_type
+      label: Photography Session Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: session_details
+      label: Session Details
+      hint: Please enter any additional session details.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false

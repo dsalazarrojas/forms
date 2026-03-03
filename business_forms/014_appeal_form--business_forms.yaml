@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appeal Form
+    pages:
+    - id: 1
+      name: appellant_information
+      label: -- Appellant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: appellant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: appellant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: appellant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: appellant_id
+      label: Employee or Account ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: appeal_basis
+      label: -- Appeal Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: decision_date
+      label: Date of Original Decision
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: decision_type
+      label: Type of Decision Being Appealed
+      hint: null
+      type: select_one
+      options:
+      - Disciplinary action
+      - Termination
+      - Denial of benefits
+      - Performance review
+      - Promotion decision
+      - Other
+      required: true
+    - id: 9
+      name: appeal_reason
+      label: Reason for Appeal
+      hint: null
+      type: select_one
+      options:
+      - Decision was unfair
+      - Information was incomplete
+      - Procedure was not followed correctly
+      - New evidence available
+      - Mitigating circumstances
+      - Other
+      required: true
+    - id: 10
+      name: appeal_description
+      label: Detailed Description of Appeal
+      hint: Please provide a clear and detailed explanation of why you believe this
+        decision should be reconsidered
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: supporting_evidence
+      label: -- Supporting Evidence --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: documentation_attached
+      label: Do you have supporting documentation?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: evidence_description
+      label: Describe the evidence or documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: witnesses
+      label: Are there any witnesses to support your appeal?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 15
+      name: witness_names
+      label: Witness names and contact information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: desired_outcome
+      label: -- Desired Outcome --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: resolution_sought
+      label: What resolution are you seeking?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: additional_information
+      label: Any additional information relevant to this appeal?
+      hint: null
+      type: text
+      options: []
+      required: false

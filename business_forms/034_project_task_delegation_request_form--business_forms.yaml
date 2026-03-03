@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Task Delegation Request Form
+    pages:
+    - id: 1
+      name: project_task_delegation_request_form
+      label: project_task_delegation_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_manager_id
+      label: project_manager
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: task_id
+      label: task
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: assignee_id
+      label: assignee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: assigned_date
+      label: assigned_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: assigned_time
+      label: assigned_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: assigned_by
+      label: assigned_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_status
+      label: assigned_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Not Assigned''}'
+      - '{''value'': ''Assigned''}'
+      - '{''value'': ''Re-proposed''}'
+      required: false
+    - id: 10
+      name: reason_for_re_assignment
+      label: reason_for_re_assignment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Not Applicable''}'
+      - '{''value'': ''Team Member 1''}'
+      - '{''value'': ''Team Member 2''}'
+      - '{''value'': ''Team Member 3''}'
+      - '{''value'': ''Team Member 4''}'
+      - '{''value'': ''Team Member 5''}'
+      - '{''value'': ''Team Member 6''}'
+      - '{''value'': ''Team Member 7''}'
+      - '{''value'': ''Team Member 8''}'
+      - '{''value'': ''Team Member 9''}'
+      - '{''value'': ''Team Member 10''}'
+      required: false
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_by_status
+      label: assigned_by_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      - '{''value'': ''On Leave''}'
+      - '{''value'': ''On Vacation''}'
+      required: false
+    - id: 14
+      name: assigned_by_status_reason
+      label: assigned_by_status_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: task_details
+      label: task_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assigned_to_status
+      label: assigned_to_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Not Applicable''}'
+      - '{''value'': ''Team Member 1''}'
+      - '{''value'': ''Team Member 2''}'
+      - '{''value'': ''Team Member 3''}'
+      - '{''value'': ''Team Member 4''}'
+      - '{''value'': ''Team Member 5''}'
+      - '{''value'': ''Team Member 6''}'
+      - '{''value'': ''Team Member 7''}'
+      - '{''value'': ''Team Member 8''}'
+      - '{''value'': ''Team Member 9''}'
+      - '{''value'': ''Team Member 10''}'
+      required: false
+    - id: 18
+      name: assigned_to_status_reason
+      label: assigned_to_status_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: assigned_to_status
+      label: assigned_to_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Not Applicable''}'
+      - '{''value'': ''Team Member 1''}'
+      - '{''value'': ''Team Member 2''}'
+      - '{''value'': ''Team Member 3''}'
+      - '{''value'': ''Team Member 4''}'
+      - '{''value'': ''Team Member 5''}'
+      - '{''value'': ''Team Member 6''}'
+      - '{''value'': ''Team Member 7''}'
+      - '{''value'': ''Team Member 8''}'
+      - '{''value'': ''Team Member 9''}'
+      - '{''value'': ''Team Member 10''}'
+      required: false
+    - id: 20
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: assigned_by
+      label: assigned_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assigned_by_status
+      label: assigned_by_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      - '{''value'': ''On Leave''}'
+      - '{''value'': ''On Vacation''}'
+      required: false
+    - id: 23
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Not Applicable''}'
+      - '{''value'': ''Team Member 1''}'
+      - '{''value'': ''Team Member 2''}'
+      - '{''value'': ''Team Member 3''}'
+      - '{''value'': ''Team Member 4''}'
+      - '{''value'': ''Team Member 5''}'
+      - '{''value'': ''Team Member 6''}'
+      - '{''value'': ''Team Member 7''}'
+      - '{''value'': ''Team Member 8''}'
+      - '{''value'': ''Team Member 9''}'
+      - '{''value'': ''Team Member 10''}'
+      required: false
+    - id: 24
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Not Applicable''}'
+      - '{''value'': ''Team Member 1''}'
+      - '{''value'': ''Team Member 2''}'
+      - '{''value'': ''Team Member 3''}'
+      - '{''value'': ''Team Member 4''}'
+      - '{''value'': ''Team Member 5''}'
+      - '{''value'': ''Team Member 6''}'
+      - '{''value'': ''Team Member 7''}'
+      - '{''value'': ''Team Member 8''}'
+      - '{''value'': ''Team Member 9''}'
+      - '{''value'': ''Team Member 10''}'
+      required: false
+    - id: 25
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

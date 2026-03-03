@@ -1,0 +1,267 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Website Creation Details Form
+    pages:
+    - id: 1
+      name: header_section
+      label: Website Project Details
+      hint: Please provide detailed information about your website project
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_info_section
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company or Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: website_type_section
+      label: -- Website Type and Purpose --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: website_type
+      label: Type of Website
+      hint: What kind of website do you need?
+      type: select_one
+      options:
+      - Business/Company Website
+      - E-commerce Store
+      - Blog
+      - Portfolio
+      - Service-Based Business
+      - Non-Profit
+      - Personal Website
+      - Community/Forum
+      - Other
+      required: true
+    - id: 9
+      name: primary_purpose
+      label: Primary Purpose of the Website
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: target_audience
+      label: Target Audience
+      hint: Who will be using your website?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: business_info_section
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: business_description
+      label: Brief Description of Your Business
+      hint: What does your company do?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: years_in_business
+      label: Years in Business
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: number_of_employees
+      label: Number of Employees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: current_website
+      label: Do you currently have a website?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: current_website_url
+      label: Current Website URL
+      hint: If you have an existing site
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: design_section
+      label: -- Design and Features --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: design_style
+      label: Preferred Design Style
+      hint: Modern, minimalist, colorful, professional, etc.
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: favorite_websites
+      label: Examples of Websites You Like
+      hint: Provide URLs or describe style
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: key_features
+      label: Key Features You Need
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Contact Forms
+      - Online Store
+      - Blog/News
+      - Photo Gallery
+      - Video Integration
+      - Appointment Booking
+      - Member Portal
+      - Search Function
+      - Social Media Integration
+      - Other
+      required: true
+    - id: 21
+      name: number_of_pages
+      label: Approximate Number of Pages
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: content_section
+      label: -- Content and Assets --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: content_ready
+      label: Do you have website content ready?
+      hint: Text, images, etc.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partial
+      required: true
+    - id: 24
+      name: logo_ready
+      label: Do you have a logo?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: photos_ready
+      label: Do you have professional photos or images?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Need Professional Photography
+      required: true
+    - id: 26
+      name: brand_colors
+      label: Your Brand Colors
+      hint: Hex codes or color names
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: seo_section
+      label: -- SEO and Technical Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: seo_keywords
+      label: Target Keywords for SEO
+      hint: Comma-separated keywords
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: mobile_responsive
+      label: Mobile Responsive Design is Essential
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Important
+      required: true
+    - id: 30
+      name: budget_timeline_section
+      label: -- Budget and Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: budget_range
+      label: Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Under $2000
+      - $2000 - $5000
+      - $5000 - $10000
+      - $10000 - $25000
+      - Over $25000
+      - TBD
+      required: true
+    - id: 32
+      name: launch_deadline
+      label: When do you need the website launched?
+      hint: null
+      type: date
+      options: []
+      required: true

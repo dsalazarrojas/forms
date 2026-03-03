@@ -1,0 +1,360 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Permit Closure Application
+    pages:
+    - id: 1
+      name: closure_header
+      label: -- Building Permit Closure Application --
+      hint: Apply to close and finalize a building permit
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: permit_number
+      label: Building permit number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: permit_issue_date
+      label: Permit issue date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: applicant_info
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: applicant_name
+      label: Applicant or property owner name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: applicant_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: applicant_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_name
+      label: Company or contractor name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contractor_license
+      label: Contractor license number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_info
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: property_address
+      label: Property address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: parcel_number
+      label: Parcel or lot number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: property_owner
+      label: Current property owner
+      hint: If different from applicant
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: work_description
+      label: -- Work Completed --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: original_scope
+      label: Original scope of work
+      hint: What permit was issued for
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: work_completed
+      label: Work completed as described
+      hint: null
+      type: select_one
+      options:
+      - Yes, completed as planned
+      - Yes, completed with modifications
+      - Partially completed
+      - Not completed
+      required: true
+    - id: 17
+      name: modification_details
+      label: Description of modifications (if any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: completion_date
+      label: Date of substantial completion
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: final_completion
+      label: Date of final completion
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: inspections
+      label: -- Final Inspections --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: final_inspection
+      label: Final inspection completed
+      hint: null
+      type: select_one
+      options:
+      - Yes, passed
+      - Yes, passed with conditions
+      - Scheduled
+      - Not yet scheduled
+      - Not required
+      required: true
+    - id: 22
+      name: inspection_date
+      label: Final inspection date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: inspector_name
+      label: Inspector name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: inspection_result
+      label: Inspection result
+      hint: null
+      type: select_one
+      options:
+      - Pass - no deficiencies
+      - Pass - minor punch list items
+      - Fail - requires corrections
+      - Conditional - with corrections
+      required: true
+    - id: 25
+      name: required_corrections
+      label: Required corrections or items remaining
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: systems_section
+      label: -- Systems and Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: electrical_final
+      label: Electrical final inspection
+      hint: null
+      type: select_one
+      options:
+      - Completed and approved
+      - Scheduled
+      - Not required
+      - Awaiting clearance
+      required: false
+    - id: 28
+      name: plumbing_final
+      label: Plumbing final inspection
+      hint: null
+      type: select_one
+      options:
+      - Completed and approved
+      - Scheduled
+      - Not required
+      - Awaiting clearance
+      required: false
+    - id: 29
+      name: mechanical_final
+      label: Mechanical final inspection
+      hint: null
+      type: select_one
+      options:
+      - Completed and approved
+      - Scheduled
+      - Not required
+      - Awaiting clearance
+      required: false
+    - id: 30
+      name: permits_passed
+      label: All required systems passed inspection
+      hint: null
+      type: select_one
+      options:
+      - Yes, all passed
+      - Most passed
+      - Some passed
+      - false
+      required: true
+    - id: 31
+      name: documentation
+      label: -- Documentation and Records --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: documents_submitted
+      label: All required documentation submitted
+      hint: null
+      type: select_one
+      options:
+      - Yes, complete
+      - Yes, mostly complete
+      - Partial
+      - Not submitted
+      required: true
+    - id: 33
+      name: as_built_plans
+      label: As-built plans submitted
+      hint: Final construction documents
+      type: select_one
+      options:
+      - Yes, submitted
+      - Yes, being prepared
+      - Not required
+      - false
+      required: false
+    - id: 34
+      name: permits_compliance
+      label: Building permit compliance verified
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully compliant
+      - Yes, compliant with conditions
+      - Awaiting verification
+      - false
+      required: true
+    - id: 35
+      name: certificates
+      label: -- Certificates and Approvals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: certificate_occupancy
+      label: Certificate of occupancy requested
+      hint: null
+      type: select_one
+      options:
+      - Yes, applied for
+      - Yes, received
+      - Not required
+      - false
+      required: false
+    - id: 37
+      name: performance_bonds
+      label: Performance bonds released
+      hint: null
+      type: select_one
+      options:
+      - Yes, released
+      - Yes, pending release
+      - Not applicable
+      - false
+      required: false
+    - id: 38
+      name: fees_paid
+      label: All permit fees paid
+      hint: null
+      type: select_one
+      options:
+      - Yes, paid in full
+      - Yes, installments complete
+      - Balance due
+      - false
+      required: true
+    - id: 39
+      name: closure_authorization
+      label: -- Closure Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 40
+      name: authorized_signature
+      label: I am authorized to request permit closure
+      hint: null
+      type: select_one
+      options:
+      - Yes, property owner
+      - Yes, contractor authorized
+      - Yes, representative authorized
+      - false
+      required: true
+    - id: 41
+      name: work_properly_completed
+      label: All work properly and safely completed per plans
+      hint: null
+      type: select_one
+      options:
+      - Yes, certified complete
+      - Yes, to the best of knowledge
+      - Pending final inspection
+      - false
+      required: true
+    - id: 42
+      name: additional_info
+      label: Additional information or comments
+      hint: null
+      type: text
+      options: []
+      required: false

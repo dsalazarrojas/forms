@@ -1,0 +1,236 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Support Request Form
+    pages:
+    - id: 1
+      name: it_support_request_form
+      label: IT Support Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: it_category
+      label: Request Category
+      hint: null
+      type: select_one
+      options:
+      - Help Desk
+      - Hardware
+      - Software
+      - Network
+      required: false
+    - id: 3
+      name: it_request_subject
+      label: Request Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: it_request_description
+      label: Request Description
+      hint: Please describe the issue here.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: it_assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - supportuser
+      required: true
+    - id: 6
+      name: it_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 7
+      name: it_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: true
+    - id: 8
+      name: it_request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: it_request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: it_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: it_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: it_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: it_assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - supportuser
+      required: true
+    - id: 14
+      name: it_comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: it_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: it_category_id
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Business Forms
+      - IT Forms
+      required: false
+    - id: 17
+      name: it_file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: it_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: it_keywords
+      label: Keywords
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: it_tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: it_created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      required: false
+    - id: 22
+      name: it_created_on
+      label: Created On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: it_updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - Jim Bob
+      - Jane Doe
+      required: false
+    - id: 24
+      name: it_updated_on
+      label: Updated On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: it_deleted_by
+      label: Deleted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 26
+      name: it_deleted_on
+      label: Deleted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: it_deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: it_version
+      label: Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: it_created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 30
+      name: it_updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false

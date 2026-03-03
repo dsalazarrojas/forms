@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: short_term_rental_guest_check_out_form
+    pages:
+    - id: 1
+      name: check_out_time
+      label: Check Out Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: additional_charges
+      label: Additional Charges
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: guest_feedback
+      label: Guest Feedback
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''positive'', ''label'': ''Positive''}'
+      - '{''id'': 2, ''name'': ''negative'', ''label'': ''Negative''}'
+      required: false
+    - id: 5
+      name: check_out_details
+      label: Check Out Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: check_out_date
+      label: Check Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: estimated_check_out_time
+      label: Estimated Check Out Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: check_out_time
+      label: Check Out Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: has_additional_charges
+      label: Has Additional Charges
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

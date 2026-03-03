@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: painting_commission_form_template
+    pages:
+    - id: 1
+      name: form_header
+      label: form_header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artist_name
+      label: artist_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: artist_image
+      label: artist_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: artwork_title
+      label: artwork_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: artwork_description
+      label: artwork_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: artwork_medium
+      label: artwork_medium
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: commission_type
+      label: commission_type
+      hint: null
+      type: select_one
+      options:
+      - commission_type
+      - commission_type
+      required: false
+    - id: 8
+      name: price_per_piece
+      label: price_per_piece
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - bank_transfer
+      - bank_transfer
+      required: false
+    - id: 11
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: payment_notes
+      label: payment_notes
+      hint: null
+      type: text
+      options: []
+      required: false

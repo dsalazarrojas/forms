@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: RACI Task Assignment Form
+    pages:
+    - id: 1
+      name: raci_task_assignment_form_page1
+      label: task_assignment_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_id
+      label: user_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: task_id
+      label: task_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: task_title
+      label: task_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: task_description
+      label: task_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: assigned_to_options
+      label: user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to_options_values
+      label: '[]'
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to_values
+      label: '[]'
+      hint: null
+      type: text
+      options: []
+      required: false

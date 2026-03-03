@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Boarding Booking Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: dog_info
+      label: Dog Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reservation_details_prophets
+      label: Prophets
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Monday''}'
+      - '{''id'': 2, ''label'': ''Tuesday''}'
+      - '{''id'': 3, ''label'': ''Wednesday''}'
+      - '{''id'': 4, ''label'': ''Thursday''}'
+      - '{''id'': 5, ''label'': ''Friday''}'
+      required: true
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: owner_info
+      label: Owner Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: special_services
+      label: Special Services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Walking''}'
+      - '{''id'': 2, ''label'': ''Feeding''}'
+      - '{''id'': 3, ''label'': ''Bathing''}'
+      - '{''id'': 4, ''label'': ''Training''}'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: notes2
+      label: Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: notes3
+      label: Notes 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Cash''}'
+      - '{''id'': 2, ''label'': ''Card''}'
+      - '{''id'': 3, ''label'': ''PayPal''}'
+      required: true
+    - id: 14
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

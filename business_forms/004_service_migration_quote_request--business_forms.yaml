@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Migration Quote Request
+    pages:
+    - id: 1
+      name: form_info
+      label: Form Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: migration_type
+      label: Migration Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: server_model
+      label: Server Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: current_server_capacity
+      label: Current Server Capacity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: new_server_capacity
+      label: New Server Capacity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: server_model_details
+      label: Server Model Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: service_availability_date
+      label: Service Availability Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: service_start_date
+      label: Service Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: service_end_date
+      label: Service End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: service_duration
+      label: Service Duration
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: service_frequency
+      label: Service Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: migration_frequency
+      label: Migration Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: client_comments
+      label: Client Comments
+      hint: null
+      type: note
+      options: []
+      required: false

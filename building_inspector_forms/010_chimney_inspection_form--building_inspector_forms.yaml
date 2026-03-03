@@ -1,0 +1,412 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chimney Inspection Form
+    pages:
+    - id: 1
+      name: inspection_information
+      label: Inspection Information
+      hint: Basic details about this inspection
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: inspection_time
+      label: Time of Inspection
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: inspector_company
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: inspector_license
+      label: License Number
+      hint: Certification or license
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_information
+      label: Customer Information
+      hint: Property owner details
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: property_address
+      label: Property Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: chimney_information
+      label: Chimney Information
+      hint: Details about the chimney
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: chimney_type
+      label: Chimney Type
+      hint: null
+      type: select_one
+      options:
+      - Masonry
+      - Prefabricated
+      - Metal
+      - Stone
+      - Brick
+      - Other
+      required: true
+    - id: 14
+      name: chimney_location
+      label: Chimney Location
+      hint: On property
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: chimney_height
+      label: Approximate Chimney Height
+      hint: Feet
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: chimney_age
+      label: Approximate Age of Chimney
+      hint: null
+      type: select_one
+      options:
+      - Less than 5 years
+      - 5-10 years
+      - 11-20 years
+      - 21-50 years
+      - Over 50 years
+      - Unknown
+      required: false
+    - id: 17
+      name: connected_appliances
+      label: Connected Appliances
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Wood-burning fireplace
+      - Gas fireplace
+      - Wood stove
+      - Gas stove
+      - Furnace
+      - Water heater
+      - None
+      required: true
+    - id: 18
+      name: exterior_inspection
+      label: Exterior Inspection
+      hint: Outside condition assessment
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: chimney_cap_condition
+      label: Chimney Cap Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Missing
+      - Not applicable
+      required: true
+    - id: 20
+      name: flashing_condition
+      label: Flashing Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Missing or damaged
+      required: true
+    - id: 21
+      name: masonry_condition
+      label: Masonry Condition
+      hint: Bricks, mortar, stones
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Deteriorating
+      required: true
+    - id: 22
+      name: crown_condition
+      label: Chimney Crown Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Cracked
+      - Missing
+      required: true
+    - id: 23
+      name: interior_inspection
+      label: Interior Inspection
+      hint: Inside condition assessment
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: flue_condition
+      label: Flue Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Damaged
+      required: true
+    - id: 25
+      name: flue liner_type
+      label: Flue Liner Type
+      hint: null
+      type: select_one
+      options:
+      - Clay tile
+      - Metal
+      - Cast-in-place
+      - None visible
+      - Unable to determine
+      required: true
+    - id: 26
+      name: creosote_buildup
+      label: Creosote Buildup Level
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Light
+      - Moderate
+      - Heavy
+      - Excessive
+      required: true
+    - id: 27
+      name: obstructions
+      label: Obstructions Present
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Bird nests
+      - Debris
+      - Leaves
+      - Other
+      required: true
+    - id: 28
+      name: smoke_chamber_condition
+      label: Smoke Chamber Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Unlined
+      - Not accessible
+      required: true
+    - id: 29
+      name: firebox_condition
+      label: Firebox Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Damaged
+      required: true
+    - id: 30
+      name: damper_operation
+      label: Damper Operation
+      hint: null
+      type: select_one
+      options:
+      - Operates properly
+      - Stiff but functional
+      - Difficult to operate
+      - Inoperable
+      - Missing
+      required: true
+    - id: 31
+      name: safety_issues
+      label: Safety Issues
+      hint: Critical findings
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: safety_hazards_found
+      label: Safety Hazards Identified
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Cracked flue liner
+      - Excessive creosote
+      - Structural damage
+      - Water damage
+      - Missing cap
+      - Improper clearance
+      - Carbon monoxide risk
+      required: true
+    - id: 33
+      name: water_intrusion
+      label: Signs of Water Intrusion
+      hint: null
+      type: select_one
+      options:
+      - None observed
+      - Minor
+      - Moderate
+      - Severe
+      required: true
+    - id: 34
+      name: recommendations
+      label: Recommendations
+      hint: Required and suggested actions
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: inspection_level
+      label: Level of Inspection Performed
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: true
+    - id: 36
+      name: overall_rating
+      label: Overall Chimney Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Unsafe - Do not use
+      required: true
+    - id: 37
+      name: immediate_repairs_needed
+      label: Immediate Repairs Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Chimney cleaning
+      - Cap installation
+      - Flashing repair
+      - Masonry repair
+      - Liner repair
+      - Crown repair
+      - Damper repair
+      - Waterproofing
+      required: true
+    - id: 38
+      name: recommended_services
+      label: Recommended Services
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Annual cleaning
+      - Masonry restoration
+      - Liner installation
+      - Cap installation
+      - Waterproofing
+      - Structural repair
+      - No action needed
+      required: true
+    - id: 39
+      name: inspector_notes
+      label: Additional Inspector Notes
+      hint: Detailed observations
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: estimate_provided
+      label: Was an estimate provided for repairs
+      hint: null
+      type: select_one
+      options:
+      - Yes, included
+      - Yes, separate
+      - No, not requested
+      - No, will provide later
+      required: false
+    - id: 41
+      name: customer_signature
+      label: Customer Signature
+      hint: Acknowledgment of inspection
+      type: text
+      options: []
+      required: true
+    - id: 42
+      name: inspector_signature
+      label: Inspector Signature
+      hint: null
+      type: text
+      options: []
+      required: true

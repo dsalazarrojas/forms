@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: seo_agreement_extension_form
+    pages:
+    - id: 1
+      name: client
+      label: client
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: extension_type
+      label: extension_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: contract_term
+      label: contract_term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: contract_start_date
+      label: contract_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: contract_end_date
+      label: contract_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_extension
+      label: reason_for_extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_approval
+      label: client_approval
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: reviewer_note
+      label: reviewer_note
+      hint: Additional information about the extension request
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reviewer_name
+      label: reviewer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reviewer_signature
+      label: reviewer_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: client_signature
+      label: client_signature
+      hint: null
+      type: text
+      options: []
+      required: false

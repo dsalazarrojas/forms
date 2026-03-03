@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Live Session Scheduling Form
+    pages:
+    - id: 1
+      name: live_session_scheduling_form
+      label: live_session_scheduling_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: scheduled_date
+      label: scheduled_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: session_length
+      label: session_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: session_length_units
+      label: session_length_units
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: timezone
+      label: timezone
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: confirm_date
+      label: confirm_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: confirm_time
+      label: confirm_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: scheduled_time
+      label: scheduled_time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

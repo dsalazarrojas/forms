@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: ndis-service-agreement
+    pages:
+    - id: 1
+      name: service_agreement_title
+      label: Service Agreement Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_provider_name
+      label: service provider name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_provider_organisation
+      label: service provider organisation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_description
+      label: Service Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: funding_start_date
+      label: Funding Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: funding_end_date
+      label: Funding End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: participant_concerns
+      label: Participant Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_goals
+      label: Participant Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_communication_preference
+      label: Participant Communication Preference
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - SMS
+      - In-person
+      required: false
+    - id: 11
+      name: service_provider_communication_preference
+      label: Service Provider Communication Preference
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - SMS
+      - In-person
+      required: false
+    - id: 12
+      name: participant_communication_frequency
+      label: Participant Communication Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Bi-weekly
+      - Fortnightly
+      - Monthly
+      - Quarterly
+      - Six monthly
+      - Less frequently than monthly
+      - Rarely
+      required: false
+    - id: 13
+      name: service_provider_communication_frequency
+      label: Service Provider Communication Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Bi-weekly
+      - Fortnightly
+      - Monthly
+      - Quarterly
+      - Six monthly
+      - Less frequently than monthly
+      - Rarely
+      required: false
+    - id: 14
+      name: participant_support_plan
+      label: Participant Support Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: service_provider_address
+      label: Service Provider Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: service_provider_phone
+      label: Service Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: service_provider_email
+      label: Service Provider Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: service_provider_notes
+      label: Service Provider Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: service_provider_signature
+      label: Service Provider Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: ndis_service_provider_registration_number
+      label: NDIS Service Provider Registration Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: ndis_funding_amount
+      label: NDIS Funding Amount
+      hint: null
+      type: number
+      options: []
+      required: false

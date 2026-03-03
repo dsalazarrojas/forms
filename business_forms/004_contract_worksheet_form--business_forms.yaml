@@ -1,0 +1,265 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contract Worksheet Form
+    pages:
+    - id: 1
+      name: worksheet_prepared_by
+      label: Prepared By
+      hint: Name of the person preparing this worksheet
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: preparation_date
+      label: Preparation Date
+      hint: Date this worksheet was created
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Department responsible for this contract
+      type: select_one
+      options:
+      - Legal
+      - Procurement
+      - Sales
+      - Operations
+      - Finance
+      - Human Resources
+      - IT
+      - Other
+      required: true
+    - id: 4
+      name: section_contract_basics
+      label: -- Contract Basics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contract_name
+      label: Contract Name
+      hint: Official name of the contract
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contract_description
+      label: Contract Description
+      hint: Brief description of the contract purpose
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contract_category
+      label: Contract Category
+      hint: Type of contract
+      type: select_one
+      options:
+      - Purchase Agreement
+      - Service Agreement
+      - Employment Contract
+      - Lease Agreement
+      - Licensing Agreement
+      - Partnership Agreement
+      - Consulting Agreement
+      - Other
+      required: true
+    - id: 8
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this contract
+      type: select_one
+      options:
+      - Critical
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 9
+      name: section_financial_terms
+      label: -- Financial Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contract_value
+      label: Total Contract Value
+      hint: Total monetary value
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: payment_terms
+      label: Payment Terms
+      hint: How will payments be structured
+      type: select_one
+      options:
+      - Lump Sum
+      - Monthly Installments
+      - Quarterly Payments
+      - Milestone-Based
+      - Hourly Rate
+      - Retainer
+      required: true
+    - id: 12
+      name: currency
+      label: Currency
+      hint: Currency for all transactions
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - CAD
+      - AUD
+      - JPY
+      - Other
+      required: true
+    - id: 13
+      name: budget_code
+      label: Budget Code
+      hint: Internal budget code for tracking
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_timeline
+      label: -- Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: start_date
+      label: Contract Start Date
+      hint: When does the contract begin
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: end_date
+      label: Contract End Date
+      hint: When does the contract end
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: renewal_terms
+      label: Renewal Terms
+      hint: Does this contract have renewal options
+      type: select_one
+      options:
+      - Auto-Renewal
+      - Manual Renewal Required
+      - No Renewal Option
+      - To Be Negotiated
+      required: true
+    - id: 18
+      name: key_milestones
+      label: Key Milestones
+      hint: Important dates or deliverables
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_parties
+      label: -- Parties Involved --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: primary_vendor
+      label: Primary Vendor or Counterparty
+      hint: Name of the other party
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: vendor_contact_name
+      label: Vendor Contact Name
+      hint: Primary contact person
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: vendor_contact_email
+      label: Vendor Contact Email
+      hint: Email address for vendor contact
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: internal_owner
+      label: Internal Contract Owner
+      hint: Person responsible for managing this contract
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: section_terms_conditions
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: termination_clause
+      label: Termination Notice Required
+      hint: Notice period for contract termination
+      type: select_one
+      options:
+      - 30 Days
+      - 60 Days
+      - 90 Days
+      - As Agreed
+      - Immediate
+      required: false
+    - id: 26
+      name: liability_cap
+      label: Liability Cap
+      hint: Maximum liability amount if applicable
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: insurance_required
+      label: Insurance Required
+      hint: Is insurance coverage required
+      type: select_one
+      options:
+      - true
+      - false
+      - To Be Determined
+      required: true
+    - id: 28
+      name: special_conditions
+      label: Special Conditions or Clauses
+      hint: Any unique terms or conditions
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: approval_status
+      label: Current Approval Status
+      hint: What stage is the contract in
+      type: select_one
+      options:
+      - Draft
+      - Under Review
+      - Pending Approval
+      - Approved
+      - Executed
+      required: true
+    - id: 30
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

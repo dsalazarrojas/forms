@@ -1,0 +1,191 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Briefing Form
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: colleague_name
+      label: Colleague Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Select your department
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - Engineering
+      - Human Resources
+      - Finance
+      - Operations
+      - Legal
+      - IT
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Enter your current job title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Enter your work email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: section_briefing_details
+      label: -- Briefing Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: briefing_category
+      label: Briefing Category
+      hint: Select the category for this briefing
+      type: select_one
+      options:
+      - Project Update
+      - Strategy Discussion
+      - Policy Review
+      - Performance Review
+      - Client Meeting Preparation
+      - Budget Discussion
+      - Other
+      required: true
+    - id: 8
+      name: briefing_title
+      label: Briefing Title
+      hint: Enter a title for this briefing
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: preferred_date
+      label: Preferred Briefing Date
+      hint: Select your preferred date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: preferred_time
+      label: Preferred Briefing Time
+      hint: Select your preferred time
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: duration_needed
+      label: Duration Needed
+      hint: Select the expected duration
+      type: select_one
+      options:
+      - 15 minutes
+      - 30 minutes
+      - 45 minutes
+      - 1 hour
+      - 1.5 hours
+      - 2 hours
+      required: true
+    - id: 12
+      name: meeting_format
+      label: Meeting Format
+      hint: Select the preferred meeting format
+      type: select_one
+      options:
+      - In-Person
+      - Video Conference
+      - Phone Call
+      - Hybrid
+      required: true
+    - id: 13
+      name: section_preparation
+      label: -- Preparation Materials --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: agenda_items
+      label: Agenda Items
+      hint: List the key items to discuss during the briefing
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: documents_attached
+      label: Documents to Review
+      hint: List any documents that should be reviewed prior to briefing
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: key_questions
+      label: Key Questions to Address
+      hint: List any specific questions that need to be addressed
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: expected_outcomes
+      label: Expected Outcomes
+      hint: Describe what you hope to achieve from this briefing
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: section_participants
+      label: -- Additional Participants --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: additional_attendees
+      label: Additional Attendees
+      hint: List any additional colleagues who should attend
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: executive_participation
+      label: Executive Participation Required
+      hint: Indicate if executive leadership should be present
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Optional
+      required: false
+    - id: 21
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Enter any other relevant information
+      type: text
+      options: []
+      required: false

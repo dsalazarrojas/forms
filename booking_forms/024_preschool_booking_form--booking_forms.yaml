@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preschool Booking Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 5
+      name: birthdate
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: birthtime
+      label: Birth Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: preschoolid
+      label: Preschool ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: parentname
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parentcontact
+      label: Parent Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: childname
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: childage
+      label: Child Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: childgrade
+      label: Child Grade
+      hint: null
+      type: select_one
+      options:
+      - Grade 1
+      - Grade 2
+      - Grade 3
+      required: true
+    - id: 13
+      name: startdate
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: enddate
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: parentemail
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: notes2
+      label: Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false

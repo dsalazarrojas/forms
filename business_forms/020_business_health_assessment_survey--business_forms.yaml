@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Health Assessment Survey
+    pages:
+    - id: 1
+      name: section_org_unit_info
+      label: -- Organizational Unit --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: department_unit_name
+      label: Department or Business Unit
+      hint: Which area of the business do you work in
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: operational_efficiency_rating
+      label: Operational Efficiency Rating
+      hint: How smoothly do day-to-day tasks run (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: section_management_leadership
+      label: -- Management and Leadership --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: management_support_satisfaction
+      label: Satisfaction with Management Support
+      hint: Do you feel supported by your immediate supervisor (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: communication_transparency_score
+      label: Communication Transparency Score
+      hint: Is information shared openly and clearly (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: leadership_vision_alignment
+      label: Alignment with Organizational Vision
+      hint: Do you understand and support the company direction
+      type: select_one
+      options:
+      - Fully Aligned
+      - Somewhat Aligned
+      - Neutral
+      - Not Aligned
+      required: true
+    - id: 8
+      name: section_operational_health
+      label: -- Operational and Resource Health --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: resource_adequacy_assessment
+      label: Resource Adequacy for Tasks
+      hint: Do you have the tools and staff needed to do your job well
+      type: select_one
+      options:
+      - Always adequate
+      - Mostly adequate
+      - Often insufficient
+      - Severely lacking
+      required: true
+    - id: 10
+      name: development_opportunity_awareness
+      label: Awareness of Growth and Development Opportunities
+      hint: Are you aware of paths for career advancement (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: primary_operational_issue_desc
+      label: Primary Operational Issue
+      hint: Describe the single biggest challenge facing your unit
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: management_improvement_recommendations
+      label: Recommendations for Management
+      hint: What changes would improve business health the most
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_overall_sentiment
+      label: -- Overall Sentiment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: job_satisfaction_overall
+      label: Overall Job Satisfaction Rating
+      hint: Rate from 1 (Low) to 10 (High)
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: nps_recommendation_willingness
+      label: Willingness to Recommend Organization
+      hint: How likely are you to recommend this company as a place to work
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 16
+      name: assessment_date_completed
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true

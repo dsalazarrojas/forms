@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Broker Price Opinion Form
+    pages:
+    - id: 1
+      name: property_address
+      label: Property address
+      hint: Full address of the property
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: property_type
+      label: Property type
+      hint: Type of real estate
+      type: select_one
+      options:
+      - Single family
+      - Multi family
+      - Commercial
+      - Land
+      required: true
+    - id: 3
+      name: comparable_sales
+      label: Comparable sales summary
+      hint: List recent comps used for opinion
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: estimated_value
+      label: Estimated market value
+      hint: Broker opinion of value
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: condition_notes
+      label: Condition notes
+      hint: Notes on property condition
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_report
+      label: Date of report
+      hint: Date the opinion was prepared
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: broker_name
+      label: Broker name
+      hint: Name of reporting broker
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: broker_contact
+      label: Broker contact email
+      hint: Contact email for clarifications
+      type: email
+      options: []
+      required: false

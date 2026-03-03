@@ -1,0 +1,126 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Airbnb Check In Form
+    pages:
+    - id: 1
+      name: reservation_info_header
+      label: -- Reservation Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reservation_code
+      label: Reservation Code
+      hint: From booking confirmation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_name
+      label: Property Name / ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: guest_name
+      label: Guest Name
+      hint: Primary Guest
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: check_in_header
+      label: -- Check-In Process --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: check_in_time
+      label: Actual Check-In Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: key_handover
+      label: Key Handover Method
+      hint: How did you get in?
+      type: select_one
+      options:
+      - Smart Lock Code
+      - Lockbox
+      - In-Person Host
+      - Front Desk
+      required: true
+    - id: 8
+      name: id_verification
+      label: ID Verification Number
+      hint: Last 4 digits of Passport/DL
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: welcome_guide
+      label: Welcome Guide Received?
+      hint: Did you find the house manual?
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 10
+      name: property_condition_header
+      label: -- Property Condition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: condition
+      label: Condition on Arrival
+      hint: Is everything clean?
+      type: select_one
+      options:
+      - Perfectly Clean
+      - Satisfactory
+      - Needs Cleaning
+      - Damaged Items Found
+      required: true
+    - id: 12
+      name: damage_report
+      label: Report Damage / Issues
+      hint: Describe any problems immediately
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: wifi_code
+      label: Need WiFi Code?
+      hint: If not found in guide
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: false
+    - id: 14
+      name: feedback
+      label: Initial Feedback
+      hint: Any first impressions?
+      type: text
+      options: []
+      required: false

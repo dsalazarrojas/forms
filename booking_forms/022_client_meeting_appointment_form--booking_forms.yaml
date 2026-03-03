@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Meeting Appointment Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_appointment
+      label: -- Appointment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: meeting_purpose
+      label: What is the primary purpose of this meeting?
+      hint: null
+      type: select_one
+      options:
+      - Consultation
+      - Project Review
+      - Support
+      - Sales
+      - Other
+      required: true
+    - id: 7
+      name: preferred_date
+      label: Preferred Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: preferred_time
+      label: Preferred Time Slot
+      hint: null
+      type: select_one
+      options:
+      - 9:00 AM
+      - 10:00 AM
+      - 11:00 AM
+      - 1:00 PM
+      - 2:00 PM
+      - 3:00 PM
+      - 4:00 PM
+      required: true
+    - id: 9
+      name: meeting_format
+      label: Preferred Meeting Format
+      hint: null
+      type: select_one
+      options:
+      - In-Person
+      - Video Call
+      - Phone Call
+      required: true
+    - id: 10
+      name: meeting_location
+      label: Meeting Location or Video Link
+      hint: Leave blank if you would like us to provide the link
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: estimated_duration
+      label: Estimated Duration
+      hint: null
+      type: select_one
+      options:
+      - 15 minutes
+      - 30 minutes
+      - 45 minutes
+      - 60 minutes
+      required: false
+    - id: 12
+      name: topics_to_cover
+      label: Specific topics or questions to be covered
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: cancellation_policy_ack
+      label: I understand that meeting cancellations require at least 24-hour notice
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I agree
+      required: true

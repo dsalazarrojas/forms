@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Task Management Form
+    pages:
+    - id: 1
+      name: project_task_form
+      label: Form title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_task_form_project_name
+      label: Project name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_task_form_project_manager
+      label: Project manager
+      hint: Enter project manager name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_task_form_project_status
+      label: Project status
+      hint: Select project status
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: project_task_form_project_status_options
+      label: Project-Task-Form-Project Status Options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_task_form_project_start_date
+      label: Project start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_task_form_project_end_date
+      label: Project end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: project_task_form_project_start_time
+      label: Project start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: project_task_form_project_end_time
+      label: Project end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: project_task_form_project_description
+      label: Project description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_task_form_project_priority
+      label: Project priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: project_task_form_project_priority_options
+      label: Project-Task-Form-Project Priority Options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_task_form_assignee
+      label: Assignee
+      hint: null
+      type: text
+      options: []
+      required: false

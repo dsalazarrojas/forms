@@ -1,0 +1,496 @@
+inputSchema:
+  type: object
+  properties:
+    title: Amusement Park Event Space Rental Application
+    pages:
+    - id: 1
+      name: section_event_info
+      label: -- Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Corporate event
+      - Private party
+      - Birthday celebration
+      - Wedding reception
+      - School group
+      - Team building
+      - Social gathering
+      - Fundraiser
+      - Other
+      required: true
+    - id: 4
+      name: section_client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_name
+      label: Company/Organization Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email Address
+      hint: For correspondence
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: address
+      label: Address
+      hint: Full address
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_event_details
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: event_date
+      label: Requested Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: alternative_dates
+      label: Alternative Dates
+      hint: If first choice unavailable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: event_end_time
+      label: Event End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: setup_time_needed
+      label: Setup Time Needed
+      hint: Before event
+      type: select_one
+      options:
+      - 1 hour
+      - 2 hours
+      - 3 hours
+      - 4 hours
+      - Full day before
+      required: false
+    - id: 17
+      name: expected_guests
+      label: Expected Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: section_venue_selection
+      label: -- Venue Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: preferred_venue
+      label: Preferred Event Space
+      hint: null
+      type: select_one
+      options:
+      - Indoor pavilion
+      - Outdoor garden
+      - Lakeside area
+      - Rooftop terrace
+      - Main plaza
+      - Private room
+      - Full park buyout
+      - No preference
+      required: true
+    - id: 20
+      name: backup_venue
+      label: Backup Venue Choice
+      hint: In case of weather
+      type: select_one
+      options:
+      - Indoor pavilion
+      - Covered area
+      - Private room
+      - No preference
+      required: false
+    - id: 21
+      name: section_catering
+      label: -- Catering Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: catering_needed
+      label: Is Catering Needed
+      hint: null
+      type: select_one
+      options:
+      - Yes - Full service
+      - Yes - Partial service
+      - No - Outside catering
+      - No - No catering
+      required: true
+    - id: 23
+      name: meal_type
+      label: Meal Type
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Breakfast
+      - Lunch
+      - Dinner
+      - Appetizers
+      - Desserts
+      - Snacks
+      - Beverages
+      - None
+      required: false
+    - id: 24
+      name: menu_preferences
+      label: Menu Preferences
+      hint: Any specific requests
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Vegetarian, allergies, etc.
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: section_entertainment
+      label: -- Entertainment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: park_access
+      label: Park Access for Guests
+      hint: null
+      type: select_one
+      options:
+      - Full park access included
+      - Limited access
+      - No park access
+      - Discounted tickets
+      required: false
+    - id: 28
+      name: entertainment_requested
+      label: Entertainment Requests
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Live music
+      - DJ
+      - Character appearances
+      - Fireworks
+      - Shows
+      - Rides access
+      - Games
+      - Photo booth
+      - None
+      required: false
+    - id: 29
+      name: av_equipment
+      label: AV Equipment Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Microphone
+      - Speakers
+      - Projector
+      - Screen
+      - Lighting
+      - Stage
+      - Dance floor
+      - None
+      required: false
+    - id: 30
+      name: section_decorations
+      label: -- Decorations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: decoration_package
+      label: Decoration Package
+      hint: null
+      type: select_one
+      options:
+      - Basic package
+      - Standard package
+      - Premium package
+      - Custom decorations
+      - No decorations needed
+      required: false
+    - id: 32
+      name: theme
+      label: Event Theme
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: color_scheme
+      label: Color Scheme
+      hint: Preferred colors
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: section_additional_services
+      label: -- Additional Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: additional_services
+      label: Additional Services Requested
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Security
+      - Valet parking
+      - Coat check
+      - Event coordinator
+      - Photography
+      - Videography
+      - Transportation
+      - Accommodation
+      - Other
+      required: false
+    - id: 36
+      name: section_budget
+      label: -- Budget --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: budget_range
+      label: Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Under $5,000
+      - $5,000 - $10,000
+      - $10,000 - $25,000
+      - $25,000 - $50,000
+      - $50,000 - $100,000
+      - Over $100,000
+      required: false
+    - id: 38
+      name: deposit_ready
+      label: Ready to Pay Deposit
+      hint: null
+      type: select_one
+      options:
+      - Yes - Ready now
+      - Yes - Within week
+      - Need quote first
+      - Need approval
+      required: false
+    - id: 39
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 40
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Bank transfer
+      - Check
+      - Invoice
+      - Other
+      required: false
+    - id: 41
+      name: billing_address
+      label: Billing Address
+      hint: If different
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: section_policies
+      label: -- Policies and Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 43
+      name: cancellation_policy
+      label: Cancellation Policy Acknowledgment
+      hint: I understand the cancellation policy
+      type: select_one
+      options:
+      - I understand and accept
+      - Other
+      required: true
+    - id: 44
+      name: deposit_policy
+      label: Deposit Policy Acknowledgment
+      hint: Deposit is non-refundable
+      type: select_one
+      options:
+      - I understand deposit is non-refundable
+      - Other
+      required: true
+    - id: 45
+      name: weather_policy
+      label: Weather Policy Acknowledgment
+      hint: For outdoor events
+      type: select_one
+      options:
+      - I understand weather policies
+      - Not applicable
+      required: false
+    - id: 46
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 47
+      name: special_requests
+      label: Special Requests
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: how_heard_about
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Website
+      - Social media
+      - Referral
+      - Advertisement
+      - Previous event
+      - Other
+      required: false
+    - id: 50
+      name: section_authorization
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 51
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 52
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 53
+      name: section_office_use
+      label: -- For Office Use Only --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 54
+      name: application_status
+      label: Application Status
+      hint: null
+      type: select_one
+      options:
+      - Received
+      - Under review
+      - Approved
+      - Denied
+      - Pending information
+      required: false
+    - id: 55
+      name: assigned_coordinator
+      label: Assigned Event Coordinator
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cannabis Customer Registration Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: Customer Information
+      hint: Please provide your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be 21 or older to purchase
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: For account notifications and promotions
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: identification
+      label: Identification Details
+      hint: Government-issued ID information
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: id_type
+      label: ID Type
+      hint: Type of government-issued identification
+      type: select_one
+      options:
+      - Driver's License
+      - State ID Card
+      - Passport
+      - Military ID
+      required: true
+    - id: 9
+      name: id_number
+      label: ID Number
+      hint: Identification number from your ID
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: id_state_issued
+      label: State Issued
+      hint: State that issued your ID
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: id_expiration
+      label: ID Expiration Date
+      hint: Must be currently valid
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: address_information
+      label: Address Information
+      hint: Your current residential address
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: street_address
+      label: Street Address
+      hint: Your street address
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: state
+      label: State
+      hint: Your state of residence
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP/postal code
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: preferences
+      label: Product Preferences
+      hint: Help us serve you better
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: preferred_product_types
+      label: Preferred Product Types
+      hint: Select all that interest you
+      type: select_multiple
+      options:
+      - Flower
+      - Edibles
+      - Concentrates
+      - Vapes
+      - Tinctures
+      - Topicals
+      - Pre-rolls
+      - Accessories
+      required: false
+    - id: 19
+      name: experience_level
+      label: Cannabis Experience Level
+      hint: Your familiarity with cannabis products
+      type: select_one
+      options:
+      - First-time user
+      - Beginner
+      - Intermediate
+      - Experienced
+      - Expert
+      required: true
+    - id: 20
+      name: medical_recommendation
+      label: Medical Recommendation
+      hint: Do you have a medical cannabis recommendation?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: marketing_consent
+      label: Marketing Consent
+      hint: Would you like to receive promotions?
+      type: select_one
+      options:
+      - Yes - email and SMS
+      - Email only
+      - SMS only
+      - No thanks
+      required: true
+    - id: 22
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Your referral source
+      type: select_one
+      options:
+      - Friend/Family
+      - Social Media
+      - Online Search
+      - Advertisement
+      - Walk-by
+      - Other
+      required: false
+    - id: 23
+      name: terms_agreement
+      label: Terms and Conditions
+      hint: Please read and agree to our terms
+      type: select_one
+      options:
+      - I agree to the terms and conditions
+      - I do not agree
+      required: true
+    - id: 24
+      name: signature_date
+      label: Signature Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

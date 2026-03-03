@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Incident Escalation Report
+    pages:
+    - id: 1
+      name: incident_escalation_report_form
+      label: Incident Escalation Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_id
+      label: incident id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_of_incident
+      label: date of incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_incident
+      label: time of incident
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_type
+      label: incident type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: incident_category
+      label: incident category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: incident_status
+      label: incident status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: escalation_date
+      label: escalation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: escalation_time
+      label: escalation time
+      hint: null
+      type: time
+      options: []
+      required: false

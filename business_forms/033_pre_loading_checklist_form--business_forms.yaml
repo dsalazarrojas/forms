@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Loading Checklist Form
+    pages:
+    - id: 1
+      name: confirm_arrival
+      label: Confirm Arrival
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: confirm_equipment
+      label: Is The Vehicle Equipped
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: confirm_location
+      label: Location Is Correct
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: confirm_status
+      label: Confirm Status
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: confirm_time
+      label: Confirm Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: confirm_phone
+      label: Phone
+      hint: Enter phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: confirm_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: confirm_email
+      label: Email
+      hint: Enter email address
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: confirm_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: confirm_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: CORRECT Deliver Logic Time To Eat Delivery Grocery Delivery Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: delivery_address
+      label: Delivery Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: delivery_city
+      label: City
+      hint: City for delivery
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: delivery_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: delivery_zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: Gate codes building access etc
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: preferred_delivery_date
+      label: Preferred Delivery Date
+      hint: When should we deliver
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: preferred_delivery_time
+      label: Preferred Delivery Time
+      hint: Select time window
+      type: select_one
+      options:
+      - Morning - 8 AM to 12 PM
+      - Afternoon - 12 PM to 4 PM
+      - Evening - 4 PM to 8 PM
+      - Any Time
+      required: true
+    - id: 11
+      name: time_to_eat_preference
+      label: Time To Eat Preference
+      hint: When do you plan to eat
+      type: select_one
+      options:
+      - Immediate consumption
+      - Within 2 hours
+      - Within 24 hours
+      - Within 3 days
+      - Within a week
+      required: true
+    - id: 12
+      name: grocery_category
+      label: Grocery Categories Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fresh Produce
+      - Meat and Poultry
+      - Seafood
+      - Dairy and Eggs
+      - Bakery
+      - Frozen Foods
+      - Pantry Staples
+      - Beverages
+      - Snacks
+      - Prepared Meals
+      required: true
+    - id: 13
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any allergies or restrictions
+      type: select_multiple
+      options:
+      - None
+      - Gluten-free
+      - Dairy-free
+      - Nut allergies
+      - Shellfish allergies
+      - Vegan
+      - Vegetarian
+      - Kosher
+      - Halal
+      - Low sodium
+      - Diabetic-friendly
+      required: true
+    - id: 14
+      name: grocery_list
+      label: Grocery List
+      hint: List specific items needed
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: quantity_estimate
+      label: Quantity Estimate
+      hint: How many people to feed
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: budget_range
+      label: Budget Range
+      hint: Estimated spending range
+      type: select_one
+      options:
+      - Under $50
+      - $50 to $100
+      - $100 to $200
+      - $200 to $500
+      - Over $500
+      required: true
+    - id: 17
+      name: brand_preferences
+      label: Brand Preferences
+      hint: Any specific brands preferred
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: substitution_allowed
+      label: Substitutions Allowed
+      hint: If items unavailable
+      type: select_one
+      options:
+      - Yes - Shopper discretion
+      - Yes - Call first
+      - No substitutions
+      required: true
+    - id: 19
+      name: delivery_type
+      label: Delivery Type
+      hint: How should we deliver
+      type: select_one
+      options:
+      - Contactless delivery
+      - Hand delivery
+      - Leave at door
+      - Meet at entrance
+      required: true
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Digital Wallet
+      - Cash on Delivery
+      - SNAP EBT
+      required: true
+    - id: 21
+      name: tip_amount
+      label: Tip Amount
+      hint: Optional gratuity
+      type: select_one
+      options:
+      - No tip
+      - 10 percent
+      - 15 percent
+      - 20 percent
+      - Custom amount
+      required: false
+    - id: 22
+      name: special_occasion
+      label: Special Occasion
+      hint: Is this for a special event
+      type: select_one
+      options:
+      - No - Regular order
+      - Birthday
+      - Holiday
+      - Party or gathering
+      - Other
+      required: false
+    - id: 23
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Recovery Planning Application Form
+    pages:
+    - id: 1
+      name: section_business_info
+      label: -- Business Information --
+      type: note
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Official business name
+      type: text
+      required: true
+    - id: 3
+      name: business_registration_number
+      label: Business Registration Number
+      hint: Unique business identifier
+      type: text
+      required: false
+    - id: 4
+      name: business_type
+      label: Type of Business
+      hint: Industry or sector
+      type: text
+      required: true
+    - id: 5
+      name: years_operating
+      label: Years in Operation
+      hint: How long has the business been operating
+      type: number
+      required: true
+    - id: 6
+      name: section_contact
+      label: -- Contact Information --
+      type: note
+      required: false
+    - id: 7
+      name: contact_name
+      label: Contact Person Name
+      hint: Primary contact for application
+      type: text
+      required: true
+    - id: 8
+      name: contact_title
+      label: Title or Position
+      hint: Role in the business
+      type: text
+      required: true
+    - id: 9
+      name: contact_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      required: true
+    - id: 11
+      name: business_address
+      label: Business Address
+      hint: Full address of business location
+      type: text
+      required: true
+    - id: 12
+      name: section_impact
+      label: -- Impact Assessment --
+      type: note
+      required: false
+    - id: 13
+      name: impact_event
+      label: Type of Impact or Disruption
+      hint: What event affected your business
+      type: select_one
+      options:
+      - Natural Disaster
+      - Economic Crisis
+      - Pandemic
+      - Supply Chain Disruption
+      - Infrastructure Damage
+      - Other Emergency
+      required: true
+    - id: 14
+      name: impact_date
+      label: Date of Impact
+      hint: When did the disruption occur
+      type: date
+      required: true
+    - id: 15
+      name: impact_description
+      label: Description of Impact
+      hint: How was your business affected
+      type: text
+      required: true
+    - id: 16
+      name: financial_impact
+      label: Estimated Financial Impact
+      hint: In dollars
+      type: number
+      required: false
+    - id: 17
+      name: section_support_needs
+      label: -- Support Needs --
+      type: note
+      required: false
+    - id: 18
+      name: support_types_needed
+      label: Types of Support Needed
+      hint: Select all applicable support types
+      type: select_multiple
+      options:
+      - Financial Assistance
+      - Business Consulting
+      - Marketing Support
+      - Employee Assistance
+      - Infrastructure Support
+      - Legal Guidance
+      - Regulatory Relief
+      required: true
+    - id: 19
+      name: immediate_needs
+      label: Immediate Recovery Needs
+      hint: What do you need right away
+      type: text
+      required: true
+    - id: 20
+      name: recovery_timeline
+      label: Expected Recovery Timeline
+      hint: When do you expect to fully recover
+      type: select_one
+      options:
+      - Less than 3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - 2+ years
+      - Uncertain
+      required: false
+    - id: 21
+      name: section_recovery_plan
+      label: -- Recovery Plan --
+      type: note
+      required: false
+    - id: 22
+      name: recovery_strategy
+      label: Recovery Strategy
+      hint: Your plan to recover and rebuild
+      type: text
+      required: true
+    - id: 23
+      name: employee_status
+      label: Current Employee Status
+      hint: Number of active vs. laid off employees
+      type: text
+      required: false
+    - id: 24
+      name: additional_info
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      required: false

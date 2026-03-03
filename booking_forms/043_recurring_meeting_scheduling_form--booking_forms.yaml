@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recurring Meeting Scheduling Form
+    pages:
+    - id: 1
+      name: meeting_frequency
+      label: Meeting Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Annually
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: recurring_start_time
+      label: Recurring Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: recurring_end_time
+      label: Recurring End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: recurring_frequency
+      label: Recurring Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Annually
+      required: false
+    - id: 7
+      name: recurring_until
+      label: Recurring Until
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - After 1 occurrence
+      - After 2 occurrences
+      - After 3 occurrences
+      - After 4 occurrences
+      - After 5 occurrences
+      required: false
+    - id: 8
+      name: repeat_by
+      label: Repeat By
+      hint: null
+      type: select_one
+      options:
+      - Day
+      - Week
+      - Month
+      - Year
+      required: true
+    - id: 9
+      name: repeat_every
+      label: Repeat Every
+      hint: null
+      type: select_one
+      options:
+      - Day
+      - Week
+      - Month
+      - Year
+      required: false
+    - id: 10
+      name: repeat_every_frequency
+      label: Repeat Every Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: recurring_meeting_name
+      label: Recurring Meeting Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: recurring_meeting_description
+      label: Recurring Meeting Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: recurring_meeting_location
+      label: Recurring Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: recurring_meeting_details
+      label: Recurring Meeting Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: recurring_meeting_time_zone
+      label: Recurring Meeting Time Zone
+      hint: null
+      type: select_one
+      options:
+      - Australia/Canberra
+      - America/New York
+      - Asia/Kolkata
+      - Europe/London
+      - Africa/Johannesburg
+      required: false
+    - id: 16
+      name: recurring_meeting_organizers
+      label: Recurring Meeting Organizers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: recurring_meeting_attendees
+      label: Recurring Meeting Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: recurring_meeting_recurring_meeting_id
+      label: Recurring Meeting ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: recurring_meeting_calendar
+      label: Recurring Meeting Calendar
+      hint: null
+      type: select_one
+      options:
+      - Google Calendar
+      - iCal
+      - Office 365
+      - Other
+      required: false
+    - id: 20
+      name: recurring_meeting_ics_id
+      label: Recurring Meeting iCal ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: recurring_meeting_ics_url
+      label: Recurring Meeting iCS URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: recurring_meeting_calendar_id
+      label: Recurring Meeting Calendar ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: recurring_meeting_recurring_meeting_link
+      label: Recurring Meeting Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: recurring_meeting_recurring_meeting_url
+      label: Recurring Meeting URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: recurring_meeting_notes
+      label: Recurring Meeting Notes
+      hint: null
+      type: note
+      options: []
+      required: false

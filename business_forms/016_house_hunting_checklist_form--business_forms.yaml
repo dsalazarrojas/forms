@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: house-hunting-checklist-form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: buyer_preferences
+      label: house hunting preferences
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: location_details
+      label: location details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: budget_range
+      label: Budget Range
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: home_type
+      label: Home Type
+      hint: null
+      type: select_multiple
+      options:
+      - single
+      - multi-unit
+      - condo
+      - townhouse
+      required: false
+    - id: 6
+      name: home_size
+      label: Home Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: move_in_date
+      label: Move-in Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: move_out_date
+      label: Move-out Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: broker_services
+      label: Broker Services
+      hint: null
+      type: select_one
+      options:
+      - full-service
+      - limited-service
+      - none
+      required: false
+    - id: 10
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - phone
+      - email
+      - text
+      required: false
+    - id: 11
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - english
+      - spanish
+      - french
+      required: false
+    - id: 12
+      name: home_features
+      label: Home Features
+      hint: null
+      type: select_multiple
+      options:
+      - yard
+      - pool
+      - parking
+      - security-system
+      required: false
+    - id: 13
+      name: search_area
+      label: Search Area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: search_radius
+      label: Search Radius
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: contact_phone_alt
+      label: Contact Phone (Alt)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 22
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: client_phone_alt
+      label: Client Phone (Alt)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: client_relationship
+      label: Client Relationship
+      hint: null
+      type: select_one
+      options:
+      - friend
+      - family
+      - colleague
+      - business associate
+      required: true
+    - id: 26
+      name: broker_name
+      label: Broker Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: broker_phone
+      label: Broker Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: broker_email
+      label: Broker Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 29
+      name: broker_address
+      label: Broker Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: client_broker_relation
+      label: Client-Broker Relation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: broker_notes
+      label: Broker Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,218 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CMM Alignment Assessment Quiz
+    pages:
+      - id: 1
+        name: participant_name
+        label: Participant Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: Work email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: organization
+        label: Organization
+        hint: Company name
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: role
+        label: Your Role
+        hint: Select your position
+        type: select_one
+        options:
+          - Project Manager
+          - Software Developer
+          - Quality Assurance
+          - Team Lead
+          - Senior Management
+          - Process Improvement
+          - Other
+        required: true
+      - id: 5
+        name: department
+        label: Department
+        hint: Your department
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: quiz_instructions
+        label: Quiz Instructions
+        hint: This quiz assesses your organization alignment with CMM levels. Answer honestly based on current practices.
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: question_1
+        label: Question 1 - Are software processes documented
+        hint: Select the best description
+        type: select_one
+        options:
+          - Yes comprehensively documented
+          - Partially documented
+          - Minimally documented
+          - Not documented
+          - Unsure
+        required: true
+      - id: 8
+        name: question_2
+        label: Question 2 - Is there a standard development process
+        hint: Across all projects
+        type: select_one
+        options:
+          - Yes organization-wide standard
+          - Yes but varies by team
+          - Some teams have standards
+          - No standard process
+          - Unsure
+        required: true
+      - id: 9
+        name: question_3
+        label: Question 3 - How are project estimates created
+        hint: Estimation methodology
+        type: select_one
+        options:
+          - Historical data and models
+          - Expert judgment with data
+          - Expert judgment only
+          - Rough guesses
+          - No estimates made
+        required: true
+      - id: 10
+        name: question_4
+        label: Question 4 - Is quality assurance integrated
+        hint: QA in your process
+        type: select_one
+        options:
+          - Yes formal QA throughout
+          - Yes but informal
+          - Only at end of projects
+          - Rarely performed
+          - No QA process
+        required: true
+      - id: 11
+        name: question_5
+        label: Question 5 - How is risk managed
+        hint: Risk management approach
+        type: select_one
+        options:
+          - Formal risk management process
+          - Informal risk tracking
+          - Addressed when issues arise
+          - Minimal risk consideration
+          - No risk management
+        required: true
+      - id: 12
+        name: question_6
+        label: Question 6 - Are lessons learned captured
+        hint: Organizational learning
+        type: select_one
+        options:
+          - Yes systematically captured
+          - Yes but inconsistently
+          - Sometimes captured
+          - Rarely captured
+          - Never captured
+        required: true
+      - id: 13
+        name: question_7
+        label: Question 7 - How is training provided
+        hint: Employee development
+        type: select_one
+        options:
+          - Formal training program
+          - On-the-job training
+          - Self-directed learning
+          - Minimal training
+          - No training program
+        required: true
+      - id: 14
+        name: question_8
+        label: Question 8 - Are metrics collected and used
+        hint: Measurement practices
+        type: select_one
+        options:
+          - Yes comprehensive metrics
+          - Some key metrics
+          - Basic metrics only
+          - Minimal measurement
+          - No metrics collected
+        required: true
+      - id: 15
+        name: question_9
+        label: Question 9 - How are changes managed
+        hint: Change control process
+        type: select_one
+        options:
+          - Formal change control board
+          - Documented change process
+          - Informal change tracking
+          - Ad-hoc changes
+          - No change management
+        required: true
+      - id: 16
+        name: question_10
+        label: Question 10 - Is process improvement ongoing
+        hint: Continuous improvement
+        type: select_one
+        options:
+          - Yes dedicated improvement team
+          - Yes regular initiatives
+          - Occasionally addressed
+          - Rarely considered
+          - No improvement efforts
+        required: true
+      - id: 17
+        name: perceived_maturity
+        label: Perceived Maturity Level
+        hint: What level do you think you are
+        type: select_one
+        options:
+          - Level 1 - Initial
+          - Level 2 - Managed
+          - Level 3 - Defined
+          - Level 4 - Quantitatively Managed
+          - Level 5 - Optimizing
+          - Unsure
+        required: true
+      - id: 18
+        name: improvement_priority
+        label: Priority Area for Improvement
+        hint: Where should you focus first
+        type: select_one
+        options:
+          - Process Documentation
+          - Quality Assurance
+          - Project Management
+          - Training and Development
+          - Metrics and Measurement
+          - Change Management
+        required: true
+      - id: 19
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other observations
+        type: text
+        options: []
+        required: false

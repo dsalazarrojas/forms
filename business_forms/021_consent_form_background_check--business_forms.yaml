@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consent Form Background Check
+    pages:
+    - id: 1
+      name: section_applicant
+      label: -- Applicant Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Full Legal Name
+      hint: First, Middle, Last
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: other_names_used
+      label: Other Names Used (Maiden, Aliases)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: ssn
+      label: Social Security Number
+      hint: Required for accurate identification
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: driver_license_number
+      label: Driver's License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: dl_state
+      label: Driver's License Issuing State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_address_history
+      label: -- Address History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: current_address
+      label: Current Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: previous_addresses
+      label: Previous Addresses (Last 7 Years)
+      hint: List city and state for each
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_authorization
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: background_check_consent
+      label: I authorize the investigation of my background for employment purposes
+      hint: Includes criminal, credit, and employment history
+      type: select_one
+      options:
+      - I authorize
+      - Other
+      required: true
+    - id: 13
+      name: disclosure_acknowledgment
+      label: I acknowledge receipt of the Disclosure regarding Background Investigation
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 14
+      name: fcra_summary_receipt
+      label: I have received a copy of the Summary of Your Rights under the FCRA
+      hint: null
+      type: select_one
+      options:
+      - true
+      - 'False'
+      required: true
+    - id: 15
+      name: digital_signature
+      label: Applicant Electronic Signature (Type Full Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: signature_date
+      label: Date of Authorization
+      hint: null
+      type: date
+      options: []
+      required: true

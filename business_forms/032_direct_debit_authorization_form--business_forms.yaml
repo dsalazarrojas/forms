@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: direct_debit_authorization_form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: authorized_person
+      label: Authorized Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: billing_name
+      label: Billing Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: bank_name
+      label: Bank Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: bank_bic
+      label: BIC
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: iban
+      label: IBAN
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: account_number
+      label: Account Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: sort_code
+      label: Sort Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: account_holder
+      label: Account Holder
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: direct_debit
+      label: Direct Debit
+      hint: null
+      type: select_one
+      options:
+      - Direct Debit
+      - Credit
+      - Debit
+      - Cheque
+      required: true
+    - id: 15
+      name: frequency
+      label: Frequency
+      hint: Select all frequencies that apply
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Biweekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 16
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: frequency_start_date
+      label: Frequency Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: frequency_end_date
+      label: Frequency End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: bank_bic_iban
+      label: BIC/IBAN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: bic
+      label: BIC
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: iban
+      label: IBAN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: account_number
+      label: Account Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: sort_code
+      label: Sort Code
+      hint: null
+      type: text
+      options: []
+      required: false

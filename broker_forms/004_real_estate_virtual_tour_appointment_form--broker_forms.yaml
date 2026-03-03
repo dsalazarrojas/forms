@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Virtual Tour Appointment Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_interest
+      label: Client Interest
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Land Buying''}'
+      - '{''option'': ''Land Selling''}'
+      - '{''option'': ''Other''}'
+      required: true
+    - id: 5
+      name: tour_date
+      label: Tour Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: tour_time
+      label: Tour Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: agent_contact_info
+      label: Agent Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false

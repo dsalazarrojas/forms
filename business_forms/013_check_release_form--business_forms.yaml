@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Check Release Form
+    pages:
+    - id: 1
+      name: section_bank_info
+      label: -- Bank Internal Tracking --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: processing_employee_name
+      label: Processing Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: processing_employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: processing_date
+      label: Processing Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_check_details
+      label: -- Check Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: check_serial_number
+      label: Check Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: check_face_amount
+      label: Check Amount ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: payer_legal_name
+      label: Payer Legal Name
+      hint: Person or entity who wrote the check
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: payee_legal_name
+      label: Payee Legal Name
+      hint: Person or entity receiving the check
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_verification
+      label: -- Verification and Deposit --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: id_verification_type
+      label: Identification Method Used
+      hint: null
+      type: select_one
+      options:
+      - Driver License
+      - Passport
+      - State ID
+      - Existing Customer Database
+      required: true
+    - id: 12
+      name: target_account_number
+      label: Deposit Account Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: funds_hold_applied
+      label: Funds Hold Applied
+      hint: null
+      type: select_one
+      options:
+      - No Hold
+      - Standard (2 Business Days)
+      - Extended (5+ Business Days)
+      required: true
+    - id: 14
+      name: section_final_approval
+      label: -- Final Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: approval_status_check
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved for Deposit
+      - Flagged for Review
+      - Rejected
+      required: true
+    - id: 16
+      name: manager_override_required
+      label: Was a manager override required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: internal_audit_notes
+      label: Internal Audit Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: digital_signature_ack
+      label: Digital Acknowledgment of Check Release
+      hint: null
+      type: select_one
+      options:
+      - Processed and Verified
+      - Other
+      required: true

@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book A Limo Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: pickup_time
+      label: Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: pickup_location
+      label: Pickup Location
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: dropoff_location
+      label: Dropoff Location
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: service_type
+      label: Type of Service
+      hint: null
+      type: select_one
+      options:
+      - Airport Transfer
+      - Corporate Event
+      - Wedding
+      - Party - Night Out
+      - Concert or Show
+      - Sporting Event
+      - Point-to-Point Transportation
+      - Other
+      required: true
+    - id: 10
+      name: vehicle_type
+      label: Vehicle Type Preferred
+      hint: null
+      type: select_one
+      options:
+      - Standard Limousine
+      - Stretch Limousine
+      - SUV Limo
+      - Hummer Limo
+      - Party Bus
+      - Sedan
+      - Premium Sedan
+      - Other
+      required: true
+    - id: 11
+      name: passenger_count
+      label: Number of Passengers
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: trip_duration_estimate
+      label: Estimated Trip Duration
+      hint: Hours needed for the service
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: additional_stops
+      label: Additional Stops Required
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes - One Stop
+      - Yes - Multiple Stops
+      required: true
+    - id: 14
+      name: stops_detail
+      label: Details of Additional Stops
+      hint: Locations and duration
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: special_requests
+      label: Special Requests
+      hint: Decorations, amenities, music, etc
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: ADA accommodations
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: passenger_amenities
+      label: Desired Amenities
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Champagne
+      - Beverages
+      - Music System
+      - Mood Lighting
+      - Refreshments
+      - WiFi
+      - Phone Chargers
+      - Other
+      required: false
+    - id: 18
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Bank Transfer
+      - Check
+      required: true
+    - id: 19
+      name: deposit_amount
+      label: Deposit Amount
+      hint: If required
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: promotional_code
+      label: Promotional or Discount Code
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: parking_instructions
+      label: Special Parking Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_information
+      label: Emergency Contact Information
+      hint: Phone number during service
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: special_occasions
+      label: Special Occasions or Celebrations
+      hint: Birthday, wedding, anniversary
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: booking_confirmation
+      label: I confirm the above booking details
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - I Need to Make Changes
+      required: true

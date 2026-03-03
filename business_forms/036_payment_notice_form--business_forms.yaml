@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payment Notice Form
+    pages:
+    - id: 1
+      name: payment_notice_form
+      label: Payment Notice
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tenant_name
+      label: tenant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: notice_type
+      label: Notice Type
+      hint: null
+      type: select_one
+      options:
+      - Overdue Rent
+      - Past Due Rent
+      - Other
+      required: false
+    - id: 4
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Online Payment
+      - In Person
+      - By Mail
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false

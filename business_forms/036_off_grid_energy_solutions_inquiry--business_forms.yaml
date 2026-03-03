@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Off Grid Energy Solutions Inquiry
+    pages:
+    - id: 1
+      name: system_type
+      label: goals_system_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: energy_source
+      label: energy_source_
+      hint: null
+      type: select_one
+      options:
+      - Solar
+      - Wind
+      - Hydro
+      - Biomass
+      - Other
+      required: false
+    - id: 4
+      name: system_size
+      label: system_size_
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: capacity
+      label: capacity_
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: budget
+      label: budget_
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: system_location
+      label: system_location_
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: installation_type
+      label: installation_type_
+      hint: null
+      type: select_one
+      options:
+      - Grid-Tied
+      - Off-Grid
+      - Net-Metered
+      - Other
+      required: false
+    - id: 9
+      name: site_visit
+      label: site_visit_
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: site_access
+      label: site_access_
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: owner_type
+      label: owner_type_
+      hint: null
+      type: select_one
+      options:
+      - Owner
+      - Renter
+      - Other
+      - Company
+      required: false
+    - id: 12
+      name: site_access_prophets
+      label: site_access_prophets_
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: project_details
+      label: project_details_
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: system_size_unit
+      label: system_size_unit_
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: energy_tariff
+      label: energy_tariff_
+      hint: null
+      type: select_one
+      options:
+      - '{''Tier 1'': ''Low''}'
+      - '{''Tier 2'': ''Medium''}'
+      - '{''Tier 3'': ''High''}'
+      required: false
+    - id: 16
+      name: contact_name
+      label: contact_name_
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_email
+      label: contact_email_
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: contact_phone
+      label: contact_phone_
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_note
+      label: contact_note_
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: company
+      label: company_
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: job_title
+      label: job_title_
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: project_status
+      label: project_status_
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: project_status_reason
+      label: project_status_reason_
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: project_status
+      label: project_status_
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: site_visit_date
+      label: site_visit_date_
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,281 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aircraft Brokerage Agreement Form
+    pages:
+    - id: 1
+      name: agreement_date
+      label: Agreement Date
+      hint: Date of agreement
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: agreement_number
+      label: Agreement Number
+      hint: Reference number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: broker_name
+      label: Broker Name
+      hint: Full name or company
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: broker_license
+      label: Broker License Number
+      hint: License or certificate
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: broker_address
+      label: Broker Address
+      hint: Business address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: broker_phone
+      label: Broker Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: broker_email
+      label: Broker Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: client_name
+      label: Client Name
+      hint: Full name or company
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: client_type
+      label: Client Type
+      hint: Buyer or seller
+      type: select_one
+      options:
+      - Seller
+      - Buyer
+      - Both
+      required: true
+    - id: 10
+      name: client_address
+      label: Client Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: client_phone
+      label: Client Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: client_email
+      label: Client Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: aircraft_make
+      label: Aircraft Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: aircraft_model
+      label: Aircraft Model
+      hint: Model
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: aircraft_year
+      label: Aircraft Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: aircraft_registration
+      label: Aircraft Registration
+      hint: N-number or tail number
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: aircraft_serial
+      label: Aircraft Serial Number
+      hint: Manufacturer serial
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: listing_price
+      label: Listing Price (USD)
+      hint: Asking price
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: minimum_acceptable_price
+      label: Minimum Acceptable Price (USD)
+      hint: Lowest acceptable offer
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: commission_rate
+      label: Commission Rate (%)
+      hint: Broker commission percentage
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: commission_structure
+      label: Commission Structure
+      hint: How commission is calculated
+      type: select_one
+      options:
+      - Percentage of sale price
+      - Fixed fee
+      - Tiered structure
+      - Other
+      required: true
+    - id: 22
+      name: exclusive_agreement
+      label: Exclusive Agreement
+      hint: Is this exclusive
+      type: select_one
+      options:
+      - Yes, exclusive rights
+      - No, non-exclusive
+      required: true
+    - id: 23
+      name: agreement_duration
+      label: Agreement Duration
+      hint: Length of agreement
+      type: select_one
+      options:
+      - 30 days
+      - 60 days
+      - 90 days
+      - 6 months
+      - 1 year
+      - Until sold
+      required: true
+    - id: 24
+      name: start_date
+      label: Agreement Start Date
+      hint: When agreement begins
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: end_date
+      label: Agreement End Date
+      hint: When agreement expires
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: marketing_plan
+      label: Marketing Plan
+      hint: Describe marketing approach
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: advertising_budget
+      label: Advertising Budget (USD)
+      hint: Budget for marketing
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: showing_procedures
+      label: Showing Procedures
+      hint: How showings will be handled
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: disclosure_requirements
+      label: Disclosure Requirements
+      hint: Required disclosures
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: earnest_money
+      label: Earnest Money Requirements
+      hint: Deposit amount required
+      type: select_one
+      options:
+      - 1% of purchase price
+      - 5% of purchase price
+      - 10% of purchase price
+      - Fixed amount
+      - Negotiable
+      required: false
+    - id: 31
+      name: closing_costs
+      label: Closing Costs Responsibility
+      hint: Who pays closing costs
+      type: select_one
+      options:
+      - Buyer pays all
+      - Seller pays all
+      - Split equally
+      - Negotiated
+      required: true
+    - id: 32
+      name: termination_clause
+      label: Termination Conditions
+      hint: How agreement can be terminated
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: additional_terms
+      label: Additional Terms
+      hint: Any other terms
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: broker_signature
+      label: Broker Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: client_signature
+      label: Client Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: witness_signature
+      label: Witness Signature
+      hint: Optional witness
+      type: text
+      options: []
+      required: false

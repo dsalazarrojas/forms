@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: fleet_maintenance_check_out_form
+    pages:
+    - id: 1
+      name: vehicle_info
+      label: Vehicle Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_history
+      label: Service History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: maintenance_tasks
+      label: Maintenance Tasks
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''oil_change'', ''label'': ''Oil Change''}'
+      - '{''name'': ''tire_rotation'', ''label'': ''Tire Rotation''}'
+      - '{''name'': ''tire_inspection'', ''label'': ''Tire Inspection''}'
+      required: false
+    - id: 4
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''good'', ''label'': ''Good''}'
+      - '{''name'': ''bad'', ''label'': ''Bad''}'
+      - '{''name'': ''fair'', ''label'': ''Fair''}'
+      required: true
+    - id: 5
+      name: vehicle_condition_note
+      label: Vehicle Condition Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''completed'', ''label'': ''Completed''}'
+      - '{''name'': ''pending'', ''label'': ''Pending''}'
+      - '{''name'': ''cancelled'', ''label'': ''Cancelled''}'
+      required: false
+    - id: 7
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: technician_signature
+      label: Technician Signature
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True, ''label'': True}'
+      - '{''name'': False, ''label'': False}'
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_id
+      label: Vehicle Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''user1'', ''label'': ''User 1''}'
+      - '{''name'': ''user2'', ''label'': ''User 2''}'
+      required: false
+    - id: 12
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: actual_completion_date
+      label: Actual Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_number
+      label: Vehicle Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vin
+      label: VIN
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: mileage
+      label: Mileage
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: maintenance_frequency
+      label: Maintenance Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: service_notes
+      label: Service Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true

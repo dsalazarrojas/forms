@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flight Reservation Form
+    pages:
+    - id: 1
+      name: passenger_name
+      label: Passenger Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_date
+      label: travel_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: departure_city
+      label: departure_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: arrival_city
+      label: arrival_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: departure_time
+      label: departure_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: flight_number
+      label: flight_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: passenger_phone
+      label: passenger_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_agent
+      label: travel_agent
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''agent1''}'
+      - '{''value'': ''agent2''}'
+      - '{''value'': ''agent3''}'
+      required: false
+    - id: 9
+      name: flight_type
+      label: flight_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''economy''}'
+      - '{''value'': ''business''}'
+      - '{''value'': ''first''}'
+      required: false
+    - id: 10
+      name: seat_number
+      label: seat_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: travel_date_range
+      label: travel_date_range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: flight_details
+      label: flight_details
+      hint: null
+      type: text
+      options: []
+      required: false

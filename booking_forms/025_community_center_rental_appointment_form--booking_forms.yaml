@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Center Rental Appointment Form
+    pages:
+    - id: 1
+      name: section_renter_details_rent
+      label: -- Renter Details --
+      hint: Please fill out all required fields to request a rental appointment.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: renter_full_name_rent
+      label: Full Name of Renter or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: renter_email_rent
+      label: Email Address
+      hint: For confirmation and rental agreement
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: renter_phone_rent
+      label: Primary Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: renter_address_rent
+      label: Mailing Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_rental_details_rent
+      label: -- Rental Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: rental_event_type_rent
+      label: Type of Event or Activity
+      hint: null
+      type: select_one
+      options:
+      - Meeting
+      - Birthday Party
+      - Wedding Reception
+      - Workshop/Class
+      - Community Gathering
+      - Sports Event
+      - Other
+      required: true
+    - id: 8
+      name: requested_rental_space_rent
+      label: Which space are you interested in renting
+      hint: Select one
+      type: select_one
+      options:
+      - Main Hall
+      - Meeting Room A
+      - Meeting Room B
+      - Gymnasium
+      - Kitchen Facility
+      - Outdoor Pavilion
+      required: true
+    - id: 9
+      name: estimated_attendees_rent
+      label: Estimated Number of Attendees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: event_date_requested_rent
+      label: Date Requested for the Event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: event_start_time_requested_rent
+      label: Requested Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: event_end_time_requested_rent
+      label: Requested Event End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: section_appointment_scheduling_rent
+      label: -- Appointment Scheduling --
+      hint: Select a time for an initial rental consultation.
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: preferred_appointment_date_rent
+      label: Preferred Date for Appointment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: preferred_appointment_time_rent
+      label: Preferred Time for Appointment
+      hint: Select one
+      type: select_one
+      options:
+      - Morning (9am - 12pm)
+      - Afternoon (12pm - 4pm)
+      - Evening (4pm - 7pm)
+      required: true
+    - id: 16
+      name: appointment_format_preference_rent
+      label: Preferred Appointment Format
+      hint: null
+      type: select_one
+      options:
+      - In-Person Site Visit
+      - Virtual (Zoom/Teams)
+      - Phone Call
+      required: true
+    - id: 17
+      name: section_final_submission_rent
+      label: -- Final Submission and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: rental_rules_acknowledgment_rent
+      label: I acknowledge that this is a request only and does not guarantee a rental
+        booking
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge and agree
+      - Other
+      required: true
+    - id: 19
+      name: submission_date_final_rent
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: renter_signature_digital_rent
+      label: Digital Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: additional_comments_final_rent
+      label: Any Additional Comments or Requests
+      hint: null
+      type: text
+      options: []
+      required: false

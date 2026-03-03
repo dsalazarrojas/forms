@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Entry Form Crown Essential
+    pages:
+    - id: 1
+      name: section_header
+      label: -- New Client Entry --
+      hint: Use this form to capture basic client details for onboarding
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_first_name
+      label: client first name
+      hint: Given name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_last_name
+      label: client last name
+      hint: Family name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company
+      label: company or organization
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email address
+      hint: Business or personal email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: phone number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_required
+      label: service required
+      hint: Select the primary service requested
+      type: select_one
+      options:
+      - Consultation
+      - Implementation
+      - Support
+      - Training
+      required: true
+    - id: 8
+      name: referral_source
+      label: referral source
+      hint: How did the client hear about us
+      type: select_one
+      options:
+      - Web search
+      - Referral
+      - Social media
+      - Advertisement
+      - Other
+      required: false
+    - id: 9
+      name: preferred_contact_time
+      label: preferred contact time
+      hint: When is best to reach the client
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: intake notes
+      hint: Any additional context for the account handler
+      type: text
+      options: []
+      required: false

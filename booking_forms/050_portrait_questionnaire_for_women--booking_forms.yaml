@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: portrait_questionnaire_for_women
+    pages:
+    - id: 1
+      name: photographer
+      label: Photographer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: E mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Studio
+      - On-site
+      - At client
+      required: true
+    - id: 8
+      name: equipment
+      label: Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Micro
+      - Macro
+      - Soft
+      required: true
+    - id: 9
+      name: style
+      label: Style
+      hint: null
+      type: select_one
+      options:
+      - Natural
+      - Glamour
+      - Fashion
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: photographer_notes
+      label: Photographer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: model_notes
+      label: Model Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Equipment Testing Booking Form
+    pages:
+    - id: 1
+      name: test_request_details
+      label: Test Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: test_duration
+      label: Test Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - Testing Equipment
+      - Calibration Equipment
+      - Inspection Equipment
+      required: true
+    - id: 7
+      name: test_location
+      label: Test Location
+      hint: null
+      type: select_multiple
+      options:
+      - Test Room 1
+      - Test Room 2
+      - Test Room 3
+      required: true
+    - id: 8
+      name: test_equipment
+      label: Test Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Equipment 1
+      - Equipment 2
+      - Equipment 3
+      required: true
+    - id: 9
+      name: test_status
+      label: Test Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Cancelled
+      required: true
+    - id: 10
+      name: test_notes
+      label: Test Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: booking_notes
+      label: Booking Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: requestor_contact_number
+      label: Requestor Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: requestor_email
+      label: Requestor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: requestor_department
+      label: Requestor Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assignee_name
+      label: Assignee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assignee_contact_number
+      label: Assignee Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: assignee_email
+      label: Assignee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: true
+    - id: 22
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Closed
+      required: true
+    - id: 23
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false

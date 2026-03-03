@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: recycling_bin_requisition_form
+    pages:
+    - id: 1
+      name: select_business_unit
+      label: select_business_unit
+      hint: null
+      type: select_one
+      options:
+      - '12345'
+      - '67890'
+      required: false
+    - id: 2
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_ordered
+      label: date_ordered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: quantity_ordered
+      label: quantity_ordered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Modernization Proposal Application Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: process_choices
+      label: What Process Improvement Proposal to Pursue?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''label'': ''Option 2'', ''value'': ''value2''}'
+      required: false
+    - id: 3
+      name: process_description
+      label: Description of the Proposed Process Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: process_choices_1
+      label: Select All That Apply
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''label'': ''Option 2'', ''value'': ''value2''}'
+      required: false
+    - id: 5
+      name: process_description_2
+      label: Description of Selected Choices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_created
+      label: Date Created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_created
+      label: Time Created
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''value1''}'
+      - Other
+      required: false
+    - id: 11
+      name: process_name
+      label: Name of Proposed Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: process_impact
+      label: Potential Impact of the Process
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: process_costs
+      label: Cost Associated with the Proposed Process
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: process_benefits
+      label: Description of Benefits of the Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: process_risks
+      label: Description of Risks Associated
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: process_status
+      label: Status of Proposed Process
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''value1''}'
+      - Other
+      required: false
+    - id: 17
+      name: process_owner
+      label: Owner of Proposed Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: process_assignee
+      label: Assignee of Proposed Process
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''label'': ''Option 2'', ''value'': ''value2''}'
+      required: false

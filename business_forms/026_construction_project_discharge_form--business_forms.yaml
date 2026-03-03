@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Project Discharge Form
+    pages:
+    - id: 1
+      name: section_project_ident
+      label: -- Project Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Full Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_location
+      label: Project Location/Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contract_number
+      label: Contract/Job Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: discharge_date
+      label: Official Discharge/Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_completion_status
+      label: -- Completion and Compliance Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: substantial_completion_cert
+      label: Certificate of Substantial Completion Issued
+      hint: null
+      type: select_one
+      options:
+      - Yes - Attached/Issued
+      - Pending Final Review
+      - N/A
+      required: true
+    - id: 8
+      name: punch_list_complete
+      label: All Punch List Items Fully Rectified
+      hint: null
+      type: select_one
+      options:
+      - Yes - All items closed
+      - No - Minor items pending
+      - N/A
+      required: true
+    - id: 9
+      name: final_inspection_passed
+      label: Final Building Inspection Passed
+      hint: null
+      type: select_one
+      options:
+      - Yes - Passed 100%
+      - Passed with Minor Corrections
+      - Failed - Re-inspection scheduled
+      - N/A
+      required: true
+    - id: 10
+      name: section_documentation_handover
+      label: -- Documentation and Close-out Handover --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: as_built_docs_handed_over
+      label: Final As-built Drawings Handed Over to Client
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 12
+      name: manual_om_handover
+      label: O&M Manuals and Warranties Handed Over
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 13
+      name: materials_spares_left_on_site
+      label: List Spare Materials or Attic Stock Left on Site
+      hint: e.g., Spare tile, paint cans, light fixtures
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_financial_discharge
+      label: -- Financial Discharge --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: final_invoice_approved
+      label: Final Project Invoice Approved for Payment
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No - Pending Final Calculation
+      required: true
+    - id: 16
+      name: retainage_release_date
+      label: Target Date for Retainage Release
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: section_client_ack
+      label: -- Client Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: client_rep_name
+      label: Client Representative Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: project_satisfaction_rating
+      label: Overall Client Satisfaction (1-10)
+      hint: 1 - Dissatisfied, 10 - Highly Satisfied
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: additional_discharge_notes
+      label: Additional Discharge or Close-out Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: discharge_officer_name
+      label: Authorized By (Name and Title)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: submission_date
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

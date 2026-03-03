@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book A Foundations Assessment
+    pages:
+    - id: 1
+      name: client_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_address
+      label: Property Address
+      hint: Street address for inspection
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_city_state_zip
+      label: City - State - Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Single Family Home
+      - Multi-Family Home
+      - Commercial Building
+      - Industrial Property
+      - Agricultural
+      - Other
+      required: true
+    - id: 7
+      name: year_built
+      label: Year Built
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: square_footage
+      label: Square Footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: foundation_type
+      label: Foundation Type
+      hint: null
+      type: select_one
+      options:
+      - Concrete Slab
+      - Crawl Space
+      - Basement
+      - Pier and Beam
+      - Raised Foundation
+      - Unknown
+      - Other
+      required: true
+    - id: 10
+      name: basement_presence
+      label: Does Property Have Basement
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial
+      - Unknown
+      required: true
+    - id: 11
+      name: reported_concerns
+      label: Reported Foundation Concerns
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cracks in Walls
+      - Uneven Floors
+      - Water Damage
+      - Mold Presence
+      - Gaps Around Doors
+      - Sticking Windows
+      - Bowing Walls
+      - Settling
+      - Other
+      required: true
+    - id: 12
+      name: concern_severity
+      label: Severity of Concerns
+      hint: null
+      type: select_one
+      options:
+      - Minor
+      - Moderate
+      - Severe
+      - Unknown
+      required: true
+    - id: 13
+      name: concern_duration
+      label: How Long Have You Noticed Issues
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - More than 1 year
+      - Unknown
+      required: false
+    - id: 14
+      name: previous_inspections
+      label: Previous Foundation Inspections
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 15
+      name: previous_inspection_results
+      label: Results of Previous Inspections
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: pest_damage_observed
+      label: Pest Damage Observed
+      hint: Termites, carpenter ants, etc
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 17
+      name: water_intrusion_issues
+      label: Water Intrusion Issues
+      hint: Flooding, seepage, leaks
+      type: select_one
+      options:
+      - Yes - Currently
+      - Yes - Previously
+      - false
+      - Not Sure
+      required: true
+    - id: 18
+      name: ownership_status
+      label: Ownership Status
+      hint: null
+      type: select_one
+      options:
+      - Homeowner
+      - Renter
+      - Property Manager
+      - Real Estate Agent
+      - Other
+      required: true
+    - id: 19
+      name: assessment_purpose
+      label: Purpose of Assessment
+      hint: null
+      type: select_one
+      options:
+      - Pre-Purchase Inspection
+      - Existing Home Evaluation
+      - Insurance Requirement
+      - Damage Assessment
+      - Peace of Mind
+      - Other
+      required: true
+    - id: 20
+      name: preferred_assessment_date
+      label: Preferred Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: availability_morning
+      label: Available Morning Time
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Flexible
+      required: true
+    - id: 22
+      name: availability_afternoon
+      label: Available Afternoon Time
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Flexible
+      required: true
+    - id: 23
+      name: additional_requests
+      label: Additional Requests or Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_consent
+      label: Permission to Contact
+      hint: null
+      type: select_one
+      options:
+      - Yes - Contact Me
+      - No - Do Not Contact
+      required: true

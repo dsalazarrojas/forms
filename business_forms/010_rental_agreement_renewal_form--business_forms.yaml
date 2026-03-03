@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: rental_agreement_renewal_form
+    pages:
+    - id: 1
+      name: landlord_details
+      label: Landlord details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tenant_details
+      label: Tenant details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: agreement_terms
+      label: Agreement terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: rental_period
+      label: Rental period
+      hint: null
+      type: number
+      options: []
+      required: true

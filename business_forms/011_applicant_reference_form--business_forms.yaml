@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Applicant Reference Form
+    pages:
+    - id: 1
+      name: reference_info_header
+      label: -- Reference Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reference_name
+      label: Your Full Name (Reference)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reference_job_title
+      label: Your Current Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reference_organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reference_email
+      label: Your Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: reference_phone
+      label: Your Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: applicant_context_header
+      label: -- Relationship to Applicant --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: applicant_name
+      label: Name of the Applicant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: relationship_to_applicant
+      label: What is your relationship to the applicant?
+      hint: null
+      type: select_one
+      options:
+      - Former Supervisor
+      - Current Supervisor
+      - Peer - Colleague
+      - Teacher - Professor
+      - Personal Reference
+      required: true
+    - id: 10
+      name: duration_of_acquaintance
+      label: How long have you known the applicant?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: performance_evaluation_header
+      label: -- Performance Evaluation --
+      hint: Please rate the applicant on the following attributes
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: reliability_rating
+      label: Reliability and Dependability
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Above Average
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 13
+      name: teamwork_rating
+      label: Ability to Work in a Team
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Above Average
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 14
+      name: problem_solving_rating
+      label: Problem Solving and Initiative
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Above Average
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 15
+      name: technical_competence_rating
+      label: Technical Competence in the Field
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Above Average
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 16
+      name: recommendation_statement
+      label: Would you recommend this applicant for the position?
+      hint: null
+      type: select_one
+      options:
+      - Highly Recommend
+      - Recommend
+      - Recommend with Reservations
+      - Do Not Recommend
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Please provide any additional comments on the applicant's suitability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: signature_confirmation
+      label: I certify that the above information is accurate to the best of my knowledge
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - Other
+      required: true

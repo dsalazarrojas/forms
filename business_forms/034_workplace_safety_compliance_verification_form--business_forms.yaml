@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Safety Compliance Verification Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: safety_practices
+      label: Safety Practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_training
+      label: Employee Training
+      hint: null
+      type: select_multiple
+      options:
+      - Safety Training - Fire Evacuation Procedures
+      - Safety Training - Hazardous Materials
+      - Safety Training - Personal Protective Equipment
+      required: false
+    - id: 4
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reporting_injuries
+      label: Reporting Injuries
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: safety_standards
+      label: Safety Standards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_procedures
+      label: Emergency Procedures
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: safety_meeting_minutes
+      label: Safety Meeting Minutes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: workplace_inspection
+      label: Workplace Inspection
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

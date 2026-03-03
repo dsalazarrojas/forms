@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: project_resource_allocation_amendment_form
+    pages:
+    - id: 1
+      name: project_resource_allocation_form
+      label: Project Resource Allocation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: resource_id
+      label: Resource ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: resource_name
+      label: Resource Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: resource_type
+      label: Resource Type
+      hint: null
+      type: select_one
+      options:
+      - Resource
+      - Material
+      - Equipment
+      required: false
+    - id: 5
+      name: resource_quantity
+      label: Resource Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: resource_cost
+      label: Resource Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_change
+      label: Reason for Change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: new_resource_quantity
+      label: New Resource Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: new_resource_cost
+      label: New Resource Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: resource_status
+      label: Resource Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Archived
+      required: false
+    - id: 11
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: project_id
+      label: Project ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: resource_description
+      label: Resource Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: date_updated
+      label: Date Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: time_updated
+      label: Time Updated
+      hint: null
+      type: time
+      options: []
+      required: false

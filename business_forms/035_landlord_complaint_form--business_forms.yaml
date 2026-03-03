@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Landlord Complaint Form
+    pages:
+    - id: 1
+      name: tenant_name
+      label: Tenant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: issue_description
+      label: Description of Issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_first_notified
+      label: Date First Notified
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: date_last_notified
+      label: Date Last Notified
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: landlord_name
+      label: Landlord Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: landlord_email
+      label: Landlord Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: landlord_phone
+      label: Landlord Phone
+      hint: null
+      type: text
+      options: []
+      required: false

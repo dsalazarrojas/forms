@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Newsletter Feedback Form
+    pages:
+    - id: 1
+      name: newsletter_feedback_form
+      label: What do you think about this newsletter?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: newsletter_name
+      label: What is the name of the newsletter you are subscribed to?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: comment
+      label: Please enter your comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

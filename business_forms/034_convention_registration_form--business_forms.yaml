@@ -1,0 +1,334 @@
+inputSchema:
+  type: object
+  properties:
+    title: Convention Registration Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Full Name
+      hint: Legal name of attendee
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Primary email for communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Company or institution name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your position or role
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_convention_info
+      label: -- Convention Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: convention_name
+      label: Convention Name
+      hint: Which convention are you attending
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: registration_type
+      label: Registration Type
+      hint: Type of registration
+      type: select_one
+      options:
+      - Full Conference
+      - Single Day
+      - Virtual Only
+      - Exhibitor
+      - Sponsor
+      - Media
+      - Student
+      required: true
+    - id: 9
+      name: days_attending
+      label: Days Attending
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Day 1
+      - Day 2
+      - Day 3
+      - Day 4
+      - All Days
+      required: true
+    - id: 10
+      name: section_session_preferences
+      label: -- Session Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: track_preference
+      label: Preferred Track
+      hint: Which track interests you
+      type: select_one
+      options:
+      - Technical
+      - Business
+      - Educational
+      - Research
+      - General
+      required: false
+    - id: 12
+      name: workshop_selection
+      label: Workshops to Attend
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Workshop A
+      - Workshop B
+      - Workshop C
+      - Workshop D
+      - None
+      required: false
+    - id: 13
+      name: section_meals
+      label: -- Meal Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: meal_plan
+      label: Meal Plan
+      hint: Which meals do you need
+      type: select_one
+      options:
+      - No Meals
+      - Lunch Only
+      - Dinner Only
+      - All Meals
+      required: true
+    - id: 15
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any special dietary needs
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      - Dairy-Free
+      - Nut Allergy
+      - Other
+      required: true
+    - id: 16
+      name: section_accommodation
+      label: -- Accommodation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: accommodation_needed
+      label: Do you need accommodation
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: room_type
+      label: Room Type Preference
+      hint: If accommodation needed
+      type: select_one
+      options:
+      - Single Room
+      - Double Room
+      - Twin Room
+      - Suite
+      - Shared Room
+      required: false
+    - id: 19
+      name: check_in_date
+      label: Check-in Date
+      hint: Arrival date
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: check_out_date
+      label: Check-out Date
+      hint: Departure date
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Invoice
+      - Check
+      - Cash
+      required: true
+    - id: 23
+      name: registration_fee
+      label: Registration Fee
+      hint: Amount due
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: payment_status
+      label: Payment Status
+      hint: Current status
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - To Be Invoiced
+      required: true
+    - id: 25
+      name: invoice_address
+      label: Invoice Address
+      hint: If payment by invoice
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: section_networking
+      label: -- Networking --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: networking_events
+      label: Networking Events to Attend
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Welcome Reception
+      - Networking Lunch
+      - Gala Dinner
+      - Cocktail Hour
+      - Closing Party
+      - None
+      required: false
+    - id: 28
+      name: interested_in_meetups
+      label: Interested in Topic Meetups
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 29
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: For conference swag
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      - Not Needed
+      required: false
+    - id: 32
+      name: how_did_you_hear
+      label: How did you hear about this convention
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Website
+      - Social Media
+      - Colleague
+      - Advertisement
+      - Previous Attendee
+      - Other
+      required: false
+    - id: 33
+      name: first_time_attendee
+      label: Is this your first time attending
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 34
+      name: special_requests
+      label: Special Requests
+      hint: Any other requirements
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: terms_accepted
+      label: I accept the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 36
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true

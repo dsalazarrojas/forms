@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Cylinder Order Form
+    pages:
+    - id: 1
+      name: custom_cylinder_order_form
+      label: Custom Cylinders
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: material_type
+      label: Material Type
+      hint: Choose material
+      type: select_multiple
+      options:
+      - Aluminum
+      - Brass
+      - Copper
+      - Steel
+      required: false
+    - id: 3
+      name: length_in_mm
+      label: Length (in mm)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: diameter_in_mm
+      label: Diameter (in mm)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: base_diameter_in_mm
+      label: Base Diameter (in mm)
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Service Provider Agreement
+    pages:
+    - id: 1
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: terms_of_service
+      label: Terms of Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: responsibilities
+      label: Business Responsibilities
+      hint: null
+      type: text
+      options: []
+      required: false

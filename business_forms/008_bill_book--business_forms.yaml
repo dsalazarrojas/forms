@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bill Book
+    pages:
+    - id: 1
+      name: invoice_info_header
+      label: -- Invoice Header --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: invoice_number
+      label: Invoice Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: bill_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: customer_details_header
+      label: -- Customer Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: itemized_billing_header
+      label: -- Item Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: item_description
+      label: Item Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: subtotal
+      label: Subtotal
+      hint: Calculated field
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: tax_amount
+      label: Tax Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: total_amount
+      label: Grand Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: payment_status_header
+      label: -- Payment Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Bank Transfer
+      - Digital Wallet
+      required: true
+    - id: 17
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Partially Paid
+      - Unpaid
+      - Refunded
+      required: true
+    - id: 18
+      name: notes
+      label: Internal Notes or Reminders
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transport Delay Root Cause Report Form
+    pages:
+    - id: 1
+      name: transport_delay_root_cause_report_form_title
+      label: Transport Delay Root Cause Report Form Title
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: transport_delay_root_cause_report_form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Logistics
+      - Transport
+      - Warehouse
+      required: false
+    - id: 3
+      name: transport_delay_root_cause_report_form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: transport_delay_root_cause_report_form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: transport_delay_root_cause_report_form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: transport_delay_root_cause_report_form_transport_type
+      label: Transport Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: transport_delay_root_cause_report_form_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: transport_delay_root_cause_report_form_description_of_event
+      label: Description of Event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: transport_delay_root_cause_report_form_cause_of_delay
+      label: Cause of Delay
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: transport_delay_root_cause_report_form_delay_type
+      label: Delay Type
+      hint: null
+      type: select_one
+      options:
+      - On Time
+      - Delay
+      - Late
+      required: false
+    - id: 11
+      name: transport_delay_root_cause_report_form_root_cause_of_delay
+      label: Root Cause of Delay
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: transport_delay_root_cause_report_form_solutions_and_actions
+      label: Solutions and Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: transport_delay_root_case_report_form_additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

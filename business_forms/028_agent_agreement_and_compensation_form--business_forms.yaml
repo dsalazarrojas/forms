@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agent Agreement And Compensation Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Agent Agreement and Compensation Terms --
+      hint: legal agreement for agency representation and pay
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: agent_name
+      label: Agent Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: agency_name
+      label: Agency or Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: effective_date
+      label: Effective Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: role_header
+      label: -- Role and Responsibilities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: service_territory
+      label: Designated Service Territory
+      hint: geographic area or market segment
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: duties_description
+      label: Detailed Description of Duties
+      hint: primary obligations of the agent
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: compensation_header
+      label: -- Compensation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: commission_rate
+      label: Base Commission Rate - %
+      hint: percentage of sales or revenue
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: payment_frequency
+      label: Compensation Frequency - Monthly, Quarterly, Bi-weekly
+      hint: null
+      type: select_one
+      options:
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - Upon Completion
+      required: true
+    - id: 11
+      name: performance_threshold
+      label: Minimum Performance Threshold - if any
+      hint: sales targets required to maintain status
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: incentive_terms
+      label: Additional Bonus or Incentive Terms
+      hint: performance-based rewards
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: agreement_statement
+      label: By submitting this form, I agree to the terms and conditions outlined
+        above.
+      hint: null
+      type: note
+      options: []
+      required: false

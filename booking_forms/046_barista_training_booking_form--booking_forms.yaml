@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barista Training Booking Form
+    pages:
+    - id: 1
+      name: course_selection_header
+      label: -- Select Your Training Course --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: training_course
+      label: Available Training Modules
+      hint: Select the course you wish to attend
+      type: select_one
+      options:
+      - Barista 101 - Introduction to Espresso (3 hrs) - $120
+      - Barista 201 - Advanced Extraction and Dialing (4 hrs) - $180
+      - Milk Science and Latte Art Foundations (3 hrs) - $150
+      - Modern Coffee Shop Management (6 hrs) - $250
+      - Roasting Foundations (4 hrs) - $200
+      required: true
+    - id: 3
+      name: skill_level_header
+      label: -- Your Current Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: participant_experience
+      label: Experience Level
+      hint: Helping us group you with the right peers
+      type: select_one
+      options:
+      - Beginner - No experience
+      - Home Enthusiast
+      - Working Barista (Under 1 year)
+      - Experienced Professional (1+ years)
+      required: true
+    - id: 5
+      name: booking_schedule_header
+      label: -- Schedule and Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: preferred_training_date
+      label: Preferred Training Date
+      hint: Sessions are held Tuesday - Saturday
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: session_time
+      label: Preferred Session Time
+      hint: null
+      type: select_one
+      options:
+      - Morning Session (9:00 AM - 1:00 PM)
+      - Afternoon Session (2:00 PM - 6:00 PM)
+      - Evening Intensive (6:00 PM - 9:00 PM)
+      required: true
+    - id: 8
+      name: participant_details_header
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email_address
+      label: Email Address
+      hint: We will send course materials and confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: dietary_restrictions
+      label: Dietary Restrictions / Allergies
+      hint: We provide milk alternatives and light snacks
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_policy_header
+      label: -- Payment and Cancellation Policy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: Preferred Payment Method
+      hint: Payment is required 48 hours before the session
+      type: select_one
+      options:
+      - Credit Card (Secure Link)
+      - Bank Transfer
+      - Corporate Billing (Approved Partners only)
+      required: true
+    - id: 15
+      name: cancellation_ack
+      label: Cancellation Acknowledgement
+      hint: Cancellations within 24 hours of the session are non-refundable
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 16
+      name: waiver_acknowledgment
+      label: Safety and Liability Waiver
+      hint: I agree to follow all safety protocols when using machinery
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 17
+      name: referral_source
+      label: How did you find our training center?
+      hint: null
+      type: select_one
+      options:
+      - Employer Recommendation
+      - Social Media
+      - Google Search
+      - Word of Mouth
+      required: true
+    - id: 18
+      name: submission_date
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

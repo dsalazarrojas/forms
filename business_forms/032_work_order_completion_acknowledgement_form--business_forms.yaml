@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work Order Completion Acknowledgement Form
+    pages:
+    - id: 1
+      name: work_order_completion_acknowledgement
+      label: work_order_completion_acknowledgement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_completed
+      label: time_completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: client_confirmation
+      label: client_confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: business_confirmation
+      label: business_confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false

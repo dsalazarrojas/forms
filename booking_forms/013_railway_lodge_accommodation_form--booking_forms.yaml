@@ -1,0 +1,38 @@
+inputSchema:
+  type: object
+  properties:
+    title: Railway Lodge Accommodation Form
+    pages:
+    - id: 1
+      name: checkin_date
+      label: Check-in Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: checkout_date
+      label: Check-out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: room_preferences
+      label: Room Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - King
+      - Queen
+      - Double
+      - Twin
+      - Suite
+      required: false
+    - id: 4
+      name: guests_count
+      label: Guests Count
+      hint: Please indicate the total number of guests.
+      type: number
+      options: []
+      required: false

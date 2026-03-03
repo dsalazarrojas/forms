@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Visual Equipment Booking Form
+    pages:
+    - id: 1
+      name: requester_full_name
+      label: Requester Full Name
+      hint: Name of person making the booking
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: Contact email for booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: Company or organization name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: booking_date
+      label: Booking Date
+      hint: Date of this booking request
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: Date when equipment is needed
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_start_time
+      label: Event Start Time
+      hint: When does the event start?
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: event_end_time
+      label: Event End Time
+      hint: When does the event end?
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: setup_time_required
+      label: Setup Time Required
+      hint: How much setup time is needed?
+      type: select_one
+      options:
+      - 1 hour before
+      - 2 hours before
+      - 3 hours before
+      - 4+ hours before
+      - Day before
+      required: true
+    - id: 10
+      name: event_type
+      label: Event Type
+      hint: What type of event is this?
+      type: select_one
+      options:
+      - Conference
+      - Meeting
+      - Presentation
+      - Training Session
+      - Webinar
+      - Live Stream
+      - Hybrid Event
+      - Other
+      required: true
+    - id: 11
+      name: venue_name
+      label: Venue Name
+      hint: Name of event venue
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: venue_room
+      label: Room or Space
+      hint: Specific room or area
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: expected_attendees
+      label: Expected Attendees
+      hint: Approximate number of attendees
+      type: select_one
+      options:
+      - Under 10
+      - 10-25
+      - 26-50
+      - 51-100
+      - 101-250
+      - 251-500
+      - Over 500
+      required: true
+    - id: 14
+      name: projection_needed
+      label: Projection Equipment
+      hint: Select projection equipment needed
+      type: select_multiple
+      options:
+      - Projector
+      - Projection screen
+      - LED display
+      - Monitor
+      - Not needed
+      required: true
+    - id: 15
+      name: audio_equipment_needed
+      label: Audio Equipment
+      hint: Select audio equipment needed
+      type: select_multiple
+      options:
+      - Wireless microphones
+      - Wired microphones
+      - Lapel microphones
+      - Speakers
+      - Mixing console
+      - Audio recorder
+      - Not needed
+      required: true
+    - id: 16
+      name: lighting_equipment_needed
+      label: Lighting Equipment
+      hint: Select lighting equipment needed
+      type: select_multiple
+      options:
+      - Stage lighting
+      - Spotlights
+      - Ambient lighting
+      - Video lighting
+      - Not needed
+      required: true
+    - id: 17
+      name: recording_streaming
+      label: Recording and Streaming
+      hint: Select recording or streaming needs
+      type: select_multiple
+      options:
+      - Video recording
+      - Audio recording
+      - Live streaming
+      - Video conferencing
+      - Not needed
+      required: true
+    - id: 18
+      name: technical_support
+      label: Technical Support
+      hint: Do you need on-site technical support?
+      type: select_one
+      options:
+      - Yes, full-time support
+      - Yes, setup only
+      - Yes, on-call support
+      - No, self-operated
+      required: true
+    - id: 19
+      name: special_requirements
+      label: Special Requirements
+      hint: Any additional requirements or notes
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget for equipment rental
+      type: select_one
+      options:
+      - Under $500
+      - $500 - $1,000
+      - $1,000 - $2,500
+      - $2,500 - $5,000
+      - Over $5,000
+      required: false
+    - id: 21
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: PO number if applicable
+      type: text
+      options: []
+      required: false

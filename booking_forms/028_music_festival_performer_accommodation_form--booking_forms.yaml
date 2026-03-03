@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Festival Performer Accommodation Form
+    pages:
+    - id: 1
+      name: performer_name
+      label: Performer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: accommodation_type
+      label: Accommodation type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: accommodation_location
+      label: Accommodation location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: accommodation_details
+      label: Accommodation details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: special_requests
+      label: Special requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_name
+      label: Event name
+      hint: null
+      type: text
+      options: []
+      required: false

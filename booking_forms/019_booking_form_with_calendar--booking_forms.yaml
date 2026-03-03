@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Booking Form With Calendar
+    pages:
+    - id: 1
+      name: visitor_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: visitor_email
+      label: Email Address
+      hint: We will send appointment details here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: visitor_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: Your company or organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: visit_purpose
+      label: Purpose of Visit
+      hint: Why are you booking this appointment
+      type: select_one
+      options:
+      - Business meeting
+      - Tour
+      - Consultation
+      - Interview
+      - Event
+      - Other
+      required: true
+    - id: 6
+      name: appointment_date
+      label: Preferred Appointment Date
+      hint: Select a date from the calendar
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: appointment_time
+      label: Preferred Appointment Time
+      hint: What time works best for you
+      type: select_one
+      options:
+      - 8:00 AM - 9:00 AM
+      - 9:00 AM - 10:00 AM
+      - 10:00 AM - 11:00 AM
+      - 11:00 AM - 12:00 PM
+      - 2:00 PM - 3:00 PM
+      - 3:00 PM - 4:00 PM
+      - 4:00 PM - 5:00 PM
+      required: true
+    - id: 8
+      name: duration_required
+      label: Expected Duration
+      hint: How long will your meeting take
+      type: select_one
+      options:
+      - 15 minutes
+      - 30 minutes
+      - 45 minutes
+      - 1 hour
+      - 1-2 hours
+      - 2+ hours
+      required: true
+    - id: 9
+      name: number_of_attendees
+      label: Number of Attendees
+      hint: How many people will attend
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special arrangements needed
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: meeting_location
+      label: Meeting Location Preference
+      hint: Where would you like to meet
+      type: select_one
+      options:
+      - Conference room A
+      - Conference room B
+      - Office
+      - Lobby
+      - Virtual meeting
+      - On-site location
+      required: true
+    - id: 12
+      name: prior_experience
+      label: Have you visited before
+      hint: First time or returning visitor
+      type: select_one
+      options:
+      - First time
+      - Returning visitor
+      - Not applicable
+      required: false
+    - id: 13
+      name: calendar_sync
+      label: Add to my calendar
+      hint: Would you like calendar sync
+      type: select_one
+      options:
+      - Yes - Google Calendar
+      - Yes - Outlook Calendar
+      - Yes - Zoom meeting
+      - No, thanks
+      required: false
+    - id: 14
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information about your visit
+      type: text
+      options: []
+      required: false

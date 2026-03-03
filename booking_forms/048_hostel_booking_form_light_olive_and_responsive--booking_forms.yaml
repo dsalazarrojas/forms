@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hostel Booking Form Light Olive And Responsive
+    pages:
+    - id: 1
+      name: check_in
+      label: check in
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: arrival_time
+      label: arrival time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: number_of_guests
+      label: number of guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: room_type
+      label: room type
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 5
+      name: accommodation_name
+      label: accommodation name
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 6
+      name: departure_date
+      label: departure date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

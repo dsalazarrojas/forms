@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Tour Booking Form
+    pages:
+    - id: 1
+      name: lead_traveler_name
+      label: Lead traveler name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Contact email
+      hint: For booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Contact phone
+      hint: Mobile preferred
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tour_date
+      label: Preferred tour date
+      hint: Select date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: tour_package
+      label: Tour package selection
+      hint: Choose package
+      type: select_one
+      options:
+      - Standard city tour
+      - Historical landmarks
+      - Food and culture
+      - Night tour
+      required: true
+    - id: 6
+      name: number_of_participants
+      label: Number of participants
+      hint: Total people in booking
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: special_requests
+      label: Special requests
+      hint: Accessibility or dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_option
+      label: Payment option
+      hint: Choose how you will pay
+      type: select_one
+      options:
+      - Online
+      - Pay on arrival
+      - Invoice
+      required: true
+    - id: 9
+      name: cancellation_policy_note
+      label: Cancellation policy note
+      hint: Review terms before booking
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Use today date
+      type: date
+      options: []
+      required: true

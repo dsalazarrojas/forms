@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transportation Route Validation Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Transport Route Validation Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: route_details
+      label: Route Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vehicle_info
+      label: Vehicle Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: driver_info
+      label: Driver Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: start_location
+      label: Start Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: end_location
+      label: End Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_number
+      label: Vehicle Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: driver_assigned
+      label: Driver Assigned
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: route_distance
+      label: Route Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: route_weight
+      label: Route Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: route_speed
+      label: Route Speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: driver_status
+      label: Driver Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 17
+      name: driver_phone
+      label: Driver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: route_status
+      label: Route Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: form_date
+      label: Form Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: driver_email
+      label: Driver Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: route_notes
+      label: Route Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: route_comments
+      label: Route Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: route_comments_text
+      label: Route Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: route_comments_note
+      label: Route Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: route_comments_date
+      label: Route Comments Date
+      hint: null
+      type: date
+      options: []
+      required: false

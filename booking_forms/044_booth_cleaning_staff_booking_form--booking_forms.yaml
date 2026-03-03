@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Booth Cleaning Staff Booking Form
+    pages:
+    - id: 1
+      name: organizer_name
+      label: Event Organizer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organizer_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: organizer_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_name
+      label: Event Name
+      hint: Name of the event
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: When is the event
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: booth_number
+      label: Booth Number or Location
+      hint: Booth ID or location
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: booth_size
+      label: Booth Size
+      hint: Approximate booth dimensions
+      type: select_one
+      options:
+      - 10x10
+      - 10x20
+      - 20x20
+      - 20x30
+      - Other size
+      required: true
+    - id: 8
+      name: cleaning_service_type
+      label: Cleaning Service Type
+      hint: What needs to be cleaned
+      type: select_multiple
+      options:
+      - Daily cleaning
+      - End-of-day cleaning
+      - Deep cleaning
+      - Post-event cleanup
+      - Trash removal
+      - Floor cleaning
+      - Restocking supplies
+      required: true
+    - id: 9
+      name: cleaning_start_time
+      label: Preferred Cleaning Time
+      hint: When should cleaning occur
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: estimated_duration
+      label: Estimated Duration
+      hint: How long cleaning will take
+      type: select_one
+      options:
+      - 30 minutes
+      - 1 hour
+      - 1.5 hours
+      - 2 hours
+      - 3 hours
+      - More than 3 hours
+      required: true
+    - id: 11
+      name: number_of_staff
+      label: Number of Cleaning Staff Needed
+      hint: How many cleaners
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: special_equipment
+      label: Special Equipment Needed
+      hint: Any special cleaning tools
+      type: select_multiple
+      options:
+      - Vacuum cleaner
+      - Mops and buckets
+      - Pressure washer
+      - Specialized equipment
+      - Eco-friendly supplies
+      - Standard supplies
+      required: false
+    - id: 13
+      name: access_requirements
+      label: Access Requirements
+      hint: Keys, access codes, etc.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: billing_type
+      label: Billing Type
+      hint: How will you be charged
+      type: select_one
+      options:
+      - Per hour
+      - Flat fee
+      - Per booth
+      - Per day
+      - Other arrangement
+      required: true
+    - id: 15
+      name: special_instructions
+      label: Special Instructions
+      hint: Any other details
+      type: text
+      options: []
+      required: false

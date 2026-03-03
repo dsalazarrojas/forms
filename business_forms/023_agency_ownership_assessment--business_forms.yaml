@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agency Ownership Assessment
+    pages:
+    - id: 1
+      name: header
+      label: -- Agency Ownership Structure Assessment --
+      hint: recording the official ownership of the business entity
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Registered Business Name
+      hint: as per registration documents
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tax_id
+      label: Business Tax ID
+      hint: EIN or equivalent
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: ownership_header
+      label: -- Ownership Breakdown --
+      hint: list of all primary partners and owners
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: owner_name
+      label: Principal Owner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: owner_percentage
+      label: Ownership Percentage - %
+      hint: enter numerical value from 0 to 100
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: partner_2_name
+      label: Partner 2 Name
+      hint: leave blank if not applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: partner_2_percentage
+      label: Partner 2 Percentage - %
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: legal_structure
+      label: Legal Structure of Business - LLC, Corporation, Partnership, etc.
+      hint: null
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership (GP/LP)
+      - Limited Liability Company (LLC)
+      - C Corporation
+      - S Corporation
+      required: true
+    - id: 10
+      name: document_types
+      label: Types of supporting documents on file - Articles of Incorporation, Operating
+        Agreement
+      hint: select all that can be provided upon request
+      type: select_multiple
+      options:
+      - Articles of Incorporation
+      - Operating Agreement
+      - Partnership Deed
+      - Stock Certificates
+      - Business License
+      required: true
+    - id: 11
+      name: financial_header
+      label: -- Financial Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: silent_partners_check
+      label: Are there any silent partners?
+      hint: individuals with financial interest but no voting power
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: external_investors
+      label: Names of external investors
+      hint: enter names of venture capital or angel investors
+      type: text
+      options: []
+      required: false

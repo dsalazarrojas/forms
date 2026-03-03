@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: retail_store_layout_inquiry_form
+    pages:
+    - id: 1
+      name: retail_store_layout_inquiry_form_page_1
+      label: store_layout_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manager_details
+      label: manager_details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''manager1''}'
+      - '{''id'': 2, ''name'': ''manager2''}'
+      required: false
+    - id: 3
+      name: store_characteristics
+      label: store_characteristics
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''store_width''}'
+      - '{''id'': 2, ''name'': ''store_height''}'
+      required: false
+    - id: 4
+      name: layout_preferences
+      label: layout_preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''preferred_layout''}'
+      - Other
+      required: false
+    - id: 5
+      name: store_floor_plan
+      label: store_floor_plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: store_space_characteristics
+      label: store_space_characteristics
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: customer_traffic_flow
+      label: customer_traffic_flow
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''preferred_direction''}'
+      - '{''id'': 2, ''name'': ''preferred_direction_2''}'
+      required: false
+    - id: 8
+      name: store_characteristics
+      label: store_characteristics
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''store_width''}'
+      - '{''id'': 2, ''name'': ''store_height''}'
+      required: false
+    - id: 9
+      name: floor_plan_options
+      label: floor_plan_options
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''floor_plan_1''}'
+      - '{''id'': 2, ''name'': ''floor_plan_2''}'
+      required: false
+    - id: 10
+      name: manager_layout
+      label: manager_layout
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: store_hours
+      label: store_hours
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''monday''}'
+      - '{''id'': 2, ''name'': ''saturday''}'
+      required: false
+    - id: 12
+      name: customer_experience
+      label: customer_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manager_comments
+      label: manager_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_comments
+      label: customer_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: manager_suggestions
+      label: manager_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

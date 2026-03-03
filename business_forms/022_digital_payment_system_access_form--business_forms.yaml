@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Payment System Access Form
+    pages:
+    - id: 1
+      name: business_forms
+      label: Business Forms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: payment_forms
+      label: Payment Forms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: user_info
+      label: User Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: owner_info
+      label: Owner Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: business_location
+      label: Business Location
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: payment_systems
+      label: Payment Systems
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

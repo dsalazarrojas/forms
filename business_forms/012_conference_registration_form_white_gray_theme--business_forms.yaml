@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Registration Form White Gray Theme
+    pages:
+    - id: 1
+      name: attendee_first_name
+      label: First Name
+      hint: Your given name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_last_name
+      label: Last Name
+      hint: Your family name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: We will send confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: Daytime contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_name
+      label: Organization Name
+      hint: Company or institution
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: position_title
+      label: Position Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: mailing_address
+      label: Mailing Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State or Province
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: Your postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: country
+      label: Country
+      hint: Your country
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - European Union
+      - Asia Pacific
+      - Latin America
+      - Middle East
+      - Africa
+      - Other
+      required: true
+    - id: 12
+      name: registration_type
+      label: Registration Type
+      hint: Select your package
+      type: select_one
+      options:
+      - Premium Package
+      - Standard Package
+      - Basic Package
+      - Student Rate
+      - Group Rate
+      required: true
+    - id: 13
+      name: conference_track
+      label: Conference Track
+      hint: Primary focus area
+      type: select_one
+      options:
+      - Business Innovation
+      - Technology Trends
+      - Leadership Development
+      - Research and Analytics
+      - General Attendance
+      required: true
+    - id: 14
+      name: workshop_selection
+      label: Workshop Selection
+      hint: Optional workshops
+      type: select_multiple
+      options:
+      - Workshop A - Morning
+      - Workshop B - Afternoon
+      - Workshop C - Full Day
+      - No Workshops
+      required: false
+    - id: 15
+      name: lunch_preference
+      label: Lunch Preference
+      hint: Meal selection
+      type: select_one
+      options:
+      - Regular Menu
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Fish Option
+      - Kosher
+      required: true
+    - id: 16
+      name: allergies
+      label: Food Allergies
+      hint: Specify any allergies
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: special_requests
+      label: Special Requests
+      hint: Any special accommodations
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Help us improve
+      type: select_one
+      options:
+      - Email Campaign
+      - Social Media
+      - Colleague Recommendation
+      - Website
+      - Previous Attendee
+      - Advertisement
+      - Other
+      required: false
+    - id: 19
+      name: newsletter_signup
+      label: Subscribe to Newsletter
+      hint: Receive updates
+      type: select_one
+      options:
+      - Yes Subscribe Me
+      - No Thank You
+      required: true
+    - id: 20
+      name: terms_agreement
+      label: I Agree to Terms and Conditions
+      hint: Accept policies
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

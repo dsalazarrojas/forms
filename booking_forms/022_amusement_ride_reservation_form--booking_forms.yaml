@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Amusement Ride Reservation Form
+    pages:
+    - id: 1
+      name: section_reservation
+      label: -- Reservation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest name
+      hint: Full name for reservation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: number_of_riders
+      label: Number of riders
+      hint: How many people in your group
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: preferred_date
+      label: Preferred date
+      hint: Date for the reservation
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time_slot
+      label: Preferred time slot
+      hint: Choose time for ride reservation
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: special_requirements
+      label: Special requirements
+      hint: Accessibility or safety needs
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact email
+      hint: For confirmation and tickets
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact phone
+      hint: Optional phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: waiver_signed
+      label: Waiver signed
+      hint: Select yes if waiver completed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

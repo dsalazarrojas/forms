@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Account Reconciliation Checklist
+    pages:
+    - id: 1
+      name: section_general_info
+      label: -- General Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: preparer_name
+      label: Prepared By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reviewer_name
+      label: Reviewed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: account_name
+      label: Account Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reconciliation_period
+      label: Reconciliation Period
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-annually
+      - Annually
+      required: true
+    - id: 7
+      name: period_end_date
+      label: Period End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: section_balances
+      label: -- Balance Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: gl_balance
+      label: General Ledger Balance
+      hint: Balance per the general ledger
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: sub_ledger_balance
+      label: Sub-Ledger or Bank Statement Balance
+      hint: Balance per the supporting documentation
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: variance_amount
+      label: Variance Amount
+      hint: Difference between GL and sub-ledger balances
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: variance_explained
+      label: Is the Variance Fully Explained
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Partially
+      - false
+      required: true
+    - id: 13
+      name: section_checklist
+      label: -- Reconciliation Checklist --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: items_verified
+      label: Checklist Items Completed
+      hint: Select all items that have been verified
+      type: select_multiple
+      options:
+      - All transactions recorded
+      - Outstanding items identified
+      - Adjusting entries posted
+      - Supporting documentation attached
+      - Cutoff procedures applied
+      - Intercompany transactions reconciled
+      - Stale items investigated
+      required: true
+    - id: 15
+      name: outstanding_items_count
+      label: Number of Outstanding Reconciling Items
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: outstanding_items_description
+      label: Description of Outstanding Items
+      hint: Briefly describe any unresolved reconciling items
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: adjustments_required
+      label: Are Adjusting Journal Entries Required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: section_signoff
+      label: -- Sign-Off --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: reconciliation_status
+      label: Reconciliation Status
+      hint: null
+      type: select_one
+      options:
+      - Complete - No issues
+      - Complete - With noted exceptions
+      - Incomplete - Requires follow-up
+      required: true
+    - id: 20
+      name: completion_date
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

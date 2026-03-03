@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Booking Form
+    pages:
+    - id: 1
+      name: booking_client_header
+      label: -- Client and Contact Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Primary Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: primary_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: primary_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_event_specs
+      label: -- Event Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: venue_address
+      label: Event Venue Full Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_start_time
+      label: Guest Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: guest_count_confirmed
+      label: Final Guest Count
+      hint: Minimum counts apply
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_menu
+      label: -- Menu and Service --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: menu_package_selection
+      label: Select Menu Package
+      hint: null
+      type: select_one
+      options:
+      - Bronze - Light Refreshments
+      - Silver - Standard Buffet
+      - Gold - Full Service Plated
+      - Custom Menu - per consultation
+      required: true
+    - id: 13
+      name: service_style
+      label: Service Style
+      hint: null
+      type: select_one
+      options:
+      - Buffet
+      - Sit-down Plated
+      - Cocktail/Passed Hors d oeuvres
+      - Family Style
+      required: true
+    - id: 14
+      name: beverage_service
+      label: Beverage Package
+      hint: null
+      type: select_one
+      options:
+      - Non-Alcoholic Only
+      - Beer and Wine Open Bar
+      - Full Premium Open Bar
+      - Cash Bar - client fee applies
+      required: true
+    - id: 15
+      name: additional_services
+      label: Additional Services Required
+      hint: null
+      type: select_multiple
+      options:
+      - Linens and Napkins
+      - Glassware and China
+      - Wait Staff
+      - Bartenders
+      - Cake Cutting
+      - Cleanup Service
+      required: false
+    - id: 16
+      name: dietary_requirements_summary
+      label: General Dietary Overview
+      hint: e.g. 5 Vegans, 2 Nut Allergies
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_confirmation
+      label: -- Terms and Deposit --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: deposit_acknowledgment
+      label: I understand that a 25% non-refundable deposit is required to secure
+        the date
+      hint: null
+      type: select_one
+      options:
+      - I Understand and Agree
+      - Other
+      required: true
+    - id: 19
+      name: signature_booking
+      label: Client Electronic Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: submission_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: true

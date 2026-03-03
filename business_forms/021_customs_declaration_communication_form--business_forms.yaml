@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customs Declaration Communication Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: goods_info
+      label: Goods Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: customs_info
+      label: Customs Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_info
+      label: Delivery Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_goods_info
+      label: Additional Goods Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shipping_info
+      label: Shipping Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: declaration_type
+      label: Declaration Type
+      hint: null
+      type: select_one
+      options:
+      - Import
+      - Export
+      required: false
+    - id: 14
+      name: goods_type
+      label: Goods Type
+      hint: null
+      type: select_multiple
+      options:
+      - Textiles
+      - Food
+      - Other
+      required: false
+    - id: 15
+      name: customs_declaration_number
+      label: Customs Declaration Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: date_declaration
+      label: Date Declaration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time_declaration
+      label: Time Declaration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: date_shipped
+      label: Date Shipped
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: time_shipped
+      label: Time Shipped
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: date_arrived
+      label: Date Arrived
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: time_arrived
+      label: Time Arrived
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Wire Transfer
+      - Cash
+      - Other
+      required: false
+    - id: 23
+      name: amount_paid
+      label: Amount Paid
+      hint: null
+      type: number
+      options: []
+      required: false

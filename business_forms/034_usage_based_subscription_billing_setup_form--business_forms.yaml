@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Usage Based Subscription Billing Setup Form
+    pages:
+    - id: 1
+      name: plan_id
+      label: plan id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: billing_type
+      label: billing type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Plan''}'
+      - '{''id'': 2, ''label'': ''Usage''}'
+      - '{''id'': 3, ''label'': ''Metered''}'
+      required: true
+    - id: 3
+      name: plan_type
+      label: plan type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''One-Off''}'
+      - '{''id'': 2, ''label'': ''Subscription''}'
+      - '{''id'': 3, ''label'': ''Recurring''}'
+      required: true
+    - id: 4
+      name: usage_plan_price
+      label: usage plan price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: billing_frequency
+      label: billing frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: billing_interval
+      label: billing interval
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: payment_frequency
+      label: payment frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Monthly''}'
+      - '{''id'': 2, ''label'': ''Annually''}'
+      - '{''id'': 3, ''label'': ''Quarterly''}'
+      required: true
+    - id: 8
+      name: payment_term
+      label: payment term
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Monthly''}'
+      - '{''id'': 2, ''label'': ''Annually''}'
+      - '{''id'': 3, ''label'': ''Quarterly''}'
+      required: true
+    - id: 9
+      name: payment_due_date
+      label: payment due date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: payment_gateway
+      label: payment gateway
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Stripe''}'
+      - '{''id'': 2, ''label'': ''PayPal''}'
+      - '{''id'': 3, ''label'': ''Authorize''}'
+      required: true
+    - id: 11
+      name: internal_reference
+      label: internal reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: internal_status
+      label: internal status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      - '{''id'': 3, ''label'': ''Cancelled''}'
+      required: true
+    - id: 13
+      name: account_id
+      label: account id
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Primary''}'
+      - '{''id'': 2, ''label'': ''Secondary''}'
+      - '{''id'': 3, ''label'': ''Tertiary''}'
+      required: true
+    - id: 14
+      name: account_number
+      label: account number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: usage_based_calculation
+      label: usage based calculation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Total''}'
+      - '{''id'': 2, ''label'': ''Per-Unit''}'
+      required: true
+    - id: 16
+      name: usage_based_calculation_1
+      label: usage based calculation 1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Total''}'
+      - '{''id'': 2, ''label'': ''Per-Unit''}'
+      required: true
+    - id: 17
+      name: usage_based_calculation_2
+      label: usage based calculation 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Total''}'
+      - '{''id'': 2, ''label'': ''Per-Unit''}'
+      required: true
+    - id: 18
+      name: billing_currency
+      label: billing currency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''USD''}'
+      - '{''id'': 2, ''label'': ''EUR''}'
+      - '{''id'': 3, ''label'': ''JPY''}'
+      required: true
+    - id: 19
+      name: billing_frequency
+      label: billing frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: billing_period
+      label: billing period
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Monthly''}'
+      - '{''id'': 2, ''label'': ''Annually''}'
+      - '{''id'': 3, ''label'': ''Quarterly''}'
+      required: true
+    - id: 21
+      name: billing_status
+      label: billing status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      - '{''id'': 3, ''label'': ''Cancelled''}'
+      required: true
+    - id: 22
+      name: billing_type
+      label: billing type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Plan''}'
+      - '{''id'': 2, ''label'': ''Usage''}'
+      - '{''id'': 3, ''label'': ''Metered''}'
+      required: true
+    - id: 23
+      name: payment_terms
+      label: payment terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: internal_reference_1
+      label: internal reference 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: internal_status_1
+      label: internal status 1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      - '{''id'': 3, ''label'': ''Cancelled''}'
+      required: true
+    - id: 26
+      name: internal_reference_2
+      label: internal reference 2
+      hint: null
+      type: text
+      options: []
+      required: false

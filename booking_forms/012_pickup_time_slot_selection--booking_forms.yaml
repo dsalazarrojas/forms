@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pickup Time Slot Selection
+    pages:
+    - id: 1
+      name: time_slot_selection
+      label: Time Slot Selection
+      hint: null
+      type: select_multiple
+      options:
+      - 09:00
+      - '10:00'
+      - '11:00'
+      - '12:00'
+      - '13:00'
+      - '14:00'
+      - '15:00'
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

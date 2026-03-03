@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Management Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: project_status_options
+      label: Status Options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_resources
+      label: Project Resources
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: project_resources_options
+      label: Resources Options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_manager_email
+      label: Project Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: project_manager_phone
+      label: Project Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_manager_note
+      label: Project Manager Note
+      hint: null
+      type: note
+      options: []
+      required: false

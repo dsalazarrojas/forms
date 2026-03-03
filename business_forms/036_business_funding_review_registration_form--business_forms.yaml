@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Funding Review Registration Form
+    pages:
+    - id: 1
+      name: applicant_section
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_section
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: business_name
+      label: Business Name
+      hint: Name of your company
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_type
+      label: Business Type
+      hint: What type of business?
+      type: select_one
+      options:
+      - Startup
+      - Established Business
+      - Non-Profit
+      - Social Enterprise
+      required: true
+    - id: 8
+      name: years_in_operation
+      label: Years in Operation
+      hint: How long have you been operating?
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: industry
+      label: Industry Sector
+      hint: Select your industry
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Services
+      - Education
+      - Other
+      required: true
+    - id: 10
+      name: funding_section
+      label: -- Funding Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: amount_requested
+      label: Funding Amount Requested
+      hint: How much do you need?
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: funding_type
+      label: Type of Funding Sought
+      hint: What kind of funding?
+      type: select_one
+      options:
+      - Equity Investment
+      - Debt Financing
+      - Grant
+      - Crowdfunding
+      - Government Funding
+      - Other
+      required: true
+    - id: 13
+      name: use_of_funds
+      label: Use of Funds
+      hint: How will the money be used?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: funding_timeline
+      label: Funding Timeline
+      hint: When do you need the funds?
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: financial_section
+      label: -- Financial Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: annual_revenue
+      label: Current Annual Revenue
+      hint: Last year or projected revenue
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: profitability_status
+      label: Profitability Status
+      hint: Current financial status
+      type: select_one
+      options:
+      - Profitable
+      - Break-even
+      - Pre-revenue
+      - Loss (improving)
+      - Loss (significant)
+      required: false
+    - id: 18
+      name: existing_debt
+      label: Existing Debt
+      hint: Total outstanding debt
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: existing_investors
+      label: Existing Investors
+      hint: Do you have current investors?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: eligibility_section
+      label: -- Eligibility Criteria --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: underserved_community
+      label: Serves underserved community
+      hint: Does your business serve a disadvantaged community?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: social_impact
+      label: Social or environmental impact
+      hint: Does business create positive impact?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Some impact
+      required: false
+    - id: 23
+      name: business_plan_ready
+      label: Business plan prepared
+      hint: Do you have a business plan?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - In development
+      required: false
+    - id: 24
+      name: additional_info
+      label: Additional Information
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: review_consent
+      label: I consent to funding review process
+      hint: Agree to be evaluated
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Project Check-In Form
+    pages:
+    - id: 1
+      name: section_check_in_details
+      label: -- Check-In Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visitor_name
+      label: Full Name of Person Checking In
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: visitor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: visitor_phone
+      label: Phone Number
+      hint: Format - (555) 555-5555
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: check_in_type
+      label: Reason for Visit
+      hint: null
+      type: select_one
+      options:
+      - Daily Staff/Crew
+      - Subcontractor/Trade
+      - Client/Project Owner
+      - Vendor/Delivery
+      - Inspector/Regulatory
+      - Guest/Visitor
+      required: true
+    - id: 6
+      name: company_name
+      label: Employer/Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_site_entry
+      label: -- Site Entry and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: entry_time
+      label: Entry Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: site_orientation_verified
+      label: Have you completed a site safety orientation?
+      hint: If no, please contact the site supervisor immediately
+      type: select_one
+      options:
+      - Yes - Today
+      - Yes - Previously (within last 12 months)
+      - No - Required before entry
+      required: true
+    - id: 10
+      name: required_ppe_check
+      label: Do you have all necessary PPE for this site?
+      hint: Hard hat, vest, safety boots, eye protection
+      type: select_one
+      options:
+      - true
+      - No - Require loaner gear
+      required: true
+    - id: 11
+      name: section_equipment_entry
+      label: -- Equipment and Tools --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: equipment_brought_on_site
+      label: Are you bringing major equipment on site?
+      hint: e.g., Forklift, Generator, Scaffolding
+      type: select_one
+      options:
+      - false
+      - Yes - Describe below
+      required: true
+    - id: 13
+      name: equipment_desc
+      label: Equipment Description and ID/Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tools_checked_in
+      label: Specialized Tools or Hazardous Materials
+      hint: e.g., Powder-actuated tools, chemicals, explosives
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_emergency_contact
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: section_final_ack
+      label: -- Final Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: site_rules_agreement
+      label: I agree to follow all posted site safety rules and instructions
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 20
+      name: check_in_date
+      label: Date of Check-In
+      hint: null
+      type: date
+      options: []
+      required: true

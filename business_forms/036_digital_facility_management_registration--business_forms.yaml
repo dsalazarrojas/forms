@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Facility Management Registration
+    pages:
+    - id: 1
+      name: site_address
+      label: Site Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: site_name
+      label: site name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_needs
+      label: Service Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: site_details
+      label: Site Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: site_location
+      label: site location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''New York''}'
+      - '{''value'': ''London''}'
+      - '{''value'': ''Paris''}'
+      required: true
+    - id: 6
+      name: site_description
+      label: Site Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: facility_manager_name
+      label: Facility Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: facility_manager_phone
+      label: Facility Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false

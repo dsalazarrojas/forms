@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: welding_inspection_form
+    pages:
+    - id: 1
+      name: welding_inspection_form_1
+      label: welding_inspection_form_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: inspection_date_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: inspection_time
+      label: inspection_time_label
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: welders_name
+      label: welders_name_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: welders_number
+      label: welders_number_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: welders_id_number
+      label: welders_id_number_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: production_process
+      label: production_process_label
+      hint: null
+      type: select_one
+      options:
+      - Saw
+      - Drill
+      - Laser
+      - Weld
+      - Other
+      required: false
+    - id: 8
+      name: production_process_description
+      label: production_process_description_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: welder_id
+      label: welder_id_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: welder_type
+      label: welder_type_label
+      hint: null
+      type: select_one
+      options:
+      - MIG
+      - MAG
+      - FCA
+      - FCAW
+      - SECO
+      - SEF
+      required: false
+    - id: 11
+      name: welder_rating
+      label: welder_rating_label
+      hint: null
+      type: select_multiple
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 12
+      name: welder_comments
+      label: welder_comments_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: inspection_comments
+      label: inspection_comments_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: welder_supervisor_signature
+      label: welder_supervisor_signature_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: production_supervisor_signature
+      label: production_supervisor_signature_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: quality_control_signature
+      label: quality_control_signature_label
+      hint: null
+      type: text
+      options: []
+      required: false

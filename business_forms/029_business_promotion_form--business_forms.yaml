@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Promotion Form
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer Information --
+      type: note
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: Your street address
+      type: text
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      required: false
+    - id: 8
+      name: state_province
+      label: State or Province
+      hint: Your state or province
+      type: text
+      required: false
+    - id: 9
+      name: zip_postal
+      label: Zip or Postal Code
+      hint: Your postal code
+      type: text
+      required: false
+    - id: 10
+      name: section_shopping_habits
+      label: -- Shopping Habits --
+      type: note
+      required: false
+    - id: 11
+      name: visit_frequency
+      label: How Often Do You Visit
+      hint: Your shopping frequency
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Occasionally
+      - First time
+      required: true
+    - id: 12
+      name: favorite_stores
+      label: Favorite Stores or Departments
+      hint: Which stores do you prefer
+      type: text
+      required: false
+    - id: 13
+      name: section_interests
+      label: -- Shopping Interests --
+      type: note
+      required: false
+    - id: 14
+      name: product_interests
+      label: Product Categories of Interest
+      hint: Check all that interest you
+      type: select_multiple
+      options:
+      - Clothing and Fashion
+      - Electronics
+      - Home and Garden
+      - Health and Beauty
+      - Food and Groceries
+      - Sports and Recreation
+      - Books and Media
+      - Other
+      required: true
+    - id: 15
+      name: what_to_buy
+      label: What Would You Like to Buy Today
+      hint: Products you are looking for
+      type: text
+      required: false
+    - id: 16
+      name: section_marketing
+      label: -- Marketing and Awareness --
+      type: note
+      required: false
+    - id: 17
+      name: how_heard_about_us
+      label: How Did You Hear About Our Store
+      hint: Source of awareness
+      type: select_one
+      options:
+      - Word of Mouth
+      - Social Media
+      - Advertisement
+      - Website Search
+      - Referral
+      - Promotion Email
+      - Other
+      required: false
+    - id: 18
+      name: interested_promotions
+      label: Interested in Our Promotions
+      hint: Would you like to hear about special offers
+      type: select_one
+      options:
+      - Yes, sign me up
+      - Maybe
+      - No, thanks
+      required: false
+    - id: 19
+      name: section_feedback
+      label: -- Customer Feedback --
+      type: note
+      required: false
+    - id: 20
+      name: store_experience
+      label: Overall Store Experience
+      hint: Rate your shopping experience
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: false
+    - id: 21
+      name: improvement_suggestions
+      label: Suggestions for Improvement
+      hint: How can we serve you better
+      type: text
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      required: false

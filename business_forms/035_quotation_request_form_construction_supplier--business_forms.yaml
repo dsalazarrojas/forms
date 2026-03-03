@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quotation Request Form (Construction Supplier)
+    pages:
+    - id: 1
+      name: quotation_request_form_construction_supplier
+      label: Quotation Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quotation_request_form_construction_supplier_1
+      label: Construction Supplier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: quotation_request_form_construction_supplier_2
+      label: Materials
+      hint: null
+      type: select_multiple
+      options:
+      - Material 1
+      - Material 2
+      - Material 3
+      required: true
+    - id: 4
+      name: quotation_request_form_construction_supplier_3
+      label: Construction Services
+      hint: null
+      type: select_one
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: false
+    - id: 5
+      name: quotation_request_form_construction_supplier_4
+      label: Requested Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: quotation_request_form_construction_supplier_5
+      label: Requested Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: quotation_request_form_construction_supplier_6
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: quotation_request_form_construction_supplier_7
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference RSVP Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Full Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: We will send confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Company or institution name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rsvp_status
+      label: Will you attend the conference
+      hint: Please confirm your attendance
+      type: select_one
+      options:
+      - Yes I Will Attend
+      - No I Cannot Attend
+      - Maybe Undecided
+      required: true
+    - id: 7
+      name: attendance_days
+      label: Which days will you attend
+      hint: Select all days you plan to attend
+      type: select_multiple
+      options:
+      - Day 1 - Opening Keynote
+      - Day 2 - Main Sessions
+      - Day 3 - Workshops
+      - Day 4 - Closing Session
+      - All Days
+      required: false
+    - id: 8
+      name: session_tracks
+      label: Which tracks interest you
+      hint: Select your areas of interest
+      type: select_multiple
+      options:
+      - Technology and Innovation
+      - Business Strategy
+      - Research and Development
+      - Leadership and Management
+      - Networking Events
+      - All Tracks
+      required: false
+    - id: 9
+      name: meal_preference
+      label: Meal Preference
+      hint: For catering purposes
+      type: select_one
+      options:
+      - No Preference
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      required: true
+    - id: 10
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Please specify any allergies or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: networking_events
+      label: Will you attend networking events
+      hint: Evening receptions and mixers
+      type: select_one
+      options:
+      - Yes All Events
+      - Yes Some Events
+      - No Will Not Attend
+      required: true
+    - id: 12
+      name: accommodation_needed
+      label: Do you need accommodation assistance
+      hint: Hotel recommendations or bookings
+      type: select_one
+      options:
+      - Yes Need Assistance
+      - No Already Booked
+      - No Not Required
+      required: true
+    - id: 13
+      name: transportation_needed
+      label: Do you need transportation information
+      hint: Airport transfers or local transport
+      type: select_one
+      options:
+      - Yes Need Information
+      - No Familiar with Area
+      - No Not Required
+      required: false
+    - id: 14
+      name: accessibility_requirements
+      label: Accessibility Requirements
+      hint: Any special accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: tshirt_size
+      label: T-Shirt Size
+      hint: For conference swag bag
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - X-Large
+      - XX-Large
+      - Prefer Not to Say
+      required: false
+    - id: 16
+      name: marketing_consent
+      label: May we contact you about future events
+      hint: Opt-in for marketing communications
+      type: select_one
+      options:
+      - Yes Please Contact Me
+      - No Thank You
+      required: true
+    - id: 17
+      name: how_did_you_hear
+      label: How did you hear about this conference
+      hint: Help us improve our outreach
+      type: select_one
+      options:
+      - Email Invitation
+      - Social Media
+      - Colleague Referral
+      - Website Search
+      - Professional Association
+      - Other
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
+      hint: Any questions or special requests
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: rsvp_deadline_acknowledgment
+      label: I understand the RSVP deadline
+      hint: Confirm you are aware of deadlines
+      type: select_one
+      options:
+      - I Understand
+      - Need More Information
+      required: true

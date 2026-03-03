@@ -1,0 +1,199 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Botox Consent Form
+    pages:
+      - id: 1
+        name: patient_name
+        label: Patient Name
+        hint: Full legal name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: patient_dob
+        label: Date of Birth
+        hint: MM/DD/YYYY
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: patient_id
+        label: Patient ID Number
+        hint: Medical record number if applicable
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: procedure_date
+        label: Procedure Date
+        hint: Scheduled date for Botox treatment
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: procedure_type
+        label: Procedure Type
+        hint: Type of botulinum toxin treatment
+        type: select_one
+        options:
+          - Botox Cosmetic
+          - Dysport
+          - Xeomin
+          - Jeuveau
+          - Other botulinum toxin type A
+        required: true
+      - id: 6
+        name: treatment_areas
+        label: Treatment Areas
+        hint: Select all areas to be treated
+        type: select_multiple
+        options:
+          - Glabellar lines (frown lines)
+          - Forehead horizontal lines
+          - Lateral canthal lines (crow's feet)
+          - Bunny lines (nose)
+          - Perioral lines (lip lines)
+          - Chin dimpling
+          - Masseter muscles (jaw slimming)
+          - Neck bands
+          - Hyperhidrosis (excessive sweating)
+          - Other
+        required: true
+      - id: 7
+        name: medical_history
+        label: Relevant Medical History
+        hint: Select any conditions that apply
+        type: select_multiple
+        options:
+          - None
+          - Neuromuscular disorders (ALS, myasthenia gravis)
+          - Swallowing difficulties
+          - Breathing problems
+          - Bleeding disorders
+          - Active infection at injection site
+          - Previous facial surgery
+          - Pregnancy
+          - Breastfeeding
+          - Allergies to botulinum toxin
+        required: true
+      - id: 8
+        name: current_medications
+        label: Current Medications
+        hint: Include prescription, OTC, and supplements
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: blood_thinners
+        label: Blood Thinner Use
+        hint: Are you taking any blood thinning medications
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 10
+        name: previous_botox
+        label: Previous Botox Treatments
+        hint: Have you received Botox before
+        type: select_one
+        options:
+          - Yes, satisfied with results
+          - Yes, unsatisfied with results
+          - No, first time
+        required: true
+      - id: 11
+        name: risks_understanding
+        label: Understanding of Risks
+        hint: I understand potential side effects including bruising, swelling, headache, drooping eyelids, and asymmetry
+        type: select_one
+        options:
+          - Yes, I understand
+          - No, I need clarification
+        required: true
+      - id: 12
+        name: alternatives_discussed
+        label: Alternatives Discussed
+        hint: Have alternative treatments been discussed with you
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 13
+        name: questions_answered
+        label: Questions Answered
+        hint: Have all your questions been answered
+        type: select_one
+        options:
+          - Yes, all questions answered
+          - No, I still have questions
+        required: true
+      - id: 14
+        name: voluntary_consent
+        label: Voluntary Consent
+        hint: I am consenting voluntarily without coercion
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 15
+        name: follow_up_agreement
+        label: Follow-up Agreement
+        hint: I agree to attend follow-up appointments as recommended
+        type: select_one
+        options:
+          - Yes, I agree
+          - No
+        required: true
+      - id: 16
+        name: photo_documentation
+        label: Photo Documentation Consent
+        hint: I consent to clinical photography for medical records
+        type: select_one
+        options:
+          - Yes, for medical records
+          - Yes, for medical records and education
+          - No consent
+        required: true
+      - id: 17
+        name: patient_signature
+        label: Patient Signature
+        hint: Type your full name as electronic signature
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: signature_date
+        label: Date of Signature
+        hint: Date signed
+        type: date
+        options: []
+        required: true
+      - id: 19
+        name: provider_name
+        label: Provider Name
+        hint: Name of treating physician or practitioner
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: provider_signature
+        label: Provider Signature
+        hint: Provider electronic signature
+        type: text
+        options: []
+        required: true

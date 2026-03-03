@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Booking Cancellation Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: booking_reference
+      label: Booking Reference Number
+      hint: Your booking confirmation number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: original_check_in
+      label: Original Check-In Date
+      hint: Scheduled arrival date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: original_check_out
+      label: Original Check-Out Date
+      hint: Scheduled departure date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: room_type
+      label: Room Type Booked
+      hint: Type of room booked
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: number_of_nights
+      label: Number of Nights
+      hint: Total nights booked
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: number_of_guests
+      label: Number of Guests
+      hint: Total guests on booking
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: cancellation_reason
+      label: Reason for Cancellation
+      hint: Select the main reason
+      type: select_one
+      options:
+      - Change of Plans
+      - Medical Emergency
+      - Family Emergency
+      - Travel Restrictions
+      - Weather Issues
+      - Found Alternative
+      - Financial Reasons
+      - Work Commitment
+      - Other
+      required: true
+    - id: 11
+      name: cancellation_reason_details
+      label: Cancellation Details
+      hint: Please explain your reason
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: cancellation_date
+      label: Date of Cancellation Request
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: days_before_checkin
+      label: Days Before Check-In
+      hint: How many days before arrival
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: refund_requested
+      label: Are You Requesting a Refund
+      hint: Select if you want refund
+      type: select_one
+      options:
+      - Yes Full Refund
+      - Yes Partial Refund
+      - No Refund Needed
+      - Credit for Future Stay
+      required: true
+    - id: 15
+      name: refund_amount
+      label: Expected Refund Amount
+      hint: Amount you expect
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: original_payment_method
+      label: Original Payment Method
+      hint: How did you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Cash
+      - Other
+      required: false
+    - id: 17
+      name: refund_method
+      label: Preferred Refund Method
+      hint: How should we refund
+      type: select_one
+      options:
+      - Original Payment Method
+      - Bank Transfer
+      - Credit for Future Stay
+      - Travel Voucher
+      required: false
+    - id: 18
+      name: travel_insurance
+      label: Do You Have Travel Insurance
+      hint: Select if you have insurance
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: false
+    - id: 19
+      name: rebooking_interest
+      label: Are You Interested in Rebooking
+      hint: Would you like to rebook
+      type: select_one
+      options:
+      - Yes Definitely
+      - Maybe
+      - No Thanks
+      required: false
+    - id: 20
+      name: preferred_rebooking_date
+      label: Preferred Rebooking Date
+      hint: When would you like to rebook
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: cancellation_policy_ack
+      label: I Understand the Cancellation Policy
+      hint: By selecting yes you acknowledge the policy
+      type: select_one
+      options:
+      - Yes I understand
+      - No I do not understand
+      required: true
+    - id: 22
+      name: feedback_willing
+      label: Would You Provide Feedback
+      hint: Would you share feedback
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 23
+      name: feedback_comments
+      label: Feedback Comments
+      hint: Share any feedback
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: future_contact
+      label: May We Contact You About Future Offers
+      hint: Permission to contact
+      type: select_one
+      options:
+      - Yes Please
+      - No Thanks
+      required: false
+    - id: 25
+      name: terms_agreement
+      label: I Agree to Cancellation Terms
+      hint: By selecting yes you agree to terms
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true

@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Departmental SWOT Analysis Form
+    pages:
+    - id: 1
+      name: team_name
+      label: Team name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: team_location
+      label: Team location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: internal_strengths
+      label: Internal Strengths
+      hint: List 3-5 internal strengths.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: internal_weaknesses
+      label: Internal Weaknesses
+      hint: List 3-5 internal weaknesses.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: external_strengths
+      label: External Strengths
+      hint: List 3-5 external strengths.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: external_weaknesses
+      label: External Weaknesses
+      hint: List 3-5 external weaknesses.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: opportunities
+      label: Opportunities
+      hint: List 3-5 opportunities.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: threats
+      label: Threats
+      hint: List 3-5 threats.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: swot_insights
+      label: SWOT Insights
+      hint: Provide 1-2 short paragraphs describing the team's SWOT insights.
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: team_leaders
+      label: Team Leaders
+      hint: List 3-5 team leaders responsible for departmental SWOT analysis.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true

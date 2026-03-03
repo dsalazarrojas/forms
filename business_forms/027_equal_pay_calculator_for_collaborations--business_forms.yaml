@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equal Pay Calculator For Collaborations
+    pages:
+    - id: 1
+      name: collaboration_roles
+      label: Collaboration roles
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: total_amount
+      label: Total amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: pay_method
+      label: Pay method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: project_budget
+      label: Project budget
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role_budget
+      label: Role budget
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: collaboration_budget
+      label: Collaboration budget
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: collaboration_currency
+      label: Collaboration currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: collaborators
+      label: Collaborators
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: preferred_pay
+      label: Preferred pay method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: role_percentage
+      label: Role percentage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: role_percentage_total
+      label: Role percentage total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: budget_allocation
+      label: Budget allocation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

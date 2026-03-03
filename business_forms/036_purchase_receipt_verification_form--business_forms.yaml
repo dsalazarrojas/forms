@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Purchase Receipt Verification Form
+    pages:
+    - id: 1
+      name: purchase_receipt_verification_form
+      label: Receipt Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: receipt_number
+      label: Receipt Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_of_purchase
+      label: Date of Purchase
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_purchase
+      label: Time of Purchase
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: amount_paid
+      label: Amount Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      - Discover
+      - PayPal
+      required: true
+    - id: 7
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Early_Booking_Reservation_Request_Form
+    pages:
+    - id: 1
+      name: early_booking_reservation_request_form_1
+      label: First_Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: early_booking_date
+      label: Booking_Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: early_booking_time
+      label: Booking_Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: early_booking_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: early_booking_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: early_booking_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: early_booking_availability
+      label: Availability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: early_booking_status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Declined
+      required: false
+    - id: 9
+      name: early_booking_source
+      label: Source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

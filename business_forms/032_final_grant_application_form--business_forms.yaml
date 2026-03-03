@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Final Grant Application Form
+    pages:
+    - id: 1
+      name: grant_application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: Enter your name and contact details
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_summary
+      label: Project Summary
+      hint: Describe your project in 100 characters or less
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_budget
+      label: Budget
+      hint: Enter your budget breakdown
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: time_frames
+      label: Time Frames
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: grant_amount
+      label: Grant Amount
+      hint: Enter grant amount (if any)
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: grant_status
+      label: Grant Status
+      hint: null
+      type: select_one
+      options:
+      - Grant Awarded
+      - Grant Denied
+      - Pending
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

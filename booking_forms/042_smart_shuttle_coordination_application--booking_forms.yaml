@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Shuttle Coordination Application
+    pages:
+    - id: 1
+      name: smart_shuttle_form
+      label: Smart shuttle form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trip_details
+      label: Trip details
+      hint: Enter trip details here
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: departure_time
+      label: Departure time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: arrival_time
+      label: Arrival time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: trip_date
+      label: Trip date
+      hint: Enter trip date here
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: trip_type
+      label: Trip type
+      hint: null
+      type: select_one
+      options:
+      - Event
+      - Regular
+      - School
+      - Other
+      required: false
+    - id: 7
+      name: rider_capacity
+      label: Rider capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_capacity
+      label: Vehicle capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: rider_needs
+      label: Rider needs
+      hint: null
+      type: select_multiple
+      options:
+      - Wheelchair accessible
+      - Elderly assistance
+      - Child seat
+      - Other needs
+      required: false

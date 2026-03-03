@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: cruise_booking_communication_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: First Name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Last Name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_language
+      label: Preferred Language
+      hint: Preferred Language
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      required: false
+    - id: 6
+      name: cruise_type
+      label: Type of Cruise
+      hint: Type of Cruise
+      type: select_one
+      options:
+      - Ocean View
+      - Luxury
+      - Budget
+      - Family
+      required: false
+    - id: 7
+      name: travel_date
+      label: Travel Date
+      hint: Travel Date
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: travel_duration
+      label: Travel Duration
+      hint: Travel Duration
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: special_requests
+      label: Special Requests
+      hint: Special Requests
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: accommodation_type
+      label: Accommodation Type
+      hint: Accommodation Type
+      type: select_multiple
+      options:
+      - Hotel
+      - Resort
+      - Cabin
+      required: false
+    - id: 11
+      name: arrival_time
+      label: Arrival Time
+      hint: Arrival Time
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: travel_agent
+      label: Travel Agent
+      hint: Travel Agent
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: Notes
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: travel_agent_phone
+      label: Travel Agent Phone
+      hint: Travel Agent Phone
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: Assigned Tool
+      hint: Assigned Tool
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 16
+      name: assigned_tool_other
+      label: Other (Specify)
+      hint: Other (Specify)
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assigned_tool_other_text
+      label: Other
+      hint: Other
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: assigned_location
+      label: Assigned Location
+      hint: Assigned Location
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by
+      label: Submitted By
+      hint: Submitted By
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitted_date
+      label: Submitted Date
+      hint: Submitted Date
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: submission_time
+      label: Submission Time
+      hint: Submission Time
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: assigned_time
+      label: Assigned Time
+      hint: Assigned Time
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: comments
+      label: Comments
+      hint: Comments
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by
+      label: Submitted By
+      hint: Submitted By
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_id
+      label: Form ID
+      hint: Form ID
+      type: text
+      options: []
+      required: false

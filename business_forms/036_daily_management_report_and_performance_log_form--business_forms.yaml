@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Management Report And Performance Log Form
+    pages:
+    - id: 1
+      name: daily_management_report_form
+      label: daily management report form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: task_id
+      label: task id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: task_name
+      label: task name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: task_date
+      label: task date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: task_start_time
+      label: task start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: task_status
+      label: task status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Not Assigned
+      required: false
+    - id: 7
+      name: task_status_options
+      label: task status options
+      hint: null
+      type: select_multiple
+      options:
+      - Task A
+      - Task B
+      - Task C
+      required: false
+    - id: 8
+      name: employee_id
+      label: employee id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: employee_name
+      label: employee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_email
+      label: employee email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

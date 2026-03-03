@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commission Agreement Form
+    pages:
+    - id: 1
+      name: section_agreement_parties
+      label: -- Parties to the Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Principal Company Name
+      hint: The entity paying the commission
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_address
+      label: Company Registered Office Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: salesperson_name
+      label: Full Name of the Salesperson or Agent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: salesperson_id
+      label: ID or Social Security Number of Salesperson
+      hint: Required for tax purposes
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: salesperson_email
+      label: Salesperson Email Address
+      hint: For official communication
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: section_duties_products
+      label: -- Duties and Products --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: salesperson_duties
+      label: Brief Description of Salesperson's Duties
+      hint: Describe what the agent is expected to do
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: product_list
+      label: Products or Services to be Sold
+      hint: List the specific products eligible for commission
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: territory
+      label: Assigned Sales Territory
+      hint: If restricted to a specific region
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_commission_structure
+      label: -- Commission Structure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: commission_rate
+      label: Commission Rate (%)
+      hint: Percentage of each sale to be paid as commission
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: fixed_amount_per_sale
+      label: Fixed Commission Amount per Sale
+      hint: If applicable, otherwise enter 0
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: payment_schedule
+      label: Commission Payment Frequency
+      hint: How often commissions are paid
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 15
+      name: minimum_sales_quota
+      label: Minimum Sales Quota
+      hint: If applicable, enter target amount
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: section_legal_terms
+      label: -- Legal Terms and Duration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: agreement_start_date
+      label: Effective Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: agreement_end_date
+      label: Termination Date
+      hint: If indefinite, leave blank
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: governing_state
+      label: Governing State Law
+      hint: The state whose laws apply to this agreement
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: signatures_agreement
+      label: I agree to the terms of this commission agreement
+      hint: Type your full name to sign
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: date_of_signature
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

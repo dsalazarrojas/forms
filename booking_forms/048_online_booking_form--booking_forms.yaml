@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Booking Form
+    pages:
+    - id: 1
+      name: transportation_plan
+      label: Transportation Plan
+      hint: Select transportation details
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: pickup_location
+      label: Pickup Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: Select date
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: Select location
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

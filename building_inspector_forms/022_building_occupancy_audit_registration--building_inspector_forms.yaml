@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Occupancy Audit Registration
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: When registering for the audit
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: facility_name
+      label: Facility Name
+      hint: Building or facility name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: facility_address
+      label: Facility Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: building_type
+      label: Building Type
+      hint: What kind of facility
+      type: select_one
+      options:
+      - Commercial Office
+      - Residential
+      - Industrial
+      - Medical
+      - Educational
+      - Government
+      - Hospitality
+      - Mixed Use
+      - Other
+      required: true
+    - id: 5
+      name: building_sqft
+      label: Total Square Footage
+      hint: Building size
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: num_floors
+      label: Number of Floors
+      hint: How many stories
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: manager_name
+      label: Facility Manager Name
+      hint: Primary contact
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: manager_email
+      label: Manager Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: manager_phone
+      label: Manager Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: preferred_audit_date
+      label: Preferred Audit Date
+      hint: When should audit occur
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: audit_duration
+      label: Expected Audit Duration
+      hint: How long the audit will take
+      type: select_one
+      options:
+      - Less than 2 hours
+      - 2-4 hours
+      - Half day
+      - Full day
+      - Multiple days
+      required: false
+    - id: 12
+      name: audit_focus_areas
+      label: Focus Areas for Audit
+      hint: What to emphasize
+      type: select_multiple
+      options:
+      - Fire Safety Compliance
+      - Accessibility Compliance
+      - Emergency Procedures
+      - Occupancy Limits
+      - Exit Requirements
+      - Safety Equipment
+      - Security Systems
+      - Environmental Standards
+      required: true
+    - id: 13
+      name: current_occupancy
+      label: Current Building Occupancy
+      hint: Approximate number of people
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: occupancy_changes_recent
+      label: Recent Occupancy Changes
+      hint: Any changes in recent months
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: previous_audits
+      label: Previous Occupancy Audits Conducted
+      hint: Any prior audits
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 16
+      name: prior_audit_date
+      label: Date of Last Audit
+      hint: When was last audit
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: compliance_issues
+      label: Known Compliance Issues
+      hint: Any known problems
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: recent_modifications
+      label: Recent Building Modifications
+      hint: Any changes to structure
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: modification_details
+      label: Details of Modifications
+      hint: Describe recent changes
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: facility_access
+      label: Key Access and Security
+      hint: Arrangements for inspector access
+      type: text
+      options: []
+      required: false

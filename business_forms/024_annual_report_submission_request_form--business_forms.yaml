@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Report Submission Request Form
+    pages:
+    - id: 1
+      name: department_name
+      label: Department or Division Name
+      hint: Name of the submitting unit
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department_head
+      label: Department Head Name
+      hint: Person responsible for report
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: head_email
+      label: Department Head Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: head_phone
+      label: Department Head Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: report_contact
+      label: Report Submission Contact
+      hint: Person submitting the report
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: Email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: fiscal_year
+      label: Reporting Fiscal Year
+      hint: Year being reported
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: reporting_period
+      label: Reporting Period
+      hint: Specific dates covered
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: report_type
+      label: Type of Report
+      hint: null
+      type: select_one
+      options:
+      - Financial Report
+      - Operational Report
+      - Performance Report
+      - Strategic Report
+      - Compliance Report
+      - Other
+      required: true
+    - id: 10
+      name: report_format
+      label: Report Format
+      hint: null
+      type: select_one
+      options:
+      - PDF document
+      - Word document
+      - Excel spreadsheet
+      - Presentation
+      - Multiple formats
+      - Other
+      required: true
+    - id: 11
+      name: report_length
+      label: Estimated Report Length
+      hint: Number of pages
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: key_metrics_included
+      label: Key metrics and KPIs included
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partial
+      required: true
+    - id: 13
+      name: comparison_prior_year
+      label: Comparison with prior year
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not applicable
+      required: true
+    - id: 14
+      name: budget_variance
+      label: Budget vs actual analysis included
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partial
+      - Not applicable
+      required: false
+    - id: 15
+      name: highlights_summary
+      label: Executive summary or highlights
+      hint: null
+      type: select_one
+      options:
+      - Yes - included
+      - No - not included
+      - Partial - brief summary only
+      required: true
+    - id: 16
+      name: challenges_covered
+      label: Challenges and obstacles discussed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partial
+      required: false
+    - id: 17
+      name: future_outlook
+      label: Future outlook and plans included
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partial
+      required: true
+    - id: 18
+      name: submission_deadline
+      label: Preferred Submission Deadline
+      hint: When should report be completed
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: earliest_availability
+      label: Earliest Available Submission Date
+      hint: When can report be ready
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: extension_needed
+      label: May need extension beyond deadline
+      hint: null
+      type: select_one
+      options:
+      - No extension needed
+      - May need extension
+      - Will need extension
+      required: true
+    - id: 21
+      name: extension_reason
+      label: Reason if extension is anticipated
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submission_method
+      label: Preferred Submission Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Shared drive or portal
+      - In-person delivery
+      - File transfer service
+      - Printed copy
+      required: true
+    - id: 23
+      name: additional_notes
+      label: Additional notes or requests
+      hint: null
+      type: text
+      options: []
+      required: false

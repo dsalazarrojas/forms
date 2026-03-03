@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Botulinum Toxin Treatment Record Form
+    pages:
+    - id: 1
+      name: section_header_client
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_id
+      label: Client ID Number
+      hint: Medical record or client ID
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: For follow-up communication
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: section_header_treatment
+      label: -- Treatment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: treatment_date
+      label: Treatment Date
+      hint: Date procedure was performed
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: treatment_time
+      label: Time of Treatment
+      hint: Start time of procedure
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: provider_name
+      label: Provider Name
+      hint: Name of treating professional
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: product_used
+      label: Product Used
+      hint: Botox, Dysport, Xeomin, etc.
+      type: select_one
+      options:
+      - Botox
+      - Dysport
+      - Xeomin
+      - Jeuveau
+      - Other
+      required: true
+    - id: 11
+      name: total_units
+      label: Total Units Administered
+      hint: Complete dose given
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_header_areas
+      label: -- Treatment Areas --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: areas_treated
+      label: Areas Treated
+      hint: Select all areas injected
+      type: select_multiple
+      options:
+      - Forehead
+      - Glabella (between brows)
+      - Crow feet
+      - Bunny lines
+      - Jawline
+      - Neck
+      - Chin
+      - Other areas
+      required: true
+    - id: 14
+      name: detailed_locations
+      label: Specific injection locations and units per area
+      hint: Detailed breakdown of treatment
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_header_outcomes
+      label: -- Treatment Outcomes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: immediate_appearance
+      label: Immediate appearance post-treatment
+      hint: Redness, swelling, symmetry notes
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: client_satisfaction
+      label: Client Satisfaction Level
+      hint: Immediate post-treatment feedback
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Unsatisfied
+      - Very unsatisfied
+      required: false
+    - id: 18
+      name: section_header_follow_up
+      label: -- Follow-up Schedule --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: recommended_follow_up
+      label: Recommended Follow-up Date
+      hint: Typically 2 weeks for assessment
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: next_treatment_date
+      label: Next Treatment Scheduled
+      hint: For maintenance results
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: provider_signature
+      label: Provider Acknowledgment
+      hint: Treatment record completed by provider
+      type: select_one
+      options:
+      - I confirm this record is accurate
+      - Record needs corrections
+      required: true

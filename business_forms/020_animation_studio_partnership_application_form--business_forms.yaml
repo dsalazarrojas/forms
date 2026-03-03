@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animation Studio Partnership Application Form
+    pages:
+    - id: 1
+      name: company_info_header
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Your studio or production company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_type
+      label: Company Type
+      hint: What type of studio are you
+      type: select_one
+      options:
+      - Animation Studio
+      - Production Company
+      - Creative Agency
+      - Independent Studio
+      - Educational Institution
+      - Distribution Company
+      - Post-Production Facility
+      - Other
+      required: true
+    - id: 4
+      name: company_website
+      label: Company Website
+      hint: Your website URL
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: years_in_business
+      label: Years in Business
+      hint: How long has your company been operating
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 6
+      name: contact_info_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_person_name
+      label: Primary Contact Person
+      hint: Name of main contact
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_title
+      label: Contact Person Title
+      hint: Position or role
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: business_address
+      label: Business Address
+      hint: Physical location of your company
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: partnership_header
+      label: -- Partnership Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: partnership_type
+      label: Type of Partnership Sought
+      hint: What kind of partnership are you interested in
+      type: select_multiple
+      options:
+      - Co-Production
+      - Technical Collaboration
+      - Resource Sharing
+      - Distribution Deal
+      - Talent Exchange
+      - Equipment Sharing
+      - Joint Projects
+      - Revenue Sharing
+      required: true
+    - id: 14
+      name: expertise_areas
+      label: Your Studio's Main Areas of Expertise
+      hint: What are you best at
+      type: select_multiple
+      options:
+      - 2D Animation
+      - 3D Animation
+      - Motion Graphics
+      - Stop-Motion
+      - Visual Effects
+      - Character Design
+      - Storyboarding
+      - Sound Design
+      - Color Correction
+      required: true
+    - id: 15
+      name: portfolio_link
+      label: Portfolio or Showreel Link
+      hint: URL to your work samples
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: project_types_header
+      label: -- Project Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: project_types
+      label: Types of Projects You Have Completed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Feature Films
+      - TV Series
+      - Commercial Advertisements
+      - Educational Content
+      - Music Videos
+      - Web Series
+      - Documentaries
+      - Video Games
+      - Explainer Videos
+      required: true
+    - id: 18
+      name: typical_project_scope
+      label: Typical Project Scope and Budget
+      hint: What is your usual project size
+      type: select_one
+      options:
+      - Small projects under 50K
+      - Medium projects 50K-250K
+      - Large projects 250K-1M
+      - Major projects over 1M
+      - Varies widely
+      required: false
+    - id: 19
+      name: team_size_header
+      label: -- Team and Capabilities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: team_size
+      label: Team Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-5 people
+      - 6-15 people
+      - 16-30 people
+      - 31-50 people
+      - Over 50 people
+      required: true
+    - id: 21
+      name: available_capacity
+      label: Available Project Capacity
+      hint: How much work can you take on
+      type: select_one
+      options:
+      - Full capacity available
+      - Some capacity available
+      - Limited capacity
+      - Currently at capacity
+      required: true
+    - id: 22
+      name: equipment_software
+      label: Key Equipment and Software
+      hint: What tools and technology you use
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: motivation_header
+      label: -- Motivation and Alignment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: partnership_motivation
+      label: Why are you interested in partnering
+      hint: Describe your reasons and goals
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: strengths
+      label: Key Strengths of Your Studio
+      hint: What makes you valuable as a partner
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Impact On Small Businesses
+    pages:
+    - id: 1
+      name: business_profile_header
+      label: '--- Business Profile ---'
+      hint: Basic information about your business.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Business / Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: industry_sector
+      label: Industry Sector
+      hint: null
+      type: select_one
+      options:
+      - label: Retail / E-commerce
+        value: retail
+      - label: Professional Services (Legal, Accounting, etc.)
+        value: professional_services
+      - label: Healthcare & Wellness
+        value: healthcare
+      - label: Hospitality & Food Service
+        value: hospitality
+      - label: Manufacturing & Construction
+        value: manufacturing
+      - label: Technology & Software
+        value: technology
+      - label: Other
+        value: other
+      required: true
+    - id: 4
+      name: employee_count
+      label: Number of Employees
+      hint: null
+      type: select_one
+      options:
+      - label: Solopreneur (1)
+        value: 1
+      - label: Micro (2-5)
+        value: 2-5
+      - label: Small (6-20)
+        value: 6-20
+      - label: Medium-Small (21-50)
+        value: 21-50
+      - label: Medium (51-100)
+        value: 51-100
+      required: true
+    - id: 5
+      name: years_in_operation
+      label: Years in Operation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: ai_adoption_header
+      label: '--- AI Adoption and Usage ---'
+      hint: Your current relationship with Artificial Intelligence.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: current_ai_adoption_status
+      label: What is your current level of AI adoption?
+      hint: null
+      type: select_one
+      options:
+      - label: Not currently using or considering
+        value: none
+      - label: Actively researching / Planning
+        value: planning
+      - label: Testing / Pilot programs in place
+        value: pilot
+      - label: Fully integrated into some workflows
+        value: integrated
+      - label: AI-first business model
+        value: ai_first
+      required: true
+    - id: 8
+      name: ai_tools_implemented
+      label: Which AI-related tools are you currently using?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - label: Generative AI (ChatGPT, Claude, Jasper)
+        value: gen_ai
+      - label: AI Chatbots for Customer Service
+        value: chatbots
+      - label: Marketing Automation with AI
+        value: marketing_ai
+      - label: AI-powered Analytics / Forecasting
+        value: analytics
+      - label: Image / Video Generation
+        value: creative_ai
+      - label: None
+        value: none
+      required: true
+    - id: 9
+      name: primary_benefits_realized
+      label: Primary Benefits Experienced or Expected
+      hint: null
+      type: select_multiple
+      options:
+      - label: Increased Efficiency / Productivity
+        value: efficiency
+      - label: Cost Savings / Reduced Overheads
+        value: cost_savings
+      - label: Improved Customer Experience
+        value: customer_exp
+      - label: Better Decision Making / Insights
+        value: insights
+      - label: Creative Content Generation
+        value: content
+      required: true
+    - id: 10
+      name: adoption_barriers_header
+      label: '--- Challenges and Barriers ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: main_adoption_barriers
+      label: What are the main barriers to adopting AI in your business?
+      hint: null
+      type: select_multiple
+      options:
+      - label: High Implementation Costs
+        value: cost
+      - label: Lack of In-house Technical Expertise
+        value: lack_expertise
+      - label: Concerns about Data Privacy & Security
+        value: privacy
+      - label: Ethical Concerns / Potential Bias
+        value: ethics
+      - label: Difficulty Integrating with Legacy Systems
+        value: integration
+      - label: Uncertainty about ROI
+        value: roi_uncertainty
+      required: true
+    - id: 12
+      name: impact_on_staffing
+      label: Impact on Hiring and Staffing
+      hint: How has AI affected your workforce?
+      type: select_one
+      options:
+      - label: Reduced need for staff (Replaced by AI)
+        value: reduced
+      - label: Increased need for staff (New AI-related roles)
+        value: increased
+      - label: No change in staffing levels
+        value: no_change
+      - label: Shifted existing staff to higher-value tasks
+        value: shifted
+      required: true
+    - id: 13
+      name: future_ai_investment
+      label: Future Investment Plans (Next 12 Months)
+      hint: How do you plan to change your AI spending?
+      type: select_one
+      options:
+      - label: Significantly Increase
+        value: increase_high
+      - label: Slightly Increase
+        value: increase_low
+      - label: Maintain Current Levels
+        value: maintain
+      - label: Decrease Investment
+        value: decrease
+      required: true
+    - id: 14
+      name: concern_level_competition
+      label: How concerned are you about competitors using AI more effectively than
+        you?
+      hint: Rating 1 (Not concerned) to 5 (Extremely concerned)
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: open_feedback
+      label: Additional Comments or Insights
+      hint: Any other thoughts on how AI is impacting your specific niche?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_email_optin
+      label: May we contact you to discuss your responses further?
+      hint: null
+      type: email
+      options: []
+      required: false

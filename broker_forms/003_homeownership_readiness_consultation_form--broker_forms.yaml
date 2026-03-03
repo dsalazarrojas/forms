@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homeownership Readiness Consultation Form
+    pages:
+    - id: 1
+      name: household_income
+      label: Household Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: household_size
+      label: household_size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: net_worth
+      label: net_worth
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: mortgage_history
+      label: mortgage_history
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''employed'', ''label'': ''employed''}'
+      - '{''value'': ''self_employed'', ''label'': ''self_employed''}'
+      - '{''value'': ''not_employed'', ''label'': ''not_employed''}'
+      required: false
+    - id: 6
+      name: income_source
+      label: income_source
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''salary'', ''label'': ''salary''}'
+      - '{''value'': ''self_employed'', ''label'': ''self_employed''}'
+      - '{''value'': ''other'', ''label'': ''other''}'
+      required: false
+    - id: 7
+      name: credit_score
+      label: credit_score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: debt_obligations
+      label: debt_obligations
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: assets_owned
+      label: assets_owned
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: assets_value
+      label: assets_value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: financial_goals
+      label: financial_goals
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''own_home'', ''label'': ''own_home''}'
+      - '{''value'': ''rent'', ''label'': ''rent''}'
+      - '{''value'': ''invest'', ''label'': ''invest''}'
+      required: false
+    - id: 12
+      name: home_ownership_goals
+      label: home_ownership_goals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''own_home'', ''label'': ''own_home''}'
+      - '{''value'': ''rent'', ''label'': ''rent''}'
+      - '{''value'': ''invest'', ''label'': ''invest''}'
+      required: false
+    - id: 13
+      name: mortgage_funding
+      label: mortgage_funding
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''conventional'', ''label'': ''conventional''}'
+      - '{''value'': ''fha'', ''label'': ''fha''}'
+      - '{''value'': ''va'', ''label'': ''va''}'
+      - '{''value'': ''other'', ''label'': ''other''}'
+      required: false
+    - id: 14
+      name: home_price
+      label: home_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: credit_history
+      label: credit_history
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''no_banks'', ''label'': ''no_banks''}'
+      - '{''value'': ''3_banks'', ''label'': ''3_banks''}'
+      - '{''value'': ''5_banks'', ''label'': ''5_banks''}'
+      required: false
+    - id: 16
+      name: loan_amount
+      label: loan_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: down_payment
+      label: down_payment
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: credit_inquiries
+      label: credit_inquiries
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 0, ''label'': ''none''}'
+      - '{''value'': 1, ''label'': 1}'
+      - '{''value'': 2, ''label'': 2}'
+      required: false
+    - id: 19
+      name: employment_history
+      label: employment_history
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 0, ''label'': 0}'
+      - '{''value'': 1, ''label'': 1}'
+      - '{''value'': 2, ''label'': 2}'
+      required: false
+    - id: 20
+      name: employment_verification
+      label: employment_verification
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''verified'', ''label'': ''verified''}'
+      - '{''value'': ''not_verified'', ''label'': ''not_verified''}'
+      required: false
+    - id: 21
+      name: income_verification
+      label: income_verification
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''verified'', ''label'': ''verified''}'
+      - '{''value'': ''not_verified'', ''label'': ''not_verified''}'
+      required: false
+    - id: 22
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''single_family_home'', ''label'': ''single_family_home''}'
+      - '{''value'': ''single_family_home_with_mortgage'', ''label'': ''single_family_home_with_mortgage''}'
+      - '{''value'': ''townhome'', ''label'': ''townhome''}'
+      - '{''value'': ''condominium'', ''label'': ''condominium''}'
+      - '{''value'': ''other'', ''label'': ''other''}'
+      required: false
+    - id: 23
+      name: property_location
+      label: property_location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''single_family_neighborhood'', ''label'': ''single_family_neighborhood''}'
+      - '{''value'': ''single_family_community'', ''label'': ''single_family_community''}'
+      - '{''value'': ''other'', ''label'': ''other''}'
+      required: false
+    - id: 24
+      name: property_size
+      label: property_size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''1-100'', ''label'': ''1-100''}'
+      - '{''value'': ''101-200'', ''label'': ''101-200''}'
+      - '{''value'': ''201-300'', ''label'': ''201-300''}'
+      - '{''value'': ''301-400'', ''label'': ''301-400''}'
+      required: false
+    - id: 25
+      name: closing_process
+      label: closing_process
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''preapproval'', ''label'': ''preapproval''}'
+      - '{''value'': ''preapproval_with_credit_report'', ''label'': ''preapproval_with_credit_report''}'
+      required: false

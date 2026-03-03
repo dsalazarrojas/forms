@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Innovation Lab Rental Application Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form-title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_info
+      label: project-info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_name
+      label: project-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_start_date
+      label: project-start-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: project_end_date
+      label: project-end-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: project_details
+      label: project-details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_location
+      label: project-location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_organiser
+      label: project-organiser
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_organiser_email
+      label: project-organiser-email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: project_organiser_phone
+      label: project-organiser-phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_organiser_institution
+      label: project-organiser-institution
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: project_organiser_department
+      label: project-organiser-department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: rental_period
+      label: rental-period
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: start_time
+      label: start-time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: end_time
+      label: end-time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: required_equipment
+      label: required-equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: special_equipment
+      label: special-equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: lab_location
+      label: lab-location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: lab_contact_person
+      label: lab-contact-person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: lab_location_contact_info
+      label: lab-location-contact-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: lab_phone
+      label: lab-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: lab_email
+      label: lab-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: lab_website
+      label: lab-website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: lab_equipment
+      label: lab-equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: form_submit
+      label: form-submit
+      hint: null
+      type: note
+      options: []
+      required: true

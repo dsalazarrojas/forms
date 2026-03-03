@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Product Placement Feedback Form
+    pages:
+    - id: 1
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: placement
+      label: Placement
+      hint: Provide details about product placement
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_name
+      label: Product
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_tag
+      label: Tag
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''A''}'
+      - '{''id'': ''ประก'', ''name'': ''B''}'
+      - '{''id'': 2, ''name'': ''C''}'
+      - '{''id'': 3, ''name'': ''D''}'
+      required: false
+    - id: 5
+      name: product_category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''A''}'
+      - '{''id'': 2, ''name'': ''B''}'
+      - '{''id'': 3, ''name'': ''C''}'
+      required: false
+    - id: 6
+      name: product_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''A''}'
+      - '{''id'': 2, ''name'': ''B''}'
+      - '{''id'': 3, ''name'': ''C''}'
+      required: false
+    - id: 7
+      name: customer_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: prophets
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

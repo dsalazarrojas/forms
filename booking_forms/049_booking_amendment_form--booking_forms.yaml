@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Booking Amendment Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: booking_reference
+      label: Booking Reference Number
+      hint: Your original booking number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: original_check_in
+      label: Original Check-In Date
+      hint: Original arrival date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: original_check_out
+      label: Original Check-Out Date
+      hint: Original departure date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: amendment_type
+      label: Type of Amendment
+      hint: What are you changing
+      type: select_one
+      options:
+      - Change Dates
+      - Change Room Type
+      - Change Number of Guests
+      - Add Services
+      - Remove Services
+      - Multiple Changes
+      required: true
+    - id: 8
+      name: new_check_in_date
+      label: New Check-In Date
+      hint: New arrival date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: new_check_out_date
+      label: New Check-Out Date
+      hint: New departure date
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: new_room_type
+      label: New Room Type
+      hint: Select new room type
+      type: select_one
+      options:
+      - Standard Room
+      - Deluxe Room
+      - Suite
+      - Studio
+      - One Bedroom
+      - Two Bedroom
+      - No Change
+      required: false
+    - id: 11
+      name: new_number_of_guests
+      label: New Number of Guests
+      hint: Updated guest count
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: additional_services
+      label: Additional Services
+      hint: Select services to add
+      type: select_multiple
+      options:
+      - Airport Transfer
+      - Breakfast
+      - Late Check-Out
+      - Early Check-In
+      - Room Service
+      - Spa Package
+      - None
+      required: false
+    - id: 13
+      name: services_to_remove
+      label: Services to Remove
+      hint: Select services to remove
+      type: select_multiple
+      options:
+      - Airport Transfer
+      - Breakfast
+      - Late Check-Out
+      - Early Check-In
+      - Room Service
+      - Spa Package
+      - None
+      required: false
+    - id: 14
+      name: reason_for_change
+      label: Reason for Amendment
+      hint: Why are you making this change
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: special_requests
+      label: Special Requests
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: price_difference_acknowledgment
+      label: I Understand There May Be Price Differences
+      hint: By selecting yes you acknowledge potential charges
+      type: select_one
+      options:
+      - Yes I understand
+      - No I do not understand
+      required: true
+    - id: 17
+      name: cancellation_policy_ack
+      label: I Understand Amendment Policies
+      hint: By selecting yes you acknowledge policies
+      type: select_one
+      options:
+      - Yes I understand
+      - No I do not understand
+      required: true
+    - id: 18
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      required: true
+    - id: 19
+      name: urgency
+      label: How Urgent Is This Change
+      hint: Select urgency
+      type: select_one
+      options:
+      - Not Urgent
+      - Somewhat Urgent
+      - Urgent
+      - Very Urgent
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: terms_agreement
+      label: I Agree to Amendment Terms
+      hint: By selecting yes you agree to terms
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 22
+      name: amendment_date
+      label: Amendment Request Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true

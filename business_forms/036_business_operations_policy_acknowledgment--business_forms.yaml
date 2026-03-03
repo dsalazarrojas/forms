@@ -1,0 +1,213 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Operations Policy Acknowledgment
+    pages:
+      - id: 1
+        name: employee_name
+        label: Employee Name
+        hint: Full legal name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: employee_id
+        label: Employee ID
+        hint: Employee identification number
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: Your department
+        type: select_one
+        options:
+          - Operations
+          - Administration
+          - Finance
+          - Human Resources
+          - IT
+          - Sales
+          - Marketing
+          - Customer Service
+          - Other
+        required: true
+      - id: 4
+        name: position_title
+        label: Position Title
+        hint: Your job title
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: manager_name
+        label: Manager Name
+        hint: Your direct supervisor
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: hire_date
+        label: Hire Date
+        hint: Date of hire
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: acknowledgment_date
+        label: Acknowledgment Date
+        hint: Date of this acknowledgment
+        type: date
+        options: []
+        required: true
+      - id: 8
+        name: policy_categories_reviewed
+        label: Policy Categories Reviewed
+        hint: Select all policy categories reviewed
+        type: select_multiple
+        options:
+          - Code of conduct
+          - Health and safety
+          - Data privacy
+          - IT and security
+          - Attendance and punctuality
+          - Dress code
+          - Social media
+          - Confidentiality
+        required: true
+      - id: 9
+        name: code_of_conduct_understanding
+        label: Code of Conduct Understanding
+        hint: Do you understand the code of conduct
+        type: select_one
+        options:
+          - Yes - fully understand
+          - Yes - mostly understand
+          - Partially - need clarification
+          - No - need full review
+        required: true
+      - id: 10
+        name: health_safety_understanding
+        label: Health and Safety Policy Understanding
+        hint: Do you understand health and safety policies
+        type: select_one
+        options:
+          - Yes - fully understand
+          - Yes - mostly understand
+          - Partially - need clarification
+          - No - need full review
+        required: true
+      - id: 11
+        name: data_privacy_understanding
+        label: Data Privacy Policy Understanding
+        hint: Do you understand data privacy policies
+        type: select_one
+        options:
+          - Yes - fully understand
+          - Yes - mostly understand
+          - Partially - need clarification
+          - No - need full review
+        required: true
+      - id: 12
+        name: it_security_understanding
+        label: IT Security Policy Understanding
+        hint: Do you understand IT security policies
+        type: select_one
+        options:
+          - Yes - fully understand
+          - Yes - mostly understand
+          - Partially - need clarification
+          - No - need full review
+        required: true
+      - id: 13
+        name: confidentiality_agreement
+        label: Confidentiality Agreement
+        hint: Do you agree to maintain confidentiality
+        type: select_one
+        options:
+          - Yes - I agree
+          - No - I do not agree
+        required: true
+      - id: 14
+        name: policy_access_confirmation
+        label: Policy Access Confirmation
+        hint: Have you been able to access all policies
+        type: select_one
+        options:
+          - Yes - all policies accessible
+          - Yes - most policies accessible
+          - No - having access issues
+        required: true
+      - id: 15
+        name: policy_questions
+        label: Policy Questions
+        hint: Do you have any questions about policies
+        type: select_one
+        options:
+          - No - all clear
+          - Yes - minor questions
+          - Yes - need significant clarification
+        required: true
+      - id: 16
+        name: questions_description
+        label: Questions Description
+        hint: Describe your questions or concerns
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: compliance_commitment
+        label: Compliance Commitment
+        hint: Do you commit to following all policies
+        type: select_one
+        options:
+          - Yes - fully committed
+          - Yes - will make best effort
+          - Have concerns about some policies
+        required: true
+      - id: 18
+        name: training_completion
+        label: Policy Training Completion
+        hint: Have you completed required policy training
+        type: select_one
+        options:
+          - Yes - all training complete
+          - In progress
+          - Not yet started
+        required: true
+      - id: 19
+        name: additional_training_needed
+        label: Additional Training Needed
+        hint: Do you need additional training
+        type: select_one
+        options:
+          - No - all complete
+          - Yes - specific areas
+          - Yes - general refresher
+        required: false
+      - id: 20
+        name: electronic_signature
+        label: Electronic Signature
+        hint: Type your full name as signature
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other comments or feedback
+        type: text
+        options: []
+        required: false

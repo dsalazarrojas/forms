@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Task Management Board
+    pages:
+    - id: 1
+      name: task_title
+      label: Task Title
+      hint: Brief name of the task
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: assigned_to
+      label: Assigned To
+      hint: Name of the team member responsible
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: task_priority
+      label: Task Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: true
+    - id: 4
+      name: due_date
+      label: Due Date
+      hint: Deadline for completion
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: task_status
+      label: Task Status
+      hint: Current progress
+      type: select_one
+      options:
+      - To Do
+      - In Progress
+      - Review
+      - Completed
+      required: true
+    - id: 6
+      name: category
+      label: Category
+      hint: Functional area
+      type: select_one
+      options:
+      - Tax
+      - Payroll
+      - Audit
+      - General Ledger
+      - Reporting
+      required: true
+    - id: 7
+      name: task_description
+      label: Task Description
+      hint: Detailed instructions or notes
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: estimated_hours
+      label: Estimated Hours
+      hint: Estimated time to complete
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: project_phase
+      label: Project Phase
+      hint: null
+      type: select_one
+      options:
+      - Initial
+      - Execution
+      - Closing
+      required: false
+    - id: 10
+      name: tracking_header
+      label: -- Tracking Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: internal_task_id
+      label: Internal Task ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notification_required
+      label: Notification Required?
+      hint: Notify manager upon completion
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

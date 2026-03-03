@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: International Business Professionals Membership Form
+    pages:
+    - id: 1
+      name: new_member_info
+      label: New Member Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: Please provide your contact information
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: membership_info
+      label: Membership Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: company_info
+      label: Company Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: upload_files
+      label: Upload Files
+      hint: null
+      type: date
+      options: []
+      required: false

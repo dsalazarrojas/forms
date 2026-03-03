@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Yurt Reservation Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: checkin_date
+      label: Checkin Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: checkout_date
+      label: Checkout Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: guest_type
+      label: Guest Type
+      hint: null
+      type: select_one
+      options:
+      - guest
+      - non_guest
+      required: false
+    - id: 7
+      name: yurt_capacity
+      label: Yurt Capacity
+      hint: null
+      type: select_multiple
+      options:
+      - Single
+      - Double
+      - Triple
+      - Quad
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

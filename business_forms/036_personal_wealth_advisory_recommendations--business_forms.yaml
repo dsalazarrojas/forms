@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Wealth Advisory Recommendations
+    pages:
+    - id: 1
+      name: client_goals
+      label: Client Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: investment_preferences
+      label: Investment Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: investment_amount
+      label: Investment Amount
+      hint: Enter a number
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: investment_timeframe
+      label: Investment Timeframe
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Monthly
+      - Quarterly
+      - Semiannually
+      - Annually
+      required: false
+    - id: 6
+      name: risk_freeze
+      label: Risk Freeze
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 7
+      name: financial_institutions
+      label: Financial Institutions
+      hint: null
+      type: select_multiple
+      options:
+      - Bank
+      - Brokerage
+      - Insurance
+      - Trust
+      required: false
+    - id: 8
+      name: investment_objects
+      label: Investment Objects
+      hint: null
+      type: select_multiple
+      options:
+      - Stocks
+      - Bonds
+      - Real Estate
+      - Other
+      required: false
+    - id: 9
+      name: risk_freeze_period
+      label: Risk Freeze Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Enter an email address
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_alternate
+      label: Emergency Contact Alternate
+      hint: Enter an email address
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: risk_freeze_frequency
+      label: Risk Freeze Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Monthly
+      - Quarterly
+      - Semiannually
+      - Annually
+      required: false

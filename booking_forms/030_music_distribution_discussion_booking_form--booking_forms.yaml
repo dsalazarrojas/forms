@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Distribution Discussion Booking Form
+    pages:
+    - id: 1
+      name: music_distribution_discussion
+      label: Music Distribution Discussion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: music_distribution_call_date
+      label: Music Distribution Call Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: music_distribution_call_time
+      label: Music Distribution Call Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: music_distribution_call_time_zone
+      label: Music Distribution Call Time Zone
+      hint: null
+      type: select_multiple
+      options:
+      - Pacific Time
+      - Eastern Time
+      - Central Time
+      - Mountain Time
+      required: false
+    - id: 5
+      name: music_distribution_call_duration
+      label: Music Distribution Call Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: music_distribution_call_type
+      label: Music Distribution Call Type
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Video Conference
+      - In Person
+      - Virtual Meeting
+      required: false
+    - id: 7
+      name: music_distribution_contact_person
+      label: Music Distribution Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: music_distribution_contact_details
+      label: Music Distribution Contact Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: music_distribution_additional_notes
+      label: Music Distribution Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: true

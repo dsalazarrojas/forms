@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barn Venue Rental Application Form
+    pages:
+    - id: 1
+      name: contact_info_header
+      label: -- Applicant Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Full Name
+      hint: Primary renter/contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization / Company Name
+      hint: Only for corporate or non-profit events
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_details_header
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_type
+      label: Type of Event
+      hint: null
+      type: select_one
+      options:
+      - Wedding Ceremony and Reception
+      - Corporate Retreat / Meeting
+      - Family Reunion
+      - Birthday / Graduation Party
+      - Photo / Film Shoot
+      - Community Fundraiser
+      required: true
+    - id: 8
+      name: preferred_event_date
+      label: Preferred Event Date
+      hint: Check availability on our calendar
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: estimated_guest_count
+      label: Estimated Number of Guests
+      hint: Maximum capacity is 200
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: event_start_time
+      label: Event Start Time
+      hint: Including guest arrival
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: event_end_time
+      label: Event End Time
+      hint: "Music must end by 10:00 PM due to local noise ordinances"
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: venue_requirements_header
+      label: -- Venue Requirements and Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: kitchen_usage
+      label: Will you require use of the Prep Kitchen?
+      hint: For licensed caterers only
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: rustic_add_ons
+      label: Rustic Add-on Services
+      hint: Available for additional fees
+      type: select_multiple
+      options:
+      - Hay Bale Seating
+      - Fire Pit with Wood Service
+      - Tractor Rides
+      - String Lighting Installation
+      - Barn Wood Tables and Benches
+      required: false
+    - id: 15
+      name: insurance_acknowledgement
+      label: Event Insurance Requirement
+      hint: I acknowledge that I must provide a Certificate of Insurance (COI) listing
+        the venue as additionally insured
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true
+    - id: 16
+      name: alcohol_policy_check
+      label: Alcohol Policy
+      hint: Alcohol must be served by a licensed and insured bartender
+      type: select_one
+      options:
+      - I Understand and Agree
+      - Other
+      required: true
+    - id: 17
+      name: detailed_request
+      label: Additional Details or Special Requests
+      hint: Describe your vision or any unique needs
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: application_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: digital_signature
+      label: Applicant Electronic Signature
+      hint: null
+      type: text
+      options: []
+      required: true

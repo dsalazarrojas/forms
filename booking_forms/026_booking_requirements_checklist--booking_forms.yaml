@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Booking Requirements Checklist
+    pages:
+    - id: 1
+      name: booking_name
+      label: Booking Name
+      hint: Name or title of the booking
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: booking_date
+      label: Booking Date
+      hint: When is the booking scheduled
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: organizer_name
+      label: Organizer Name
+      hint: Person organizing the booking
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organizer_email
+      label: Organizer Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: organizer_phone
+      label: Organizer Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location_required
+      label: Location Confirmed
+      hint: Is the location confirmed
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 7
+      name: equipment_list
+      label: Equipment Needed
+      hint: Select all equipment required
+      type: select_multiple
+      options:
+      - Tables
+      - Chairs
+      - Microphone and speakers
+      - Projector
+      - Screen
+      - Sound system
+      - Lighting
+      - Catering equipment
+      required: false
+    - id: 8
+      name: catering_required
+      label: Catering Required
+      hint: Is food and beverage needed
+      type: select_one
+      options:
+      - true
+      - false
+      - To be confirmed
+      required: true
+    - id: 9
+      name: catering_details
+      label: Catering Details
+      hint: Specify catering requirements
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: guest_count
+      label: Expected Guest Count
+      hint: Approximate number of people
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: setup_time
+      label: Setup Time Required
+      hint: How much time for setup
+      type: select_one
+      options:
+      - 30 minutes
+      - 1 hour
+      - 2 hours
+      - 3 hours
+      - More than 3 hours
+      required: true
+    - id: 12
+      name: parking_required
+      label: Parking Required
+      hint: Is parking needed
+      type: select_one
+      options:
+      - true
+      - false
+      - Some spaces needed
+      required: false
+    - id: 13
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: Any accessibility needs
+      type: select_multiple
+      options:
+      - Wheelchair access
+      - Parking for disabled
+      - Accessible restrooms
+      - Hearing loop
+      - Large print materials
+      required: false
+    - id: 14
+      name: security_requirements
+      label: Security Requirements
+      hint: Any security measures needed
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: checklist_status
+      label: Checklist Completion Status
+      hint: Current status of requirements
+      type: select_one
+      options:
+      - All confirmed
+      - Mostly confirmed
+      - Partially confirmed
+      - Needs follow-up
+      - Pending
+      required: true

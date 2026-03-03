@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Package Delivery Billing Form
+    pages:
+    - id: 1
+      name: delivery_info
+      label: Delivery Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: billing_info
+      label: Billing Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_type
+      label: delivery_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Ground''}'
+      - '{''id'': 2, ''name'': ''Express''}'
+      - '{''id'': 3, ''name'': ''Air''}'
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''credit_card''}'
+      - '{''id'': 2, ''name'': ''bank_transfer''}'
+      - '{''id'': 3, ''name'': ''cash''}'
+      required: false
+    - id: 5
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_rate
+      label: Shipping Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: total_shipping_cost
+      label: Total Shipping Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: package_type
+      label: Package Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tracking_number
+      label: Tracking Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_email
+      label: Customer Email
+      hint: example@example.com
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: delivery_info_2
+      label: Delivery Info 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: shipping_date
+      label: Shipping Date
+      hint: null
+      type: date
+      options: []
+      required: false

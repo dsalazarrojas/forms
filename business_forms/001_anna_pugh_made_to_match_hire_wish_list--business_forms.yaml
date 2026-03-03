@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anna Pugh Made To Match Hire Wish List
+    pages:
+    - id: 1
+      name: personal_information_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Please enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: example@example.com
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_details_header
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: Select the date of your event
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_location
+      label: Event Location
+      hint: Venue name or address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: items_to_hire_header
+      label: -- Items to Hire --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: wish_list_items
+      label: Select Items for Hire
+      hint: Choose all that apply to your wish list
+      type: select_multiple
+      options:
+      - Table Linens
+      - Chair Covers
+      - Centerpieces
+      - Lighting Equipment
+      - Lounge Furniture
+      - Tableware and Glassware
+      - Decorative Props
+      required: true
+    - id: 10
+      name: custom_requests
+      label: Custom Requests or Specific Item Details
+      hint: Please describe any specific items or variations you are looking for
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: delivery_preference
+      label: Delivery Preference
+      hint: How would you like to receive the items?
+      type: select_one
+      options:
+      - Delivery and Setup
+      - Delivery Only
+      - Pick up from Warehouse
+      required: true
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information we should know?
+      type: text
+      options: []
+      required: false

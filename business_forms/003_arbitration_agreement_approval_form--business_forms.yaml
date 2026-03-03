@@ -1,0 +1,146 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Arbitration Agreement Approval Form
+    pages:
+    - id: 1
+      name: section_party_info
+      label: -- Party Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: party_one_name
+      label: First Party Name
+      hint: Individual or company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: party_one_role
+      label: First Party Role
+      hint: null
+      type: select_one
+      options:
+      - Claimant
+      - Respondent
+      - Plaintiff
+      - Defendant
+      - Other Party
+      required: true
+    - id: 4
+      name: party_two_name
+      label: Second Party Name
+      hint: Individual or company name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: party_two_role
+      label: Second Party Role
+      hint: null
+      type: select_one
+      options:
+      - Claimant
+      - Respondent
+      - Plaintiff
+      - Defendant
+      - Other Party
+      required: true
+    - id: 6
+      name: section_agreement_details
+      label: -- Agreement Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: dispute_description
+      label: Dispute Description
+      hint: Brief summary of the matter in dispute
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: agreement_date
+      label: Agreement Date
+      hint: Date the arbitration agreement is being approved
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: arbitrator_selection
+      label: Arbitrator Selection Method
+      hint: null
+      type: select_one
+      options:
+      - Mutually agreed arbitrator
+      - Single arbitrator appointed
+      - Three arbitrator panel
+      - To be determined
+      required: true
+    - id: 10
+      name: jurisdiction
+      label: Jurisdiction
+      hint: Geographic area or governing law
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_approval
+      label: -- Approval Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: party_one_approval
+      label: First Party Approval
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Rejected
+      - Conditional
+      required: true
+    - id: 13
+      name: party_two_approval
+      label: Second Party Approval
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Rejected
+      - Conditional
+      required: true
+    - id: 14
+      name: legal_counsel_review
+      label: Legal counsel has reviewed agreement
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Not Applicable
+      required: false
+    - id: 15
+      name: approval_notes
+      label: Additional Notes
+      hint: Any conditions or clarifications
+      type: text
+      options: []
+      required: false

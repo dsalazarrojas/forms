@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Botulinum Toxin Aftercare Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full name of patient
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: treatment_date
+      label: Treatment Date
+      hint: Date when treatment was administered
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_phone
+      label: Phone Number
+      hint: Contact number for follow-up
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: patient_email
+      label: Email Address
+      hint: For aftercare communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: treatment_areas
+      label: Treatment Areas
+      hint: Areas that received treatment
+      type: select_multiple
+      options:
+      - Forehead
+      - Between eyebrows
+      - Around eyes (crow's feet)
+      - Around mouth
+      - Jawline
+      - Neck
+      - Underarms
+      - Other
+      required: true
+    - id: 5b
+      name: instructions_reviewed
+      label: Aftercare Instructions Reviewed
+      hint: Were aftercare instructions explained to you
+      type: select_one
+      options:
+      - Yes, thoroughly explained
+      - Yes, briefly explained
+      - No, need explanation
+      required: true
+    - id: 6
+      name: activity_restrictions
+      label: Activity Restrictions Understood
+      hint: I understand I should avoid strenuous exercise for 24 hours
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need clarification
+      required: true
+    - id: 7
+      name: positioning_restrictions
+      label: Positioning Restrictions Understood
+      hint: I understand I should remain upright for 4 hours after treatment
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need clarification
+      required: true
+    - id: 8
+      name: touching_restrictions
+      label: Touching Restrictions Understood
+      hint: I understand I should not touch or massage treated areas
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need clarification
+      required: true
+    - id: 9
+      name: heat_exposure
+      label: Heat Exposure Restrictions
+      hint: I understand I should avoid saunas, hot tubs, and excessive heat
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need clarification
+      required: true
+    - id: 10
+      name: alcohol_restrictions
+      label: Alcohol Restrictions
+      hint: I understand I should avoid alcohol for 24 hours
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need clarification
+      required: true
+    - id: 11
+      name: makeup_restrictions
+      label: Makeup Application
+      hint: I understand when I can apply makeup after treatment
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need clarification
+      required: true
+    - id: 12
+      name: expected_side_effects
+      label: Expected Side Effects Understood
+      hint: I understand normal side effects like redness, swelling, or bruising
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need clarification
+      required: true
+    - id: 13
+      name: results_timeline
+      label: Results Timeline Understood
+      hint: I understand results may take 3-14 days to appear
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need clarification
+      required: true
+    - id: 14
+      name: follow_up_appointment
+      label: Follow-up Appointment
+      hint: Do you have a scheduled follow-up appointment
+      type: select_one
+      options:
+      - Yes, scheduled
+      - No, need to schedule
+      required: true
+    - id: 15
+      name: follow_up_date
+      label: Follow-up Date
+      hint: Date of follow-up appointment if scheduled
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_provided
+      label: Emergency Contact Information
+      hint: Do you have our emergency contact information
+      type: select_one
+      options:
+      - true
+      - No, please provide
+      required: true
+    - id: 17
+      name: current_symptoms
+      label: Current Symptoms
+      hint: Are you experiencing any symptoms right now
+      type: select_multiple
+      options:
+      - None
+      - Mild redness
+      - Swelling
+      - Bruising
+      - Tenderness
+      - Headache
+      - Other
+      required: true
+    - id: 18
+      name: symptom_severity
+      label: Symptom Severity
+      hint: How would you rate any discomfort
+      type: select_one
+      options:
+      - No discomfort
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 19
+      name: questions_concerns
+      label: Questions or Concerns
+      hint: List any questions or concerns you have
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: patient_acknowledgment
+      label: Patient Acknowledgment
+      hint: I acknowledge I have received and understand aftercare instructions
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - false
+      required: true
+    - id: 21
+      name: patient_signature
+      label: Patient Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: signature_date
+      label: Signature Date
+      hint: Date of acknowledgment
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: provider_name
+      label: Provider Name
+      hint: Name of treating provider
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Reservation Request Form
+    pages:
+    - id: 1
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: stay_start_date
+      label: Stay Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: stay_end_date
+      label: Stay End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: property_manager_email
+      label: Property Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: property_manager_phone
+      label: Property Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: property_manager_name
+      label: Property Manager Name
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: property_reservation_request_message
+      label: Property Reservation Request Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: stay_duration
+      label: Stay Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: reservation_start_date
+      label: Reservation Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: reservation_end_date
+      label: Reservation End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: stay_duration
+      label: Stay Duration
+      hint: null
+      type: number
+      options: []
+      required: false

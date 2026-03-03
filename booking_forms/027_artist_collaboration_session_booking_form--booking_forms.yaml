@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Collaboration Session Booking Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Primary Artist Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artist_name
+      label: Your Artist Name
+      hint: Your professional or stage name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: artist_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: artist_specialization
+      label: Your Artistic Specialization
+      hint: Your primary art form or discipline
+      type: select_one
+      options:
+      - Music Production
+      - Visual Art
+      - Performance Art
+      - Dance
+      - Theater
+      - Design
+      - Writing
+      - Photography
+      - Film
+      - Digital Media
+      - Other
+      required: true
+    - id: 6
+      name: section_header_2
+      label: -- Collaborating Artist Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: collaborator_name
+      label: Collaborating Artist Name
+      hint: Name of the artist you wish to collaborate with
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: collaborator_email
+      label: Collaborator Email
+      hint: Contact email for the collaborating artist
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: collaborator_specialization
+      label: Collaborator Specialization
+      hint: What is their primary art form?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_header_3
+      label: -- Session Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: session_date
+      label: Proposed Session Date
+      hint: What date would you like to meet?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: session_time
+      label: Proposed Session Time
+      hint: What time works for you?
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: session_duration
+      label: Expected Session Duration
+      hint: How long should the session be?
+      type: select_one
+      options:
+      - 1 hour
+      - 2 hours
+      - 3 hours
+      - 4 hours
+      - Full day (8+ hours)
+      - Multiple sessions
+      - Flexible
+      required: true
+    - id: 14
+      name: session_purpose
+      label: Purpose of Collaboration
+      hint: What is the goal of this session?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_header_4
+      label: -- Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: project_title
+      label: Project Title or Concept
+      hint: Name of the collaborative project
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: project_description
+      label: Project Description
+      hint: Overview of the collaborative work
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: project_scope
+      label: Project Scope
+      hint: What will be created or accomplished?
+      type: select_one
+      options:
+      - Single session work
+      - Short-term project
+      - Long-term collaboration
+      - Ongoing partnership
+      - TBD
+      required: false
+    - id: 19
+      name: section_header_5
+      label: -- Location and Format --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: session_location
+      label: Session Location
+      hint: Where will the session take place?
+      type: select_one
+      options:
+      - My studio
+      - Collaborator studio
+      - Neutral venue
+      - Virtual/Online
+      - To be determined
+      required: true
+    - id: 21
+      name: location_details
+      label: Location Details or Address
+      hint: Specific address or meeting details
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_header_6
+      label: -- Availability and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: schedule_flexibility
+      label: How Flexible is Your Schedule?
+      hint: Can the date/time be adjusted?
+      type: select_one
+      options:
+      - Very flexible
+      - Somewhat flexible
+      - Fixed date and time
+      required: true
+    - id: 24
+      name: collaboration_agreement
+      label: I Agree to the Collaboration Terms
+      hint: Confirm you accept the collaboration guidelines
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 25
+      name: additional_notes
+      label: Additional Notes or Requirements
+      hint: Any special requirements or information
+      type: text
+      options: []
+      required: false

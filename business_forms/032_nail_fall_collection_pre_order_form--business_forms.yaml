@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Fall Collection Pre Order Form
+    pages:
+    - id: 1
+      name: pre_order_form
+      label: Pre Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: collection
+      label: collection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: nail_type
+      label: nail_type
+      hint: null
+      type: select_one
+      options:
+      - almond
+      - gel
+      - powder
+      - shell
+      - chrome
+      required: false

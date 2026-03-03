@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Associates Sales Contract Form
+    pages:
+    - id: 1
+      name: contract_date
+      label: Contract Date
+      hint: Date of this agreement
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: contract_id
+      label: Contract ID Number
+      hint: Reference number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: principal_first_name
+      label: Principal/Owner First Name
+      hint: Business owner name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: principal_last_name
+      label: Principal/Owner Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: principal_business_name
+      label: Business Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: principal_address
+      label: Principal Business Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: principal_phone
+      label: Principal Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: principal_email
+      label: Principal Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: associate_first_name
+      label: Associate First Name
+      hint: Sales associate name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: associate_last_name
+      label: Associate Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: associate_address
+      label: Associate Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: associate_phone
+      label: Associate Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: associate_email
+      label: Associate Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: employment_type
+      label: Employment Type
+      hint: Full-time or independent contractor
+      type: select_one
+      options:
+      - Full-Time Employee
+      - Part-Time Employee
+      - Independent Contractor
+      - Commission-Only
+      - Other
+      required: true
+    - id: 15
+      name: start_date
+      label: Employment Start Date
+      hint: When does employment begin?
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: sales_territory
+      label: Sales Territory or Region
+      hint: Geographic area assigned
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: products_services
+      label: Products or Services to Sell
+      hint: What will associate sell?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: sales_targets
+      label: Sales Targets or Quotas
+      hint: Expected sales goals
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: compensation_structure
+      label: Compensation Structure
+      hint: How will associate be paid?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: base_salary
+      label: Base Salary (if applicable)
+      hint: Monthly or annual salary
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: commission_percentage
+      label: Commission Percentage
+      hint: Percentage of sales
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: benefits_provided
+      label: Benefits Provided
+      hint: Health insurance, bonuses, etc.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: confidentiality_terms
+      label: Confidentiality and Non-Compete Terms
+      hint: Restrictions on associate
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: termination_clause
+      label: Termination Clause
+      hint: How can this contract end?
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: contract_term
+      label: Contract Term Length
+      hint: Duration of agreement
+      type: text
+      options: []
+      required: true

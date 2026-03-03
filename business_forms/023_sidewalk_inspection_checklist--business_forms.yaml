@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sidewalk Inspection Checklist
+    pages:
+    - id: 1
+      name: sidewalk_condition
+      label: sidewalk condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: inspection date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: repair_priority
+      label: repair priority
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: repair_status
+      label: repair status
+      hint: null
+      type: select_multiple
+      options:
+      - Complete
+      - Ongoing
+      - None
+      - Partial
+      required: false
+    - id: 5
+      name: repair_notes
+      label: repair notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Bob
+      required: true
+    - id: 7
+      name: inspection_notes
+      label: inspection notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: inspection_comments
+      label: inspection comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: photo_count
+      label: photo count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: photo_urls
+      label: photo urls
+      hint: null
+      type: text
+      options: []
+      required: false

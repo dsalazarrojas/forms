@@ -1,0 +1,406 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Case Staffing Form
+    pages:
+      - id: 1
+        name: staffing_header
+        label: Case Staffing Form
+        hint: Document and coordinate case staffing discussions
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: staffing_date
+        label: Staffing Date
+        hint: Date of meeting
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: staffing_time
+        label: Staffing Time
+        hint: Meeting time
+        type: time
+        options: []
+        required: false
+      - id: 4
+        name: case_info
+        label: Case Information
+        hint: Case details
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: case_number
+        label: Case Number
+        hint: Case identifier
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: case_name
+        label: Case Name
+        hint: Client or case title
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: case_type
+        label: Case Type
+        hint: Case category
+        type: select_one
+        options:
+          - Child welfare
+          - Adult protective services
+          - Mental health
+          - Substance abuse
+          - Developmental disabilities
+          - Elder services
+          - Family services
+          - Criminal justice
+          - Healthcare
+          - Other
+        required: true
+      - id: 8
+        name: case_open_date
+        label: Case Open Date
+        hint: When case started
+        type: date
+        options: []
+        required: true
+      - id: 9
+        name: staffing_type
+        label: Type of Staffing
+        hint: Meeting purpose
+        type: select_one
+        options:
+          - Initial staffing
+          - Periodic review
+          - Crisis staffing
+          - Discharge planning
+          - Treatment planning
+          - Case closure
+          - Other
+        required: true
+      - id: 10
+        name: attendees
+        label: Meeting Attendees
+        hint: Participants present
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: team_leader
+        label: Team Leader or Facilitator
+        hint: Meeting leader
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: case_manager
+        label: Primary Case Manager
+        hint: Lead caseworker
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: attendees_list
+        label: Attendee Names and Titles
+        hint: All participants
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: client_present
+        label: Was Client Present
+        hint: Client attendance
+        type: select_one
+        options:
+          - Yes - attended full meeting
+          - Yes - attended partial meeting
+          - No - not invited
+          - No - declined
+          - No - not appropriate
+        required: true
+      - id: 15
+        name: family_present
+        label: Were Family Members Present
+        hint: Family attendance
+        type: select_one
+        options:
+          - Yes - full participation
+          - Yes - partial participation
+          - No - not invited
+          - No - declined
+        required: true
+      - id: 16
+        name: absent_members
+        label: Absent Members
+        hint: Who was missing
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: client_status
+        label: Client Status Update
+        hint: Current situation
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: current_placement
+        label: Current Placement or Living Situation
+        hint: Where client is
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: placement_stability
+        label: Placement Stability
+        hint: How stable
+        type: select_one
+        options:
+          - Very stable
+          - Stable
+          - Somewhat stable
+          - Unstable
+          - Crisis
+        required: true
+      - id: 20
+        name: progress_summary
+        label: Progress Since Last Staffing
+        hint: What has changed
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: goals_review
+        label: Goals Review
+        hint: Status of objectives
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: goals_achieved
+        label: Goals Achieved
+        hint: Accomplishments
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: goals_in_progress
+        label: Goals In Progress
+        hint: Ongoing work
+        type: text
+        options: []
+        required: true
+      - id: 24
+        name: goals_not_met
+        label: Goals Not Met
+        hint: Unmet objectives
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: barriers_identified
+        label: Barriers Identified
+        hint: Challenges
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: service_review
+        label: Service Review
+        hint: Current services
+        type: note
+        options: []
+        required: false
+      - id: 27
+        name: current_services
+        label: Current Services Being Provided
+        hint: Active interventions
+        type: select_multiple
+        options:
+          - Case management
+          - Individual therapy
+          - Family therapy
+          - Group therapy
+          - Medication management
+          - Substance abuse treatment
+          - Vocational services
+          - Educational services
+          - Housing assistance
+          - Financial assistance
+          - Medical care
+          - Psychiatric care
+          - Respite care
+          - Transportation
+          - Other
+        required: true
+      - id: 28
+        name: service_effectiveness
+        label: Service Effectiveness
+        hint: How well working
+        type: select_one
+        options:
+          - Very effective
+          - Effective
+          - Somewhat effective
+          - Not effective
+          - Unable to assess
+        required: true
+      - id: 29
+        name: services_to_discontinue
+        label: Services to Discontinue
+        hint: No longer needed
+        type: text
+        options: []
+        required: false
+      - id: 30
+        name: services_to_add
+        label: Services to Add
+        hint: New recommendations
+        type: text
+        options: []
+        required: false
+      - id: 31
+        name: risk_assessment
+        label: Risk Assessment
+        hint: Safety evaluation
+        type: note
+        options: []
+        required: false
+      - id: 32
+        name: current_risk_level
+        label: Current Risk Level
+        hint: Risk status
+        type: select_one
+        options:
+          - Low - minimal concerns
+          - Moderate - some concerns
+          - High - significant concerns
+          - Critical - immediate danger
+        required: true
+      - id: 33
+        name: risk_factors
+        label: Current Risk Factors
+        hint: Concerns identified
+        type: select_multiple
+        options:
+          - None
+          - Self-harm
+          - Suicide risk
+          - Violence risk
+          - Substance use
+          - Domestic violence
+          - Neglect
+          - Abuse
+          - Exploitation
+          - Medical concerns
+          - Mental health crisis
+          - Housing instability
+          - Other
+        required: true
+      - id: 34
+        name: safety_plan
+        label: Safety Plan Status
+        hint: Plan in place
+        type: select_one
+        options:
+          - Yes - current and adequate
+          - Yes - needs updating
+          - No - needs development
+          - Not applicable
+        required: true
+      - id: 35
+        name: treatment_plan
+        label: Treatment Plan Updates
+        hint: Plan modifications
+        type: note
+        options: []
+        required: false
+      - id: 36
+        name: plan_revised
+        label: Was Treatment Plan Revised
+        hint: Plan changes
+        type: select_one
+        options:
+          - Yes - significantly revised
+          - Yes - minor revisions
+          - No - continues as is
+        required: true
+      - id: 37
+        name: new_goals
+        label: New Goals Established
+        hint: New objectives
+        type: text
+        options: []
+        required: false
+      - id: 38
+        name: action_items
+        label: Action Items
+        hint: Tasks assigned
+        type: note
+        options: []
+        required: false
+      - id: 39
+        name: tasks_assigned
+        label: Tasks and Responsibilities
+        hint: Who does what
+        type: text
+        options: []
+        required: true
+      - id: 40
+        name: deadlines
+        label: Deadlines and Timeframes
+        hint: When due
+        type: text
+        options: []
+        required: false
+      - id: 41
+        name: follow_up
+        label: Follow-Up Plan
+        hint: Next steps
+        type: note
+        options: []
+        required: false
+      - id: 42
+        name: next_staffing_date
+        label: Next Staffing Date
+        hint: Follow-up meeting
+        type: date
+        options: []
+        required: false
+      - id: 43
+        name: next_contact_date
+        label: Next Client Contact Date
+        hint: Follow-up contact
+        type: date
+        options: []
+        required: false
+      - id: 44
+        name: additional_notes
+        label: Additional Notes
+        hint: Other discussion
+        type: text
+        options: []
+        required: false
+      - id: 45
+        name: facilitator_signature
+        label: Facilitator Signature Date
+        hint: Date signed
+        type: date
+        options: []
+        required: true

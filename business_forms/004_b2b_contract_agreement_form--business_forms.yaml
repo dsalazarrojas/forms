@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: B2B Contract Agreement Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company name
+      hint: Legal entity name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Primary contact name
+      hint: Person signing contract
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Contract communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: Phone for contract queries
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contract_start_date
+      label: Contract start date
+      hint: Effective date of agreement
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: contract_end_date
+      label: Contract end date
+      hint: Leave blank for ongoing agreements
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: services_description
+      label: Services to be provided
+      hint: Brief description of scope
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: payment_terms
+      label: Payment terms
+      hint: Billing schedule and terms
+      type: select_one
+      options:
+      - Net 30
+      - Net 45
+      - Upon receipt
+      - Milestone based
+      required: true
+    - id: 9
+      name: confidentiality_clause
+      label: Confidentiality agreement included
+      hint: Select yes to include standard NDA
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: signatures_notes
+      label: Signatures and notes
+      hint: Instructions for signing process
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Bid Template
+    pages:
+    - id: 1
+      name: bid_date
+      label: Bid Date
+      hint: Date of bid submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Name of project owner or client
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_address
+      label: Client Address
+      hint: Project or client address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_name
+      label: Project Name
+      hint: Official project name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_location
+      label: Project Location
+      hint: Full address of project site
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_description
+      label: Project Description
+      hint: Brief description of scope
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contractor_name
+      label: Contractor Name
+      hint: Your company name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contractor_address
+      label: Contractor Address
+      hint: Your business address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contractor_license
+      label: License Number
+      hint: Contractor license number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: scope_of_work
+      label: Scope of Work
+      hint: Detailed description of work included
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: materials_included
+      label: Materials Included
+      hint: List materials provided in bid
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: labor_costs
+      label: Labor Costs
+      hint: Total labor cost amount
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: material_costs
+      label: Material Costs
+      hint: Total material cost amount
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: equipment_costs
+      label: Equipment Costs
+      hint: Equipment rental or usage costs
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: overhead_costs
+      label: Overhead Costs
+      hint: Administrative and overhead expenses
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: contingency_amount
+      label: Contingency Amount
+      hint: Contingency fund if applicable
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: total_bid_amount
+      label: Total Bid Amount
+      hint: Sum of all costs
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: payment_terms
+      label: Payment Terms
+      hint: Proposed payment schedule
+      type: select_one
+      options:
+      - 50% upfront, 50% on completion
+      - 30% upfront, 40% midpoint, 30% completion
+      - Monthly progress payments
+      - Net 30 days
+      - Custom terms
+      required: true
+    - id: 19
+      name: project_timeline
+      label: Project Timeline
+      hint: Estimated start to finish duration
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: start_date_available
+      label: Available Start Date
+      hint: Earliest possible start date
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: warranty_included
+      label: Warranty Included
+      hint: Is warranty provided
+      type: select_one
+      options:
+      - Yes, 1 Year
+      - Yes, 2 Years
+      - Yes, 5 Years
+      - false
+      required: true
+    - id: 22
+      name: bid_validity
+      label: Bid Validity Period
+      hint: How long this bid remains valid
+      type: select_one
+      options:
+      - 30 days
+      - 60 days
+      - 90 days
+      - 120 days
+      required: true
+    - id: 23
+      name: exclusions
+      label: Exclusions
+      hint: What is NOT included in this bid
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: special_notes
+      label: Special Notes or Conditions
+      hint: Any additional terms or notes
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: authorized_by
+      label: Authorized By
+      hint: Name of authorized signatory
+      type: text
+      options: []
+      required: true

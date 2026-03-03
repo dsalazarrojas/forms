@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact A Factory Efficiency Specialist
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: Your basic contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Name of your manufacturing facility
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your role in the organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Direct phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: facility_location
+      label: Facility Location
+      hint: City and State of your facility
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: industry_type
+      label: Industry Type
+      hint: Type of manufacturing you do
+      type: select_one
+      options:
+      - Automotive
+      - Electronics
+      - Food and Beverage
+      - Pharmaceuticals
+      - Textiles
+      - Metal Fabrication
+      - Plastics
+      - Chemical
+      - Other
+      required: true
+    - id: 10
+      name: facility_size
+      label: Number of Employees
+      hint: Size of your workforce
+      type: select_one
+      options:
+      - 1-50
+      - 51-200
+      - 201-500
+      - 501-1000
+      - 1001-5000
+      - Over 5000
+      required: true
+    - id: 11
+      name: efficiency_challenges
+      label: Primary Efficiency Challenges
+      hint: Select your main challenges
+      type: select_multiple
+      options:
+      - Production Bottlenecks
+      - High Energy Costs
+      - Equipment Downtime
+      - Quality Issues
+      - Labor Productivity
+      - Inventory Management
+      - Waste Reduction
+      - Maintenance Scheduling
+      required: true
+    - id: 12
+      name: current_production_capacity
+      label: Current Production Capacity Utilization
+      hint: Percentage of capacity currently used
+      type: select_one
+      options:
+      - Under 50 percent
+      - 50-60 percent
+      - 61-70 percent
+      - 71-80 percent
+      - 81-90 percent
+      - Over 90 percent
+      required: true
+    - id: 13
+      name: efficiency_goals
+      label: Efficiency Improvement Goals
+      hint: What improvements are you targeting
+      type: select_multiple
+      options:
+      - Increase Output
+      - Reduce Costs
+      - Improve Quality
+      - Reduce Downtime
+      - Energy Savings
+      - Faster Changeovers
+      - Better Resource Utilization
+      - Automation Implementation
+      required: true
+    - id: 14
+      name: timeline
+      label: Project Timeline
+      hint: When do you want to start improvements
+      type: select_one
+      options:
+      - Urgent - Within 2 weeks
+      - 1 month
+      - 2-3 months
+      - 3-6 months
+      - Just exploring options
+      required: true
+    - id: 15
+      name: budget_authority
+      label: Budget Authority
+      hint: Your decision-making authority level
+      type: select_one
+      options:
+      - Final Decision Maker
+      - Part of Decision Committee
+      - Recommender
+      - Information Gatherer
+      required: true
+    - id: 16
+      name: previous_improvements
+      label: Previous Efficiency Initiatives
+      hint: Have you implemented efficiency programs before
+      type: select_one
+      options:
+      - Yes - Multiple Programs
+      - Yes - One Program
+      - No - First Time
+      - Currently Implementing
+      required: false
+    - id: 17
+      name: specific_challenges
+      label: Specific Challenges Description
+      hint: Describe your efficiency challenges in detail
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: preferred_consultation
+      label: Preferred Consultation Method
+      hint: How would you like to consult
+      type: select_one
+      options:
+      - On-site Visit
+      - Video Conference
+      - Phone Call
+      - Email Exchange
+      required: true
+    - id: 19
+      name: availability
+      label: Availability for Consultation
+      hint: When are you available
+      type: select_one
+      options:
+      - Weekdays - Business Hours
+      - Weekdays - Extended Hours
+      - Weekends
+      - Flexible Schedule
+      required: false
+    - id: 20
+      name: additional_information
+      label: Additional Information
+      hint: Any other details about your needs
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Booking Quotation Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dates
+      label: Dates
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''checkin'', ''label'': ''Checkin'', ''value'': ''checkin''}'
+      - '{''id'': 2, ''name'': ''checkout'', ''label'': ''Checkout'', ''value'': ''checkout''}'
+      - '{''id'': 3, ''name'': ''arrival_date'', ''label'': ''Arrival Date'', ''value'':
+        ''arrival_date''}'
+      - '{''id'': 4, ''name'': ''departure_date'', ''label'': ''Departure Date'',
+        ''value'': ''departure_date''}'
+      required: false
+    - id: 3
+      name: guest_info
+      label: Guest Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - '{''id'': 3, ''name'': ''other'', ''label'': ''Other'', ''hint'': ''Describe
+        other requests''}'
+      required: true
+    - id: 5
+      name: accommodation_preferences
+      label: Accommodation Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''single'', ''label'': ''Single''}'
+      - '{''id'': 2, ''name'': ''double'', ''label'': ''Double''}'
+      - '{''id'': 3, ''name'': ''suite'', ''label'': ''Suite''}'
+      - '{''id'': 4, ''name'': ''other'', ''label'': ''Other'', ''hint'': ''Specify
+        other type of accommodation''}'
+      required: true
+    - id: 6
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''net'', ''label'': ''Net''}'
+      - '{''id'': 2, ''name'': ''vat'', ''label'': ''Vat''}'
+      - '{''id'': 3, ''name'': ''other'', ''label'': ''Other'', ''hint'': ''Specify
+        other payment terms''}'
+      required: true
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

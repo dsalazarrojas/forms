@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: record_of_court_proceedings_form
+    pages:
+    - id: 1
+      name: case_number
+      label: Case Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: court_number
+      label: Court Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: judge_name
+      label: Judge Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: court_date
+      label: Court Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: court_time
+      label: Court Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: witness_list
+      label: Witness List
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 7
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: witness_position
+      label: Witness Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: ruling
+      label: Ruling
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 10
+      name: testimony
+      label: Testimony
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: evidence
+      label: Evidence
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: deposition
+      label: Deposition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: ruling_type
+      label: Ruling Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

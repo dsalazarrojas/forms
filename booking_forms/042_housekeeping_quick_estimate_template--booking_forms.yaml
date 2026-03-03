@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Housekeeping Quick Estimate Template
+    pages:
+    - id: 1
+      name: housekeeping_quick_estimate
+      label: Housekeeping Quick Estimate
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: Client Name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_area
+      label: service_area
+      hint: null
+      type: select_one
+      options:
+      - Area 1
+      - Area 2
+      - Area 3
+      required: true
+    - id: 4
+      name: square_feet
+      label: square_feet
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: time_needed
+      label: time_needed
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: date_needed
+      label: date_needed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: site_visit
+      label: site_visit
+      hint: Do they need a site visit?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: request_quote
+      label: request_quote
+      hint: What is the client looking for?
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true

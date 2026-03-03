@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: EIN Filing Information Form
+    pages:
+    - id: 1
+      name: ein_filing_information_form
+      label: ein_filing_information_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: ein_application_type
+      label: ein_application_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Individual''}'
+      - '{''value'': ''Business''}'
+      - '{''value'': ''Exempt''}'
+      - '{''value'': ''Non-Exempt''}'
+      required: false
+    - id: 4
+      name: business_legal_name
+      label: business_legal_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: ein_application_date
+      label: ein_application_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: business_fax
+      label: business_fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: ein_office_phone
+      label: ein_office_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: ein_office_email
+      label: ein_office_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: authorized_representative
+      label: authorized_representative
+      hint: null
+      type: text
+      options: []
+      required: false

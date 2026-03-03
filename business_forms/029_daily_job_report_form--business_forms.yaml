@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Job Report Form
+    pages:
+    - id: 1
+      name: job_report_1
+      label: work_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: task_1
+      label: task_1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: task_2
+      label: task_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: task_3
+      label: task_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_worked
+      label: date_worked
+      hint: null
+      type: date
+      options: []
+      required: false

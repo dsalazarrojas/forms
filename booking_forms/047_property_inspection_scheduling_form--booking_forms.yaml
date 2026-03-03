@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Inspection Scheduling Form
+    pages:
+    - id: 1
+      name: property_inspection_scheduling_form_property_manager
+      label: Property Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_inspection_scheduling_form_inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: property_inspection_scheduling_form_inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_inspection_scheduling_form_property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_inspection_scheduling_form_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: property_inspection_scheduling_form_inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: property_inspection_scheduling_form_inspector_phone
+      label: Inspector Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_inspection_scheduling_form_inspector_email
+      label: Inspector Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: property_inspection_scheduling_form_inspection_type
+      label: Inspection Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''General Inspection''}'
+      - '{''id'': 2, ''label'': ''Pest Inspection''}'
+      - '{''id'': 3, ''label'': ''Fire Inspection''}'
+      required: true

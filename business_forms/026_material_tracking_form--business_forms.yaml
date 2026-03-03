@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: material_tracking_form
+    pages:
+    - id: 1
+      name: user_name
+      label: John Doe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: material_used
+      label: material used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: stock_level
+      label: stock level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: usage_date
+      label: usage date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: tracking_number
+      label: tracking number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: material_tracking_form
+      label: material tracking form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - business_forms
+      - order_forms
+      required: false
+    - id: 10
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: output_file
+      label: output file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - business forms
+      - order forms
+      required: false

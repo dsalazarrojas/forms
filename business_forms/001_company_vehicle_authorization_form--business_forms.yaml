@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Company Vehicle Authorization Form
+    pages:
+    - id: 1
+      name: personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee full name
+      hint: enter first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: employee identification number
+      hint: badge or payroll id
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: department
+      hint: select your primary department
+      type: select_one
+      options:
+      - Operations
+      - Sales
+      - Human Resources
+      - Maintenance
+      - Other
+      required: true
+    - id: 5
+      name: vehicle_id
+      label: vehicle identification or plate
+      hint: fleet id or license plate
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: authorization_purpose
+      label: purpose of vehicle use
+      hint: business task or assignment
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: start_date
+      label: authorization start date
+      hint: date work begins
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: end_date
+      label: authorization end date
+      hint: end date or ongoing enter estimated end date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: authorized_by
+      label: approver name
+      hint: manager or fleet administrator
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: approver_contact
+      label: approver phone or email
+      hint: provide phone number or email
+      type: text
+      options: []
+      required: false

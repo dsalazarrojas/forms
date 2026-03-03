@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flooring Inspection Checklist
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: buyer_name
+      label: buyer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: floor_type
+      label: floor_type
+      hint: null
+      type: select_one
+      options:
+      - carpet
+      - hard_wood
+      - laminate
+      - tile
+      - vinyl
+      - wood_engineered
+      - cork
+      - cork_par
+      - cork_par
+      - cork_par_with_wood
+      - cork_par_with_plywood
+      required: true
+    - id: 5
+      name: flooring_condition
+      label: flooring_condition
+      hint: null
+      type: select_multiple
+      options:
+      - excellent
+      - good
+      - fair
+      - poor
+      required: true
+    - id: 6
+      name: damage_present
+      label: damage_present
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: true
+    - id: 7
+      name: damage_description
+      label: damage_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: inspection_completed
+      label: inspection_completed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: completed_by
+      label: completed_by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: completed_date
+      label: completed_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: inspector_signature
+      label: inspector_signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: inspector_company
+      label: inspector_company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: inspector_license
+      label: inspector_license
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: inspector_address
+      label: inspector_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: inspector_phone
+      label: inspector_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: inspector_email
+      label: inspector_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: inspector_notes
+      label: inspector_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: buyer_signature
+      label: buyer_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: buyer_address
+      label: buyer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: buyer_phone
+      label: buyer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: buyer_email
+      label: buyer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: buyer_notes
+      label: buyer_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: final_inspection_result
+      label: final_inspection_result
+      hint: null
+      type: select_multiple
+      options:
+      - pass
+      - fail
+      required: true

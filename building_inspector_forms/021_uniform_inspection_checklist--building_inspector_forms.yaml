@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Uniform Inspection Checklist
+    pages:
+    - id: 1
+      name: building_inspector_forms
+      label: Building Inspector Forms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: uniform_type
+      label: Uniform Type
+      hint: null
+      type: select_one
+      options:
+      - Army
+      - Navy
+      - Marine Corps
+      - Airforce
+      required: false
+    - id: 3
+      name: is_worn_properly
+      label: Is Worn Properly
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: is_in_proper_condition
+      label: Is In Proper Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: is_in_proper_fitting
+      label: Is In Proper Fitting
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: is_properly_cleaned
+      label: Is Properly Cleaned
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: is_maintained_properly
+      label: Is Maintained Properly
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: is_worn_with_proper_emblem
+      label: Is Worn With Proper Emblem
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

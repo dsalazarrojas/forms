@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: speed_meeting_booking_form
+    pages:
+    - id: 1
+      name: speed_meeting_booking_form
+      label: speed_meeting_booking_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - '{''Event'': ''Event''}'
+      - '{''Meeting'': ''Meeting''}'
+      - '{''Conference'': ''Conference''}'
+      required: true
+    - id: 3
+      name: event_date
+      label: event_date
+      hint: Date of event (YYYY-MM-DD)
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: event_duration
+      label: event_duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: attendees
+      label: attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: attendee_email
+      label: attendee_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: attendee_phone
+      label: attendee_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: attendee_notes
+      label: attendee_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_notes
+      label: event_notes
+      hint: null
+      type: text
+      options: []
+      required: false

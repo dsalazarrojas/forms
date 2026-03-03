@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cargo Tracking Compliance Verification Form
+    pages:
+    - id: 1
+      name: section_verification_overview
+      label: -- Verification Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: verification_id
+      label: Verification ID
+      hint: Unique internal code for this check
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: verification_date
+      label: Date of Verification
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: verifier_name
+      label: Verifier Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: verifier_role
+      label: Verifier Role
+      hint: Your professional position
+      type: select_one
+      options:
+      - Compliance Officer
+      - Warehouse Manager
+      - Custom Agent
+      - Audit Team
+      - Logistics Coordinator
+      required: true
+    - id: 6
+      name: section_shipment_info
+      label: -- Shipment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: shipment_id
+      label: Shipment or Tracking Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: manifest_number
+      label: Manifest Number
+      hint: The document detailing the cargo
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: carrier_info
+      label: Carrier Details
+      hint: Company name and vehicle ID
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_compliance_checklist
+      label: -- Compliance Checklist --
+      hint: Verify each requirement
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: doc_complete
+      label: Are all required shipping documents complete?
+      hint: BOL, Invoice, Certificates
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: true
+    - id: 12
+      name: label_compliance
+      label: Are all cargo labels compliant with regulations?
+      hint: Check for proper marking and symbols
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 13
+      name: hazardous_declaration
+      label: Is the hazardous material declaration accurate?
+      hint: ensure proper classification
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 14
+      name: weight_verification
+      label: Does actual weight match manifest weight?
+      hint: within acceptable tolerance
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: routing_compliance
+      label: Is the shipment routing compliant with restricted zones?
+      hint: Check for geopolitical or safety restrictions
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 16
+      name: section_electronic_tracking
+      label: -- Electronic Tracking --
+      hint: Monitoring and data sync
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: tracking_device_id
+      label: GPS or Tracking Device ID
+      hint: if equipped
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: tracking_signal_status
+      label: Current tracking signal status
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Weak
+      - Offline
+      - Not Equipped
+      required: true
+    - id: 19
+      name: data_sync_verified
+      label: Is tracking data synced with the central system?
+      hint: check the monitoring dashboard
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: section_findings
+      label: -- Discrepancies and Findings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: discrepancies_observed
+      label: List any discrepancies or violations
+      hint: Leave blank if none
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: compliance_score
+      label: Compliance Score
+      hint: Percent of requirements met (1 to 100)
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: section_final_approval
+      label: -- Final Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: verification_status
+      label: Verification Status
+      hint: final verdict for shipment release
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Conditional Approval
+      required: true
+    - id: 25
+      name: verifier_signature
+      label: Digital Signature
+      hint: Type full name as confirmation
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Calendar Planning Absence Form
+    pages:
+    - id: 1
+      name: section_employee_info
+      label: -- Team Member Details --
+      hint: Please provide your information below.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Team Member Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee Identification Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_absence_details
+      label: -- Absence Dates and Reason --
+      hint: Please share your planned absence dates and the reason for your absence.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: start_date_of_absence
+      label: Start Date of Absence
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date_of_absence
+      label: End Date of Absence
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: reason_for_absence
+      label: Reason for Absence
+      hint: null
+      type: select_one
+      options:
+      - Vacation
+      - Medical
+      - Personal
+      - Other
+      required: true
+    - id: 8
+      name: section_handover_plan
+      label: -- Handover Plan and Contact --
+      hint: Please provide details for a smooth handover and contact during your absence.
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: handover_details
+      label: Description of the Handover Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_person_during_absence
+      label: Emergency Contact Person during Absence
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone_during_absence
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_confirmation
+      label: -- Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: absence_form_completed
+      label: Absence Form Completed?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

@@ -1,0 +1,417 @@
+inputSchema:
+  type: object
+  properties:
+    title: Controller Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: Legal name of applicant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Primary email for communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_position_info
+      label: -- Position Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: position_title
+      label: Position Applied For
+      hint: Job title
+      type: select_one
+      options:
+      - Financial Controller
+      - Assistant Controller
+      - Division Controller
+      - Plant Controller
+      - Corporate Controller
+      - Other
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: Which department
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: location_preference
+      label: Preferred Location
+      hint: Work location preference
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: available_start_date
+      label: Available Start Date
+      hint: When can you begin
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: salary_expectations
+      label: Salary Expectations
+      hint: Expected annual salary
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_education
+      label: -- Education --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: highest_degree
+      label: Highest Degree Earned
+      hint: null
+      type: select_one
+      options:
+      - High School Diploma
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - MBA
+      - PhD
+      - Other
+      required: true
+    - id: 13
+      name: major
+      label: Major or Field of Study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: university
+      label: University or Institution
+      hint: Name of school
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: graduation_year
+      label: Graduation Year
+      hint: Year of graduation
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: section_certifications
+      label: -- Certifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: cpa_certified
+      label: Are you a CPA
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: true
+    - id: 18
+      name: cma_certified
+      label: Are you a CMA
+      hint: Certified Management Accountant
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: false
+    - id: 19
+      name: cia_certified
+      label: Are you a CIA
+      hint: Certified Internal Auditor
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: false
+    - id: 20
+      name: other_certifications
+      label: Other Certifications
+      hint: List any additional certifications
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_experience
+      label: -- Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: years_experience
+      label: Years of Relevant Experience
+      hint: In accounting or finance
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: current_employer
+      label: Current Employer
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: current_title
+      label: Current Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: previous_controller_experience
+      label: Have you been a controller before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: industry_experience
+      label: Industry Experience
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Manufacturing
+      - Technology
+      - Healthcare
+      - Financial Services
+      - Retail
+      - Government
+      - Non-Profit
+      - Other
+      required: true
+    - id: 27
+      name: section_skills
+      label: -- Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: accounting_software
+      label: Accounting Software Proficiency
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - QuickBooks
+      - SAP
+      - Oracle
+      - NetSuite
+      - Xero
+      - Sage
+      - Microsoft Dynamics
+      - Other
+      required: true
+    - id: 29
+      name: erp_systems
+      label: ERP Systems Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: excel_proficiency
+      label: Microsoft Excel Proficiency
+      hint: null
+      type: select_one
+      options:
+      - Advanced
+      - Intermediate
+      - Basic
+      required: true
+    - id: 31
+      name: management_experience
+      label: Years of Management Experience
+      hint: Leading teams
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: team_size
+      label: Largest Team Size Managed
+      hint: Number of direct and indirect reports
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: section_responsibilities
+      label: -- Key Responsibilities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: financial_reporting
+      label: Experience with financial reporting
+      hint: null
+      type: select_one
+      options:
+      - Extensive
+      - Moderate
+      - Limited
+      - None
+      required: true
+    - id: 35
+      name: budget_management
+      label: Experience with budget management
+      hint: null
+      type: select_one
+      options:
+      - Extensive
+      - Moderate
+      - Limited
+      - None
+      required: true
+    - id: 36
+      name: audit_coordination
+      label: Experience coordinating audits
+      hint: null
+      type: select_one
+      options:
+      - Extensive
+      - Moderate
+      - Limited
+      - None
+      required: true
+    - id: 37
+      name: tax_compliance
+      label: Experience with tax compliance
+      hint: null
+      type: select_one
+      options:
+      - Extensive
+      - Moderate
+      - Limited
+      - None
+      required: true
+    - id: 38
+      name: section_references
+      label: -- References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: reference_1_name
+      label: Reference 1 Name
+      hint: Professional reference
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: reference_1_contact
+      label: Reference 1 Contact
+      hint: Email or phone
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: reference_2_name
+      label: Reference 2 Name
+      hint: Professional reference
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: reference_2_contact
+      label: Reference 2 Contact
+      hint: Email or phone
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 44
+      name: why_interested
+      label: Why are you interested in this position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: key_strengths
+      label: What are your key strengths
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: resume_attached
+      label: Resume Attached
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 47
+      name: cover_letter_attached
+      label: Cover Letter Attached
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 48
+      name: how_did_you_hear
+      label: How did you hear about this position
+      hint: null
+      type: select_one
+      options:
+      - Company Website
+      - Job Board
+      - LinkedIn
+      - Referral
+      - Recruiter
+      - Other
+      required: false
+    - id: 49
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false

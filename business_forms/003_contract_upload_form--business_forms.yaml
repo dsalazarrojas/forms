@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contract Upload Form
+    pages:
+    - id: 1
+      name: submitter_name
+      label: Submitter Name
+      hint: Full name of the person uploading the contract
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: submitter_email
+      label: Submitter Email
+      hint: Email address for confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: submitter_phone
+      label: Submitter Phone
+      hint: Contact number for urgent matters
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department or division
+      type: select_one
+      options:
+      - Legal
+      - Human Resources
+      - Finance
+      - Operations
+      - Sales
+      - Procurement
+      - IT
+      - Executive
+      - Other
+      required: true
+    - id: 5
+      name: section_contract_info
+      label: -- Contract Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contract_title
+      label: Contract Title
+      hint: Official title or name of the contract
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contract_type
+      label: Contract Type
+      hint: Category of contract being uploaded
+      type: select_one
+      options:
+      - Vendor Agreement
+      - Client Contract
+      - Employment Agreement
+      - Lease Agreement
+      - Service Contract
+      - Partnership Agreement
+      - Licensing Agreement
+      - Confidentiality Agreement
+      - Other
+      required: true
+    - id: 8
+      name: contract_number
+      label: Contract Reference Number
+      hint: Internal or external contract ID if available
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contract_date
+      label: Contract Date
+      hint: Date the contract was executed or signed
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: effective_date
+      label: Effective Date
+      hint: When does the contract take effect
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: expiration_date
+      label: Expiration Date
+      hint: When does the contract expire
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: contract_value
+      label: Contract Value
+      hint: Total monetary value of the contract
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: section_parties
+      label: -- Contract Parties --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: counterparty_name
+      label: Counterparty Name
+      hint: Name of the other party to the contract
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: counterparty_type
+      label: Counterparty Type
+      hint: What type of entity is the counterparty
+      type: select_one
+      options:
+      - Corporation
+      - LLC
+      - Partnership
+      - Sole Proprietorship
+      - Government Entity
+      - Individual
+      - Non-Profit
+      required: true
+    - id: 16
+      name: internal_stakeholders
+      label: Internal Stakeholders
+      hint: Names of internal team members involved
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_upload
+      label: -- Document Upload --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: contract_document
+      label: Upload Contract Document
+      hint: Upload the signed contract file
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Any additional related documents
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: version_number
+      label: Document Version
+      hint: Version number of the uploaded document
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: confidentiality_level
+      label: Confidentiality Level
+      hint: Classification of the contract
+      type: select_one
+      options:
+      - Public
+      - Internal Use Only
+      - Confidential
+      - Highly Confidential
+      required: true
+    - id: 22
+      name: additional_notes
+      label: Additional Notes
+      hint: Any comments or special instructions
+      type: text
+      options: []
+      required: false

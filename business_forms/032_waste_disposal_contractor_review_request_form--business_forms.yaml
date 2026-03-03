@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Waste Disposal Contractor Review Request Form
+    pages:
+    - id: 1
+      name: facility_teams
+      label: Facility Teams
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contractor
+      label: Contractor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: service_quality
+      label: Service Quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 5
+      name: performance_over_time
+      label: Performance over time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: note
+      options: []
+      required: false

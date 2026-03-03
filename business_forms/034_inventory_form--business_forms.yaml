@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: inventory_form
+    pages:
+    - id: 1
+      name: product_list
+      label: product list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product
+      label: product
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Apple''}'
+      - '{''label'': ''Banana''}'
+      - '{''label'': ''Cherry''}'
+      - '{''label'': ''Date''}'
+      - '{''label'': ''Fig''}'
+      - '{''label'': ''Orange''}'
+      - '{''label'': ''Pear''}'
+      required: true
+    - id: 5
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: product_list_2
+      label: product list 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product
+      label: product
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Apple''}'
+      - label:ประก Banana
+      - '{''label'': ''Cherry''}'
+      - '{''label'': ''Date''}'
+      - '{''label'': ''Fig''}'
+      - '{''label'': ''Orange''}'
+      - '{''label'': ''Pear''}'
+      required: false
+    - id: 8
+      name: quantity
+      label: quantity 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: location
+      label: location 2
+      hint: null
+      type: text
+      options: []
+      required: false

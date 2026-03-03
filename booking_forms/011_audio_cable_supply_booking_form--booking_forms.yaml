@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Cable Supply Booking Form
+    pages:
+    - id: 1
+      name: customer_full_name
+      label: Customer Full Name
+      hint: Name of person making the booking
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Contact email for booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: Company or organization (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: booking_date
+      label: Booking Date
+      hint: Date of this booking request
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: rental_start_date
+      label: Rental Start Date
+      hint: When do you need the cables?
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: rental_end_date
+      label: Rental End Date
+      hint: When will you return the cables?
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: cable_type_xlr
+      label: XLR Cables
+      hint: Number of XLR cables needed
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: cable_type_trs
+      label: TRS Cables
+      hint: Number of TRS cables needed
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: cable_type_ts
+      label: TS Cables
+      hint: Number of TS cables needed
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: cable_type_rca
+      label: RCA Cables
+      hint: Number of RCA cables needed
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: cable_type_speakon
+      label: Speakon Cables
+      hint: Number of Speakon cables needed
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: preferred_length
+      label: Preferred Cable Length
+      hint: Most common length needed
+      type: select_one
+      options:
+      - 3-6 feet
+      - 10-15 feet
+      - 20-25 feet
+      - 50+ feet
+      - Mixed lengths
+      required: true
+    - id: 14
+      name: delivery_method
+      label: Delivery Method
+      hint: How will you receive the cables?
+      type: select_one
+      options:
+      - Pickup at warehouse
+      - Delivery to venue
+      - Shipping to address
+      - On-site setup included
+      required: true
+    - id: 15
+      name: delivery_address
+      label: Delivery Address
+      hint: Full address for delivery (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: event_type
+      label: Event Type
+      hint: What is this booking for?
+      type: select_one
+      options:
+      - Live Concert
+      - Conference
+      - Theater Production
+      - Recording Session
+      - Corporate Event
+      - Wedding
+      - Other
+      required: true
+    - id: 17
+      name: venue_name
+      label: Venue Name
+      hint: Name of event venue
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: special_requirements
+      label: Special Requirements
+      hint: Any specific needs or requests
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: insurance_option
+      label: Damage Insurance
+      hint: Add insurance for rental period
+      type: select_one
+      options:
+      - Yes, add insurance
+      - No, decline insurance
+      required: true
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Invoice (approved accounts)
+      - Cash on pickup
+      required: true

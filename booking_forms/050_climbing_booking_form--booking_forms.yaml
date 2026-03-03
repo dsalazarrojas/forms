@@ -1,0 +1,276 @@
+inputSchema:
+  type: object
+  properties:
+    title: Climbing Booking Form
+    pages:
+    - id: 1
+      name: intro_section
+      label: Climbing Session Booking
+      hint: Reserve your climbing experience
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: booking_details
+      label: -- Booking Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: session_date
+      label: Preferred Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: session_time
+      label: Preferred Time Slot
+      hint: null
+      type: select_one
+      options:
+      - Early Morning - 6am to 9am
+      - Morning - 9am to 12pm
+      - Afternoon - 12pm to 3pm
+      - Late Afternoon - 3pm to 6pm
+      - Evening - 6pm to 9pm
+      required: true
+    - id: 11
+      name: duration
+      label: Session Duration
+      hint: null
+      type: select_one
+      options:
+      - 1 Hour
+      - 2 Hours
+      - 3 Hours
+      - Full Day - 6 Hours
+      - Custom Duration
+      required: true
+    - id: 12
+      name: session_type
+      label: Type of Session
+      hint: null
+      type: select_one
+      options:
+      - Drop-In Climb
+      - Guided Climbing
+      - Beginner Course
+      - Intermediate Course
+      - Advanced Course
+      - Group Session
+      - Private Lesson
+      - Other
+      required: true
+    - id: 13
+      name: experience_section
+      label: -- Experience Level --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: climbing_experience
+      label: Climbing Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Never Climbed Before
+      - Beginner - 1-6 months
+      - Intermediate - 6 months to 2 years
+      - Advanced - 2-5 years
+      - Expert - 5+ years
+      required: true
+    - id: 15
+      name: climbing_type
+      label: Type of Climbing Experience
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Indoor Rock Wall
+      - Top Rope Climbing
+      - Lead Climbing
+      - Bouldering
+      - Outdoor Climbing
+      - Competition Climbing
+      required: false
+    - id: 16
+      name: certifications
+      label: Climbing Certifications or Training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: group_info
+      label: -- Group Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: group_size
+      label: Total Number of Participants
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: group_composition
+      label: Group Composition
+      hint: null
+      type: select_multiple
+      options:
+      - Solo
+      - Couple
+      - Family with Children
+      - Friends
+      - Work Team
+      - School Group
+      - Other
+      required: false
+    - id: 20
+      name: children_info
+      label: -- Children Information (if applicable) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: number_of_children
+      label: Number of Children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: children_ages
+      label: Children's Ages
+      hint: Comma-separated ages
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: health_safety
+      label: -- Health and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: medical_conditions
+      label: Any Medical Conditions We Should Know About?
+      hint: Injuries, asthma, heart conditions, etc.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: fear_of_heights
+      label: Do You Have a Fear of Heights?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Mild
+      required: false
+    - id: 26
+      name: agreement_section
+      label: -- Waiver and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: waiver_agreement
+      label: I Agree to the Waiver and Release of Liability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 28
+      name: safety_rules
+      label: I Understand and Agree to Follow All Safety Rules
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 29
+      name: payment_section
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Bank Transfer
+      required: true
+    - id: 31
+      name: additional_services
+      label: Additional Services or Equipment Rental
+      hint: Harness rental, climbing shoes, etc.
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: special_requests
+      label: Special Requests or Notes
+      hint: null
+      type: text
+      options: []
+      required: false

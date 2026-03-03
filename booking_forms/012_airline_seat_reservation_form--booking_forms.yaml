@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airline Seat Reservation Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: booking_reference
+      label: Booking Reference (PNR)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_flight
+      label: -- Flight Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: travel_date
+      label: Date of Travel
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: departure_city
+      label: Departure City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: arrival_city
+      label: Arrival City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_seating
+      label: -- Seating Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: cabin_class
+      label: Cabin Class
+      hint: null
+      type: select_one
+      options:
+      - Economy
+      - Premium Economy
+      - Business
+      - First Class
+      required: true
+    - id: 12
+      name: preferred_seat_number
+      label: Preferred Seat Number
+      hint: e.g. 12A, 14F
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: seat_position
+      label: Seat Position Preference
+      hint: null
+      type: select_one
+      options:
+      - Window
+      - Aisle
+      - Middle
+      - Bulkhead (if available)
+      - Exit Row (subject to requirements)
+      required: true
+    - id: 14
+      name: traveling_with_infant
+      label: Are you traveling with an infant?
+      hint: Required for bassinet seat allocation
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: special_assistance_seat
+      label: Do you require a seat for medical or mobility reasons?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: comments
+      label: Additional Seating Comments
+      hint: null
+      type: text
+      options: []
+      required: false

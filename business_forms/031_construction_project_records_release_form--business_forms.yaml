@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Project Records Release Form
+    pages:
+    - id: 1
+      name: section_requestor_ident
+      label: -- Requestor Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requestor_name
+      label: Full Name of Requesting Individual
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_company
+      label: Requesting Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requestor_type_ident
+      label: Relationship to the Project
+      hint: null
+      type: select_one
+      options:
+      - Project Owner/Client
+      - General Contractor
+      - Subcontractor
+      - Architect/Engineering Firm
+      - Legal Counsel/Representative
+      - Insurance Professional
+      - Financial Auditor/Institution
+      required: true
+    - id: 5
+      name: requestor_email
+      label: Primary Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: requestor_phone
+      label: Primary Phone Number
+      hint: Format - (555) 555-5555
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_project_context
+      label: -- Project and Record Context --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: project_name_ident
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_location_address
+      label: Project Location/Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: records_period_requested
+      label: Specify Records Period or Date Range
+      hint: e.g., All records from 2021-2023
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_specific_records
+      label: -- Specific Records Requested --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: records_checklist_req
+      label: Type of Records to be Released
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Daily Logs and Site Reports
+      - Approved Submittals and Shop Drawings
+      - RFIs and Coordination Records
+      - Change Orders and Directives
+      - Quality Control/Inspection Reports
+      - Safety Incident/Audit Records
+      - Progress Photos and Videos
+      - Final As-built Documentation
+      - Billing and Payment Applications
+      required: true
+    - id: 13
+      name: purpose_of_release_desc
+      label: Purpose of the Records Release Request
+      hint: e.g., Legal review, Audit, Phase close-out, Marketing
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_auth_consent
+      label: -- Authorization and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: authority_to_request_stmt
+      label: Acknowledgment of Authority to Request
+      hint: I confirm I have the legal authority to request these project records
+      type: select_one
+      options:
+      - I Acknowledge and Confirm
+      - I Disagree
+      required: true
+    - id: 16
+      name: confidentiality_agree_stmt
+      label: Confidentiality and Proper Use Agreement
+      hint: Records will be used only for the stated purpose and kept confidential
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 17
+      name: data_privacy_compliance_ack
+      label: Acknowledgment of Data Privacy and GDPR Compliance
+      hint: null
+      type: select_one
+      options:
+      - I Accept
+      - I Reject
+      required: true
+    - id: 18
+      name: delivery_method_pref
+      label: Preferred Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Secure Digital Download (Preferred)
+      - Cloud-based Portal Access
+      - External Drive (Encrypted) via Courier
+      - Physical Printed Copies
+      required: true
+    - id: 19
+      name: section_final_submission
+      label: -- Final Submission and Date --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: additional_release_instructions
+      label: Additional Release Instructions or Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submission_date
+      label: Date of Release Authorization
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: authorized_officer_name_label
+      label: Approving Officer (Name and Title)
+      hint: For internal use
+      type: text
+      options: []
+      required: false

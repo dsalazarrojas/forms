@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: shipment_status_monitoring_form
+    pages:
+    - id: 1
+      name: shipment_status
+      label: Shipments Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tracking_number
+      label: Tracking Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipment_date
+      label: Shipment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: shipment_time
+      label: Shipment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: shipment_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - On the way
+      - Delayed
+      - Cancelled
+      - Arrived
+      required: false
+    - id: 6
+      name: shipper_name
+      label: Shipper Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipper_phone
+      label: Shipper Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipper_email
+      label: Shipper Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: shipper_address
+      label: Shipper Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consignment_note
+      label: Consignment Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shipper_message
+      label: Shipper Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: shipment_status_history
+      label: Shipment Status History
+      hint: null
+      type: select_multiple
+      options:
+      - On the way
+      - Delayed
+      - Cancelled
+      - Arrived
+      required: false

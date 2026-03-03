@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Management Performance Survey
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: performance_level
+      label: Performance Level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Below Average''}'
+      - '{''value'': 2, ''label'': ''Average''}'
+      - '{''value'': 3, ''label'': ''Above Average''}'
+      - '{''value'': 4, ''label'': ''Excellent''}'
+      - '{''value'': 5, ''label'': ''Exceptional''}'
+      required: true
+    - id: 3
+      name: strengths
+      label: Strengths
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: weaknesses
+      label: Weaknesses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: Assessor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments_1
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

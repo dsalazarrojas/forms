@@ -1,0 +1,219 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Blockchain Survey
+    pages:
+      - id: 1
+        name: survey_header
+        label: Blockchain Technology Survey
+        hint: Share your perspectives on blockchain and cryptocurrency
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: age_group
+        label: Age Group
+        hint: Select your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65 or Older
+        required: true
+      - id: 4
+        name: education_level
+        label: Education Level
+        hint: Highest level completed
+        type: select_one
+        options:
+          - High School or Less
+          - Some College
+          - Bachelor Degree
+          - Master Degree
+          - Doctorate
+          - Other
+        required: true
+      - id: 5
+        name: occupation
+        label: Occupation
+        hint: Your current occupation
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: blockchain_knowledge
+        label: Blockchain Knowledge Level
+        hint: How would you rate your understanding
+        type: select_one
+        options:
+          - Expert
+          - Advanced
+          - Intermediate
+          - Basic
+          - No Knowledge
+        required: true
+      - id: 7
+        name: crypto_ownership
+        label: Cryptocurrency Ownership
+        hint: Do you own any cryptocurrency
+        type: select_one
+        options:
+          - Yes Currently Own
+          - Previously Owned
+          - Never Owned
+        required: true
+      - id: 8
+        name: crypto_types
+        label: Cryptocurrencies Owned
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Bitcoin
+          - Ethereum
+          - Stablecoins
+          - Altcoins
+          - NFTs
+          - None
+        required: false
+      - id: 9
+        name: investment_amount
+        label: Investment Range
+        hint: Total crypto investment value
+        type: select_one
+        options:
+          - Under $100
+          - $100-$1000
+          - $1001-$10000
+          - $10001-$50000
+          - Over $50000
+          - Not Applicable
+        required: false
+      - id: 10
+        name: blockchain_use_cases
+        label: Blockchain Use Cases
+        hint: Which uses interest you most
+        type: select_multiple
+        options:
+          - Cryptocurrency
+          - Smart Contracts
+          - Supply Chain
+          - Healthcare Records
+          - Voting Systems
+          - Digital Identity
+          - Real Estate
+          - Banking and Finance
+        required: true
+      - id: 11
+        name: trust_level
+        label: Trust in Blockchain
+        hint: How much do you trust blockchain technology
+        type: select_one
+        options:
+          - Completely Trust
+          - Mostly Trust
+          - Neutral
+          - Somewhat Distrust
+          - Completely Distrust
+        required: true
+      - id: 12
+        name: adoption_timeline
+        label: Mainstream Adoption Timeline
+        hint: When will blockchain go mainstream
+        type: select_one
+        options:
+          - Already Mainstream
+          - Within 2 Years
+          - 2-5 Years
+          - 5-10 Years
+          - Never
+          - Not Sure
+        required: true
+      - id: 13
+        name: biggest_barrier
+        label: Biggest Barrier to Adoption
+        hint: What holds blockchain back
+        type: select_one
+        options:
+          - Technical Complexity
+          - Regulatory Uncertainty
+          - Security Concerns
+          - Lack of Understanding
+          - Environmental Impact
+          - Volatility
+        required: true
+      - id: 14
+        name: government_regulation
+        label: Government Regulation View
+        hint: How should government regulate
+        type: select_one
+        options:
+          - Heavy Regulation Needed
+          - Moderate Regulation
+          - Light Touch
+          - No Regulation
+          - Not Sure
+        required: true
+      - id: 15
+        name: environmental_concern
+        label: Environmental Concern
+        hint: How concerned about energy use
+        type: select_one
+        options:
+          - Very Concerned
+          - Concerned
+          - Neutral
+          - Not Concerned
+        required: true
+      - id: 16
+        name: future_investment
+        label: Future Investment Plans
+        hint: Will you invest more
+        type: select_one
+        options:
+          - Definitely Will
+          - Probably Will
+          - Undecided
+          - Probably Will Not
+          - Definitely Will Not
+        required: true
+      - id: 17
+        name: recommend_to_others
+        label: Recommend to Others
+        hint: Would you recommend blockchain
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Neutral
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 18
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other thoughts
+        type: text
+        options: []
+        required: false

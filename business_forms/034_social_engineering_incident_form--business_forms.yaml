@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Engineering Incident Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: attacker_ip
+      label: Attacker IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attacker_email
+      label: Attacker Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: attacker_phone
+      label: Attacker Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: victim_name
+      label: Victim Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Phishing
+      - Scam
+      - Malware
+      - Other
+      required: false
+    - id: 11
+      name: incident_category
+      label: Incident Category
+      hint: null
+      type: select_multiple
+      options:
+      - Financial
+      - Business
+      - Personal
+      - Other
+      required: false
+    - id: 12
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Reported
+      - Under Investigation
+      - Resolved
+      - Other
+      required: false
+    - id: 13
+      name: incident_resolution
+      label: Incident Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_comment
+      label: Incident Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_attachment
+      label: Incident Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_note
+      label: Incident Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: incident_url
+      label: Incident Url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_tags
+      label: Incident Tags
+      hint: null
+      type: select_multiple
+      options:
+      - Security
+      - Finance
+      - IT
+      - Other
+      required: false
+    - id: 19
+      name: attacker_name
+      label: Attacker Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: attacker_location
+      label: Attacker Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: incident_date_2
+      label: Incident Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: incident_time_2
+      label: Incident Time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: incident_type_2
+      label: Incident Type 2
+      hint: null
+      type: select_multiple
+      options:
+      - Phishing
+      - Scam
+      - Malware
+      - Other
+      required: false
+    - id: 24
+      name: incident_category_2
+      label: Incident Category 2
+      hint: null
+      type: select_multiple
+      options:
+      - Financial
+      - Business
+      - Personal
+      - Other
+      required: false
+    - id: 25
+      name: incident_status_2
+      label: Incident Status 2
+      hint: null
+      type: select_one
+      options:
+      - Reported
+      - Under Investigation
+      - Resolved
+      - Other
+      required: false

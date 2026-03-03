@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Rehearsal Slot Booking Form
+    pages:
+    - id: 1
+      name: couple_details
+      label: Couple Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rehearsal_details
+      label: Rehearsal Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: attendees
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

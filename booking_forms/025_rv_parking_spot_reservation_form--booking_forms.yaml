@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: rv_parking_spot_reservation_form
+    pages:
+    - id: 1
+      name: rv_parking_spot_form
+      label: RV Parking Spot Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_details
+      label: Guest Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reservation_info
+      label: Reservation Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: reservation_time
+      label: Reservation Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: spot_details
+      label: Spot Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: guest_phone
+      label: Guest Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: fee
+      label: Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: total_fees
+      label: Total Fees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - PayPal
+      required: true
+    - id: 14
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Not Paid
+      required: true
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: reservation_id
+      label: Reservation ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: spot_id
+      label: Spot ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: user_id
+      label: User ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: park_name
+      label: Park Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: park_address
+      label: Park Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: park_phone
+      label: Park Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: park_email
+      label: Park Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: park_hours
+      label: Park Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: park_description
+      label: Park Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: park_rate
+      label: Park Rate
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: villa_booking_form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: booking_type
+      label: Booking Type
+      hint: Select one
+      type: select_one
+      options:
+      - Standard
+      - Premium
+      - Deluxe
+      required: false
+    - id: 7
+      name: guests
+      label: Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rooms
+      label: Rooms
+      hint: null
+      type: number
+      options: []
+      required: false

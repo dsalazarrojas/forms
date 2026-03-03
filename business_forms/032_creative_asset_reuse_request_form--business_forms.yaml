@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: page1
+      label: page1_label
+      hint: page1_hint
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page2
+      label: page2_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: page3
+      label: page3_label
+      hint: page3_hint
+      type: text
+      options: []
+      required: false

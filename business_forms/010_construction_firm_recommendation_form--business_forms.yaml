@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Firm Recommendation Form
+    pages:
+    - id: 1
+      name: section_client_identification
+      label: -- Client and Project Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_name
+      label: Name of Completed Project
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_completion_date
+      label: Project Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_firm_evaluation
+      label: -- Firm Evaluation and Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: quality_of_work
+      label: Quality of Workmanship (1-5 Stars)
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: schedule_adherence
+      label: Adherence to Project Schedule
+      hint: null
+      type: select_one
+      options:
+      - Ahead of Schedule
+      - On Time
+      - Slightly Delayed
+      - Significantly Delayed
+      required: true
+    - id: 9
+      name: budget_management
+      label: Budget and Financial Management
+      hint: null
+      type: select_one
+      options:
+      - Under Budget
+      - Exactly on Budget
+      - Minor Cost Overruns
+      - Major Cost Overruns
+      required: true
+    - id: 10
+      name: communication_rating
+      label: Communication and Responsiveness
+      hint: How easy was it to get in touch and receive updates?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: professionalism_rating
+      label: Professionalism of Staff and Subcontractors
+      hint: null
+      type: select_one
+      options:
+      - Extremely Professional
+      - Professional
+      - Neutral
+      - Unprofessional
+      required: true
+    - id: 12
+      name: section_recommendation_stmt
+      label: -- Recommendation and Testimonial --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: would_recommend
+      label: Would you recommend this firm to others?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Without Hesitation
+      - Yes - With Conditions
+      - false
+      required: true
+    - id: 14
+      name: primary_strength
+      label: What was the firm's primary strength during this project?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: improvement_suggestion
+      label: Areas where the firm could improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: recommendation_testimonial
+      label: Official Recommendation or Testimonial Statement
+      hint: May we use this for marketing purposes?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: permit_marketing_use
+      label: Consent to use this testimonial for marketing
+      hint: null
+      type: select_one
+      options:
+      - Yes - Include my name/company
+      - Yes - Keep it anonymous
+      - No - Internal use only
+      required: true
+    - id: 18
+      name: reference_permission
+      label: May we use you as a direct reference for future clients?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: section_final_submission
+      label: -- Submission and Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: signer_title
+      label: Title of Person Completing This Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submission_date
+      label: Date of Recommendation
+      hint: null
+      type: date
+      options: []
+      required: true

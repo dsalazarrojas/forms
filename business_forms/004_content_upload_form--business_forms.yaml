@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Upload Form
+    pages:
+    - id: 1
+      name: uploader_name
+      label: Uploader Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: upload_date
+      label: Upload Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: content_category
+      label: Content Category
+      hint: Type of content
+      type: select_one
+      options:
+      - Video
+      - Image
+      - Document
+      - Audio
+      - Presentation
+      - Spreadsheet
+      - Other
+      required: true
+    - id: 5
+      name: content_title
+      label: Content Title
+      hint: Descriptive title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: content_description
+      label: Content Description
+      hint: Brief description of the content
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: content_tags
+      label: Content Tags
+      hint: Comma-separated keywords
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: file_format
+      label: File Format
+      hint: File extension
+      type: select_one
+      options:
+      - MP4
+      - MOV
+      - JPG
+      - PNG
+      - PDF
+      - DOCX
+      - XLSX
+      - PPTX
+      - MP3
+      - WAV
+      - Other
+      required: true
+    - id: 9
+      name: file_size
+      label: File Size
+      hint: Approximate size in MB
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: content_owner
+      label: Content Owner
+      hint: Who owns the rights?
+      type: select_one
+      options:
+      - I own the rights
+      - My organization
+      - Third party (licensed)
+      - Public domain
+      - Creative Commons
+      required: true
+    - id: 11
+      name: usage_permissions
+      label: Usage Permissions
+      hint: How can this be used?
+      type: select_multiple
+      options:
+      - Internal use only
+      - Public website
+      - Social media
+      - Marketing materials
+      - Educational purposes
+      - Commercial use
+      required: true
+    - id: 12
+      name: target_audience
+      label: Target Audience
+      hint: Intended viewers
+      type: select_one
+      options:
+      - General Public
+      - Customers
+      - Employees
+      - Partners
+      - Students
+      - Media
+      required: false
+    - id: 13
+      name: expiration_date
+      label: Expiration Date
+      hint: When should this be removed?
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: version_number
+      label: Version Number
+      hint: Version identifier
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: related_projects
+      label: Related Projects
+      hint: Associated project names
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: confidentiality_level
+      label: Confidentiality Level
+      hint: Security classification
+      type: select_one
+      options:
+      - Public
+      - Internal
+      - Confidential
+      - Restricted
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

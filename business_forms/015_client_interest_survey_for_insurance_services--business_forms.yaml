@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Interest Survey For Insurance Services
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_interests
+      label: -- Insurance Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: insurance_types
+      label: Which types of insurance are you interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - Life
+      - Health
+      - Auto
+      - Home
+      - Renters
+      - Business
+      - Disability
+      required: false
+    - id: 7
+      name: current_provider
+      label: Current Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consideration_reason
+      label: Why are you considering new insurance?
+      hint: null
+      type: select_one
+      options:
+      - Better Rates
+      - More Coverage
+      - New Purchase
+      - Unsatisfied with Current Provider
+      required: true
+    - id: 9
+      name: section_household
+      label: -- Household Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: dependent_count
+      label: Number of Dependents
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      required: false
+    - id: 12
+      name: ownership_status
+      label: Home Ownership Status
+      hint: null
+      type: select_one
+      options:
+      - Own
+      - Rent
+      required: false
+    - id: 13
+      name: section_consultation
+      label: -- Consultation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: preferred_time
+      label: Preferred time for a consultation
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 15
+      name: contact_days
+      label: Best day to contact you
+      hint: null
+      type: select_multiple
+      options:
+      - Mon
+      - Tue
+      - Wed
+      - Thu
+      - Fri
+      - Sat
+      required: false

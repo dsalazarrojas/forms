@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Worker Availability
+    pages:
+    - id: 1
+      name: event_worker_availability
+      label: Event Worker Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: available_dates
+      label: Event Dates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: required_transportation
+      label: Required Transportation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: drive_available
+      label: Drive
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: fly_available
+      label: Fly
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: assigned_tool_label
+      label: Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool_value
+      label: Value
+      hint: null
+      type: text
+      options: []
+      required: false

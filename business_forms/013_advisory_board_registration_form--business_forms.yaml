@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advisory Board Registration Form
+    pages:
+    - id: 1
+      name: profile_header
+      label: -- Candidate Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Current Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company
+      label: Company / Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: linkedin_profile
+      label: LinkedIn Profile URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: expertise_header
+      label: -- Expertise & Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: industry_expertise
+      label: Primary Industry Expertise
+      hint: Select your main area of knowledge.
+      type: select_one
+      options:
+      - Technology
+      - Finance
+      - Healthcare
+      - Education
+      - Marketing/Sales
+      - Legal
+      - Human Resources
+      required: true
+    - id: 8
+      name: skills_offered
+      label: Skills Offered
+      hint: How can you contribute?
+      type: select_multiple
+      options:
+      - Strategic Planning
+      - Fundraising
+      - Network/Connections
+      - Technical Guidance
+      - Crisis Management
+      - Public Relations
+      required: true
+    - id: 9
+      name: previous_board_experience
+      label: Previous Board Experience
+      hint: Have you served on a board before?
+      type: select_one
+      options:
+      - Yes, currently serving
+      - Yes, in the past
+      - No, this would be my first
+      required: true
+    - id: 10
+      name: motivation
+      label: Motivation for Joining
+      hint: Why do you want to join our advisory board?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: availability_header
+      label: -- Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: time_commitment
+      label: Ability to Commit Time
+      hint: Can you commit to 4 meetings per year?
+      type: select_one
+      options:
+      - true
+      - false
+      - Discuss further
+      required: true
+    - id: 13
+      name: contact_email
+      label: Best Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: contact_phone
+      label: Mobile Phone
+      hint: null
+      type: text
+      options: []
+      required: true

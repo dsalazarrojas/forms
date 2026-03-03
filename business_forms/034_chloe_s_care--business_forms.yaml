@@ -1,0 +1,382 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chloe's Care
+    pages:
+    - id: 1
+      name: customer_information
+      label: Customer Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Shipping Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: For personalized recommendations
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: skin_profile
+      label: Skin Profile
+      hint: Tell us about your skin
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: skin_type
+      label: What is your skin type
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Dry
+      - Oily
+      - Combination
+      - Sensitive
+      - Not sure
+      required: true
+    - id: 10
+      name: skin_concerns
+      label: What are your main skin concerns
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Acne or breakouts
+      - Fine lines or wrinkles
+      - Dark spots or hyperpigmentation
+      - Redness or rosacea
+      - Dullness
+      - Large pores
+      - Dryness or flakiness
+      - Uneven texture
+      - Dark circles
+      - None
+      required: true
+    - id: 11
+      name: skin_goals
+      label: What are your skincare goals
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Clearer skin
+      - Anti-aging
+      - Brightening
+      - Hydration
+      - Even skin tone
+      - Reduce pores
+      - Soothing sensitive skin
+      - Acne control
+      - General maintenance
+      required: true
+    - id: 12
+      name: current_routine
+      label: Current Skincare Routine
+      hint: What products you use
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: current_products
+      label: What products do you currently use
+      hint: List brands or products
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: routine_frequency
+      label: How often do you follow a skincare routine
+      hint: null
+      type: select_one
+      options:
+      - Twice daily
+      - Once daily
+      - Few times a week
+      - Rarely
+      - Never
+      required: true
+    - id: 15
+      name: product_preferences
+      label: Product Preferences
+      hint: What you prefer
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: preferred_products
+      label: What products are you interested in
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cleanser
+      - Toner
+      - Serum
+      - Moisturizer
+      - Sunscreen
+      - Eye cream
+      - Face mask
+      - Exfoliant
+      - Night cream
+      - Full set
+      required: true
+    - id: 17
+      name: ingredient_preferences
+      label: Ingredient Preferences
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Natural ingredients
+      - Organic
+      - Vegan
+      - Cruelty-free
+      - Fragrance-free
+      - Paraben-free
+      - Retinol
+      - Vitamin C
+      - Hyaluronic acid
+      - No preference
+      required: true
+    - id: 18
+      name: allergies_sensitivities
+      label: Do you have any allergies or sensitivities
+      hint: Ingredients to avoid
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: budget_range
+      label: Budget Range
+      hint: Monthly spending
+      type: select_one
+      options:
+      - Under $50
+      - $50-$100
+      - $101-$200
+      - $201-$300
+      - Over $300
+      - No limit
+      required: true
+    - id: 20
+      name: order_information
+      label: Order Information
+      hint: Your order details
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - One-time purchase
+      - Subscription
+      - Gift set
+      - Sample kit
+      - Consultation first
+      required: true
+    - id: 22
+      name: products_ordered
+      label: Products Ordered
+      hint: List products
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: quantity
+      label: Quantity
+      hint: Number of items
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: gift_message
+      label: Gift Message
+      hint: If this is a gift
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: shipping_preferences
+      label: Shipping Preferences
+      hint: Delivery options
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard shipping
+      - Express shipping
+      - Overnight
+      - Pick up in person
+      required: true
+    - id: 27
+      name: delivery_instructions
+      label: Special Delivery Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: payment_information
+      label: Payment Information
+      hint: How you will pay
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      - Bank transfer
+      required: true
+    - id: 30
+      name: promotional_code
+      label: Promotional Code
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: consultation_request
+      label: Consultation Request
+      hint: Personalized advice
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: want_consultation
+      label: Would you like a free skincare consultation
+      hint: null
+      type: select_one
+      options:
+      - Yes, please
+      - No, thank you
+      required: true
+    - id: 33
+      name: consultation_preference
+      label: Consultation Preference
+      hint: null
+      type: select_one
+      options:
+      - Phone call
+      - Video call
+      - Email
+      - In-person
+      required: false
+    - id: 34
+      name: marketing_preferences
+      label: Marketing Preferences
+      hint: Stay connected
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: newsletter_signup
+      label: Would you like to join our newsletter
+      hint: Tips and exclusive offers
+      type: select_one
+      options:
+      - Yes, sign me up
+      - No, thank you
+      required: true
+    - id: 36
+      name: sms_updates
+      label: Would you like to receive SMS updates
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 37
+      name: how_did_you_hear
+      label: How Did You Hear About Chloe's Care
+      hint: null
+      type: select_one
+      options:
+      - Social media
+      - Friend or family
+      - Advertisement
+      - Influencer
+      - Search engine
+      - Event
+      - Other
+      required: false
+    - id: 38
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: We are here to help
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: terms_acceptance
+      label: I accept the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes, I accept
+      - No, I do not accept
+      required: true
+    - id: 40
+      name: customer_signature
+      label: Customer Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 41
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true

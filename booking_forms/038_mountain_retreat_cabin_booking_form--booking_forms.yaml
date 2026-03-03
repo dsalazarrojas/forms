@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: mountain_retreat_cabin_booking_form
+    pages:
+    - id: 1
+      name: reservation
+      label: Reservation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cabin_type
+      label: cabin_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Cabin 1''}'
+      - '{''id'': 2, ''label'': ''Cabin 2''}'
+      - '{''id'': 3, ''label'': ''Cabin 3''}'
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: guest_details
+      label: Guest Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: checkin_date
+      label: Checkin Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: checkout_date
+      label: Checkout Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: terms_agreement
+      label: Terms Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: terms_agreement_text
+      label: terms_agreement_text
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: project_price_estimation_form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: project_scope
+      label: Project Scope
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_duration
+      label: Project Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: project_price
+      label: Project Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: project_location
+      label: Project Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1001, ''label'': ''Location 1''}'
+      - '{''id'': 1002, ''label'': ''Location 2''}'
+      - '{''id'': 1003, ''label'': ''Location 3''}'
+      required: false
+    - id: 7
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 2001, ''label'': ''Type 1''}'
+      - '{''id'': 2002, ''label'': ''Type 2''}'
+      - '{''id'': 2003, ''label'': ''Type 3''}'
+      required: false

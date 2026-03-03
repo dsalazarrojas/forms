@@ -1,0 +1,104 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Financial Report Duplication Request Form
+    pages:
+    - id: 1
+      name: report_type
+      label: Report Type
+      hint: null
+      type: select_one
+      options:
+      - Financial
+      - Other
+      required: false
+    - id: 2
+      name: report_period
+      label: Report Period
+      hint: null
+      type: select_one
+      options:
+      - Q1
+      - Q2
+      - Q3
+      - Q4
+      required: false
+    - id: 3
+      name: report_department
+      label: Report Department
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - Finance
+      - Marketing
+      required: false
+    - id: 4
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Fax
+      - Print
+      required: false
+    - id: 5
+      name: report_start_date
+      label: Report Start Date
+      hint: Date of report start date
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: report_end_date
+      label: Report End Date
+      hint: Date of report end date
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: report_frequency
+      label: Report Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 8
+      name: report_status
+      label: Report Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: report_duedate
+      label: Report Due Date
+      hint: Date report should be due
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

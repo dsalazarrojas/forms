@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Coat Check Booking Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: Required for SMS reminders
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: coat_size
+      label: Coat Size
+      hint: null
+      type: select_one
+      options:
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: true
+    - id: 5
+      name: coat_color
+      label: Coat Color
+      hint: null
+      type: select_multiple
+      options:
+      - Black
+      - White
+      - Red
+      - Blue
+      - Grey
+      required: true
+    - id: 6
+      name: coat_type
+      label: Coat Type
+      hint: null
+      type: select_one
+      options:
+      - Trench Coat
+      - Blazer
+      - Jacket
+      - Coat
+      - Sweater
+      required: true
+    - id: 7
+      name: guest_arrival_time
+      label: Guest Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: coat_collection_time
+      label: Coat Collection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: event_details
+      label: Event Details prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_id
+      label: Event ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false

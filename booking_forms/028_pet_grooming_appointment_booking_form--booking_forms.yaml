@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Grooming Appointment Booking Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: service_type
+      label: Service type
+      hint: null
+      type: select_one
+      options:
+      - Bath
+      - Cut
+      - Trim
+      - Style
+      - Nails
+      required: true
+    - id: 6
+      name: service_date
+      label: Service date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: service_time
+      label: Service time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: additional_info
+      label: Additional info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: pet_type
+      label: Pet type
+      hint: null
+      type: select_multiple
+      options:
+      - Dog
+      - Cat
+      - Other
+      required: true
+    - id: 10
+      name: owner_signature
+      label: Owner signature
+      hint: null
+      type: text
+      options: []
+      required: false

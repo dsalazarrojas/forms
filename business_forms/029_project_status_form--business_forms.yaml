@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: project_status_form
+    pages:
+    - id: 1
+      name: project_status
+      label: Project Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: progress
+      label: progress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 5
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - In Progress
+      - Completed
+      - Cancelled
+      required: false

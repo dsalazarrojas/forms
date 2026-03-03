@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Buyers Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_method
+      label: Payment Method
+      hint: Choose your payment method
+      type: select_one
+      options:
+      - LBC
+      - Cebuana Lhuillier
+      - M Lhuillier
+      - Western Union
+      required: true
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: other_inquiries
+      label: Other Inquiries
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date_of_transaction
+      label: Date of Transaction
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_transaction
+      label: Time of Transaction
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - PHP
+      - USD
+      - EUR
+      - JPY
+      required: true
+    - id: 12
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Pending
+      required: true
+    - id: 13
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: transaction_id
+      label: Transaction ID
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Over the Counter
+      required: true
+    - id: 17
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partially Paid
+      required: true
+    - id: 18
+      name: payment_method_id
+      label: Payment Method ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: payment_method_name
+      label: Payment Method Name
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: payment_id
+      label: Payment ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: amount_paid
+      label: Amount Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: transaction_status
+      label: Transaction Status
+      hint: null
+      type: select_one
+      options:
+      - Successful
+      - Failed
+      - Partially Successful
+      required: true
+    - id: 23
+      name: amount_refunded
+      label: Amount Refunded
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: refund_amount
+      label: Refund Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false

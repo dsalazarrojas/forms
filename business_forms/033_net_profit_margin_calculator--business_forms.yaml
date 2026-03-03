@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Net Profit Margin Calculator
+    pages:
+    - id: 1
+      name: revenue
+      label: Revenue
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: cost_of_goods_sold
+      label: Cost of Goods Sold
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: gross_profit
+      label: Gross Profit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: operating_expenses
+      label: Operating Expenses
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': 5000}'
+      - '{''label'': ''Option 2'', ''value'': 2000}'
+      - '{''label'': ''Option 3'', ''value'': 1500}'
+      required: false
+    - id: 5
+      name: operating_expense_other
+      label: Other Operating Expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: net_profit
+      label: Net Profit
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: profit_margin
+      label: Profit Margin
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: profit_margin_percentage
+      label: Profit Margin Percentage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: net_profit_margin
+      label: Net Profit Margin
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: margin_analysis
+      label: Margin Analysis
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': 1}'
+      - '{''label'': ''Option 2'', ''value'': 2}'
+      - '{''label'': ''Option 3'', ''value'': 3}'
+      required: false
+    - id: 11
+      name: operating_expense_percentage
+      label: Operating Expense Percentage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: net_profit_margin_percentage
+      label: Net Profit Margin Percentage
+      hint: null
+      type: number
+      options: []
+      required: true

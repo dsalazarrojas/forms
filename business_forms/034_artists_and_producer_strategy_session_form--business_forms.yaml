@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artists And Producer Strategy Session Form
+    pages:
+    - id: 1
+      name: artist_name
+      label: Artist or Band Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: artist_email
+      label: Artist Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: artist_phone
+      label: Artist Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: producer_name
+      label: Producer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: producer_email
+      label: Producer Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: music_genre
+      label: Music Genre
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: session_date
+      label: Preferred Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: session_time
+      label: Preferred Session Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: session_format
+      label: Session Format
+      hint: null
+      type: select_one
+      options:
+      - In-Person
+      - Virtual
+      - Hybrid
+      required: true
+    - id: 10
+      name: location_or_platform
+      label: Location or Virtual Platform
+      hint: Studio address or Zoom link
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: session_duration
+      label: Session Duration - Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: agenda_items
+      label: Strategy Session Agenda
+      hint: Topics to discuss
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: project_overview
+      label: Current Project or Album Overview
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: artist_goals
+      label: Artist Goals for This Session
+      hint: What you want to achieve
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: producer_input
+      label: Producer Input or Feedback Requested
+      hint: Specific areas of focus
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: current_tracks
+      label: Number of Tracks Under Development
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: deadline
+      label: Project Deadline or Target Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: production_timeline
+      label: Expected Production Timeline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: budget_available
+      label: Budget Available for Session
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: materials_prepared
+      label: Demos or Materials to Be Reviewed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_sessions
+      label: Planning Follow-Up Sessions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - Possibly
+      - Not at This Time
+      required: false
+    - id: 22
+      name: additional_notes
+      label: Additional Notes or Special Requirements
+      hint: null
+      type: text
+      options: []
+      required: false

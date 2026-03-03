@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Insurance Billing Form
+    pages:
+    - id: 1
+      name: policyholder_info_header
+      label: -- Policyholder Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: policyholder_full_name
+      label: Policyholder Full Name
+      hint: As it appears on your policy
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Enter your active policy ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: billing_email
+      label: Billing Email
+      hint: For payment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: billing_phone
+      label: Billing Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: payment_details_header
+      label: -- Payment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: payment_type
+      label: Payment Type
+      hint: Select your payment method
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Electronic Check - ACH
+      required: true
+    - id: 8
+      name: payment_amount
+      label: Payment Amount
+      hint: Amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: payment_plan
+      label: Payment Plan
+      hint: Select your billing cycle
+      type: select_one
+      options:
+      - Monthly Installment
+      - Semi-Annual
+      - Full Annual Payment
+      required: true
+    - id: 10
+      name: billing_address_header
+      label: -- Billing Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: street_address
+      label: Street Address
+      hint: Mailing address for billing
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: city_state_zip
+      label: City, State, and Zip
+      hint: Complete address details
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: automatic_payments_enrollment
+      label: Automatic Payments Enrollment
+      hint: Would you like to enroll in Auto-Pay?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: billing_notes
+      label: Billing Notes or Reference
+      hint: Any additional information for your payment
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mortgage Loan Application
+    pages:
+    - id: 1
+      name: loan_application_id
+      label: loan_application_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - Single Family Home
+      - Townhouse
+      - Condo
+      required: false
+    - id: 3
+      name: loan_amount
+      label: loan_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: loan_term
+      label: loan_term
+      hint: null
+      type: select_one
+      options:
+      - '15'
+      - '30'
+      - '40'
+      required: false
+    - id: 5
+      name: loan_term_years
+      label: loan_term_years
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: loan_frequency
+      label: loan_frequency
+      hint: null
+      type: select_one
+      options:
+      - Semi-Annual
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 7
+      name: applicant_first_name
+      label: applicant_first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: applicant_last_name
+      label: applicant_last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: applicant_email
+      label: applicant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: applicant_phone
+      label: applicant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: applicant_address
+      label: applicant_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: property_location
+      label: property_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: property_type_description
+      label: property_type_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: loan_status
+      label: loan_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Closed
+      required: false

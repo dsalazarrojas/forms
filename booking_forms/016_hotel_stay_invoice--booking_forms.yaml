@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Stay Invoice
+    pages:
+    - id: 1
+      name: billing_info
+      label: Billing Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: services_details
+      label: Services Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: room_services
+      label: Room Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: room_services_details
+      label: Room Services Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: services_charges
+      label: Services Charges
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: tax_charges
+      label: Tax Charges
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: total_services_charges
+      label: Total Services Charges
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: room_rate
+      label: Room Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: tax_rate
+      label: Tax Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: total_rooms
+      label: Total Rooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: total_nights
+      label: Total Nights
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: check_in_time
+      label: Check In Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: check_out_time
+      label: Check Out Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: minimalist
+      label: Minimalist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: hotel_name
+      label: Hotel Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cancellation And Refund Policy Form
+    pages:
+    - id: 1
+      name: business_info_section
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: The name of the company you are dealing with
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: Full name associated with the order
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_invoice_number
+      label: Order or Invoice Number
+      hint: Found in your purchase confirmation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: policy_details_section
+      label: -- Policy Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: product_service_purchased
+      label: Product or Service Purchased
+      hint: What was the item or service you bought
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: purchase_date
+      label: Purchase Date
+      hint: When did you make the transaction
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: cancellation_request_section
+      label: -- Cancellation Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: cancellation_reason
+      label: Reason for Cancellation
+      hint: Choose the most appropriate reason
+      type: select_one
+      options:
+      - Changed mind
+      - Found better price
+      - Quality issues
+      - Late delivery
+      - Other
+      required: true
+    - id: 12
+      name: reason_details
+      label: Elaborate on Reason
+      hint: Provide more details about your request
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: preferred_refund_method
+      label: Refund Method Preferred
+      hint: How would you like to receive your refund
+      type: select_one
+      options:
+      - Store Credit
+      - Original Payment Method
+      - Check by Mail
+      - Bank Transfer
+      required: true
+    - id: 14
+      name: policy_ack_section
+      label: -- Policy Acknowledgment --
+      hint: Review and confirm
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: policy_agreement_confirmation
+      label: I have read and agree to the cancellation policy
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 16
+      name: non_refundable_understanding
+      label: I understand the non-refundable portion
+      hint: Some processing fees or deposits may be withheld
+      type: select_one
+      options:
+      - Yes, I understand
+      - false
+      required: true
+    - id: 17
+      name: authorization_process
+      label: I authorize the processing of this request
+      hint: This will initiate the refund workflow
+      type: select_one
+      options:
+      - Yes, I authorize
+      - false
+      required: true
+    - id: 18
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: mortgage_calculator_lead_form
+    pages:
+    - id: 1
+      name: potential_buyer_info
+      label: Potential Buyer Information
+      hint: null
+      type: select_multiple
+      options:
+      - First name
+      - Last name
+      - Email address
+      - Phone number
+      - Company
+      required: false
+    - id: 2
+      name: loan_amount
+      label: Loan Amount
+      hint: Enter the loan amount
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: down_payment_percentage
+      label: Down Payment Percentage
+      hint: Enter the down payment percentage
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: interest_rate
+      label: Interest Rate
+      hint: Enter the interest rate
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: loan_term
+      label: Loan Term
+      hint: Enter the loan term
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: calculate_mortgage
+      label: Calculate Mortgage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone Number
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - New lead
+      - Existing lead
+      required: false
+    - id: 13
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - Social media
+      - Referral
+      - Print ad
+      - Other
+      required: false
+    - id: 14
+      name: lead_comment
+      label: Lead Comment
+      hint: Enter the lead comment
+      type: text
+      options: []
+      required: false

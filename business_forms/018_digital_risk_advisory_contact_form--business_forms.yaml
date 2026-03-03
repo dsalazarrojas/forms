@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_risk_advisory_contact_form
+    pages:
+    - id: 1
+      name: prospect_name
+      label: Propect Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: 'Format: XXX-XXX-XXXX'
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: risk_type
+      label: Risk Type
+      hint: null
+      type: select_one
+      options:
+      - Risk Management
+      - Compliance
+      - Security
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false

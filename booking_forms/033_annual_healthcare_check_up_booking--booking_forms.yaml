@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Healthcare Check Up Booking
+    pages:
+    - id: 1
+      name: patient_name
+      label: Full Name
+      hint: Patient full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For appointment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Name of insurance company
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: insurance_id
+      label: Insurance ID Number
+      hint: Policy or member ID
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: appointment_type
+      label: Appointment Type
+      hint: What type of check-up?
+      type: select_one
+      options:
+      - Annual Physical
+      - Wellness Exam
+      - Preventive Care
+      - Sports Physical
+      - Work Physical
+      - Follow-Up
+      - Other
+      required: true
+    - id: 9
+      name: preferred_provider
+      label: Preferred Provider
+      hint: Doctor or nurse practitioner
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: preferred_date
+      label: Preferred Date
+      hint: First choice date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: preferred_time
+      label: Preferred Time
+      hint: Morning or afternoon?
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Any Time
+      required: true
+    - id: 12
+      name: alternative_date
+      label: Alternative Date
+      hint: Second choice date
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: appointment_duration
+      label: Appointment Duration
+      hint: How long do you need?
+      type: select_one
+      options:
+      - Standard 30 min
+      - Extended 45 min
+      - Comprehensive 60 min
+      - Not Sure
+      required: false
+    - id: 14
+      name: visit_reason
+      label: Reason for Visit
+      hint: Any specific concerns?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: current_medications
+      label: Current Medications
+      hint: List medications you take
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Any chronic conditions?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: allergies
+      label: Allergies
+      hint: Medication or other allergies
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: family_history
+      label: Family Medical History
+      hint: Relevant family health issues
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: previous_checkup_date
+      label: Last Check-Up Date
+      hint: When was your last exam?
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: previous_provider
+      label: Previous Provider
+      hint: Name of previous doctor
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: new_patient
+      label: New Patient
+      hint: Is this your first visit?
+      type: select_one
+      options:
+      - Yes, New Patient
+      - No, Returning Patient
+      required: true
+    - id: 22
+      name: referral_source
+      label: How Did You Hear About Us?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Previous Patient
+      - Doctor Referral
+      - Family or Friend
+      - Website
+      - Insurance Directory
+      - Advertisement
+      - Other
+      required: false
+    - id: 23
+      name: reminder_preference
+      label: Reminder Preference
+      hint: How should we remind you?
+      type: select_one
+      options:
+      - Email
+      - Text Message
+      - Phone Call
+      - Mail
+      - No Reminders
+      required: true
+    - id: 24
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any special accommodations?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: interpreter_needed
+      label: Interpreter Needed
+      hint: Do you need language assistance?
+      type: select_one
+      options:
+      - false
+      - Yes, Spanish
+      - Yes, Other
+      required: false
+    - id: 26
+      name: interpreter_language
+      label: Interpreter Language
+      hint: Which language?
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: consent_treatment
+      label: Consent to Treatment
+      hint: I consent to examination and treatment
+      type: select_one
+      options:
+      - Yes, I Consent
+      - false
+      required: true
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

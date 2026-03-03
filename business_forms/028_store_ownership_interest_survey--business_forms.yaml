@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: Store Ownership Interest Survey
+    pages:
+    - id: 1
+      name: store_ownership_interest
+      label: What is your interest in owning a store?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very interested''}'
+      - '{''label'': ''Somewhat interested''}'
+      - '{''label'': ''Not interested''}'
+      required: false
+    - id: 2
+      name: store_ownership_percentage
+      label: What percentage of ownership do you have?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: store_ownership_involvement
+      label: Involvement in store operations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Some''}'
+      required: false
+    - id: 4
+      name: store_details
+      label: Store Details
+      hint: null
+      type: text
+      options: []
+      required: false

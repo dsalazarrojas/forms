@@ -1,0 +1,301 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Antitrust Policy Acknowledgment
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Work Email
+      hint: Company email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+        - Sales
+        - Marketing
+        - Operations
+        - Finance
+        - Legal
+        - Human Resources
+        - Executive
+        - Other
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_name
+      label: Manager Name
+      hint: Direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: employment_type
+      label: Employment Type
+      hint: Your employment status
+      type: select_one
+      options:
+        - Full-time
+        - Part-time
+        - Contract
+        - Temporary
+        - Executive
+      required: true
+    - id: 8
+      name: hire_date
+      label: Hire Date
+      hint: When did you start
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: policy_version
+      label: Policy Version
+      hint: Version number of policy
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: policy_date
+      label: Policy Effective Date
+      hint: When policy took effect
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: acknowledgment_section
+      label: -- Policy Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: policy_received
+      label: I have received the antitrust policy
+      hint: Confirm receipt
+      type: select_one
+      options:
+        - Yes, I have received it
+        - No, I have not received it
+      required: true
+    - id: 13
+      name: policy_read
+      label: I have read the antitrust policy
+      hint: Confirm you have read it
+      type: select_one
+      options:
+        - Yes, I have read it
+        - No, I have not read it
+      required: true
+    - id: 14
+      name: policy_understood
+      label: I understand the antitrust policy
+      hint: Confirm understanding
+      type: select_one
+      options:
+        - Yes, I understand
+        - Partially understand
+        - No, I do not understand
+      required: true
+    - id: 15
+      name: training_completed
+      label: Antitrust Training Completed
+      hint: Have you completed training
+      type: select_one
+      options:
+        - Yes, completed
+        - No, not yet
+        - Not required for my role
+      required: true
+    - id: 16
+      name: training_date
+      label: Training Completion Date
+      hint: When did you complete training
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: key_principles_section
+      label: -- Key Principles --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: price_fixing_understanding
+      label: I understand price-fixing is prohibited
+      hint: Confirm understanding
+      type: select_one
+      options:
+        - Yes, I understand
+        - No, I do not understand
+      required: true
+    - id: 19
+      name: bid_rigging_understanding
+      label: I understand bid-rigging is prohibited
+      hint: Confirm understanding
+      type: select_one
+      options:
+        - Yes, I understand
+        - No, I do not understand
+      required: true
+    - id: 20
+      name: market_allocation_understanding
+      label: I understand market allocation is prohibited
+      hint: Confirm understanding
+      type: select_one
+      options:
+        - Yes, I understand
+        - No, I do not understand
+      required: true
+    - id: 21
+      name: competitor_communication
+      label: I understand rules about competitor communication
+      hint: Confirm understanding
+      type: select_one
+      options:
+        - Yes, I understand
+        - No, I do not understand
+      required: true
+    - id: 22
+      name: compliance_agreement
+      label: -- Compliance Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: agree_to_comply
+      label: I agree to comply with antitrust laws
+      hint: Your agreement
+      type: select_one
+      options:
+        - Yes, I agree
+        - No, I do not agree
+      required: true
+    - id: 24
+      name: report_violations
+      label: I will report potential violations
+      hint: Will you report concerns
+      type: select_one
+      options:
+        - Yes, I will report
+        - No, I will not report
+      required: true
+    - id: 25
+      name: questions_about_policy
+      label: Do you have questions about the policy
+      hint: Any questions
+      type: select_one
+      options:
+        - No, I have no questions
+        - Yes, I have questions
+      required: true
+    - id: 26
+      name: questions_description
+      label: Question Description
+      hint: Describe your questions
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: previous_violations
+      label: Are you aware of any violations
+      hint: Any known violations
+      type: select_one
+      options:
+        - No, not aware of any
+        - Yes, I am aware
+        - Unsure
+      required: true
+    - id: 28
+      name: violations_description
+      label: Violation Description
+      hint: Describe if aware
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other remarks
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: employee_signature
+      label: Employee Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 32
+      name: witness_name
+      label: Witness Name
+      hint: If required
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: witness_signature
+      label: Witness Signature
+      hint: If required
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: hr_representative
+      label: HR Representative
+      hint: HR contact name
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: acknowledgment_complete_date
+      label: Acknowledgment Completion Date
+      hint: Date completed
+      type: date
+      options: []
+      required: true

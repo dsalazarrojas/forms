@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Report Submission Declaration Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company or Organization Name
+      hint: Legal registered name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_registration
+      label: Company Registration Number
+      hint: Official identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: registration_date
+      label: Date of Business Registration
+      hint: When company was registered
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: fiscal_year
+      label: Fiscal Year Covered by Report
+      hint: Year being reported
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: report_end_date
+      label: Reporting Period End Date
+      hint: Last day of fiscal year
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: authorized_signatory
+      label: Authorized Signatory Name
+      hint: Person authorized to sign
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: signatory_title
+      label: Signatory Title
+      hint: Position of authorized person
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: signatory_email
+      label: Signatory Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: signatory_phone
+      label: Signatory Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: report_type
+      label: Type of Annual Report
+      hint: null
+      type: select_one
+      options:
+      - Standard Annual Report
+      - Audited Financial Statements
+      - Consolidated Report
+      - Non-Profit Annual Report
+      - Government Agency Report
+      - Other
+      required: true
+    - id: 11
+      name: audit_status
+      label: Has the report been audited
+      hint: null
+      type: select_one
+      options:
+      - Yes - fully audited
+      - Yes - reviewed
+      - No - unaudited
+      - Not applicable
+      required: true
+    - id: 12
+      name: auditor_name
+      label: Auditor or Audit Firm Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: financial_statements_included
+      label: Financial statements are included
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partially
+      required: true
+    - id: 14
+      name: financial_accuracy_declared
+      label: I declare financial information is accurate and complete
+      hint: Certification of accuracy
+      type: select_one
+      options:
+      - I certify
+      - I do not certify
+      required: true
+    - id: 15
+      name: fraud_declaration
+      label: To the best of my knowledge, no fraud exists
+      hint: Declaration regarding fraud
+      type: select_one
+      options:
+      - I declare no fraud
+      - I declare potential fraud concerns
+      - I am unable to declare
+      required: true
+    - id: 16
+      name: compliance_statement
+      label: Report complies with applicable regulations
+      hint: null
+      type: select_one
+      options:
+      - Yes - fully complies
+      - Yes - substantially complies
+      - No - non-compliant in some areas
+      - Unknown
+      required: true
+    - id: 17
+      name: prior_year_comparison
+      label: Comparison with prior year included
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partial
+      required: false
+    - id: 18
+      name: notes_disclosures
+      label: Material notes and disclosures included
+      hint: All material information disclosed
+      type: select_one
+      options:
+      - Yes - all material items disclosed
+      - Yes - substantially disclosed
+      - No - some items not disclosed
+      - Not applicable
+      required: true
+    - id: 19
+      name: submission_format
+      label: Report Submission Format
+      hint: null
+      type: select_one
+      options:
+      - PDF document
+      - Word document
+      - Excel spreadsheet
+      - Web portal
+      - Hard copy only
+      - Multiple formats
+      required: true
+    - id: 20
+      name: submission_date
+      label: Actual Submission Date
+      hint: Date report will be or was submitted
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: filing_deadline
+      label: Required Filing Deadline
+      hint: Regulatory deadline
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: submission_certification
+      label: I certify this report is being submitted in compliance
+      hint: Certification of compliance
+      type: select_one
+      options:
+      - I certify compliance
+      - I cannot certify
+      required: true
+    - id: 23
+      name: document_retention
+      label: Supporting documents retained for inspection
+      hint: null
+      type: select_one
+      options:
+      - Yes - documents retained
+      - No - documents not available
+      - Partially available
+      required: true

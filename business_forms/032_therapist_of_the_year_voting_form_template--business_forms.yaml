@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Therapist Of The Year Voting Form Template
+    pages:
+    - id: 1
+      name: form_id
+      label: Form Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: therapist_id
+      label: Therapist Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: vote_for_therapist_1
+      label: Vote for Therapist 1
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Option 1''}'
+      - '{''value'': 2, ''label'': ''Option 2''}'
+      - '{''value'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 7
+      name: vote_for_therapist_2
+      label: Vote for Therapist 2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Option 1''}'
+      - '{''value'': 2, ''label'': ''Option 2''}'
+      - '{''value'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 8
+      name: vote_for_therapist_3
+      label: Vote for Therapist 3
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Option 1''}'
+      - '{''value'': 2, ''label'': ''Option 2''}'
+      - '{''value'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: vote_count_therapist_1
+      label: Vote Count for Therapist 1
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: vote_count_therapist_2
+      label: Vote Count for Therapist 2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: vote_count_therapist_3
+      label: Vote Count for Therapist 3
+      hint: null
+      type: number
+      options: []
+      required: true

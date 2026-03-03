@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Continuity Form
+    pages:
+    - id: 1
+      name: organization_details
+      label: -- Organization Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_size
+      label: Organization Size
+      hint: Number of employees
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: primary_function
+      label: Primary Business Function
+      hint: What the organization does
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of this continuity assessment
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: critical_functions
+      label: -- Critical Functions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: function_identification
+      label: Have Critical Functions Been Identified
+      hint: Identify your most critical operations
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: true
+    - id: 8
+      name: critical_function_list
+      label: List Critical Functions
+      hint: Describe your critical operations
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: recovery_time_obj
+      label: Recovery Time Objective (RTO)
+      hint: Maximum acceptable downtime in hours
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: recovery_point_obj
+      label: Recovery Point Objective (RPO)
+      hint: Maximum acceptable data loss in minutes
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: dependencies
+      label: Critical Dependencies
+      hint: Key systems or resources needed
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: risk_assessment
+      label: -- Risk Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: primary_risks
+      label: Primary Business Risks
+      hint: Identify main threats
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: likelihood_severe
+      label: Likelihood of Severe Disruption
+      hint: Within next 12 months
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Moderate
+      - Low
+      - Very Low
+      required: true
+    - id: 15
+      name: worst_case_scenario
+      label: Worst Case Scenario Impact
+      hint: Financial impact if critical functions stop
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: continuity_planning
+      label: -- Continuity Planning --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: plan_status
+      label: Business Continuity Plan Status
+      hint: Current state of BC planning
+      type: select_one
+      options:
+      - No plan exists
+      - Plan in development
+      - Plan exists, untested
+      - Plan tested
+      - Plan updated regularly
+      - Comprehensive program
+      required: true
+    - id: 18
+      name: plan_location
+      label: Plan Storage Location
+      hint: Where is the plan kept
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: backup_facilities
+      label: Backup Facilities Available
+      hint: Do you have alternate facilities
+      type: select_one
+      options:
+      - Yes, in detail
+      - Yes, partial
+      - No, planned
+      - No, not planned
+      required: true
+    - id: 20
+      name: data_backups
+      label: Data Backup Systems
+      hint: Current backup procedures
+      type: select_one
+      options:
+      - Daily backups
+      - Real-time replication
+      - Weekly backups
+      - Manual backups
+      - No backups
+      required: true
+    - id: 21
+      name: communication_plan
+      label: Crisis Communication Plan
+      hint: How will you communicate during disruption
+      type: select_one
+      options:
+      - Yes, documented
+      - Yes, informal
+      - No, needs development
+      - No plans made
+      required: true
+    - id: 22
+      name: testing_schedule
+      label: Plan Testing Schedule
+      hint: How often is plan tested
+      type: select_one
+      options:
+      - Quarterly
+      - Semi-annually
+      - Annually
+      - Every 2 years
+      - Never tested
+      - No schedule
+      required: true
+    - id: 23
+      name: training_program
+      label: Employee Training Program
+      hint: Staff awareness and training
+      type: select_one
+      options:
+      - Comprehensive program
+      - Basic training provided
+      - Minimal training
+      - No training
+      required: true
+    - id: 24
+      name: improvement_needs
+      label: Improvement Needs
+      hint: What needs to be improved
+      type: text
+      options: []
+      required: false

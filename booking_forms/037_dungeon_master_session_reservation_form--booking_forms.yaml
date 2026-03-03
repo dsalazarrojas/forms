@@ -1,0 +1,84 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Dungeon Master Session Reservation Form
+    pages:
+    - id: 1
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_details
+      label: Player Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_time
+      label: Session Time
+      hint: null
+      type: select_one
+      options:
+      - 9:00 AM
+      - 10:00 AM
+      - 11:00 AM
+      - 12:00 PM
+      - 1:00 PM
+      - 2:00 PM
+      - 3:00 PM
+      - 4:00 PM
+      - 5:00 PM
+      - 6:00 PM
+      - 7:00 PM
+      - 8:00 PM
+      - 9:00 PM
+      required: true
+    - id: 4
+      name: player_confirmation
+      label: Player Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: game_system
+      label: Game System
+      hint: null
+      type: select_multiple
+      options:
+      - D&D 5
+      - Pathfinder
+      - Shadowrun
+      - Call of Cthulhu
+      required: false
+    - id: 6
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: store_details
+      label: Store Details
+      hint: null
+      type: text
+      options: []
+      required: false

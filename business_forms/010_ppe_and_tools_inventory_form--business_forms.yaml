@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: ppe_and_tools_inventory_form
+    pages:
+    - id: 1
+      name: form_details
+      label: form_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ppe_category
+      label: ppe_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: tool_name
+      label: tool_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: serial_number
+      label: serial_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manufacturer
+      label: manufacturer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: asset_value
+      label: asset_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

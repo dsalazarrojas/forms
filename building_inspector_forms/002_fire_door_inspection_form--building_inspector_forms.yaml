@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Door Inspection Form
+    pages:
+    - id: 1
+      name: fire_door_inspection
+      label: Fire Door Inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: door_condition
+      label: Door Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Needs Repair
+      - Needs Replacement
+      required: false
+    - id: 3
+      name: door_clearance
+      label: Door Clearance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: fire_exit_sign
+      label: Fire Exit Sign
+      hint: null
+      type: select_one
+      options:
+      - Working
+      - Not Working
+      - N/A
+      required: false
+    - id: 5
+      name: fire_exit_alarms
+      label: Fire Exit Alarms
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Not Working
+      required: false
+    - id: 6
+      name: exit_sign_color
+      label: Exit Sign Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Red
+      - Yellow
+      - Green
+      required: false
+    - id: 7
+      name: fire_exit_alarms_prophets
+      label: Fire Exit Alarms Prophets
+      hint: null
+      type: select_one
+      options:
+      - Working
+      - Not Working
+      required: false
+    - id: 8
+      name: fire_exit_doors_wet_location
+      label: Fire Exit Doors Wet Location
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: fire_exit_doors_drains
+      label: Fire Exit Doors Drains
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Not Working
+      required: false
+    - id: 10
+      name: emergency_exit_sign
+      label: Emergency Exit Sign
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: fire_alarms
+      label: Fire Alarms
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Not Working
+      required: false
+    - id: 12
+      name: fire_doors
+      label: Fire Doors
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Not Working
+      required: false
+    - id: 13
+      name: smoke_alarms
+      label: Smoke Alarms
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Not Working
+      required: false
+    - id: 14
+      name: electrical_equipment
+      label: Electrical Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Not Working
+      required: false
+    - id: 15
+      name: water_main_pipe
+      label: Water Main Pipe
+      hint: null
+      type: select_one
+      options:
+      - Working
+      - Not Working
+      required: false
+    - id: 16
+      name: fire_hose
+      label: Fire Hose
+      hint: null
+      type: select_one
+      options:
+      - Working
+      - Not Working
+      required: false
+    - id: 17
+      name: fire_ext_goals
+      label: Fire Exit Goals
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Red
+      - Yellow
+      - Green
+      required: false
+    - id: 18
+      name: emergency_exit
+      label: Emergency Exit
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Red
+      - Yellow
+      - Green
+      required: false
+    - id: 19
+      name: fire_exit_doors_location
+      label: Fire Exit Doors Location
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Not Working
+      - N/A
+      required: false
+    - id: 20
+      name: fire_exit_doors_drains
+      label: Fire Exit Doors Drains
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Not Working
+      required: false
+    - id: 21
+      name: fire_exit_doors_electrical
+      label: Fire Exit Doors Electrical
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Not Working
+      required: false

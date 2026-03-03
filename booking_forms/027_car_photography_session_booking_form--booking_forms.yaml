@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Photography Session Booking Form
+    pages:
+    - id: 1
+      name: client_info_header_photo
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name_photo
+      label: Client Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email_photo
+      label: Email Address
+      hint: For booking confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone_photo
+      label: Phone Number
+      hint: Primary contact for the booking
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: session_details_header
+      label: -- Session Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: session_date_preference
+      label: Preferred Session Date
+      hint: Select your preferred day
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: session_time_preference
+      label: Preferred Session Time
+      hint: Select your preferred time
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: session_location_preference
+      label: Preferred Session Location
+      hint: e.g., Outdoor, Indoor, Studio, Particular Street
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: session_type_photo
+      label: Type of Photography Session
+      hint: Select the session package
+      type: select_one
+      options:
+      - Basic Session (1 Hour)
+      - Standard Session (2 Hours)
+      - Premium Session (4 Hours)
+      - Event Photography
+      - Video Production
+      required: true
+    - id: 10
+      name: vehicle_info_photo_header
+      label: -- Vehicle Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_make_model_photo
+      label: Car Make and Model
+      hint: Describe the car to be photographed
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vehicle_year_photo
+      label: Vehicle Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: vehicle_color_photo
+      label: Vehicle Color
+      hint: Primary color of the car
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_modifications_photo
+      label: List Any Notable Modifications
+      hint: (If applicable)
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: booking_verification_header
+      label: -- Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: booking_acknowledgement_photo
+      label: I acknowledge the photography session booking terms
+      hint: See terms of service
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 17
+      name: signature_confirmation_photo
+      label: Type your name for photography session booking confirmation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: additional_booking_comments_photo
+      label: Any additional comments or requests?
+      hint: Provide more details for the booking
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: photography_usage_preference
+      label: How do you plan to use the photos?
+      hint: null
+      type: select_multiple
+      options:
+      - Personal Use
+      - Social Media
+      - Print/Framing
+      - Business Marketing
+      - Editorial
+      required: true

@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Proposal Form
+    pages:
+    - id: 1
+      name: proposer_name
+      label: Proposer Full Name
+      hint: Enter your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Your company or institution
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your professional title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: proposal_title
+      label: Proposal Title
+      hint: Title of your proposed session
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: proposal_type
+      label: Proposal Type
+      hint: What type of session are you proposing
+      type: select_one
+      options:
+      - Keynote Presentation
+      - Breakout Session
+      - Workshop
+      - Panel Discussion
+      - Lightning Talk
+      - Poster Presentation
+      - Roundtable Discussion
+      required: true
+    - id: 8
+      name: proposal_abstract
+      label: Proposal Abstract
+      hint: Brief description of your proposal 300 words max
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: learning_objectives
+      label: Learning Objectives
+      hint: What will attendees gain from this session
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: target_audience
+      label: Target Audience
+      hint: Who should attend this session
+      type: select_one
+      options:
+      - Beginners
+      - Intermediate Level
+      - Advanced Professionals
+      - Mixed Audience
+      - Executives and Leaders
+      required: true
+    - id: 11
+      name: expected_attendance
+      label: Expected Attendance
+      hint: How many attendees do you expect
+      type: select_one
+      options:
+      - Up to 25 people
+      - 25 to 50 people
+      - 50 to 100 people
+      - 100 to 200 people
+      - Over 200 people
+      required: true
+    - id: 12
+      name: session_duration
+      label: Preferred Session Duration
+      hint: How long should your session be
+      type: select_one
+      options:
+      - 30 minutes
+      - 45 minutes
+      - 60 minutes
+      - 90 minutes
+      - Half day workshop 3-4 hours
+      - Full day workshop 6-8 hours
+      required: true
+    - id: 13
+      name: co_presenters
+      label: Co-Presenters
+      hint: List names and affiliations of co-presenters
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: av_requirements
+      label: Audio Visual Requirements
+      hint: What equipment will you need
+      type: select_multiple
+      options:
+      - Projector and Screen
+      - Microphone
+      - Whiteboard or Flip Chart
+      - Computer Station
+      - Video Playback Capability
+      - Live Polling System
+      - Recording Equipment
+      - None Required
+      required: false
+    - id: 15
+      name: room_setup
+      label: Preferred Room Setup
+      hint: How should the room be arranged
+      type: select_one
+      options:
+      - Theater Style
+      - Classroom Style
+      - U-Shape
+      - Round Tables
+      - Hollow Square
+      - No Preference
+      required: true
+    - id: 16
+      name: previous_presentations
+      label: Have you presented at conferences before
+      hint: Your speaking experience
+      type: select_one
+      options:
+      - Yes Multiple Times
+      - Yes Once or Twice
+      - No This Would Be First Time
+      required: true
+    - id: 17
+      name: travel_support_needed
+      label: Do you need travel support
+      hint: Will you require funding for travel
+      type: select_one
+      options:
+      - Yes Need Full Support
+      - Yes Need Partial Support
+      - No Funding Not Needed
+      - No My Organization Will Cover
+      required: true
+    - id: 18
+      name: special_requirements
+      label: Special Requirements
+      hint: Any accessibility or other needs
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information for the committee
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submission_agreement
+      label: I certify this proposal is original and agree to terms
+      hint: Confirm your submission
+      type: select_one
+      options:
+      - I Agree and Certify
+      - I Do Not Agree
+      required: true

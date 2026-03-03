@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Waste Management Facility Inspection Form
+    pages:
+    - id: 1
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: facility_status
+      label: Facility Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: waste_stream
+      label: Waste Stream
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: waste_type
+      label: Waste Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: regulatory_compliance
+      label: Regulatory Compliance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: corrective_action
+      label: Corrective Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: corrective_action_taken
+      label: Corrective Action Taken
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: facility_comments
+      label: Facility Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: inspector_comments
+      label: Inspector Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: facility_pictures
+      label: Facility Pictures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: facility_videos
+      label: Facility Videos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: facility_documents
+      label: Facility Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: facility_other
+      label: Facility Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: facility_notes
+      label: Facility Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: facility_signature
+      label: Facility Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: facility_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

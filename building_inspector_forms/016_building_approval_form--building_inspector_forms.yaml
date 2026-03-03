@@ -1,0 +1,271 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Approval Form
+    pages:
+    - id: 1
+      name: project_info
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_address
+      label: Project address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_type
+      label: Project type
+      hint: null
+      type: select_one
+      options:
+      - New construction
+      - Renovation
+      - Expansion
+      - Remodel
+      - Interior work
+      - Structural changes
+      - Partial demolition
+      required: true
+    - id: 5
+      name: project_scope
+      label: Scope of work
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: estimated_cost
+      label: Estimated project cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: applicant_info
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: applicant_name
+      label: Applicant name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: applicant_role
+      label: Applicant role
+      hint: null
+      type: select_one
+      options:
+      - Owner
+      - Contractor
+      - Architect
+      - Engineer
+      - Project manager
+      - Other
+      required: true
+    - id: 10
+      name: applicant_contact
+      label: Contact information
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: applicant_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contractor_info
+      label: -- Contractor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: contractor_name
+      label: Contractor name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: license_number
+      label: Contractor license number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: license_expiration
+      label: License expiration date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: contractor_insurance
+      label: Contractor has liability insurance
+      hint: null
+      type: select_one
+      options:
+      - Yes, certificate on file
+      - Yes, needs verification
+      - false
+      required: true
+    - id: 17
+      name: design_team
+      label: -- Design and Plans --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: architect_name
+      label: Architect name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: engineer_name
+      label: Engineer name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: plans_submitted
+      label: Complete plans submitted
+      hint: null
+      type: select_one
+      options:
+      - Yes, all documents
+      - Yes, partial submission
+      - No, pending submission
+      required: true
+    - id: 21
+      name: code_compliance
+      label: Plans reviewed for code compliance
+      hint: null
+      type: select_one
+      options:
+      - Yes, compliant
+      - Yes, with conditions
+      - No, not compliant
+      - Pending review
+      required: false
+    - id: 22
+      name: timeline_section
+      label: -- Project Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: start_date
+      label: Proposed start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: completion_date
+      label: Proposed completion date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: inspections_needed
+      label: -- Inspections --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: inspection_schedule
+      label: Inspections required
+      hint: null
+      type: select_multiple
+      options:
+      - Foundation
+      - Framing
+      - Electrical
+      - Plumbing
+      - HVAC
+      - Structural
+      - Final
+      - Other
+      required: true
+    - id: 27
+      name: safety_measures
+      label: -- Safety Measures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: site_safety_plan
+      label: Site safety plan in place
+      hint: null
+      type: select_one
+      options:
+      - Yes, approved
+      - Yes, needs approval
+      - false
+      required: true
+    - id: 29
+      name: demolition_plan
+      label: Demolition or debris removal plan
+      hint: null
+      type: select_one
+      options:
+      - Not applicable
+      - Yes, submitted
+      - No, needed
+      required: false
+    - id: 30
+      name: approval_status
+      label: -- Approval Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: approval_recommendation
+      label: Building inspector approval recommendation
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Conditionally approved
+      - Requires revisions
+      - Not approved
+      - Pending further review
+      required: false
+    - id: 32
+      name: approval_conditions
+      label: Conditions for approval
+      hint: null
+      type: text
+      options: []
+      required: false

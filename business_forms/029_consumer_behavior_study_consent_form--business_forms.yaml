@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consumer Behavior Study Consent Form
+    pages:
+    - id: 1
+      name: participant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Your mailing address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: study_title
+      label: Study Title
+      hint: Title of the research study
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: principal_investigator
+      label: Principal Investigator
+      hint: Name of lead researcher
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: study_purpose
+      label: Study Purpose
+      hint: Brief description of study purpose
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: study_procedures
+      label: Study Procedures
+      hint: What will you be asked to do
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: study_duration
+      label: Study Duration
+      hint: How long will participation take
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: potential_risks
+      label: Potential Risks
+      hint: Any potential risks or discomforts
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: potential_benefits
+      label: Potential Benefits
+      hint: Any potential benefits
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: compensation
+      label: Compensation
+      hint: Will you receive compensation
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: confidentiality
+      label: Confidentiality
+      hint: How will your data be protected
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: data_usage
+      label: Data Usage
+      hint: How will your data be used
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: voluntary_participation
+      label: Voluntary Participation
+      hint: Your participation is voluntary
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 21
+      name: right_to_withdraw
+      label: Right to Withdraw
+      hint: You may withdraw at any time
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 22
+      name: contact_information
+      label: Contact for Questions
+      hint: Who to contact for questions
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: audio_recording_consent
+      label: Audio Recording Consent
+      hint: Consent to audio recording if applicable
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: false
+    - id: 24
+      name: video_recording_consent
+      label: Video Recording Consent
+      hint: Consent to video recording if applicable
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: false
+    - id: 25
+      name: data_sharing_consent
+      label: Data Sharing Consent
+      hint: Consent to share anonymized data
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 26
+      name: participant_signature
+      label: Participant Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 28
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Required if under 18
+      type: text
+      options: []
+      required: false

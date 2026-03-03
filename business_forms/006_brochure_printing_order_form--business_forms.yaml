@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brochure Printing Order Form
+    pages:
+    - id: 1
+      name: client_information_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Name of the person or business placing the order
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Company name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Email for order communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: printing_specifications_header
+      label: -- Printing Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: brochure_format
+      label: Brochure Format
+      hint: Select the format you need
+      type: select_one
+      options:
+      - Bi-Fold
+      - Tri-Fold
+      - Z-Fold
+      - Gate Fold
+      - Double Parallel
+      - French Fold
+      required: true
+    - id: 8
+      name: finished_size
+      label: Finished Size
+      hint: Select the finished size when folded
+      type: select_one
+      options:
+      - Letter (8.5x11 folded to 8.5x5.5)
+      - Legal (8.5x14 folded to 8.5x7)
+      - A4 (210x297mm)
+      - Custom Size
+      required: true
+    - id: 9
+      name: paper_stock
+      label: Paper Stock
+      hint: Select the paper stock type
+      type: select_one
+      options:
+      - 80lb Gloss Text
+      - 100lb Gloss Text
+      - 80lb Matte Text
+      - 100lb Matte Text
+      - 14pt Cardstock
+      - 16pt Cardstock
+      - Recycled Stock
+      required: true
+    - id: 10
+      name: print_color
+      label: Print Color
+      hint: Color specifications for printing
+      type: select_one
+      options:
+      - Full Color Both Sides
+      - Full Color One Side
+      - Black One Side
+      - Black Both Sides
+      - Spot Color
+      required: true
+    - id: 11
+      name: coating
+      label: Coating Options
+      hint: Select coating finish if desired
+      type: select_multiple
+      options:
+      - No Coating
+      - UV Coating
+      - Aqueous Coating
+      - Soft Touch Lamination
+      - Matte Lamination
+      required: false
+    - id: 12
+      name: quantity_ordered
+      label: Quantity
+      hint: Number of brochures to print
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: artwork_header
+      label: -- Artwork Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: artwork_status
+      label: Artwork Status
+      hint: Do you have ready-to-print artwork
+      type: select_one
+      options:
+      - Ready to Print
+      - Need Design Services
+      - Need Modifications
+      required: true
+    - id: 15
+      name: file_format
+      label: File Format
+      hint: What format is your artwork in
+      type: select_multiple
+      options:
+      - PDF
+      - AI
+      - PSD
+      - EPS
+      - INDD
+      - JPG
+      - PNG
+      required: false
+    - id: 16
+      name: number_of_pages
+      label: Number of Pages
+      hint: Number of panels in the brochure
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: design_requirements
+      label: Design Requirements
+      hint: Describe any design needs if applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: shipping_delivery_header
+      label: -- Shipping and Delivery --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: shipping_address
+      label: Shipping Address
+      hint: Full address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: delivery_method
+      label: Delivery Method
+      hint: How would you like to receive your order
+      type: select_one
+      options:
+      - Standard Ground Shipping
+      - Express Shipping
+      - Rush Production
+      - Customer Pickup
+      required: true
+    - id: 21
+      name: requested_delivery_date
+      label: Requested Delivery Date
+      hint: When do you need the order by
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: order_notes
+      label: Additional Notes
+      hint: Any special instructions or notes
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: terms_agreement
+      label: I agree to the printing terms and conditions
+      hint: Check to confirm your order
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

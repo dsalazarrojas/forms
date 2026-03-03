@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recycled Fabric Vendor Application Form
+    pages:
+    - id: 1
+      name: vendor_info
+      label: Vendor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fabric_info
+      label: Fabric Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_info
+      label: Shipping Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vendor_type
+      label: Vendor Type
+      hint: null
+      type: select_one
+      options:
+      - Fabric Supplier
+      - Wholesaler
+      - Distributor
+      - Other
+      required: false
+    - id: 7
+      name: application_reason
+      label: Why are you joining
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_first_name
+      label: First Name
+      hint: First Name of contact
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_last_name
+      label: Last Name
+      hint: Last Name of contact
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Email
+      hint: Email of contact
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Phone
+      hint: Phone number of contact
+      type: text
+      options: []
+      required: false

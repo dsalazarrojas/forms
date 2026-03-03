@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: eco_apartment_stay_booking_form
+    pages:
+    - id: 1
+      name: guest_details
+      label: Guest Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: policy_agreement
+      label: Policy Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: accommodation_details
+      label: Accommodation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: accommodation_type
+      label: Accommodation Type
+      hint: null
+      type: select_one
+      options:
+      - Apartment
+      - Studio
+      - House
+      required: false
+    - id: 6
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - Shared
+      - Private
+      required: false
+    - id: 7
+      name: accommodation_number
+      label: Accommodation Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hourly Invoice Form
+    pages:
+    - id: 1
+      name: hourly_invoice_form_1
+      label: invoice_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hourly_invoice_form_2
+      label: invoice_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: invoice_number
+      label: invoice_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: work_hours
+      label: work_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: hourly_rate
+      label: hourly_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: total_invoice
+      label: total_invoice
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit
+      - Other
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - Bank Transfer
+      - Cash
+      - Check
+      - Online Payment
+      - Other
+      required: false
+    - id: 9
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: work_hours_note
+      label: work_hours_note
+      hint: null
+      type: text
+      options: []
+      required: false

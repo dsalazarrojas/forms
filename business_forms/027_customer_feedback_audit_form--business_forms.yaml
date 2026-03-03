@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Feedback Audit Form
+    pages:
+    - id: 1
+      name: customer_feedback_audit
+      label: Customer Feedback Audit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Business Forms
+      - Other Forms
+      required: false
+    - id: 3
+      name: customer_satisfaction_level
+      label: Customer Satisfaction Level
+      hint: On a scale of 1 to 5
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 4
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: select_multiple
+      options:
+      - Bad
+      - Average
+      - Good
+      - Excellent
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_company
+      label: Customer Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_position
+      label: Customer Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_department
+      label: Customer Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: auditor_name
+      label: Auditor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: auditor_company
+      label: Auditor Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: auditor_position
+      label: Auditor Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: auditor_department
+      label: Auditor Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: auditor_email
+      label: Auditor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: auditor_phone
+      label: Auditor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_at
+      label: Submitted
+      hint: null
+      type: date
+      options: []
+      required: false

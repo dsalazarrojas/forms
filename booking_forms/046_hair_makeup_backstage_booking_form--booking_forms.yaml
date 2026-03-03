@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair & Makeup Backstage Booking Form
+    pages:
+    - id: 1
+      name: form_info
+      label: Form Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: show_time
+      label: Show Time
+      hint: null
+      type: select_one
+      options:
+      - '540'
+      - '600'
+      - '660'
+      required: false
+    - id: 6
+      name: show_time_ending
+      label: Show Time Ending
+      hint: null
+      type: select_multiple
+      options:
+      - '600'
+      - '900'
+      - '1200'
+      required: false
+    - id: 7
+      name: hair_services
+      label: Hair Services
+      hint: null
+      type: select_multiple
+      options:
+      - Haircut
+      - Color
+      - Style
+      required: false
+    - id: 8
+      name: makeup_services
+      label: Makeup Services
+      hint: null
+      type: select_multiple
+      options:
+      - Makeup
+      - Airbrush
+      - Henna
+      required: false
+    - id: 9
+      name: number_of_services
+      label: Number of Services
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: booking_time
+      label: Booking Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submission
+      label: Submission
+      hint: null
+      type: text
+      options: []
+      required: false

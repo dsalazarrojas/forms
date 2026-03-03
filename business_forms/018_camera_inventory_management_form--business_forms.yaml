@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camera Inventory Management Form
+    pages:
+    - id: 1
+      name: equipment_id_header
+      label: -- Camera Asset Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: asset_tag_number
+      label: Internal Asset Tag Number
+      hint: Unique ID from our tracking system
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: manufacturer_brand
+      label: Manufacturer
+      hint: null
+      type: select_one
+      options:
+      - Sony
+      - Canon
+      - Nikon
+      - Panasonic
+      - Blackmagic Design
+      - RED Digital Cinema
+      - Arri
+      - GoPro
+      - Other
+      required: true
+    - id: 4
+      name: model_name
+      label: Camera Model Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: serial_number_cam
+      label: Serial Number
+      hint: Located on the body of the device
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: sensor_type
+      label: Sensor Type
+      hint: null
+      type: select_one
+      options:
+      - Full Frame
+      - APS-C
+      - Super 35
+      - Micro Four Thirds
+      - 1 inch
+      - Other
+      required: false
+    - id: 7
+      name: inventory_logistics_header
+      label: -- Logistics and Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: purchase_date_inventory
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: asset_cost
+      label: Purchase Cost (USD)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: current_condition
+      label: Current Physical Condition
+      hint: null
+      type: select_one
+      options:
+      - New - In Box
+      - Like New
+      - Good (Minor wear)
+      - Fair (Visible wear)
+      - Poor (Needs attention)
+      required: true
+    - id: 11
+      name: operational_status
+      label: Current Operational Status
+      hint: null
+      type: select_one
+      options:
+      - Available for Checkout
+      - In Use - Assigned
+      - Out for Repair
+      - Reserved
+      - Missing - Lost
+      - Decommissioned
+      required: true
+    - id: 12
+      name: assigned_personnel
+      label: Currently Assigned To
+      hint: Name of the person or production team
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: storage_location_bin
+      label: Storage Location - Bin Number
+      hint: Where is this stored when available?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: accessories_included
+      label: Included Accessories with this Body
+      hint: e.g., Body cap, 2 batteries, charger, strap
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: firmware_version
+      label: Current Firmware Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: last_maintenance_check
+      label: Last Maintenance Check Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: maintenance_notes_cam
+      label: Maintenance and Service History
+      hint: null
+      type: text
+      options: []
+      required: false

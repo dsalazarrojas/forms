@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application For Computer Operator
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: qualifications
+      label: Qualifications
+      hint: Key certifications and training
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: experience_years
+      label: Years of experience
+      hint: Whole number of years in similar roles
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: technical_skills
+      label: Technical skills
+      hint: Main operating systems software and hardware skills
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shift_availability
+      label: Shift availability
+      hint: Which shifts applicant can work
+      type: select_one
+      options:
+      - Day
+      - Night
+      - Rotating
+      - Any
+      required: true
+    - id: 8
+      name: references
+      label: References
+      hint: Provide two professional references
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: resume_filename
+      label: Resume filename
+      hint: Indicate uploaded resume file name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

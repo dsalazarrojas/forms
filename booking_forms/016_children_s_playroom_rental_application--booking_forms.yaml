@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Children Playroom Rental Application
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: Name of person or organization requesting rental
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: Email for booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: Requested date for rental
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: Event start time
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: Event end time
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: expected_attendees
+      label: Expected Number of Children
+      hint: Estimate of attendees for planning
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: party_type
+      label: Party Type
+      hint: Describe the type of event
+      type: select_one
+      options:
+      - Birthday
+      - Play date
+      - Educational event
+      - Other
+      required: true
+    - id: 8
+      name: special_requests
+      label: Special Requests
+      hint: Any equipment, catering or setup needs
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agree_terms
+      label: Agree to Rental Terms
+      hint: Confirm liability and payment terms
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true

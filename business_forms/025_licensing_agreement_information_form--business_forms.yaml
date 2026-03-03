@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: licensing_agreement_information_form
+    pages:
+    - id: 1
+      name: agreement_title
+      label: Agreement Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_signed
+      label: date_signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: date_effective
+      label: date_effective
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: contract_terms
+      label: contract_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contract_length
+      label: contract_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: renewal_date
+      label: renewal_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: renewal_term
+      label: renewal_term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: license_type
+      label: license_type
+      hint: null
+      type: select_one
+      options:
+      - License
+      - Non-Exclusive License
+      - Non-Exclusive License with Revenue Sharing
+      required: false
+    - id: 10
+      name: royalty_rate
+      label: royalty_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: license_fee
+      label: license_fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: select_multiple
+      options:
+      - On a monthly basis
+      - On a quarterly basis
+      - On a semi-annual basis
+      - On an annual basis
+      - Other ( specify )
+      required: false
+    - id: 13
+      name: payment_term_details
+      label: payment_term_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_term_frequency
+      label: payment_term_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: renewal_option
+      label: renewal_option
+      hint: null
+      type: select_multiple
+      options:
+      - To renew indefinitely
+      - To renew at the option of either party
+      - To renew for [X] months/years
+      - To renew for [X] months/years and [Y] months/years
+      required: false
+    - id: 16
+      name: renewal_option_details
+      label: renewal_option_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: termination_clause
+      label: termination_clause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: notice_requirement
+      label: notice_requirement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: notice_period
+      label: notice_period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: notice_fee
+      label: notice_fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: termination_fee
+      label: termination_fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: agreement_version
+      label: agreement_version
+      hint: null
+      type: select_multiple
+      options:
+      - Original
+      - Revised
+      - Updated
+      required: false
+    - id: 23
+      name: agreement_date
+      label: agreement_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: agreement_version_details
+      label: agreement_version_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: license_expiration
+      label: license_expiration
+      hint: null
+      type: date
+      options: []
+      required: false

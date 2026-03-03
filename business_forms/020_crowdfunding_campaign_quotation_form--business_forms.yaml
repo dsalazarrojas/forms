@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: crowdfund_crowdfunding_campaign_quotation_form
+    pages:
+    - id: 1
+      name: campaign_info
+      label: campaign_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: campaign_name
+      label: campaign_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: target_amount
+      label: target_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: goal_amount
+      label: goal_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: campaign_type
+      label: campaign_type
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 9
+      name: backers
+      label: backers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: goal_frequency
+      label: goal_frequency
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false

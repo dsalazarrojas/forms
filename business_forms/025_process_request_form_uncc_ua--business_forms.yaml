@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Request Form UNCC UA
+    pages:
+    - id: 1
+      name: process_request_form_uncc_ua
+      label: Process Request Form UNCC UA
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Business Forms
+      - Other
+      - Special Request
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_id
+      label: Form ID
+      hint: 6275
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - other
+      - other
+      required: false
+    - id: 6
+      name: output_file
+      label: Output File
+      hint: 025_process_request_form_uncc_ua--business_forms
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: description_short
+      label: Description Short
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: description_long
+      label: Description Long
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: description_long_2
+      label: Description Long 2
+      hint: null
+      type: text
+      options: []
+      required: false

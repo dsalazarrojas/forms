@@ -1,0 +1,302 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Construction Site Incident Form
+    pages:
+      - id: 1
+        name: incident_date
+        label: Incident Date
+        hint: Date incident occurred
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: incident_time
+        label: Incident Time
+        hint: Time of incident
+        type: time
+        options: []
+        required: true
+      - id: 3
+        name: reported_date
+        label: Report Date
+        hint: Date this report is filed
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: project_name
+        label: Project Name
+        hint: Name of construction project
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: project_address
+        label: Project Address
+        hint: Site location
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: incident_location
+        label: Specific Incident Location
+        hint: Exact location on site
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: incident_type
+        label: Incident Type
+        hint: Category of incident
+        type: select_one
+        options:
+          - Injury or Illness
+          - Near Miss
+          - Property Damage
+          - Equipment Damage
+          - Environmental Incident
+          - Security Incident
+          - Fire
+          - Hazardous Material Spill
+          - Other
+        required: true
+      - id: 8
+        name: severity_level
+        label: Severity Level
+        hint: How severe was the incident
+        type: select_one
+        options:
+          - Minor
+          - Moderate
+          - Serious
+          - Critical
+          - Fatal
+        required: true
+      - id: 9
+        name: injured_person_name
+        label: Injured Person Name
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: injured_person_company
+        label: Injured Person Company
+        hint: Their employer
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: injured_person_job_title
+        label: Injured Person Job Title
+        hint: Their position
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: injury_type
+        label: Type of Injury
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Cut or Laceration
+          - Puncture
+          - Fracture
+          - Sprain or Strain
+          - Burn
+          - Chemical Exposure
+          - Eye Injury
+          - Head Injury
+          - Back Injury
+          - Other
+        required: false
+      - id: 13
+        name: body_parts_affected
+        label: Body Parts Affected
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Head
+          - Eye
+          - Neck
+          - Shoulder
+          - Arm
+          - Hand
+          - Finger
+          - Chest
+          - Back
+          - Abdomen
+          - Leg
+          - Knee
+          - Foot
+          - Toe
+          - Multiple
+        required: false
+      - id: 14
+        name: medical_treatment
+        label: Medical Treatment Provided
+        hint: What treatment was given
+        type: select_one
+        options:
+          - First Aid Only
+          - Medical Treatment On Site
+          - Sent to Clinic
+          - Sent to Hospital
+          - No Treatment Needed
+        required: true
+      - id: 15
+        name: treatment_provider
+        label: Treatment Provider
+        hint: Name of facility or provider
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: incident_description
+        label: Detailed Incident Description
+        hint: Describe exactly what happened
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: witnesses_present
+        label: Were There Witnesses
+        hint: Did anyone see the incident
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 18
+        name: witness_names
+        label: Witness Names and Contact Info
+        hint: List all witnesses
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: equipment_involved
+        label: Equipment Involved
+        hint: Describe any equipment
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: weather_conditions
+        label: Weather Conditions
+        hint: At time of incident
+        type: select_one
+        options:
+          - Clear
+          - Cloudy
+          - Rainy
+          - Snowy
+          - Windy
+          - Hot
+          - Cold
+          - Indoor
+        required: true
+      - id: 21
+        name: lighting_conditions
+        label: Lighting Conditions
+        hint: At time of incident
+        type: select_one
+        options:
+          - Daylight
+          - Artificial Light
+          - Low Light
+          - Dark
+        required: true
+      - id: 22
+        name: ppe_in_use
+        label: PPE In Use
+        hint: What PPE was being worn
+        type: select_multiple
+        options:
+          - Hard Hat
+          - Safety Glasses
+          - Hearing Protection
+          - Respirator
+          - Gloves
+          - Safety Harness
+          - High-Visibility Vest
+          - Steel-Toed Boots
+          - None
+        required: true
+      - id: 23
+        name: ppe_effectiveness
+        label: Did PPE Prevent Further Injury
+        hint: If PPE was worn
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Applicable
+        required: false
+      - id: 24
+        name: immediate_action_taken
+        label: Immediate Action Taken
+        hint: What was done right away
+        type: text
+        options: []
+        required: true
+      - id: 25
+        name: supervisor_notified
+        label: Was Supervisor Notified
+        hint: When were they told
+        type: select_one
+        options:
+          - Yes, Immediately
+          - Yes, Within 1 Hour
+          - Yes, Later
+          - No
+        required: true
+      - id: 26
+        name: photos_taken
+        label: Photos Taken
+        hint: Was incident documented
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 27
+        name: root_cause
+        label: Apparent Root Cause
+        hint: What caused this incident
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: preventive_measures
+        label: Preventive Measures Recommended
+        hint: How to prevent recurrence
+        type: text
+        options: []
+        required: true
+      - id: 29
+        name: reporter_name
+        label: Reporter Name
+        hint: Person filing this report
+        type: text
+        options: []
+        required: true
+      - id: 30
+        name: reporter_signature
+        label: Reporter Signature
+        hint: Type full name as signature
+        type: text
+        options: []
+        required: true

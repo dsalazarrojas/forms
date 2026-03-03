@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aesthetics Advertising Agreement
+    pages:
+    - id: 1
+      name: agreement_parties_header
+      label: -- Agreement Parties --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: clinic_name
+      label: Aesthetic Clinic Name
+      hint: The Advertiser.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: clinic_contact
+      label: Clinic Representative
+      hint: Name of authorized person.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: publisher_name
+      label: Publisher / Agency Name
+      hint: The Service Provider.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: publisher_contact
+      label: Publisher Representative
+      hint: Name of authorized person.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: campaign_terms_header
+      label: -- Campaign Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: Campaign Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: end_date
+      label: Campaign End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: ad_format
+      label: Ad Format / Placements
+      hint: Where will the ads appear?
+      type: select_multiple
+      options:
+      - Digital Display Banners
+      - Social Media Sponsored Posts
+      - Magazine Full Page
+      - Email Newsletter Sponsorship
+      - Influencer Promotion
+      required: true
+    - id: 10
+      name: deliverables
+      label: Deliverables Description
+      hint: Specifics of what is being purchased.
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: payment_header
+      label: -- Payment Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contract_value
+      label: Total Contract Value ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: payment_schedule
+      label: Payment Schedule
+      hint: When is payment due?
+      type: select_one
+      options:
+      - 100% Upfront
+      - 50% Deposit, 50% on Completion
+      - Monthly Installments
+      - Net 30
+      required: true
+    - id: 14
+      name: compliance
+      label: Compliance Acknowledgment
+      hint: Ads must comply with medical advertising regulations.
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true
+    - id: 15
+      name: signatures_header
+      label: -- Execution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: clinic_sign
+      label: Clinic Signature
+      hint: Authorized Signature.
+      type: select_one
+      options:
+      - Signed
+      - Other
+      required: true
+    - id: 17
+      name: date_signed
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

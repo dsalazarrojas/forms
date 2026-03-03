@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shareholder Agreement Compliance Audit Form
+    pages:
+    - id: 1
+      name: agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: shareholder_name
+      label: Shareholder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shareholder_address
+      label: Shareholder Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shareholder_contact_number
+      label: Shareholder Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shareholder_email
+      label: Shareholder Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: shareholder_number_of_shares_owned
+      label: Shareholder Number of Shares Owned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: compliance_issues
+      label: Compliance Issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: compliance_description
+      label: Compliance Description
+      hint: null
+      type: text
+      options: []
+      required: false

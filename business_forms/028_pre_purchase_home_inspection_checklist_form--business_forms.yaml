@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Purchase Home Inspection Checklist Form
+    pages:
+    - id: 1
+      name: main_page
+      label: home_inspection_checklist
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: home_buyer_info
+      label: home_buyer_info
+      hint: null
+      type: select_multiple
+      options:
+      - First Name
+      - Last Name
+      - Phone
+      required: true
+    - id: 4
+      name: property_type
+      label: type_of_property
+      hint: null
+      type: select_one
+      options:
+      - Single Family
+      - Townhouse
+      - Condo
+      required: true
+    - id: 5
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: property_condition
+      label: condition_of_property
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Fair
+      - Poor
+      required: true
+    - id: 7
+      name: roof_type
+      label: roof_type
+      hint: null
+      type: select_one
+      options:
+      - Sloping
+      - Flat
+      - Gable
+      required: false
+    - id: 8
+      name: exterior_wall_material
+      label: exterior_wall_materials
+      hint: null
+      type: select_multiple
+      options:
+      - Brick
+      - Vinyl Siding
+      - Wood
+      required: false
+    - id: 9
+      name: foundation_type
+      label: foundation_type
+      hint: null
+      type: select_multiple
+      options:
+      - Slab
+      - Basement
+      - Crawl Space
+      required: false
+    - id: 10
+      name: lot_size
+      label: lot_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: home_age
+      label: age_of_home
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: property_status
+      label: status_of_property
+      hint: null
+      type: select_one
+      options:
+      - For Sale
+      - Leased
+      - Rented
+      - Owned
+      required: true
+    - id: 13
+      name: home_buyer_agreement
+      label: home_buyer_agreement
+      hint: null
+      type: select_one
+      options:
+      - Buy
+      - Rent
+      required: true
+    - id: 14
+      name: home_inspection_fee
+      label: home_inspection_fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: inspection_fee_included
+      label: inspection_fee_included
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: home_address
+      label: home_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: property_neigborhood
+      label: property_neighborhood
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: property_zipcode
+      label: property_zipcode
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: home_type
+      label: type_of_home
+      hint: null
+      type: select_one
+      options:
+      - Single Family
+      - Townhouse
+      - Condo
+      required: true
+    - id: 21
+      name: home_style
+      label: style_of_home
+      hint: null
+      type: select_multiple
+      options:
+      - Single Level
+      - Multi Level
+      required: true
+    - id: 22
+      name: home_bedrooms
+      label: number_of_bedrooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: home_bedbaths
+      label: number_of_bedbaths
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: home_squarefootage
+      label: square_footage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: home_yearbuilt
+      label: year_built
+      hint: null
+      type: number
+      options: []
+      required: true

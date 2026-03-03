@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Work Monitoring Form
+    pages:
+    - id: 1
+      name: remote_work_monitors_form_data
+      label: Remote Work Monitors Form Data
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: completed_tasks
+      label: Completed Tasks
+      hint: null
+      type: select_multiple
+      options:
+      - Task 1
+      - Task 2
+      - Task 3
+      required: false
+    - id: 3
+      name: challenges_faced
+      label: Challenges Faced
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time_worked
+      label: Time Worked
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: email_updates
+      label: Email Updates
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_updates
+      label: Phone Updates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submission_confirmation
+      label: Submission Confirmation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: manager_confirmation
+      label: Manager Confirmation
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Not Confirmed
+      required: false
+    - id: 13
+      name: submitted_by_manager
+      label: Submitted By Manager
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Not Manager
+      required: true
+    - id: 14
+      name: submitted_by_employee
+      label: Submitted By Employee
+      hint: null
+      type: select_one
+      options:
+      - Employee
+      - Not Employee
+      required: false
+    - id: 15
+      name: remote_work_form
+      label: Remote Work Form
+      hint: null
+      type: select_multiple
+      options:
+      - Form
+      - Not Form
+      required: false

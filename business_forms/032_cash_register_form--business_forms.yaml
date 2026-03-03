@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cash Register Form
+    pages:
+    - id: 1
+      name: transaction_info_section
+      label: -- Transaction Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: transaction_date
+      label: Transaction Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: transaction_time
+      label: Transaction Time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: business_information_section
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: business_name
+      label: Business or Store Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: location
+      label: Location or Store Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: register_number
+      label: Cash Register Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: cashier_information_section
+      label: -- Cashier Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: cashier_name
+      label: Cashier Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: cashier_id
+      label: Cashier ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shift
+      label: Shift
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Night
+      - Full Day
+      required: true
+    - id: 12
+      name: transaction_details_section
+      label: -- Transaction Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: transaction_type
+      label: Transaction Type
+      hint: null
+      type: select_one
+      options:
+      - Sale
+      - Refund
+      - Exchange
+      - Discount
+      - Other
+      required: true
+    - id: 14
+      name: item_description
+      label: Item Description
+      hint: What was sold or refunded
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: subtotal
+      label: Subtotal
+      hint: Quantity x Unit Price
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: payment_section
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: tax_amount
+      label: Tax Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Debit Card
+      - Check
+      - Gift Card
+      - Other
+      required: true
+    - id: 22
+      name: amount_tendered
+      label: Amount Tendered
+      hint: Amount customer gave
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: change_amount
+      label: Change Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: customer_section
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: customer_name
+      label: Customer Name (optional)
+      hint: For loyalty programs or special orders
+      type: text
+      options: []
+      required: false

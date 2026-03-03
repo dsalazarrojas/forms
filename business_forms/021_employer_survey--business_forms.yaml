@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employer Survey
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: experience
+      label: Working Experience
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-5 years
+      - 5-10 years
+      - More than 10 years
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_multiple
+      options:
+      - Full-time
+      - Part-time
+      - Freelance
+      - Intern
+      required: false
+    - id: 8
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: salary
+      label: Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - 1-10 people
+      - 11-50 people
+      - 51-200 people
+      - More than 200 people
+      required: false
+    - id: 11
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_multiple
+      options:
+      - Entry-level
+      - Mid-level
+      - Senior-level
+      - Executive
+      required: false
+    - id: 12
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Freelance
+      - Intern
+      required: false
+    - id: 13
+      name: date_employed
+      label: Date Employed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: date_hired
+      label: Date Hired
+      hint: null
+      type: date
+      options: []
+      required: false

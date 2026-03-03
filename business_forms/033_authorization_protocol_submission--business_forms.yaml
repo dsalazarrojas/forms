@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Authorization Protocol Submission
+    pages:
+    - id: 1
+      name: submission_date
+      label: Submission Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: protocol_title
+      label: Authorization Protocol Title
+      hint: Name of the protocol
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: protocol_type
+      label: Protocol Type
+      hint: What type of protocol
+      type: select_one
+      options:
+      - New Protocol
+      - Updated/Revised Protocol
+      - Emergency Protocol
+      - Temporary Protocol
+      - Pilot Program
+      required: true
+    - id: 4
+      name: department_name
+      label: Department or Division
+      hint: Which department is submitting
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: submitter_name
+      label: Submitter Name
+      hint: Person submitting protocol
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: submitter_title
+      label: Submitter Job Title
+      hint: Position of submitter
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: submitter_email
+      label: Submitter Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: submitter_phone
+      label: Submitter Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: protocol_start_date
+      label: Proposed Implementation Date
+      hint: When should this start
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: protocol_end_date
+      label: Protocol End Date (if applicable)
+      hint: When will this end
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: protocol_scope
+      label: Protocol Scope and Application
+      hint: What does this protocol cover
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: affected_parties
+      label: Affected Parties or Departments
+      hint: Who is impacted by this
+      type: select_multiple
+      options:
+      - All Employees
+      - Management Only
+      - Specific Department
+      - Specific Teams
+      - Customers
+      - Partners
+      - General Public
+      required: true
+    - id: 13
+      name: protocol_description
+      label: Detailed Protocol Description
+      hint: Full explanation of protocol
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: authorization_levels
+      label: Authorization Levels Defined
+      hint: Different approval levels
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: approval_authority
+      label: Who Has Final Approval Authority
+      hint: Name of person/role with final approval
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: review_period
+      label: Review and Comment Period
+      hint: Time allowed for review
+      type: select_one
+      options:
+      - 1 Week
+      - 2 Weeks
+      - 3 Weeks
+      - 30 Days
+      - 60 Days
+      - No Review Period - Immediate
+      required: true
+    - id: 17
+      name: stakeholder_input
+      label: Stakeholder Input Received
+      hint: Have stakeholders reviewed this
+      type: select_one
+      options:
+      - Yes - Full Input
+      - Yes - Partial Input
+      - No - Not Yet Reviewed
+      - In Progress
+      required: true
+    - id: 18
+      name: risk_assessment
+      label: Risk Assessment Completed
+      hint: Have risks been evaluated
+      type: select_one
+      options:
+      - Yes - Completed
+      - Yes - Partial
+      - No - Not Completed
+      - Not Applicable
+      required: true
+    - id: 19
+      name: compliance_review
+      label: Compliance and Legal Review
+      hint: Legal review status
+      type: select_one
+      options:
+      - Yes - Approved
+      - Yes - Approved with Modifications
+      - In Progress
+      - Not Yet Reviewed
+      required: true
+    - id: 20
+      name: training_requirement
+      label: Training Required for Implementation
+      hint: Is training needed
+      type: select_one
+      options:
+      - Yes - Comprehensive Training
+      - Yes - Orientation Only
+      - No - Self-Explanatory
+      - TBD
+      required: true
+    - id: 21
+      name: documentation_complete
+      label: Supporting Documentation Complete
+      hint: All docs attached
+      type: select_one
+      options:
+      - Yes - All Documents Attached
+      - Yes - Most Documents
+      - No - Still Gathering
+      - Supplemental Docs to Follow
+      required: true
+    - id: 22
+      name: communication_plan
+      label: Communication Plan in Place
+      hint: How will this be communicated
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: monitoring_mechanism
+      label: Monitoring and Enforcement Mechanism
+      hint: How will compliance be monitored
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: revision_frequency
+      label: Protocol Review and Revision Schedule
+      hint: When will this be reviewed again
+      type: select_one
+      options:
+      - Annually
+      - Semi-Annually
+      - Quarterly
+      - As Needed
+      - Never - Permanent
+      required: true
+    - id: 25
+      name: additional_information
+      label: Additional Information or Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

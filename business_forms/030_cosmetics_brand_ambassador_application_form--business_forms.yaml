@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: cosmetics_brand_ambassador_application_form
+    pages:
+    - id: 1
+      name: contact_details
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: experience
+      label: Work Experience
+      hint: null
+      type: select_one
+      options:
+      - 0-2 years
+      - 3-5 years
+      - More than 5 years
+      required: false
+    - id: 7
+      name: brand
+      label: Brands Represented
+      hint: null
+      type: select_multiple
+      options:
+      - Brand 1
+      - Brand 2
+      - Brand 3
+      required: false
+    - id: 8
+      name: bio
+      label: Bio
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: photo
+      label: Photo
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: uploaded_files
+      label: Uploaded Files
+      hint: null
+      type: select_multiple
+      options:
+      - File 1
+      - File 2
+      - File 3
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounts Payable Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Name of the vendor or supplier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: category
+      label: Category
+      hint: Type of expense
+      type: select_one
+      options:
+      - Rent
+      - Utilities
+      - Supplies
+      - Services
+      - Inventory
+      required: true
+    - id: 4
+      name: date_of_purchase
+      label: Date of Purchase
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: amount_due
+      label: Amount Due
+      hint: Total outstanding balance
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: due_date
+      label: Due Date
+      hint: Payment deadline
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: payment_status
+      label: Payment Status
+      hint: Current state of the obligation
+      type: select_one
+      options:
+      - Unpaid
+      - Partially Paid
+      - Paid
+      required: true
+    - id: 8
+      name: notes_and_comments
+      label: Notes and Comments
+      hint: Internal remarks regarding this debt
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: frequency
+      label: Frequency
+      hint: Is this a one-time or recurring payment?
+      type: select_one
+      options:
+      - One-time
+      - Recurring
+      required: true
+    - id: 10
+      name: contact_person_for_billing
+      label: Contact Person for Billing
+      hint: Vendor - s contact name
+      type: text
+      options: []
+      required: true

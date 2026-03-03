@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Risk Review Application Form
+    pages:
+    - id: 1
+      name: vendor_details
+      label: Vendor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_category
+      label: Risk Category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Low''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''High''}'
+      required: false
+    - id: 3
+      name: risk_certifications
+      label: Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''ISO 9001''}'
+      - '{''value'': ''ISO 14001''}'
+      - '{''value'': ''GDPR''}'
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

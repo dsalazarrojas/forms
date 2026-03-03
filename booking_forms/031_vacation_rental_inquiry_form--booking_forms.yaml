@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: vacation rental inquiry form
+    pages:
+    - id: 1
+      name: guest_info
+      label: Guest Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact
+      label: Contact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_inquiry
+      label: Date Inquiry
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: stay_length
+      label: Stay Length
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''short''}'
+      - '{''value'': ''long''}'
+      - '{''value'': ''flexible''}'
+      required: false
+    - id: 5
+      name: accommodation_type
+      label: Accommodation Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''house''}'
+      - '{''value'': ''apartment''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 6
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: inquiry_message
+      label: Inquiry Message
+      hint: null
+      type: text
+      options: []
+      required: false

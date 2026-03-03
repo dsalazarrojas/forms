@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Debit Card Expense Submission
+    pages:
+    - id: 1
+      name: submission
+      label: Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: card_number
+      label: cardnumber
+      hint: Card Number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: card_type
+      label: cardtype
+      hint: Card Type
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      - Diners
+      - JCB
+      - Electron
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: Date
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: amount
+      label: amount
+      hint: Amount
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: receipt
+      label: receipt
+      hint: Receipt
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: receipt_date
+      label: receiptdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: receipt_time
+      label: receipttime
+      hint: Receipt Time
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: category
+      hint: Category
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: merchant
+      label: merchant
+      hint: Merchant Name
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: merchant_city
+      label: merchantcity
+      hint: Merchant City
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: merchant_state
+      label: merchantstate
+      hint: Merchant State
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: merchant_country
+      label: merchantcountry
+      hint: Merchant Country
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: merchant_zip
+      label: merchantzip
+      hint: Merchant ZIP
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: merchant_address
+      label: merchantaddress
+      hint: Merchant Address
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by
+      label: submittedby
+      hint: Submitted By
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitted_to
+      label: submittedto
+      hint: Submitted To
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_date
+      label: submitteddate
+      hint: Submitted Date
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: submitted_time
+      label: submittedtime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: approver
+      label: approver
+      hint: Approver Name
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: approver_email
+      label: approveremail
+      hint: Approver Email
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: approver_phone
+      label: approverphone
+      hint: Approver Phone
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: approver_comments
+      label: approvercomments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: approver_date
+      label: approverdate
+      hint: Approver Date
+      type: date
+      options: []
+      required: false

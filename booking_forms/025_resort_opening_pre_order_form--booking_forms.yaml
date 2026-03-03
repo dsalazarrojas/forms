@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Resort Opening Pre Order Form
+    pages:
+    - id: 1
+      name: guest_details
+      label: Guest Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: preferred_stay_dates
+      label: Preferred stay dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: package_choice
+      label: Package Choice
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Package A''}'
+      - '{''label'': ''Package B''}'
+      - '{''label'': ''Package C''}'
+      required: false
+    - id: 8
+      name: package_choice_2
+      label: Package Choice 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Package A''}'
+      - '{''label'': ''Package B''}'
+      - '{''label'': ''Package C''}'
+      required: false
+    - id: 9
+      name: stay_duration
+      label: Stay Duration
+      hint: null
+      type: number
+      options: []
+      required: false

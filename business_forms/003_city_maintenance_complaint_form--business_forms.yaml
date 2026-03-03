@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Maintenance Complaint Form
+    pages:
+    - id: 1
+      name: reporter_info
+      label: -- Reporter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For follow-up communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: complaint_details
+      label: -- Complaint Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: issue_type
+      label: Type of Issue
+      hint: Select the category that best describes the problem
+      type: select_one
+      options:
+      - Pothole or road damage
+      - Broken streetlight
+      - Damaged sidewalk
+      - Graffiti
+      - Overgrown vegetation
+      - Broken bench or trash bin
+      - Water leak or flooding
+      - Other
+      required: true
+    - id: 7
+      name: location_description
+      label: Location Description
+      hint: Street name, neighborhood, or landmarks
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: street_address
+      label: Street Address
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: issue_description
+      label: Detailed Description of Issue
+      hint: Provide as much detail as possible
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_observed
+      label: Date Issue Was Observed
+      hint: When did you first notice this problem
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: safety_risk
+      label: Does this pose a safety risk
+      hint: null
+      type: select_one
+      options:
+      - Yes, high risk
+      - Yes, moderate risk
+      - No, minimal risk
+      - Not sure
+      required: true
+    - id: 12
+      name: affected_area
+      label: Size of Affected Area
+      hint: null
+      type: select_one
+      options:
+      - Very small (less than 1 sq ft)
+      - Small (1-10 sq ft)
+      - Medium (10-100 sq ft)
+      - Large (over 100 sq ft)
+      required: false
+    - id: 13
+      name: attachments_header
+      label: -- Supporting Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: photo_description
+      label: Can you provide a photo of the issue
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: false
+    - id: 15
+      name: previous_reports
+      label: Have you reported this issue before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: false
+    - id: 16
+      name: previous_report_number
+      label: Previous Report Number - if known
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: priority
+      label: Recommended Priority Level
+      hint: Based on urgency and safety concerns
+      type: select_one
+      options:
+      - Urgent - immediate attention needed
+      - High - within 1 week
+      - Medium - within 2 weeks
+      - Low - standard maintenance schedule
+      required: false
+    - id: 18
+      name: additional_info
+      label: Any additional information
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Court Rental Booking Form
+    pages:
+    - id: 1
+      name: court_rental_booking_form_user
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: court_rental_booking_form_date_time
+      label: Date and Time
+      hint: Select date and time
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: court_rental_booking_form_court_name
+      label: Court Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: court_rental_booking_form_court_type
+      label: Court Type
+      hint: Select court type
+      type: select_one
+      options:
+      - Tennis
+      - Basketball
+      - Volleyball
+      - Squash
+      - Table Tennis
+      - Badminton
+      required: false
+    - id: 5
+      name: court_rental_booking_form_booking_duration
+      label: Booking Duration
+      hint: Select booking duration
+      type: select_one
+      options:
+      - 1 hour
+      - 2 hours
+      - 4 hours
+      - 6 hours
+      - 8 hours
+      required: false
+    - id: 6
+      name: court_rental_booking_form_booker_name
+      label: Booker Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: court_rental_booking_form_booker_email
+      label: Booker Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: court_rental_booking_form_booker_phone
+      label: Booker Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: court_rental_booking_form_booker_comment
+      label: Booker Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: court_rental_booking_form_payment_method
+      label: Payment Method
+      hint: Select payment method
+      type: select_one
+      options:
+      - Online Payment
+      - Offline Payment
+      required: false
+    - id: 11
+      name: court_rental_booking_form_payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Not Paid
+      - Partially Paid
+      required: false
+    - id: 12
+      name: court_rental_booking_form_booking_status
+      label: Booking Status
+      hint: Select booking status
+      type: select_one
+      options:
+      - Confirmed
+      - Not Confirmed
+      - Pending
+      required: false
+    - id: 13
+      name: court_rental_booking_form_court_status
+      label: Court Status
+      hint: Select court status
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      - Booked
+      required: false

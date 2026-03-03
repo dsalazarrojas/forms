@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Made Simple - BUSINESS MRI
+    pages:
+    - id: 1
+      name: business_info_section
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Enter your full legal business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: leadership_clarity
+      label: How clear is your business mission?
+      hint: Rating from 1 to 5
+      type: select_one
+      options:
+      - 1 - Not clear at all
+      - 2 - Somewhat clear
+      - 3 - Clear
+      - 4 - Very clear
+      - 5 - Crystal clear
+      required: true
+    - id: 4
+      name: marketing_effectiveness
+      label: Rate your current marketing effectiveness
+      hint: Does your marketing generate consistent leads?
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 5
+      name: marketing_messaging
+      label: Does your customer understand what you offer within 5 seconds?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 6
+      name: sales_process_section
+      label: -- Sales and Revenue --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: sales_funnel_status
+      label: Do you have a defined sales funnel?
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully automated
+      - Yes, manual process
+      - No, but we are building one
+      - No funnel exists
+      required: true
+    - id: 8
+      name: conversion_rate
+      label: What is your average lead-to-customer conversion rate?
+      hint: Percentage estimate
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: product_profitability
+      label: Which product line is most profitable?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: product_inventory_check
+      label: Do you regularly audit product inventory and performance?
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      - Never
+      required: true
+    - id: 11
+      name: operations_section
+      label: -- Operations and Overhead --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: operational_efficiency
+      label: How would you rate your internal workflows?
+      hint: Are processes documented and followed?
+      type: select_one
+      options:
+      - Highly inefficient
+      - Needs improvement
+      - Efficient
+      - Optimised
+      required: true
+    - id: 13
+      name: monthly_overhead
+      label: Estimated monthly operating expenses
+      hint: Round to the nearest whole number
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: cash_flow_health
+      label: Do you have at least 3 months of operating cash in reserve?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: team_alignment
+      label: Is your team aligned with the company goals?
+      hint: null
+      type: select_one
+      options:
+      - Fully aligned
+      - Mostly aligned
+      - Partially aligned
+      - Disconnected
+      required: true
+    - id: 16
+      name: primary_growth_bottleneck
+      label: What is your primary bottleneck for growth?
+      hint: Describe the main challenge
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional business health comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,234 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Alignment Request Form
+    pages:
+    - id: 1
+      name: request_id
+      label: Request ID
+      hint: Unique request identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: requester_name
+      label: Requester Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_email
+      label: Requester Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_name
+      label: Project/Initiative Name
+      hint: Name of project
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_description
+      label: Project Description
+      hint: Brief description
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: alignment_type
+      label: Alignment Type
+      hint: Type of alignment needed
+      type: select_one
+      options:
+      - Strategic alignment
+      - Cross-functional alignment
+      - Resource alignment
+      - Timeline alignment
+      - Goal alignment
+      - Process alignment
+      - Other
+      required: true
+    - id: 9
+      name: priority_level
+      label: Priority Level
+      hint: Urgency of request
+      type: select_one
+      options:
+      - Critical
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 10
+      name: stakeholders
+      label: Key Stakeholders
+      hint: List involved parties
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: teams_involved
+      label: Teams Involved
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Executive team
+      - Product team
+      - Engineering team
+      - Marketing team
+      - Sales team
+      - Operations team
+      - HR team
+      - Finance team
+      - Legal team
+      - Other
+      required: true
+    - id: 12
+      name: current_status
+      label: Current Status
+      hint: Where does project stand?
+      type: select_one
+      options:
+      - Planning phase
+      - Early execution
+      - Mid execution
+      - Late execution
+      - Facing roadblocks
+      - Completed
+      required: true
+    - id: 13
+      name: alignment_goal
+      label: Alignment Goal
+      hint: What do you want to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: challenges_faced
+      label: Challenges Faced
+      hint: What obstacles exist?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: dependencies
+      label: Dependencies
+      hint: What does this depend on?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: timeline_impact
+      label: Timeline Impact
+      hint: How does misalignment affect timeline?
+      type: select_one
+      options:
+      - No impact
+      - Minor delay
+      - Moderate delay
+      - Significant delay
+      - Project at risk
+      required: true
+    - id: 17
+      name: budget_impact
+      label: Budget Impact
+      hint: Financial implications
+      type: select_one
+      options:
+      - No impact
+      - Under $10,000
+      - $10,000 - $50,000
+      - $50,000 - $100,000
+      - Over $100,000
+      required: false
+    - id: 18
+      name: requested_support
+      label: Requested Support
+      hint: What help do you need?
+      type: select_multiple
+      options:
+      - Facilitation of meetings
+      - Stakeholder communication
+      - Resource allocation
+      - Priority clarification
+      - Decision escalation
+      - Process documentation
+      - Change management
+      - Other
+      required: true
+    - id: 19
+      name: preferred_meeting_format
+      label: Preferred Meeting Format
+      hint: How to conduct alignment session
+      type: select_one
+      options:
+      - In-person
+      - Video conference
+      - Phone conference
+      - Asynchronous collaboration
+      - Hybrid
+      required: true
+    - id: 20
+      name: availability
+      label: Availability
+      hint: Preferred times
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: deadline
+      label: Alignment Deadline
+      hint: When is alignment needed?
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: success_criteria
+      label: Success Criteria
+      hint: How will success be measured?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_context
+      label: Additional Context
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: attachments
+      label: Supporting Documents
+      hint: List attached files
+      type: text
+      options: []
+      required: false

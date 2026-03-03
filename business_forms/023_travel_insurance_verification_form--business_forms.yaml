@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_insurance_verification_form
+    pages:
+    - id: 1
+      name: policy_details
+      label: Policy Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: policy_type
+      label: Policy Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: policy_status
+      label: Policy Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: coverage_start_date
+      label: Coverage Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: coverage_end_date
+      label: Coverage End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false

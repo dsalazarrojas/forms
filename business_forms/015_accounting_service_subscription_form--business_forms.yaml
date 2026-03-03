@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Service Subscription Form
+    pages:
+    - id: 1
+      name: plan_header
+      label: -- Service Subscription Plan --
+      hint: Select your preferred accounting service level
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_legal_name
+      label: Business Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: subscription_tier
+      label: Subscription Tier
+      hint: null
+      type: select_one
+      options:
+      - Basic Bookkeeping
+      - Standard Finance
+      - Premium CFO Services
+      required: true
+    - id: 4
+      name: billing_cycle
+      label: Billing Cycle
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Annually - 10 percent Discount
+      required: true
+    - id: 5
+      name: base_monthly_fee
+      label: Base Monthly Fee
+      hint: Estimated fee based on tier
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: add_on_services
+      label: Add-on Services
+      hint: Optional extras
+      type: select_multiple
+      options:
+      - Payroll Processing
+      - Tax Filing
+      - Audit Support
+      - Inventory Management
+      required: false
+    - id: 7
+      name: primary_billing_contact
+      label: Primary Billing Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: billing_email
+      label: Billing Email
+      hint: Where invoices should be sent
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: payment_header
+      label: -- Payment Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - ACH Transfer
+      - Wire Transfer
+      required: true
+    - id: 11
+      name: subscription_start_date
+      label: Subscription Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: terms_agreement
+      label: Terms and Conditions Agreement
+      hint: I accept the service terms
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 13
+      name: authorized_signature
+      label: Authorized Subscriber Signature
+      hint: Type name to authorize subscription
+      type: text
+      options: []
+      required: true

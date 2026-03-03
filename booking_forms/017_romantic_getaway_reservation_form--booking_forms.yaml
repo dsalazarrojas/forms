@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Romantic Getaway Reservation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Include country code
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: special_requests
+      label: Special Requests
+      hint: Tell us about any special requests or allergies
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: departure_time
+      label: Departure Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: rooms
+      label: Rooms
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1 room'', ''label'': ''1 room''}'
+      - '{''value'': ''2 rooms'', ''label'': ''2 rooms''}'
+      required: false
+    - id: 11
+      name: meal
+      label: Meal
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Vegetarian'', ''label'': ''Vegetarian''}'
+      - '{''value'': ''Non-vegetarian'', ''label'': ''Non-vegetarian''}'
+      required: false
+    - id: 12
+      name: transportation
+      label: Transportation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Private car'', ''label'': ''Private car''}'
+      - '{''value'': ''Public transport'', ''label'': ''Public transport''}'
+      required: false

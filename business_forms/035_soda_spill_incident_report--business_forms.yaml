@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soda Spill Incident Report
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Fire
+      - Spill
+      - Other
+      required: false
+    - id: 4
+      name: spill_amount
+      label: Spill Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: spill_location
+      label: Spill Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: spill_description
+      label: Spill Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: spill_time
+      label: Spill Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: spill_causes
+      label: Spill Causes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: spill_effects
+      label: Spill Effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: spill_consequences
+      label: Spill Consequences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: spill_preventative_action
+      label: Preventative Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: spill_response
+      label: Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: spill_clean_up_action
+      label: Clean-up Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: spill_safety_measures
+      label: Safety Measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: spill_investigation
+      label: Investigation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: spill_follow_up
+      label: Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: spill_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - Submit
+      - Cancel
+      required: false
+    - id: 19
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Employee
+      - Other
+      required: false
+    - id: 20
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 23
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by_notes
+      label: Submitted By Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by_user
+      label: Submitted By User
+      hint: null
+      type: text
+      options: []
+      required: false

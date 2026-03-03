@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Implementation Evaluation Form
+    pages:
+    - id: 1
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: software_used
+      label: Software Used
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Software A''}'
+      - '{''value'': ''Software B''}'
+      - '{''value'': ''Software C''}'
+      required: false
+    - id: 3
+      name: date_of_deployment
+      label: Date Of Deployment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_deployment
+      label: Time Of Deployment
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: feedback_on_deployment
+      label: Feedback On Deployment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false

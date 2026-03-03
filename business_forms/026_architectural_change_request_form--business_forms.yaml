@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Architectural Change Request Form
+    pages:
+    - id: 1
+      name: section_resident_info
+      label: -- Resident Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: resident_name
+      label: Resident or Homeowner Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: resident_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: resident_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_property
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: property_address
+      label: Property Address
+      hint: Address of the property
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: unit_number
+      label: Unit or Lot Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_owner
+      label: Property Owner Name
+      hint: If different from resident
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_change_request
+      label: -- Change Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: change_type
+      label: Type of Change Requested
+      hint: null
+      type: select_one
+      options:
+      - Addition
+      - Alteration
+      - Renovation
+      - Exterior modification
+      - Color change
+      - Landscaping
+      - Other
+      required: true
+    - id: 11
+      name: detailed_description
+      label: Detailed Description of Changes
+      hint: What exactly are you requesting?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: reason_for_change
+      label: Reason for Change
+      hint: Why are you requesting this change?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_design
+      label: -- Design Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: architect_designer_name
+      label: Architect or Designer Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: design_attached
+      label: Design or sketch attached
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 16
+      name: materials_colors
+      label: Materials and Colors Proposed
+      hint: Describe proposed finishes
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_timeline
+      label: -- Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: requested_completion_date
+      label: Requested Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: section_impact
+      label: -- Impact Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: impacts_neighbors
+      label: Does this change impact neighboring properties?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: false
+    - id: 21
+      name: impact_description
+      label: How will it impact neighbors?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: approval_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true

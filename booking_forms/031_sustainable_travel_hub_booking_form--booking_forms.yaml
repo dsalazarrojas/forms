@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Travel Hub Booking Form
+    pages:
+    - id: 1
+      name: guest_details
+      label: Guest Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: stay_dates
+      label: Stay Dates
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: accommodation_type
+      label: Accommodation Type
+      hint: null
+      type: select_multiple
+      options:
+      - hotel
+      - resort
+      - camping
+      required: true
+    - id: 4
+      name: sustainability_preferences
+      label: Sustainability Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - eco
+      - sustainable
+      - other
+      required: true
+    - id: 5
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_id_1
+      label: Form ID 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: form_id_2
+      label: Form ID 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true

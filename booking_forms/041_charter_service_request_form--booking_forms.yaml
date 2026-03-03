@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charter Service Request Form
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Company or Organization
+      hint: Your organization
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_trip
+      label: -- Trip Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: trip_date
+      label: Trip Date
+      hint: When do you need the charter
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: return_date
+      label: Return Date
+      hint: When will the service end
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: pickup_location
+      label: Pickup Location
+      hint: Where service should start
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: service_destination
+      label: Service Destination
+      hint: Final destination
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_service
+      label: -- Service Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: service_type
+      label: Type of Service Required
+      hint: What service do you need
+      type: select_one
+      options:
+      - Transportation
+      - Executive Chauffeuring
+      - Airport Transfer
+      - Event Services
+      - Other
+      required: true
+    - id: 14
+      name: passenger_count
+      label: Number of Passengers
+      hint: How many people
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: special_requirements
+      label: Special Requirements or Amenities
+      hint: WiFi, refreshments, accessibility, etc
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_preferences
+      label: -- Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_preference
+      label: Vehicle Type Preference
+      hint: Sedan, SUV, luxury, etc
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: driver_experience
+      label: Driver Should Have Experience With
+      hint: Corporate events, long distance, etc
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_budget
+      label: -- Budget --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: estimated_budget
+      label: Estimated Budget
+      hint: Approximate budget range
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: additional_requests
+      label: Additional Requests or Comments
+      hint: Any other details
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: request_date
+      label: Request Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

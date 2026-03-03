@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fine Dining Reservation Form
+    pages:
+    - id: 1
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: guest_count
+      label: Guest Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: reservation_time
+      label: Reservation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: reservation_duration
+      label: Reservation Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reservation_status
+      label: Reservation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dining_preferences
+      label: Dining Preferences
+      hint: We will take good care of you
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: reservation_notes
+      label: Reservation Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: restaurant_notes
+      label: Restaurant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatbot
+      required: false
+    - id: 14
+      name: output_file
+      label: Output File
+      hint: null
+      type: select_multiple
+      options:
+      - 013_fine_dining_reservation_form--booking_forms
+      - 013_fine_dining_reservation_form--booking_forms1
+      required: false
+    - id: 15
+      name: form_id
+      label: Form Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Booking Forms
+      - Other Forms
+      required: false
+    - id: 17
+      name: form_title
+      label: Title
+      hint: null
+      type: select_one
+      options:
+      - Fine Dining Reservation Form
+      - Other Form
+      required: false
+    - id: 18
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatbot
+      required: false
+    - id: 20
+      name: form_version
+      label: Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: form_version_date
+      label: Version Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: form_version_number
+      label: Version Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: form_last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: form_last_updater
+      label: Last Updater
+      hint: null
+      type: select_one
+      options:
+      - User
+      - System
+      required: false
+    - id: 25
+      name: form_last_update_date
+      label: Last Update Date
+      hint: null
+      type: date
+      options: []
+      required: false

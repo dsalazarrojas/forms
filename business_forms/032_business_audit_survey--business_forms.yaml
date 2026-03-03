@@ -1,0 +1,283 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Audit Survey
+    pages:
+    - id: 1
+      name: company_info
+      label: Company Information
+      hint: About your business
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: industry
+      label: Industry
+      hint: Your industry sector
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Professional Services
+      - Education
+      - Government
+      - Other
+      required: true
+    - id: 4
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - 501-1000 employees
+      - More than 1000 employees
+      required: true
+    - id: 5
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Approximate revenue
+      type: select_one
+      options:
+      - Under $500K
+      - $500K-$1M
+      - $1M-$5M
+      - $5M-$10M
+      - $10M-$50M
+      - More than $50M
+      required: true
+    - id: 6
+      name: years_in_business
+      label: Years in Business
+      hint: How long operating
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10-20 years
+      - More than 20 years
+      required: true
+    - id: 7
+      name: respondent_info
+      label: Respondent Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: full_name
+      label: Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: position
+      label: Position
+      hint: Your title
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone Number
+      hint: Your contact
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: financial_health
+      label: Financial Health
+      hint: Current financial status
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: profitability
+      label: Current Profitability
+      hint: Is company profitable
+      type: select_one
+      options:
+      - Very Profitable
+      - Profitable
+      - Breaking Even
+      - Slight Loss
+      - Significant Loss
+      required: true
+    - id: 14
+      name: cash_flow
+      label: Cash Flow Status
+      hint: How is cash flow
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Adequate
+      - Tight
+      - Problematic
+      required: true
+    - id: 15
+      name: debt_level
+      label: Debt Level
+      hint: Current debt situation
+      type: select_one
+      options:
+      - No Debt
+      - Low Debt
+      - Moderate Debt
+      - High Debt
+      - Excessive Debt
+      required: true
+    - id: 16
+      name: operational_efficiency
+      label: Operational Efficiency
+      hint: How efficient are operations
+      type: select_one
+      options:
+      - Very Efficient
+      - Efficient
+      - Average
+      - Inefficient
+      - Very Inefficient
+      required: true
+    - id: 17
+      name: growth_status
+      label: Growth Status
+      hint: Current growth trajectory
+      type: select_one
+      options:
+      - Rapid Growth
+      - Moderate Growth
+      - Stable
+      - Declining
+      - Rapid Decline
+      required: true
+    - id: 18
+      name: challenges
+      label: Current Challenges
+      hint: What obstacles do you face
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: main_challenges
+      label: Main Challenges
+      hint: Select top challenges
+      type: select_multiple
+      options:
+      - Cash Flow
+      - Sales Growth
+      - Customer Retention
+      - Hiring
+      - Competition
+      - Technology
+      - Regulations
+      - Operations
+      - Marketing
+      - Other
+      required: true
+    - id: 20
+      name: biggest_pain_point
+      label: Biggest Pain Point
+      hint: What keeps you up at night
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: audit_goals
+      label: Audit Goals
+      hint: What do you hope to achieve
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: primary_goal
+      label: Primary Goal
+      hint: Main objective for audit
+      type: select_one
+      options:
+      - Identify Problems
+      - Improve Efficiency
+      - Prepare for Sale
+      - Attract Investors
+      - Compliance
+      - Strategic Planning
+      - Other
+      required: true
+    - id: 23
+      name: previous_audits
+      label: Previous Audits
+      hint: Have you had audits before
+      type: select_one
+      options:
+      - Never
+      - Once
+      - 2-3 Times
+      - Regularly
+      required: true
+    - id: 24
+      name: timeline
+      label: Timeline for Engagement
+      hint: When do you want to start
+      type: select_one
+      options:
+      - Immediately
+      - Within 2 Weeks
+      - Within 1 Month
+      - Within 3 Months
+      - Just Exploring
+      required: true
+    - id: 25
+      name: budget_range
+      label: Budget Range
+      hint: Expected investment
+      type: select_one
+      options:
+      - Under $5,000
+      - $5,000-$15,000
+      - $15,000-$50,000
+      - $50,000-$100,000
+      - More than $100,000
+      - Not Determined
+      required: false
+    - id: 26
+      name: decision_timeline
+      label: Decision Timeline
+      hint: When will you decide
+      type: select_one
+      options:
+      - Within 1 Week
+      - Within 2 Weeks
+      - Within 1 Month
+      - More than 1 Month
+      - Not Sure
+      required: true
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

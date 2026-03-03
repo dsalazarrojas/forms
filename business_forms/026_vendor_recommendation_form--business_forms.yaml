@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Recommendation Form
+    pages:
+    - id: 1
+      name: form_start
+      label: Form Start
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_end
+      label: Form End
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: vendor_type
+      label: Vendor Type
+      hint: null
+      type: select_one
+      options:
+      - Vendor
+      - Service Provider
+      - Other
+      required: false
+    - id: 7
+      name: vendor_location
+      label: Vendor Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_comments
+      label: Form Comments
+      hint: null
+      type: note
+      options: []
+      required: false

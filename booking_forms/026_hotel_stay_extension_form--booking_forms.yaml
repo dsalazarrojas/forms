@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Stay Extension Form
+    pages:
+    - id: 1
+      name: hotel_stay_extension_form
+      label: hotel_stay_extension
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: check_out_date
+      label: check_out_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: check_out_time
+      label: check_out_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_extension
+      label: reason_for_extension
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments_hint
+      label: comments_hint
+      hint: Additional comments or information about your stay.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - '{''value'': ''other''}'
+      required: true
+    - id: 10
+      name: assigned_to_hint
+      label: assigned_to_hint
+      hint: If not assigned to someone, enter their name.
+      type: text
+      options: []
+      required: false

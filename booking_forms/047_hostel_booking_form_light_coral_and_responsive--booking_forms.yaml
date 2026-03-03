@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hostel Booking Form Light Coral And Responsive
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: booking_date
+      label: booking_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: booking_date_time
+      label: booking_date_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: checkin_time
+      label: checkin_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: checkout_date
+      label: checkout_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: number_of_guests
+      label: number_of_guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - ChatJ
+      - ChatJimmy
+      - ChatJenny
+      required: true
+    - id: 12
+      name: hostel
+      label: hostel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false

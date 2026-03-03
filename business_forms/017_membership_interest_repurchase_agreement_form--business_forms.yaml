@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Membership Interest Repurchase Agreement Form
+    pages:
+    - id: 1
+      name: membership_interest_repurchase_agreement_form_page_1
+      label: Membership Interest Repurchase Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name_address
+      label: Company Name and Address
+      hint: Enter the name and address of the company
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_representative_name
+      label: Company Representative Name
+      hint: Enter the name of the company representative
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Enter the email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: Enter the contact number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_representative_contact_number
+      label: Company Representative Contact Number
+      hint: Enter the contact number for the company representative
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: agreement_type
+      label: Agreement Type
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      - option_4
+      - option_5
+      required: false
+    - id: 8
+      name: agreement_details
+      label: Agreement Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: time
+      options: []
+      required: false

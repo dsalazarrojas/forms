@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: technology_asset_responsibility_form
+    pages:
+    - id: 1
+      name: asset_type
+      label: Asset Type
+      hint: null
+      type: select_one
+      options:
+      - Computers
+      - Software
+      - Hardware
+      - Others
+      - undefined
+      required: false
+    - id: 2
+      name: asset_status
+      label: asset_status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Inactive
+      - Unknown
+      required: false
+    - id: 3
+      name: asset_owner
+      label: asset_owner
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: asset_location
+      label: asset_location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: asset_description
+      label: asset_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: asset_serial_number
+      label: asset_serial_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: asset_purchase_date
+      label: asset_purchase_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: asset_purchase_price
+      label: asset_purchase_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: asset_cost
+      label: asset_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: asset_category
+      label: asset_category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: asset_notes
+      label: asset_notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Firms Client Profile Form
+    pages:
+    - id: 1
+      name: profile_header
+      label: -- Client Profile Information --
+      hint: Complete all fields to ensure accurate service setup
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_legal_name
+      label: Company Legal Name
+      hint: As registered with tax authorities
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dba_name
+      label: DBA Name
+      hint: Doing Business As, if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: primary_contact_person
+      label: Primary Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: For billing and correspondence
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: office_address
+      label: Office Address
+      hint: Physical location
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: industry_sector
+      label: Industry Sector
+      hint: Main business activity
+      type: select_one
+      options:
+      - Retail
+      - Manufacturing
+      - Services
+      - Technology
+      - Healthcare
+      - Real Estate
+      required: true
+    - id: 9
+      name: federal_tax_classification
+      label: Federal Tax Classification
+      hint: e.g., C-Corp, S-Corp, Partnership
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: accounting_method_used
+      label: Accounting Method Used
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Accrual
+      - Hybrid
+      required: true
+    - id: 11
+      name: number_of_employees
+      label: Number of Employees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: company_founded_date
+      label: Company Founded Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: preferred_communication_frequency
+      label: Preferred Communication Frequency
+      hint: How often should we check in?
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true

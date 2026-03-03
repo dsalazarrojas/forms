@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reservation Information And Terms Acceptance
+    pages:
+    - id: 1
+      name: reservation_information_and_terms_acceptance_form_1
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - First Name
+      - Last Name
+      - Email
+      - Phone
+      required: true
+    - id: 2
+      name: reservation_information_and_terms_acceptance_form_2
+      label: Reservation Details
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: reservation_information_and_terms_acceptance_form_3
+      label: Guest Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: reservation_information_and_terms_acceptance_form_4
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reservation_information_and_terms_acceptance_form_5
+      label: Terms Agreement
+      hint: null
+      type: select_one
+      options:
+      - Accept
+      - Decline
+      required: true
+    - id: 6
+      name: reservation_information_and_terms_acceptance_form_6
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: reservation_information_and_terms_acceptance_form_7
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: reservation_information_and_terms_acceptance_form_8
+      label: Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reservation_information_and_terms_acceptance_form_9
+      label: Reservation ID
+      hint: null
+      type: email
+      options: []
+      required: false

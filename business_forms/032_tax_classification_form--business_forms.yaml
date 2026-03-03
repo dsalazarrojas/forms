@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Classification Form
+    pages:
+    - id: 1
+      name: vendor_status
+      label: Vendor Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 2
+      name: classification_type
+      label: Classification Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: tax_type
+      label: Tax Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: tax_rate
+      label: Tax Rate
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 5
+      name: tax_rate_2
+      label: Other Tax Rate
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 6
+      name: vendor_tax_status
+      label: Vendor Tax Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: contractor_status
+      label: Contractor Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: tax_classification
+      label: Tax Classification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: other_tax_status
+      label: Other Tax Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: business_address
+      label: Business Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: business_phone
+      label: Business Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: business_email
+      label: Business Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_detox_mountain_booking_form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_arrival
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: date_returning
+      label: Returning Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: accommodation_preferences
+      label: Accommodation Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - options-1
+      - options-2
+      required: true
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: accommodation_preferences_2
+      label: accommodation_preferences_2
+      hint: null
+      type: select_multiple
+      options:
+      - options-3
+      - options-4
+      required: false
+    - id: 9
+      name: accommodation_preferences_3
+      label: accommodation_preferences_3
+      hint: null
+      type: select_multiple
+      options:
+      - options-5
+      - options-6
+      required: false

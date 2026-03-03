@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quick Drive Setup Form
+    pages:
+    - id: 1
+      name: drive_request
+      label: Drive Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pickup_date
+      label: Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: drop_off_date
+      label: Drop Off Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: schedule_time
+      label: Schedule Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: pickup_address
+      label: Pickup Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: drop_off_address
+      label: Drop Off Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: schedule_frequency
+      label: Schedule Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 9
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_multiple
+      options:
+      - Car
+      - Truck
+      - Van
+      - Other
+      required: true
+    - id: 10
+      name: drive_details
+      label: Drive Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: EMail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

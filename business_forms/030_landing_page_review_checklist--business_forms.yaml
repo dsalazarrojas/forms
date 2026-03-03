@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: landing_page_review_checklist
+    pages:
+    - id: 1
+      name: header_image
+      label: Header Image
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: headline
+      label: Headline
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: headline_length
+      label: Headline Length
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: meta_description
+      label: Meta Description
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: page_title
+      label: Page Title
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: headline_color
+      label: Headline Color
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: page_url
+      label: Page URL
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: header_image_size
+      label: Header Image Size
+      hint: null
+      type: select_multiple
+      options:
+      - 100x100
+      - 200x200
+      - 300x300
+      required: false
+    - id: 9
+      name: headline_font_size
+      label: Headline Font Size
+      hint: 'null'
+      type: select_one
+      options:
+      - '20'
+      - '30'
+      - '40'
+      - '50'
+      required: false
+    - id: 10
+      name: background_color
+      label: Background Color
+      hint: 'null'
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basic Form Structure
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_type
+      label: Organization type
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Non-Profit
+      - Educational
+      - Government
+      - Other
+      required: true
+    - id: 4
+      name: industry
+      label: Industry or sector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_header_2
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: Contact person name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_title
+      label: Contact person title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_header_3
+      label: -- Address Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: street_address
+      label: Street address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: postal_code
+      label: Postal code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_header_4
+      label: -- Purpose and Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: form_purpose
+      label: Purpose of this submission
+      hint: null
+      type: select_one
+      options:
+      - Registration
+      - Inquiry
+      - Feedback
+      - Application
+      - Purchase
+      - Other
+      required: true
+    - id: 17
+      name: submission_date
+      label: Submission date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: details_description
+      label: Detailed description of your need
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: section_header_5
+      label: -- Additional Fields --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: priority_level
+      label: Priority level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Urgent
+      required: false
+    - id: 21
+      name: budget_range
+      label: Budget range (if applicable)
+      hint: null
+      type: select_one
+      options:
+      - Under $500
+      - $500-$1000
+      - $1000-$5000
+      - $5000-$10000
+      - Over $10000
+      required: false
+    - id: 22
+      name: preferred_contact
+      label: Preferred contact method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - In-Person
+      required: false
+    - id: 23
+      name: additional_notes
+      label: Additional notes or comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_header_6
+      label: -- Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: form_confirmation
+      label: I confirm the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - I Need to Review
+      required: true

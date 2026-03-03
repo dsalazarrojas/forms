@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufacturing Process Partner Contact Form
+    pages:
+    - id: 1
+      name: manufacturing_process_partner_form_page_1
+      label: Company Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_details
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: manufacturing_capabilities
+      label: Manufacturing Capabilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manufacturing_process_partners
+      label: Manufacturing Process Partners
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: manufacturing_process_partners_options
+      label: What do you manufacture?
+      hint: null
+      type: select_one
+      options:
+      - Automotive
+      - Aerospace
+      - Medical
+      - Industrial
+      - Energy
+      - Consumer Goods
+      - Food and Beverage
+      - Other
+      required: true
+    - id: 9
+      name: manufacturing_process_partners_option_label
+      label: Select at least one type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manufacturing_process_partners_option_value
+      label: Manufacturing Process Partners Option Value
+      hint: null
+      type: text
+      options: []
+      required: false

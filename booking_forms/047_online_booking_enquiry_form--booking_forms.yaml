@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Booking Enquiry Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Visitor Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: party_size
+      label: Number of people
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Want to leave us feedback?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

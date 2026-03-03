@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cash Management Policy Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID Number
+      hint: Your company employee identification number
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Select your current department
+      type: select_one
+      options:
+      - Finance
+      - Accounting
+      - Operations
+      - Executive
+      - Other
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Your company email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: application_date
+      label: Application Date
+      hint: Date of this application
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: policy_type
+      label: Policy Type Requested
+      hint: Type of cash management policy
+      type: select_one
+      options:
+      - Cash Flow Management
+      - Payment Authorization
+      - Petty Cash Policy
+      - Treasury Management
+      - Cash Handling Procedures
+      required: true
+    - id: 8
+      name: business_justification
+      label: Business Justification
+      hint: Explain why this policy is needed
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_process
+      label: Current Process Description
+      hint: Briefly describe the current cash management process
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: expected_benefits
+      label: Expected Benefits
+      hint: What improvements do you expect
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: implementation_timeline
+      label: Proposed Implementation Timeline
+      hint: When should this policy take effect
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: stakeholders
+      label: Key Stakeholders
+      hint: List departments or individuals affected
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: compliance_requirements
+      label: Compliance Requirements
+      hint: Any regulatory or internal compliance needs
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: budget_impact
+      label: Budget Impact Assessment
+      hint: Estimated cost or savings
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: manager_approval
+      label: Manager Approval Required
+      hint: Does this require manager sign-off
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: manager_name
+      label: Manager Name
+      hint: Name of approving manager
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

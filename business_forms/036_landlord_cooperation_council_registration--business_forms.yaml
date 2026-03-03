@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Landlord Cooperation Council Registration
+    pages:
+    - id: 1
+      name: landlord_details
+      label: landlord_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: landlord_interests
+      label: landlord_interests
+      hint: null
+      type: select_multiple
+      options:
+      - Landlord is interested in renting out his property.
+      - Landlord is interested in buying a property.
+      - Landlord is interested in both renting out and buying a property.
+      required: false
+    - id: 3
+      name: landlord_consent
+      label: landlord_consent
+      hint: We will keep this information private.
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: landlord_contact
+      label: landlord_contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: landlord_address
+      label: landlord_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: landlord_phone
+      label: landlord_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: landlord_notes
+      label: landlord_notes
+      hint: null
+      type: text
+      options: []
+      required: false

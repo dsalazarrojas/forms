@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Centre Booking Form
+    pages:
+    - id: 1
+      name: class_booking_date
+      label: Class Booking Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: class_booking_time
+      label: Class Booking Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: class_booking_time_slots
+      label: Class Booking Time Slots
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: number_of_sessions
+      label: Number of Sessions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: class_booking_status
+      label: Class Booking Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Booked
+      - Cancelled
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Bank Transfer
+      required: false
+    - id: 11
+      name: payment_method_additional_info
+      label: Payment Method Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: class_booking_notes
+      label: Class Booking Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: class_booking_comments
+      label: Class Booking Comments
+      hint: null
+      type: note
+      options: []
+      required: false

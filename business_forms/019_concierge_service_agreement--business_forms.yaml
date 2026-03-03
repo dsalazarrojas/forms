@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concierge Service Agreement
+    pages:
+    - id: 1
+      name: agreement_header
+      label: Service Agreement Header
+      hint: Concierge service contract details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: agreement_date
+      label: Agreement Date
+      hint: Date of agreement
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: agreement_number
+      label: Agreement Number
+      hint: Contract reference
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_provider
+      label: Service Provider
+      hint: Company providing service
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_details
+      label: Client Details
+      hint: Client information
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: client_name
+      label: Client Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_type
+      label: Client Type
+      hint: Individual or corporate
+      type: select_one
+      options:
+      - Individual
+      - Corporate
+      - Family Office
+      required: true
+    - id: 8
+      name: client_email
+      label: Client Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: client_phone
+      label: Client Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: client_address
+      label: Client Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: service_scope
+      label: Service Scope
+      hint: Services included
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: services_included
+      label: Services Included
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Travel Arrangements
+      - Restaurant Reservations
+      - Event Planning
+      - Personal Shopping
+      - Household Management
+      - Business Support
+      - Emergency Assistance
+      - 24/7 Availability
+      required: true
+    - id: 13
+      name: service_exclusions
+      label: Service Exclusions
+      hint: Services not included
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: service_hours
+      label: Service Hours
+      hint: Availability schedule
+      type: select_one
+      options:
+      - Business Hours Only
+      - Extended Hours
+      - 24/7 Full Availability
+      required: true
+    - id: 15
+      name: financial_terms
+      label: Financial Terms
+      hint: Payment and fees
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: membership_fee
+      label: Membership Fee
+      hint: Monthly or annual fee
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: billing_frequency
+      label: Billing Frequency
+      hint: How often billed
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 18
+      name: payment_due
+      label: Payment Due Date
+      hint: Days until payment due
+      type: select_one
+      options:
+      - Due on Receipt
+      - Net 15 Days
+      - Net 30 Days
+      required: true
+    - id: 19
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: Terms for cancellation
+      type: select_one
+      options:
+      - 30 Days Notice
+      - 60 Days Notice
+      - 90 Days Notice
+      required: true
+    - id: 20
+      name: confidentiality
+      label: Confidentiality Agreement
+      hint: Privacy terms
+      type: select_one
+      options:
+      - Full Confidentiality
+      - Limited Disclosure
+      required: true
+    - id: 21
+      name: liability_terms
+      label: Liability Terms
+      hint: Limitation of liability
+      type: select_one
+      options:
+      - Standard Liability
+      - Limited Liability
+      required: true
+    - id: 22
+      name: contract_duration
+      label: Contract Duration
+      hint: Length of agreement
+      type: select_one
+      options:
+      - 6 Months
+      - 1 Year
+      - 2 Years
+      - 3 Years
+      - Indefinite
+      required: true
+    - id: 23
+      name: renewal_terms
+      label: Renewal Terms
+      hint: Auto renewal option
+      type: select_one
+      options:
+      - Auto Renew
+      - Manual Renewal
+      - No Renewal
+      required: false
+    - id: 24
+      name: client_signature
+      label: Client Signature
+      hint: Client agrees to terms
+      type: select_one
+      options:
+      - I Agree and Sign
+      - I Do Not Agree
+      required: true
+    - id: 25
+      name: provider_signature
+      label: Provider Signature
+      hint: Provider agrees to terms
+      type: select_one
+      options:
+      - Accepted by Provider
+      - Not Accepted
+      required: true

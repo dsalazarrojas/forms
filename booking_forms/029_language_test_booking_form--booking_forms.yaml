@@ -1,0 +1,247 @@
+inputSchema:
+  type: object
+  properties:
+    title: Language Test Booking Form
+    pages:
+    - id: 1
+      name: language_test_booking_form
+      label: Language Test Booking Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_language
+      label: preferred_language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Chinese
+      - Mandarin
+      - Japanese
+      - Korean
+      required: false
+    - id: 3
+      name: candidate_info
+      label: Candidate Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: candidate_id
+      label: ID Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: candidate_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: language_level
+      label: Language Level
+      hint: Choose a language level (1-5)
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 9
+      name: preferred_time
+      label: Preferred Time
+      hint: Choose your preferred time
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 10
+      name: available_dates
+      label: Available Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: test_type
+      label: Test Type
+      hint: null
+      type: select_one
+      options:
+      - Theory Test
+      - Practical Test
+      - Mock Test
+      required: false
+    - id: 13
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: booking_status
+      label: Booking Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Confirmed
+      - Cancelled
+      required: false
+    - id: 15
+      name: booking_status_message
+      label: Booking Status Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: schedule_appointment
+      label: Schedule an Appointment
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      required: false
+    - id: 17
+      name: test_center
+      label: Test Center
+      hint: Choose a test center
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 18
+      name: appointment_id
+      label: Appointment ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: candidate_preferences
+      label: Candidate Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      required: false
+    - id: 20
+      name: test_center_address
+      label: Test Center Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: test_center_contact_number
+      label: Test Center Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: test_center_email
+      label: Test Center Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: test_center_hours
+      label: Test Center Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: test_center_id
+      label: Test Center ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: user_preferences
+      label: User Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      required: false
+    - id: 26
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: appointment_id
+      label: Appointment ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: candidate_booking_id
+      label: Candidate Booking ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 30
+      name: booking_time
+      label: Booking Time
+      hint: null
+      type: time
+      options: []
+      required: false

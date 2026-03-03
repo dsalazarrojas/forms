@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: supplier_quality_assessment_form
+    pages:
+    - id: 1
+      name: supplier_performance
+      label: supplier_performance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: communication
+      label: communication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: quality_control
+      label: quality_control
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 4
+      name: reliability
+      label: reliability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: supplier_satisfaction
+      label: supplier_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false

@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Insurance Quotation Form
+    pages:
+    - id: 1
+      name: owner_info_header
+      label: -- Owner Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: owner_full_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_email_address
+      label: Email Address
+      hint: For quote delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: owner_phone_number
+      label: Phone Number
+      hint: To discuss quote details
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_info_header
+      label: -- Vehicle Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_type_quotation
+      label: Type of Vehicle
+      hint: Select the type of vehicle
+      type: select_one
+      options:
+      - Passenger Car
+      - Light Truck/SUV
+      - Commercial Vehicle
+      - Motorcycle
+      required: true
+    - id: 7
+      name: vehicle_make_model_year
+      label: Vehicle Make/Model/Year
+      hint: Describe your car
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_usage_radius
+      label: Radius of Operation (Miles)
+      hint: How far do you typically drive?
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: type_of_cargo
+      label: Type of Cargo Carried
+      hint: (If applicable)
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: driver_info_header
+      label: -- Driver Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: number_of_drivers
+      label: Number of Drivers to Insure
+      hint: How many drivers will be covered?
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: driver_ages
+      label: Ages of Primary Drivers
+      hint: (List ages separated by commas)
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: driving_history_status
+      label: Any accidents or violations in the past 3 years?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: liability_coverage_header
+      label: -- Liability Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: current_liability_coverage
+      label: Current Liability Coverage Limits
+      hint: (If any)
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: desired_liability_coverage
+      label: Desired Liability Coverage Limits
+      hint: Select your preferred liability coverage
+      type: select_one
+      options:
+      - State Minimum
+      - Standard
+      - Premium
+      required: true
+    - id: 17
+      name: quotation_verification_header
+      label: -- Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: quotation_acknowledgement
+      label: I acknowledge the insurance quotation terms
+      hint: See terms of service
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 19
+      name: signature_confirmation_quotation
+      label: Type your name for insurance quotation confirmation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: additional_quotation_comments
+      label: Any additional comments or requests?
+      hint: Provide more details for the quotation
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,244 @@
+inputSchema:
+  type: object
+  properties:
+    title: Component Order Form For Manufacturers
+    pages:
+    - id: 1
+      name: order_id
+      label: Order ID
+      hint: Unique order identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: order_date
+      label: Order Date
+      hint: Date of order placement
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: Name of customer or organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_id
+      label: Customer ID
+      hint: Customer account number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Name of ordering company
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: Primary contact for this order
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: shipping_address
+      label: Shipping Address
+      hint: Complete shipping address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: City for delivery
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state_province
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: country
+      label: Country
+      hint: Country for delivery
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      - United Kingdom
+      - Germany
+      - France
+      - China
+      - Japan
+      - Other
+      required: true
+    - id: 14
+      name: component_category
+      label: Component Category
+      hint: Select component category
+      type: select_one
+      options:
+      - Electronic Components
+      - Mechanical Components
+      - Hydraulic Components
+      - Pneumatic Components
+      - Structural Components
+      - Raw Materials
+      - Fasteners and Hardware
+      - Other
+      required: true
+    - id: 15
+      name: component_part_number
+      label: Component Part Number
+      hint: Manufacturer part number
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: component_description
+      label: Component Description
+      hint: Detailed description of component
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: quantity_ordered
+      label: Quantity Ordered
+      hint: Number of units
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: unit_of_measure
+      label: Unit of Measure
+      hint: Select unit type
+      type: select_one
+      options:
+      - Each
+      - Box
+      - Case
+      - Pallet
+      - Roll
+      - Meter
+      - Kilogram
+      - Pound
+      required: true
+    - id: 19
+      name: unit_price
+      label: Unit Price
+      hint: Price per unit
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: specifications
+      label: Specifications
+      hint: Technical specifications or requirements
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: quality_requirements
+      label: Quality Requirements
+      hint: Any special quality requirements
+      type: select_one
+      options:
+      - Standard Quality
+      - Enhanced Quality
+      - Aerospace Grade
+      - Medical Grade
+      - Military Grade
+      - Other
+      required: true
+    - id: 22
+      name: delivery_date_required
+      label: Delivery Date Required
+      hint: When do you need delivery
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: shipping_method
+      label: Shipping Method
+      hint: Preferred shipping method
+      type: select_one
+      options:
+      - Standard Ground
+      - Express 2-Day
+      - Overnight
+      - International Standard
+      - International Express
+      - Will Call Pickup
+      required: true
+    - id: 24
+      name: payment_terms
+      label: Payment Terms
+      hint: Select payment terms
+      type: select_one
+      options:
+      - Net 30
+      - Net 60
+      - Net 90
+      - Prepayment
+      - Credit Card
+      - Wire Transfer
+      required: true
+    - id: 25
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: Your PO number
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special handling or delivery instructions
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: order_status
+      label: Order Status
+      hint: Current order status
+      type: select_one
+      options:
+      - Pending Approval
+      - Approved
+      - In Production
+      - Ready to Ship
+      - Shipped
+      - Delivered
+      - Cancelled
+      required: true

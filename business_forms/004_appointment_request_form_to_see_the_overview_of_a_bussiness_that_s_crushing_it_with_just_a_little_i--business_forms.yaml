@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appointment Request Form To See The Overview Of A Business That's Crushing
+      It
+    pages:
+    - id: 1
+      name: contact_info
+      label: Your Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_name
+      label: Business or Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: location
+      label: City or Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: appointment_section
+      label: Appointment Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: appointment_date
+      label: Preferred Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: appointment_time
+      label: Preferred Time
+      hint: null
+      type: select_one
+      options:
+      - 9:00 AM - 10:00 AM
+      - 10:00 AM - 11:00 AM
+      - 11:00 AM - 12:00 PM
+      - 2:00 PM - 3:00 PM
+      - 3:00 PM - 4:00 PM
+      required: true
+    - id: 10
+      name: meeting_format
+      label: Preferred Meeting Format
+      hint: null
+      type: select_one
+      options:
+      - In Person
+      - Phone Call
+      - Video Conference
+      required: true
+    - id: 11
+      name: interest_area
+      label: What Are You Most Interested In
+      hint: null
+      type: select_one
+      options:
+      - Business Overview
+      - Growth Strategies
+      - Success Tips
+      - Partnership Opportunities
+      required: true
+    - id: 12
+      name: questions
+      label: Questions or Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: success_message
+      label: Best of luck with your endeavors
+      hint: null
+      type: note
+      options: []
+      required: false

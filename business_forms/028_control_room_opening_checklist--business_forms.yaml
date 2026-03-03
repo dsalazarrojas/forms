@@ -1,0 +1,371 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Control Room Opening Checklist
+    pages:
+      - id: 1
+        name: operator_name
+        label: Operator Name
+        hint: Name of operator opening the control room
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: operator_id
+        label: Operator ID
+        hint: Employee identification number
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: shift_date
+        label: Shift Date
+        hint: Date of this shift
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: shift_start_time
+        label: Shift Start Time
+        hint: Time of opening
+        type: time
+        options: []
+        required: true
+      - id: 5
+        name: section_physical_security
+        label: -- Physical Security --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: door_locks_functional
+        label: Door locks functional
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Applicable
+        required: true
+      - id: 7
+        name: access_control_system
+        label: Access control system operational
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Applicable
+        required: true
+      - id: 8
+        name: security_cameras
+        label: Security cameras functioning
+        hint: All cameras operational
+        type: select_one
+        options:
+          - Yes - All Working
+          - Partially Working
+          - No - Issues Found
+        required: true
+      - id: 9
+        name: camera_issues
+        label: Describe Camera Issues
+        hint: If any cameras not working
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: section_power_systems
+        label: -- Power Systems --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: main_power_status
+        label: Main power supply normal
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 12
+        name: ups_status
+        label: UPS systems operational
+        hint: Uninterruptible power supply check
+        type: select_one
+        options:
+          - Yes - All Normal
+          - Yes - On Battery
+          - No - Issues Found
+        required: true
+      - id: 13
+        name: generator_status
+        label: Backup generator ready
+        hint: null
+        type: select_one
+        options:
+          - Yes - Ready
+          - No - Maintenance Needed
+          - Not Applicable
+        required: true
+      - id: 14
+        name: section_communication_systems
+        label: -- Communication Systems --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: phone_systems
+        label: Phone systems operational
+        hint: null
+        type: select_one
+        options:
+          - Yes - All Working
+          - Partially Working
+          - No - Issues Found
+        required: true
+      - id: 16
+        name: radio_systems
+        label: Radio communication working
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Applicable
+        required: true
+      - id: 17
+        name: intercom_system
+        label: Intercom system functional
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Applicable
+        required: true
+      - id: 18
+        name: section_monitoring_systems
+        label: -- Monitoring Systems --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: monitoring_screens
+        label: All monitoring screens active
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No - Some Offline
+        required: true
+      - id: 20
+        name: alarm_systems
+        label: Alarm systems armed and ready
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Partially
+        required: true
+      - id: 21
+        name: sensor_status
+        label: All sensors reporting
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No - Some Offline
+        required: true
+      - id: 22
+        name: section_computer_systems
+        label: -- Computer Systems --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: workstations_operational
+        label: All workstations operational
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No - Issues Found
+        required: true
+      - id: 24
+        name: network_connectivity
+        label: Network connectivity normal
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No - Degraded
+          - No - Offline
+        required: true
+      - id: 25
+        name: software_systems
+        label: All required software running
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No - Issues Found
+        required: true
+      - id: 26
+        name: section_environmental
+        label: -- Environmental Controls --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 27
+        name: temperature_normal
+        label: Temperature within normal range
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 28
+        name: hvac_operational
+        label: HVAC system operational
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Partially
+        required: true
+      - id: 29
+        name: fire_suppression
+        label: Fire suppression system ready
+        hint: null
+        type: select_one
+        options:
+          - Yes - Normal
+          - No - Maintenance Needed
+        required: true
+      - id: 30
+        name: section_documentation
+        label: -- Documentation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 31
+        name: logbooks_available
+        label: Log books available and current
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 32
+        name: emergency_procedures
+        label: Emergency procedures accessible
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 33
+        name: contact_lists_current
+        label: Emergency contact lists current
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No - Needs Update
+        required: true
+      - id: 34
+        name: section_issues
+        label: -- Issues Found --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 35
+        name: issues_found
+        label: Were any issues found
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 36
+        name: issues_description
+        label: Describe Issues Found
+        hint: Detail any problems
+        type: text
+        options: []
+        required: false
+      - id: 37
+        name: actions_taken
+        label: Actions Taken
+        hint: What was done to address issues
+        type: text
+        options: []
+        required: false
+      - id: 38
+        name: escalations_needed
+        label: Escalations Needed
+        hint: Who was notified
+        type: text
+        options: []
+        required: false
+      - id: 39
+        name: section_approval
+        label: -- Approval --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 40
+        name: control_room_ready
+        label: Control room ready for operation
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No - Not Ready
+          - Ready with Exceptions
+        required: true
+      - id: 41
+        name: supervisor_notified
+        label: Supervisor notified of status
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Required
+        required: true
+      - id: 42
+        name: additional_notes
+        label: Additional Notes
+        hint: Any other relevant information
+        type: text
+        options: []
+        required: false

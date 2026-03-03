@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Break Even Analysis Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Name of your business
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: Email for analysis results
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: analysis_date
+      label: Analysis Date
+      hint: Date of this analysis
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: product_service_name
+      label: Product or Service Name
+      hint: What are you analyzing
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: selling_price_per_unit
+      label: Selling Price Per Unit
+      hint: Price you charge per unit
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: variable_cost_per_unit
+      label: Variable Cost Per Unit
+      hint: Cost to produce each unit
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: fixed_costs_monthly
+      label: Total Fixed Costs Monthly
+      hint: Total monthly fixed expenses
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: fixed_costs_breakdown
+      label: Fixed Costs Breakdown
+      hint: List your fixed costs
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: rent_lease
+      label: Rent or Lease
+      hint: Monthly rent amount
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: salaries
+      label: Salaries and Wages
+      hint: Monthly payroll costs
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: utilities
+      label: Utilities
+      hint: Monthly utility costs
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: insurance
+      label: Insurance
+      hint: Monthly insurance premiums
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: marketing_costs
+      label: Marketing Costs
+      hint: Monthly marketing budget
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: other_fixed_costs
+      label: Other Fixed Costs
+      hint: Any other fixed expenses
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: current_sales_volume
+      label: Current Sales Volume
+      hint: Units sold per month currently
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: target_sales_volume
+      label: Target Sales Volume
+      hint: Goal for units sold per month
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: business_stage
+      label: Business Stage
+      hint: What stage is your business
+      type: select_one
+      options:
+      - Startup
+      - Early Growth
+      - Established
+      - Expanding
+      required: true
+    - id: 19
+      name: industry
+      label: Industry
+      hint: What industry are you in
+      type: select_one
+      options:
+      - Retail
+      - Manufacturing
+      - Services
+      - Technology
+      - Food and Beverage
+      - Healthcare
+      - Other
+      required: true
+    - id: 20
+      name: analysis_purpose
+      label: Purpose of Analysis
+      hint: Why are you doing this analysis
+      type: select_one
+      options:
+      - New Product Launch
+      - Business Planning
+      - Pricing Decision
+      - Investment Decision
+      - Loan Application
+      - Regular Review
+      required: true
+    - id: 21
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

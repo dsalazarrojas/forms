@@ -1,0 +1,77 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Project Questionnaire Form
+    pages:
+    - id: 1
+      name: project_questionnaire_form
+      label: Project Questionnaire Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_questionnaire_template
+      label: Project Questionnaire Template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_questionnaire_template_type
+      label: Project Questionnaire Template Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Single Template'', ''value'': ''single''}'
+      - '{''label'': ''Multiple Templates'', ''value'': ''multiple''}'
+      required: true
+    - id: 4
+      name: project_questionnaire_description
+      label: Project Questionnaire Description
+      hint: A project questionnaire template is a downloadable form that can be filled
+        out online and mailed or uploaded online.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_questionnaire_template_version
+      label: Project Questionnaire Template Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_questionnaire_template_status
+      label: Project Questionnaire Template Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active'', ''value'': ''active''}'
+      - '{''label'': ''Inactive'', ''value'': ''inactive''}'
+      required: true
+    - id: 7
+      name: project_questionnaire_template_status_comments
+      label: Project Questionnaire Template Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_questionnaire_template_last_updated
+      label: Project Questionnaire Template Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false

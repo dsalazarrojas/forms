@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: entertainment_law_advisory_booking_form
+    pages:
+    - id: 1
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: firm_name
+      label: Firm Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: firm_details
+      label: Firm Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: firm_contact_email
+      label: Firm Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: firm_contact_phone
+      label: Firm Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: client_details
+      label: Client Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: session_location
+      label: Session Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: session_location_note
+      label: Session Location Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: firm_representative
+      label: Firm Representative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: firm_representative_role
+      label: Firm Representative Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: client_agreed_to_terms
+      label: Client Agreed To Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: session_status
+      label: Session Status
+      hint: null
+      type: select_one
+      options:
+      - Client Not Scheduled Yet
+      - In Session Queue
+      - Session Completed
+      - Cancelled
+      - Rescheduled
+      required: false
+    - id: 16
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: client_agreed_to_our_terms
+      label: Client Agreed To Our Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: firm_agreed_to_our_terms
+      label: Firm Agreed To Our Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: session_agreed_to_terms
+      label: Session Agreed To Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: client_agreed_terms
+      label: Client Agreed Terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: firm_agreed_terms
+      label: Firm Agreed Terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: session_agreed_terms
+      label: Session Agreed Terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: session_agreed_terms_list
+      label: Session Agreed Terms List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: agreed_terms
+      label: Agreed Terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: firm_notes
+      label: Firm Notes
+      hint: null
+      type: note
+      options: []
+      required: false

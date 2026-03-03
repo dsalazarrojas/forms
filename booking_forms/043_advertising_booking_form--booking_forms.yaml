@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advertising Booking Form
+    pages:
+    - id: 1
+      name: client_information_section
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Legal name of the company placing the advertisement
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person_name
+      label: Contact Person Name
+      hint: Name of the primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_person_title
+      label: Contact Person Title
+      hint: Job title of the contact person
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Business email for communication
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Business phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: advertising_campaign_details_section
+      label: -- Advertising Campaign Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: campaign_name
+      label: Campaign Name
+      hint: Name for the advertising campaign
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: advertising_platform
+      label: Advertising Platform
+      hint: Where will the advertisement be placed
+      type: select_one
+      options:
+      - Newspaper
+      - Magazine
+      - Radio
+      - Television
+      - Online
+      - Billboard
+      - Social Media
+      - Other
+      required: true
+    - id: 10
+      name: ad_format
+      label: Ad Format
+      hint: What format will the advertisement take
+      type: select_one
+      options:
+      - Display Ad
+      - Video Ad
+      - Audio Ad
+      - Print Ad
+      - Banner Ad
+      - Sponsored Content
+      - Other
+      required: true
+    - id: 11
+      name: booking_dates_section
+      label: -- Booking Dates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: campaign_start_date
+      label: Campaign Start Date
+      hint: When should the campaign start
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: campaign_end_date
+      label: Campaign End Date
+      hint: When should the campaign end
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: ad_placement_details
+      label: Ad Placement Details
+      hint: Where specifically should the ad be placed
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: budget_and_pricing_section
+      label: -- Budget and Pricing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: campaign_budget
+      label: Campaign Budget
+      hint: Total budget allocated for the campaign
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: payment_terms
+      label: Payment Terms
+      hint: How will the payment be handled
+      type: select_one
+      options:
+      - Full payment upfront
+      - Payment upon completion
+      - Installment plan
+      - Net 30
+      - Other
+      required: true
+    - id: 18
+      name: creative_requirements_section
+      label: -- Creative Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: creative_submission_deadline
+      label: Creative Submission Deadline
+      hint: When must the creative materials be submitted
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: booking_confirmation
+      label: Booking Confirmation
+      hint: I confirm the details of this advertising booking
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

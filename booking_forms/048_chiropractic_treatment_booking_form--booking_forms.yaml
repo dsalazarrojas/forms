@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chiropractic Treatment Booking Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: Email for booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: preferred_date
+      label: Preferred Appointment Date
+      hint: Select a preferred date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: preferred_time
+      label: Preferred Time
+      hint: Select a time window
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: appointment_type
+      label: Appointment Type
+      hint: Choose type of session
+      type: select_one
+      options:
+      - New Patient Exam
+      - Follow up
+      - Treatment Session
+      - Consultation
+      required: true
+    - id: 6
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Optional insurance details
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone for booking confirmations
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: special_requests
+      label: Special Requests
+      hint: Any accessibility or scheduling needs
+      type: text
+      options: []
+      required: false

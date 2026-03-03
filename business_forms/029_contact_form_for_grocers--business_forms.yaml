@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form For Grocers
+    pages:
+    - id: 1
+      name: section_contact_details
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_full_name
+      label: Contact Full Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email_address
+      label: Email Address
+      hint: Primary email for contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone_number
+      label: Phone Number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role_in_contact
+      label: Role in Contact
+      hint: Are you a customer or a vendor?
+      type: select_one
+      options:
+      - Customer
+      - Potential Vendor
+      - Supplier
+      - Media/PR
+      - Community Member
+      required: true
+    - id: 6
+      name: section_grocery_inquiries
+      label: -- Grocery Inquiries --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: inquiry_category
+      label: Inquiry Category
+      hint: Select the best match
+      type: select_one
+      options:
+      - Product Availability
+      - Refund/Exchange Question
+      - Store/Service Feedback
+      - Vendor Partnership Inquiry
+      - Other
+      required: true
+    - id: 8
+      name: specific_product_details
+      label: Specific Product Details
+      hint: If applicable (e.g., brand, item name)
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: preferred_store_location
+      label: Preferred Store Location
+      hint: Which store location is this regarding?
+      type: select_one
+      options:
+      - Downtown Store
+      - Northside Supermarket
+      - Westgate Market
+      - Online/Delivery Service
+      required: false
+    - id: 10
+      name: section_vendor_inquiries
+      label: -- Vendor and Supplier Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: company_name
+      label: Company Name
+      hint: Name of your company
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: primary_product_line
+      label: Primary Product Line
+      hint: What products do you provide?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_message_details
+      label: -- Message Content --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: message_subject
+      label: Subject of Inquiry
+      hint: Brief summary
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: detailed_message
+      label: Your Message
+      hint: Provide more information
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submission_date
+      label: Date of Submission
+      hint: Today's date
+      type: date
+      options: []
+      required: true

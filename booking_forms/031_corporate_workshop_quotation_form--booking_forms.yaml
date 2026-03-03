@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_workshop_quotation_form
+    pages:
+    - id: 1
+      name: company_name
+      label: company name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_option
+      label: service option
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      - '{''label'': ''Option 4''}'
+      required: false
+    - id: 5
+      name: date_of_event
+      label: date of event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_event
+      label: time of event
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: duration_of_event
+      label: duration of event
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: pricing_option
+      label: pricing option
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      - '{''label'': ''Option 4''}'
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: output_file
+      label: output file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_ids
+      label: form ids
+      hint: null
+      type: number
+      options: []
+      required: false

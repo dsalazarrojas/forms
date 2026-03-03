@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fashion Fabric Wholesaler Referral Form
+    pages:
+    - id: 1
+      name: form_info
+      label: form info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: referral_info
+      label: referral info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''designer''}'
+      - '{''value'': ''brand''}'
+      - '{''value'': ''manufacturer''}'
+      required: false
+    - id: 3
+      name: designer_name
+      label: designer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: brand_name
+      label: brand name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manufacturer_name
+      label: manufacturer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: lead_source
+      label: lead source
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''social media''}'
+      - '{''value'': ''referral''}'
+      - '{''value'': ''website''}'
+      required: false
+    - id: 9
+      name: follow_up_date
+      label: follow up date
+      hint: null
+      type: date
+      options: []
+      required: false

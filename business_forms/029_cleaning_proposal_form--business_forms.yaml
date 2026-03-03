@@ -1,0 +1,418 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Proposal Form
+    pages:
+    - id: 1
+      name: section_header_company
+      label: -- Cleaning Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Your cleaning company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_address
+      label: Company Address
+      hint: Business address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_phone
+      label: Company Phone
+      hint: Business phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_email
+      label: Company Email
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: company_website
+      label: Company Website
+      hint: Business website URL
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_person
+      label: Contact Person
+      hint: Name of primary contact
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: proposal_date
+      label: Proposal Date
+      hint: Date of this proposal
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: proposal_number
+      label: Proposal Number
+      hint: Unique proposal identifier
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_header_client
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: client_name
+      label: Client Name
+      hint: Name of the client or organization
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: client_organization
+      label: Client Organization
+      hint: Company or organization name
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: client_address
+      label: Client Address
+      hint: Service address
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: client_phone
+      label: Client Phone
+      hint: Client contact phone
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: client_email
+      label: Client Email
+      hint: Client contact email
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: section_header_property
+      label: -- Property Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: property_type
+      label: Property Type
+      hint: Type of property to be cleaned
+      type: select_one
+      options:
+      - Residential - Single Family Home
+      - Residential - Apartment or Condo
+      - Residential - Multi-Family
+      - Commercial - Office Building
+      - Commercial - Retail Store
+      - Commercial - Restaurant
+      - Commercial - Medical Facility
+      - Commercial - School or Educational
+      - Industrial or Warehouse
+      - Other
+      required: true
+    - id: 18
+      name: square_footage
+      label: Approximate Square Footage
+      hint: Size of the property
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: number_of_rooms
+      label: Number of Rooms
+      hint: Total rooms or areas
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: number_of_bathrooms
+      label: Number of Bathrooms
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_header_services
+      label: -- Proposed Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: service_type
+      label: Service Type
+      hint: Type of cleaning service
+      type: select_one
+      options:
+      - Regular Recurring Cleaning
+      - One-Time Deep Cleaning
+      - Move-In or Move-Out Cleaning
+      - Post-Construction Cleaning
+      - Carpet Cleaning
+      - Window Cleaning
+      - Floor Care (Stripping and Waxing)
+      - Pressure Washing
+      - Sanitization and Disinfection
+      - Special Event Cleaning
+      required: true
+    - id: 23
+      name: service_frequency
+      label: Service Frequency
+      hint: How often will service be provided
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - One-Time Only
+      - As Needed
+      required: true
+    - id: 24
+      name: services_included
+      label: Services Included
+      hint: Select all services included in this proposal
+      type: select_multiple
+      options:
+      - Dusting All Surfaces
+      - Vacuuming Carpets
+      - Mopping Hard Floors
+      - Bathroom Cleaning and Sanitizing
+      - Kitchen Cleaning
+      - Window Cleaning (Interior)
+      - Baseboard Cleaning
+      - Light Fixture Dusting
+      - Appliance Cleaning
+      - Trash Removal
+      - Bed Making
+      - Dishwashing
+      - Laundry Services
+      - Organization Services
+      - Other Custom Services
+      required: true
+    - id: 25
+      name: additional_services
+      label: Additional Services
+      hint: List any additional services
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: section_header_pricing
+      label: -- Pricing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: base_cleaning_fee
+      label: Base Cleaning Fee
+      hint: Standard cleaning fee per visit
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: additional_service_fees
+      label: Additional Service Fees
+      hint: List any additional fees
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: supplies_fee
+      label: Cleaning Supplies Fee
+      hint: Fee for cleaning supplies if applicable
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: total_per_visit
+      label: Total Cost Per Visit
+      hint: Total cost for each cleaning visit
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: estimated_monthly_cost
+      label: Estimated Monthly Cost
+      hint: Based on frequency
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: discount_applied
+      label: Discount Applied
+      hint: Any discounts being offered
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: payment_terms
+      label: Payment Terms
+      hint: When is payment due
+      type: select_one
+      options:
+      - Due on Service Date
+      - Due Within 7 Days
+      - Due Within 15 Days
+      - Due Within 30 Days
+      - Monthly Billing
+      - Other
+      required: true
+    - id: 34
+      name: payment_methods
+      label: Accepted Payment Methods
+      hint: How can client pay
+      type: select_multiple
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Online Payment
+      - Invoice
+      required: true
+    - id: 35
+      name: section_header_schedule
+      label: -- Proposed Schedule --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: preferred_days
+      label: Preferred Days of Service
+      hint: Which days work best
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      - Flexible
+      required: true
+    - id: 37
+      name: preferred_time
+      label: Preferred Time of Day
+      hint: What time works best
+      type: select_one
+      options:
+      - Morning (8am - 12pm)
+      - Afternoon (12pm - 4pm)
+      - Evening (4pm - 8pm)
+      - After Hours
+      - Flexible
+      required: true
+    - id: 38
+      name: start_date
+      label: Proposed Start Date
+      hint: When can service begin
+      type: date
+      options: []
+      required: true
+    - id: 39
+      name: section_header_terms
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 40
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: Describe your cancellation policy
+      type: text
+      options: []
+      required: true
+    - id: 41
+      name: satisfaction_guarantee
+      label: Satisfaction Guarantee
+      hint: Describe your satisfaction guarantee
+      type: text
+      options: []
+      required: true
+    - id: 42
+      name: insurance_coverage
+      label: Insurance Coverage
+      hint: Describe your insurance coverage
+      type: text
+      options: []
+      required: true
+    - id: 43
+      name: proposal_valid_until
+      label: Proposal Valid Until
+      hint: Expiration date of this proposal
+      type: date
+      options: []
+      required: true
+    - id: 44
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: company_representative
+      label: Company Representative Name
+      hint: Name of person submitting proposal
+      type: text
+      options: []
+      required: true
+    - id: 46
+      name: company_representative_signature
+      label: Company Representative Signature (Type Full Name)
+      hint: Electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 47
+      name: client_acceptance
+      label: Client Acceptance
+      hint: Do you accept this proposal
+      type: select_one
+      options:
+      - Accepted
+      - Rejected
+      - Pending Review
+      required: false
+    - id: 48
+      name: client_signature
+      label: Client Signature (Type Full Name)
+      hint: Client electronic signature
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: acceptance_date
+      label: Acceptance Date
+      hint: Date of acceptance
+      type: date
+      options: []
+      required: false

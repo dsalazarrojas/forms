@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cruise Line Contract Form
+    pages:
+    - id: 1
+      name: passenger_details
+      label: Passenger Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_options
+      label: Payment Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: travel_dates
+      label: Travel Dates
+      hint: Select a date range for the travel dates
+      type: select_one
+      options:
+      - 1 Jan 2024
+      - 2 Feb 2024
+      - 3 Mar 2024
+      required: false
+    - id: 4
+      name: contract_terms
+      label: Contract Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: passenger_confirmation
+      label: Passenger Confirmation
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: agency_details
+      label: Agency Details
+      hint: Please provide agency details here
+      type: text
+      options: []
+      required: false

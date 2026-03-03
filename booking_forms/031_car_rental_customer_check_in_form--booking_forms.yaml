@@ -1,0 +1,435 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Rental Customer Check In Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: Customer Information
+      hint: Please provide your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For rental communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be 21 or older
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: license_information
+      label: License Information
+      hint: Driver's license details
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: license_number
+      label: Driver's License Number
+      hint: Your license number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: license_state
+      label: License State
+      hint: State that issued license
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: license_country
+      label: License Country
+      hint: Country of issuance
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: license_expiry
+      label: License Expiration
+      hint: Expiration date
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: reservation_information
+      label: Reservation Information
+      hint: Your reservation details
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: reservation_number
+      label: Reservation Number
+      hint: Confirmation number
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: check_in_date
+      label: Check-In Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: check_in_time
+      label: Check-In Time
+      hint: Current time
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: rental_start_date
+      label: Rental Start Date
+      hint: Pickup date
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: rental_end_date
+      label: Rental End Date
+      hint: Return date
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: pickup_location
+      label: Pickup Location
+      hint: Where are you picking up?
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: return_location
+      label: Return Location
+      hint: Where will you return?
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: vehicle_assignment
+      label: Vehicle Assignment
+      hint: Vehicle details
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: vehicle_category
+      label: Vehicle Category
+      hint: Class of vehicle
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: vehicle_make_model
+      label: Vehicle Make and Model
+      hint: Specific vehicle
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: vehicle_color
+      label: Vehicle Color
+      hint: Exterior color
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: vehicle_vin
+      label: Vehicle VIN
+      hint: Vehicle Identification Number
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: license_plate
+      label: License Plate
+      hint: Plate number
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: starting_mileage
+      label: Starting Mileage
+      hint: Odometer reading
+      type: number
+      options: []
+      required: true
+    - id: 31
+      name: fuel_level
+      label: Fuel Level
+      hint: Current fuel level
+      type: select_one
+      options:
+      - Full
+      - 3/4
+      - 1/2
+      - 1/4
+      - Empty
+      required: true
+    - id: 32
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: Overall condition
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 33
+      name: existing_damage
+      label: Existing Damage
+      hint: Any pre-existing damage?
+      type: select_one
+      options:
+      - No damage
+      - Minor scratches
+      - Moderate damage
+      - Significant damage
+      required: true
+    - id: 34
+      name: damage_description
+      label: Damage Description
+      hint: Describe any damage
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: vehicle_inspection
+      label: Vehicle Inspection
+      hint: Inspection checklist
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: exterior_condition
+      label: Exterior Condition
+      hint: Rate the exterior
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 37
+      name: interior_condition
+      label: Interior Condition
+      hint: Rate the interior
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 38
+      name: tire_condition
+      label: Tire Condition
+      hint: Tire condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 39
+      name: lights_working
+      label: All Lights Working
+      hint: Are all lights functional?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 40
+      name: additional_services
+      label: Additional Services
+      hint: Any add-ons?
+      type: select_multiple
+      options:
+      - GPS Navigation
+      - Child Safety Seat
+      - Booster Seat
+      - Additional Driver
+      - Ski Rack
+      - Bike Rack
+      - Toll Pass
+      - Mobile WiFi
+      - None
+      required: false
+    - id: 41
+      name: insurance_selection
+      label: Insurance Selection
+      hint: Coverage options
+      type: select_multiple
+      options:
+      - Collision Damage Waiver
+      - Liability Insurance
+      - Personal Accident Insurance
+      - Personal Effects Coverage
+      - Roadside Assistance
+      - Decline all coverage
+      required: true
+    - id: 42
+      name: payment_information
+      label: Payment Information
+      hint: Payment details
+      type: note
+      options: []
+      required: false
+    - id: 43
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Corporate Account
+      - Cash Deposit
+      required: true
+    - id: 44
+      name: card_type
+      label: Card Type
+      hint: Type of card
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      required: false
+    - id: 45
+      name: deposit_amount
+      label: Deposit Amount
+      hint: Security deposit
+      type: number
+      options: []
+      required: true
+    - id: 46
+      name: estimated_total
+      label: Estimated Total
+      hint: Estimated rental cost
+      type: number
+      options: []
+      required: true
+    - id: 47
+      name: special_requests
+      label: Special Requests
+      hint: Any special requirements?
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: terms_acknowledgment
+      label: Terms Acknowledgment
+      hint: Do you understand the terms?
+      type: select_one
+      options:
+      - Yes - I understand and agree
+      - No - need explanation
+      required: true
+    - id: 49
+      name: fuel_policy_acknowledgment
+      label: Fuel Policy Acknowledgment
+      hint: Do you understand fuel policy?
+      type: select_one
+      options:
+      - Yes - full to full
+      - Yes - other policy
+      required: true
+    - id: 50
+      name: mileage_policy_acknowledgment
+      label: Mileage Policy Acknowledgment
+      hint: Do you understand mileage policy?
+      type: select_one
+      options:
+      - Yes - unlimited
+      - Yes - limited
+      required: true
+    - id: 51
+      name: customer_signature
+      label: Customer Signature Confirmation
+      hint: Confirm check-in
+      type: select_one
+      options:
+      - I confirm vehicle condition and agree to terms
+      - I do not confirm
+      required: true
+    - id: 52
+      name: staff_initials
+      label: Staff Initials
+      hint: Processing staff
+      type: text
+      options: []
+      required: true
+    - id: 53
+      name: check_in_completion_date
+      label: Check-In Completion Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

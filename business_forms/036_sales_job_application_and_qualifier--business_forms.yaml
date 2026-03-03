@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Job Application And Qualifier
+    pages:
+    - id: 1
+      name: sales_job_application_and_qualifier_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sales_job_application_and_qualifier_2
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sales_job_application_and_qualifier_3
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: sales_job_application_and_qualifier_4
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: sales_job_application_and_qualifier_5
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Sales Representative'', ''label'': ''Sales Representative''}'
+      - '{''id'': 2, ''name'': ''Account Manager'', ''label'': ''Account Manager''}'
+      - '{''id'': 3, ''name'': ''Sales Manager'', ''label'': ''Sales Manager''}'
+      required: true
+    - id: 6
+      name: sales_job_application_and_qualifier_6
+      label: Sales Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: sales_job_application_and_qualifier_7
+      label: Sales Territory
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''North'', ''label'': ''North''}'
+      - '{''id'': 2, ''name'': ''South'', ''label'': ''South''}'
+      - '{''id'': 3, ''name'': ''East'', ''label'': ''East''}'
+      - '{''id'': 4, ''name'': ''West'', ''label'': ''West''}'
+      - '{''id'': 5, ''name'': ''All'', ''label'': ''All''}'
+      required: true
+    - id: 8
+      name: sales_job_application_and_qualifier_8
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: sales_job_application_and_qualifier_9
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: sales_job_application_and_qualifier_10
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

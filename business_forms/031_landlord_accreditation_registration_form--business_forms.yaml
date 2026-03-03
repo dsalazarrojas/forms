@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Landlord Accreditation Registration Form
+    pages:
+    - id: 1
+      name: landlord_details
+      label: Landlord Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: landlord_property_details
+      label: Landlord Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: code_of_conduct_agreement
+      label: Code of Conduct Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: landlord_name
+      label: Landlord Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Apartment
+      - House
+      - Duplex
+      - Other
+      required: false
+    - id: 10
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Rent
+      - Own
+      - Lease
+      - Other
+      required: false
+    - id: 11
+      name: property_size
+      label: Property Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: property_size_unit
+      label: Property Size Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: landlord_license_type
+      label: Landlord License Type
+      hint: null
+      type: select_one
+      options:
+      - License 1
+      - License 2
+      - Other
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Company Winding Up Petition Form
+    pages:
+    - id: 1
+      name: petitioner_information
+      label: -- Petitioner Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: petitioner_name
+      label: petitioner full name
+      hint: individual or company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: contact email
+      hint: provide best contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: contact phone
+      hint: include country code if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: company name subject to petition
+      hint: legal entity name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: registration_number
+      label: company registration number
+      hint: business or tax id
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_petition
+      label: reason for winding up
+      hint: brief summary of grounds for petition
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_of_petition
+      label: petition date
+      hint: date of submission
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: supporting_documents_list
+      label: supporting documents list
+      hint: list documents uploaded separately
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: representative_name
+      label: representative name
+      hint: person filing on behalf of petitioner
+      type: text
+      options: []
+      required: true

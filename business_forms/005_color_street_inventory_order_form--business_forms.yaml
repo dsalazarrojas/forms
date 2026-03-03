@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street Inventory Order Form
+    pages:
+    - id: 1
+      name: stylist_id
+      label: Stylist ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: shipping_name
+      label: Recipient Name
+      hint: Full name for shipping
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: shipping_address
+      label: Shipping Address
+      hint: Street, City, State, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_order_items
+      label: -- Inventory Order Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: solid_sets_count
+      label: Number of Solid Color Sets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: glitter_sets_count
+      label: Number of Glitter Sets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: design_sets_count
+      label: Number of Design/Art Sets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: holiday_sets_count
+      label: Number of Holiday/Specialty Sets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: sample_packs_request
+      label: Request Sample Packs (Twosies)?
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 10 Pack
+      - 25 Pack
+      - 50 Pack
+      required: true
+    - id: 10
+      name: section_shipping_options
+      label: -- Shipping and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: shipping_method
+      label: Preferred Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard (3-5 business days)
+      - Priority (2-3 business days)
+      - Overnight
+      required: true
+    - id: 12
+      name: payment_method
+      label: Payment Method for Shipping/Restock
+      hint: null
+      type: select_one
+      options:
+      - Stylist Credit
+      - Credit/Debit Card
+      - PayPal
+      - Venmo
+      required: true
+    - id: 13
+      name: special_instructions
+      label: Special Shipping Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: confirmation_email
+      label: Email for Order Confirmation
+      hint: null
+      type: email
+      options: []
+      required: true

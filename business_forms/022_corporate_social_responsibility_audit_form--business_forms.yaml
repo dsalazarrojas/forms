@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Social Responsibility Audit Form
+    pages:
+    - id: 1
+      name: corporate_social_responsibility_audit_form
+      label: Corporate Social Responsibility Audit Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: csr_initiatives
+      label: CSR Initiatives
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: stakeholder_feedback
+      label: Stakeholder Feedback
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: csr_initiatives_description
+      label: CSR Initiatives Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: csr_objectives
+      label: CSR Objectives
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

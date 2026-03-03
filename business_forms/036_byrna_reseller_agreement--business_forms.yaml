@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Byrna Reseller Agreement
+    pages:
+    - id: 1
+      name: reseller_name
+      label: Reseller Business Name
+      hint: Official business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reseller_address
+      label: Business Address
+      hint: Full business address
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reseller_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reseller_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reseller_zip
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_person
+      label: Contact Person Name
+      hint: Primary contact
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: Business phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: business_type
+      label: Type of Business
+      hint: Select your business category
+      type: select_one
+      options:
+      - Retail
+      - Online Store
+      - Distributor
+      - Security Company
+      - Law Enforcement
+      - Other
+      required: true
+    - id: 10
+      name: years_in_business
+      label: Years in Business
+      hint: How long established
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: business_license
+      label: Business License Number
+      hint: Official license number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: tax_id
+      label: Tax ID or EIN
+      hint: Federal tax identification
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: resale_certificate
+      label: Resale Certificate Number
+      hint: State resale certificate
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: sales_experience
+      label: Sales Experience with Similar Products
+      hint: Relevant background
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: market_territory
+      label: Territory or Market
+      hint: Geographic area you will serve
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: estimated_annual_sales
+      label: Estimated Annual Sales Target
+      hint: Projected revenue
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: agreement_terms
+      label: I Agree to Reseller Terms and Conditions
+      hint: Must accept agreement
+      type: select_one
+      options:
+      - Yes, I accept
+      - No, I do not accept
+      required: true
+    - id: 18
+      name: agreement_date
+      label: Agreement Date
+      hint: Effective date
+      type: date
+      options: []
+      required: true

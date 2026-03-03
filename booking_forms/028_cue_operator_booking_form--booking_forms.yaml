@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cue Operator Booking Form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: operator_details
+      label: Operator Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: operator_name
+      label: operator_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: operator_email
+      label: operator_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: operator_phone
+      label: operator_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: booking_date
+      label: booking_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: booking_time
+      label: booking_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: booking_status
+      label: Booking Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Inactive
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - default-tool
+      - jimmy
+      required: false
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submit_form
+      label: Submit Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: confirmation
+      label: confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

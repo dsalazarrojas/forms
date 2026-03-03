@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: mutual_non_disclosure_agreement_langston_blues
+    pages:
+    - id: 1
+      name: business_form
+      label: Business Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Business Forms
+      - Other
+      required: true
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 5
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: form_ids
+      label: form_ids
+      hint: null
+      type: select_one
+      options:
+      - '5183'
+      - Other
+      required: true

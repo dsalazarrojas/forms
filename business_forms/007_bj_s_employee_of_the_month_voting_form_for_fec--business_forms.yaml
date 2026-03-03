@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bj S Employee Of The Month Voting Form For Fec
+    pages:
+      - id: 1
+        name: voting_header
+        label: -- Employee of the Month Voting --
+        hint: Bumper Jumpers Greensboro, NC
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: voter_name
+        label: Your Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: voting_date
+        label: Today Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: nomination_month
+        label: Month for Nomination
+        hint: null
+        type: select_one
+        options: [January, February, March, April, May, June, July, August, September, October, November, December]
+        required: true
+      - id: 5
+        name: nominee_header
+        label: -- Nominee Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: nominee_name
+        label: Employee You are Nominating
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: employee_department
+        label: Department
+        hint: null
+        type: select_one
+        options: [Front Desk, Party Hosting, Maintenance, Cafe, Management]
+        required: true
+      - id: 8
+        name: reason_header
+        label: -- Reason for Nomination --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: nomination_reason
+        label: Why does this employee deserve Employee of the Month?
+        hint: Provide specific examples of great work
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: demonstrated_qualities
+        label: Which qualities did they demonstrate?
+        hint: Select all that apply
+        type: select_multiple
+        options: [Customer Service, Teamwork, Reliability, Initiative, Positive Attitude]
+        required: true
+      - id: 11
+        name: comments_header
+        label: -- Additional Comments --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: additional_comments
+        label: Any other comments?
+        hint: null
+        type: text
+        options: []
+        required: false
