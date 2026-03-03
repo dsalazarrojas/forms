@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Backup Storage Requisition Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: storage_location
+      label: Storage Location
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''option1'', ''value'': ''Option 1''}'
+      - '{''name'': ''option2'', ''value'': ''Option 2''}'
+      - '{''name'': ''option3'', ''value'': ''Option 3''}'
+      required: false
+    - id: 4
+      name: storage_size
+      label: Storage Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: storage_type
+      label: Storage Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''option1'', ''value'': ''Option 1''}'
+      - '{''name'': ''option2'', ''value'': ''Option 2''}'
+      - '{''name'': ''option3'', ''value'': ''Option 3''}'
+      required: false
+    - id: 6
+      name: storage_duration
+      label: Storage Duration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: form_submit_button
+      label: Form Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_cancel_button
+      label: Form Cancel
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Balance Sheet
+    pages:
+    - id: 1
+      name: balance_sheet
+      label: Balance Sheet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: account_balance
+      label: Account Balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: account_balance_currency
+      label: Account Balance Currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Credit
+      - Other
+      required: false
+    - id: 6
+      name: account_type_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: bank_name
+      label: Bank Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: branch_location
+      label: Branch Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: account_balance_other
+      label: Account Balance Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: account_balance_currency_other
+      label: Account Balance Currency Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: account_type_other_details
+      label: Other Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: account_type_details
+      label: Account Details
+      hint: null
+      type: text
+      options: []
+      required: false

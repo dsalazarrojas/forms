@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: account_closing_form
+    pages:
+    - id: 1
+      name: account_closing
+      label: Account Closing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: account_type
+      label: account_type
+      hint: null
+      type: select_multiple
+      options:
+      - Bank
+      - Credit Union
+      required: true
+    - id: 3
+      name: bank_phone
+      label: Bank Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: user_notes
+      label: User Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
