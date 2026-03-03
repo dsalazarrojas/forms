@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Untitled Form
+    pages:
+    - id: 1
+      name: unsold_items
+      label: Unsold Items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: unsold_item_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: unsold_item_product
+      label: Product
+      hint: null
+      type: select_one
+      options:
+      - item1
+      - item2
+      - item3
+      required: false
+    - id: 4
+      name: unsold_item_quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: unsold_item_price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: unsold_item_weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false

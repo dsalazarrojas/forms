@@ -1,0 +1,217 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cochlear Implant Consultation Form
+    pages:
+    - id: 1
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_hearing_history
+      label: -- Hearing History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: hearing_loss_duration
+      label: Duration of Hearing Loss
+      hint: How long have you had hearing loss
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-5 years
+      - 5-10 years
+      - 10-20 years
+      - More than 20 years
+      required: true
+    - id: 8
+      name: hearing_loss_type
+      label: Type of Hearing Loss
+      hint: null
+      type: select_one
+      options:
+      - Conductive
+      - Sensorineural
+      - Mixed
+      - Unknown
+      required: true
+    - id: 9
+      name: hearing_loss_progression
+      label: Is your hearing loss progressive
+      hint: Getting worse over time
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 10
+      name: current_hearing_aids
+      label: Currently using hearing aids
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Previously used
+      required: true
+    - id: 11
+      name: hearing_aid_benefit
+      label: Benefit from current hearing aids
+      hint: Rate from 1 - no benefit to 5 - significant benefit
+      type: select_one
+      options:
+      - 1 - No benefit
+      - 2 - Minimal benefit
+      - 3 - Some benefit
+      - 4 - Good benefit
+      - 5 - Significant benefit
+      required: false
+    - id: 12
+      name: section_medical
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: other_medical_conditions
+      label: Other Medical Conditions
+      hint: Any relevant health issues
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medications
+      label: Current Medications
+      hint: List any medications you take
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: allergies
+      label: Known Allergies
+      hint: Drug or other allergies
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: previous_surgeries
+      label: Previous Ear Surgeries
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 17
+      name: section_motivation
+      label: -- Implant Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: implant_knowledge
+      label: How much do you know about cochlear implants
+      hint: Rate from 1 - nothing to 5 - very familiar
+      type: select_one
+      options:
+      - 1 - No knowledge
+      - 2 - Limited knowledge
+      - 3 - Some knowledge
+      - 4 - Good knowledge
+      - 5 - Very familiar
+      required: true
+    - id: 19
+      name: implant_expectations
+      label: What are your expectations from an implant
+      hint: Describe what you hope to achieve
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: quality_of_life_impact
+      label: How does hearing loss affect your quality of life
+      hint: Describe impact on daily activities
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_support
+      label: -- Support System --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: family_support
+      label: Family support for implant decision
+      hint: Do your family support this decision
+      type: select_one
+      options:
+      - Yes, fully supportive
+      - Yes, somewhat supportive
+      - Neutral
+      - Not supportive
+      - Unsure
+      required: true
+    - id: 23
+      name: support_person
+      label: Support Person for Surgery and Recovery
+      hint: Name of person who will support you
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: surgeon_name
+      label: Referring Physician Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
