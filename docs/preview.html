@@ -299,8 +299,9 @@
             }
             
             try {
-                // Fetch YAML file
-                const response = await fetch(formPath);
+                // Fetch YAML file from raw GitHub (forms live in repo root, not docs/)
+                const rawUrl = `https://raw.githubusercontent.com/dsalazarrojas/forms/main/${formPath}`;
+                const response = await fetch(rawUrl);
                 if (!response.ok) throw new Error('Form not found');
                 
                 currentYaml = await response.text();
